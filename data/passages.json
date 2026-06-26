@@ -1,0 +1,3267 @@
+{
+  "schema": 1,
+  "version": 3,
+  "passages": [
+    {
+      "id": "pd-aesop-ant-grasshopper",
+      "title": "The Ant and the Grasshopper",
+      "sourceType": "public-domain",
+      "source": "Aesop's Fables",
+      "attribution": "Aesop, translated by V. S. Vernon Jones (1912). Public domain.",
+      "genre": "fable",
+      "level": 1,
+      "text": "In a field one summer's day a Grasshopper was hopping about, chirping and singing to its heart's content. An Ant passed by, bearing along with great effort an ear of corn he was taking to the nest. \"Why not come and chat with me,\" said the Grasshopper, \"instead of toiling and moiling in that way?\" \"I am helping to lay up food for the winter,\" said the Ant, \"and recommend you to do the same.\" \"Why bother about winter?\" said the Grasshopper; \"we have got plenty of food at present.\" But the Ant went on its way and continued its toil. When the winter came the Grasshopper had no food, and found itself dying of hunger, while it saw the ants distributing every day corn and grain from the stores they had collected in the summer. Then the Grasshopper knew: it is best to prepare for the days of need.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What lesson does the fable teach?",
+          "choices": [
+            "Hard work in good times prepares you for hard times.",
+            "Singing is a waste of a summer day.",
+            "Ants and grasshoppers cannot be friends.",
+            "Winter always arrives sooner than expected."
+          ],
+          "answer": 0,
+          "explanation": "The Ant stores food in summer and survives winter, while the idle Grasshopper starves — the moral is to prepare during times of plenty."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What was the Ant carrying when it passed the Grasshopper?",
+          "choices": [
+            "A blade of grass",
+            "An ear of corn",
+            "A drop of water",
+            "A dead leaf"
+          ],
+          "answer": 1,
+          "explanation": "The text says the Ant was \"bearing along with great effort an ear of corn.\""
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, \"toiling and moiling\" most nearly means:",
+          "choices": [
+            "resting lazily",
+            "working hard",
+            "singing loudly",
+            "wandering aimlessly"
+          ],
+          "answer": 1,
+          "explanation": "\"Toiling and moiling\" is an old phrase for laboring hard — contrasted with the Grasshopper's idle chatting."
+        }
+      ]
+    },
+    {
+      "id": "pd-lincoln-gettysburg",
+      "title": "The Gettysburg Address",
+      "sourceType": "public-domain",
+      "source": "Abraham Lincoln, 1863",
+      "attribution": "Abraham Lincoln, Gettysburg Address (1863). Public domain.",
+      "genre": "history",
+      "level": 4,
+      "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal. Now we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live. But, in a larger sense, we can not dedicate — we can not consecrate — we can not hallow — this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "vocabulary",
+          "stem": "\"Four score and seven years\" refers to how many years?",
+          "choices": [
+            "47",
+            "67",
+            "87",
+            "107"
+          ],
+          "answer": 2,
+          "explanation": "A \"score\" is twenty. Four score (80) plus seven equals 87."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does Lincoln say the living cannot truly consecrate the ground?",
+          "choices": [
+            "Because the ceremony was too short",
+            "Because the soldiers who fought already made it sacred through their sacrifice",
+            "Because the war was not yet over",
+            "Because the ground belonged to the nation, not individuals"
+          ],
+          "answer": 1,
+          "explanation": "Lincoln argues the brave men \"have consecrated it, far above our poor power to add or detract\" — their sacrifice, not the speech, hallows the ground."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "What does Lincoln urge the living to do?",
+          "choices": [
+            "Build a monument on the battlefield",
+            "End the war immediately",
+            "Dedicate themselves to the unfinished work the soldiers advanced",
+            "Honor only the soldiers who died"
+          ],
+          "answer": 2,
+          "explanation": "He calls the living \"to be dedicated here to the unfinished work\" the fallen had \"so nobly advanced.\""
+        }
+      ]
+    },
+    {
+      "id": "pd-darwin-entangled-bank",
+      "title": "An Entangled Bank",
+      "sourceType": "public-domain",
+      "source": "Charles Darwin, On the Origin of Species (1859)",
+      "attribution": "Charles Darwin, On the Origin of Species, closing passage (1859). Public domain.",
+      "genre": "science",
+      "level": 5,
+      "text": "It is interesting to contemplate an entangled bank, clothed with many plants of many kinds, with birds singing on the bushes, with various insects flitting about, and with worms crawling through the damp earth, and to reflect that these elaborately constructed forms, so different from each other, and dependent on each other in so complex a manner, have all been produced by laws acting around us. These laws, taken in the largest sense, being Growth with Reproduction; Inheritance; Variability; a Ratio of Increase so high as to lead to a Struggle for Life, and as a consequence to Natural Selection, entailing Divergence of Character and the Extinction of less-improved forms. Thus, from the war of nature, from famine and death, the most exalted object which we are capable of conceiving, namely, the production of the higher animals, directly follows.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is Darwin's central claim in this passage?",
+          "choices": [
+            "Nature is peaceful and unchanging.",
+            "Complex, interdependent life forms arise from a few natural laws.",
+            "Birds and insects compete for the same food.",
+            "Extinction is rare in the natural world."
+          ],
+          "answer": 1,
+          "explanation": "Darwin marvels that diverse, interdependent forms were \"all been produced by laws acting around us,\" which he then lists."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does Darwin find striking about the outcome of \"the war of nature\"?",
+          "choices": [
+            "That it produces the higher animals, an exalted result, from famine and death",
+            "That it never truly ends",
+            "That humans are exempt from it",
+            "That it favors plants over animals"
+          ],
+          "answer": 0,
+          "explanation": "He notes that from \"famine and death\" follows \"the most exalted object\" — a striking, almost paradoxical, conclusion."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "As used here, \"contemplate\" most nearly means:",
+          "choices": [
+            "destroy",
+            "study and reflect on",
+            "purchase",
+            "ignore"
+          ],
+          "answer": 1,
+          "explanation": "To contemplate the bank is to look at it thoughtfully and reflect, as the rest of the sentence makes clear."
+        }
+      ]
+    },
+    {
+      "id": "pd-wells-time-machine",
+      "title": "The Time Traveller Explains",
+      "sourceType": "public-domain",
+      "source": "H. G. Wells, The Time Machine (1895)",
+      "attribution": "H. G. Wells, The Time Machine (1895). Public domain.",
+      "genre": "fiction",
+      "level": 3,
+      "text": "The Time Traveller (for so it will be convenient to speak of him) was expounding a recondite matter to us. His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated. \"You must follow me carefully. I shall have to controvert one or two ideas that are almost universally accepted. The geometry, for instance, they taught you at school is founded on a misconception.\" \"Is not that rather a large thing to expect us to begin upon?\" said Filby, an argumentative person with red hair. \"I do not mean to ask you to accept anything without reasonable ground for it. You will soon admit as much as I need from you. You know of course that a mathematical line, a line of thickness nil, has no real existence. They taught you that? Neither has a mathematical plane. These things are mere abstractions.\"",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "How does the Time Traveller expect his listeners to react to his ideas at first?",
+          "choices": [
+            "With instant agreement",
+            "With skepticism, which he plans to overcome with reasoning",
+            "With boredom",
+            "With fear"
+          ],
+          "answer": 1,
+          "explanation": "He says he will \"controvert\" widely accepted ideas but won't ask them to accept anything \"without reasonable ground,\" anticipating doubt he intends to argue past."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What example does the Time Traveller give of an abstraction with \"no real existence\"?",
+          "choices": [
+            "A clock",
+            "A mathematical line of zero thickness",
+            "A grey eye",
+            "A red-haired man"
+          ],
+          "answer": 1,
+          "explanation": "He cites \"a mathematical line, a line of thickness nil\" and a \"mathematical plane\" as mere abstractions."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Recondite\" as used here most nearly means:",
+          "choices": [
+            "obvious",
+            "obscure or hard to understand",
+            "humorous",
+            "dangerous"
+          ],
+          "answer": 1,
+          "explanation": "A recondite matter is a deep or obscure one — fitting, since he must explain it carefully."
+        }
+      ]
+    },
+    {
+      "id": "pd-aurelius-morning",
+      "title": "On Rising in the Morning",
+      "sourceType": "public-domain",
+      "source": "Marcus Aurelius, Meditations (c. 170 AD)",
+      "attribution": "Marcus Aurelius, Meditations, Book V, trans. George Long (1862). Public domain.",
+      "genre": "philosophy",
+      "level": 4,
+      "text": "In the morning when thou risest unwillingly, let this thought be present: I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world? Or have I been made for this, to lie in the bed-clothes and keep myself warm? But this is more pleasant. Dost thou exist then to take thy pleasure, and not at all for action or exertion? Dost thou not see the little plants, the little birds, the ants, the spiders, the bees working together to put in order their several parts of the universe? And art thou unwilling to do the work of a human being, and dost thou not make haste to do that which is according to thy nature?",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the author urging the reader to do?",
+          "choices": [
+            "Sleep longer to stay healthy",
+            "Rise and do the work proper to a human being",
+            "Avoid hard labor",
+            "Imitate the warmth of bed-clothes"
+          ],
+          "answer": 1,
+          "explanation": "He reminds himself he was made \"for action or exertion,\" not to lie warm in bed."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author mention plants, birds, ants, and bees?",
+          "choices": [
+            "To show nature is more beautiful than humans",
+            "As examples of beings that do their natural work without complaint",
+            "To suggest humans should live outdoors",
+            "To prove animals are happier than people"
+          ],
+          "answer": 1,
+          "explanation": "They all \"work together to put in order their several parts of the universe\" — a model for doing one's own natural work."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "What excuse for staying in bed does the author consider and reject?",
+          "choices": [
+            "That it is too cold to work",
+            "That staying warm is more pleasant",
+            "That there is no work to do",
+            "That he is ill"
+          ],
+          "answer": 1,
+          "explanation": "He raises \"But this is more pleasant\" and rejects it by asking whether he exists merely to take pleasure."
+        }
+      ]
+    },
+    {
+      "id": "pd-doyle-scandal-opening",
+      "title": "The Woman",
+      "sourceType": "public-domain",
+      "source": "Arthur Conan Doyle, A Scandal in Bohemia (1891)",
+      "attribution": "Arthur Conan Doyle, The Adventures of Sherlock Holmes (1891). Public domain.",
+      "genre": "fiction",
+      "level": 3,
+      "text": "To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer — excellent for drawing the veil from men's motives and actions. But for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why does the narrator say Holmes avoids emotions like love?",
+          "choices": [
+            "Because he had been hurt before",
+            "Because they could disturb his precise reasoning",
+            "Because he disliked all people",
+            "Because Irene Adler rejected him"
+          ],
+          "answer": 1,
+          "explanation": "Emotions would \"introduce a distracting factor which might throw a doubt upon all his mental results.\""
+        },
+        {
+          "id": "q2",
+          "skill": "vocabulary",
+          "stem": "\"Abhorrent\" as used here most nearly means:",
+          "choices": [
+            "delightful",
+            "deeply distasteful",
+            "confusing",
+            "ordinary"
+          ],
+          "answer": 1,
+          "explanation": "Emotions were \"abhorrent\" to his mind — that is, repugnant or hateful to it."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "How does the narrator characterize Holmes overall?",
+          "choices": [
+            "As a warm and romantic man",
+            "As a flawless reasoning machine wary of emotion",
+            "As someone secretly in love with Irene Adler",
+            "As a careless observer of people"
+          ],
+          "answer": 1,
+          "explanation": "He calls Holmes \"the most perfect reasoning and observing machine\" for whom emotion would be a liability."
+        }
+      ]
+    },
+    {
+      "id": "og-attention-economy",
+      "title": "The Cost of a Scrolling Mind",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 3,
+      "text": "Every feed you scroll is engineered to interrupt you. The designers measure success in seconds of attention captured, so each post is short, vivid, and quickly replaced by the next. Over time this trains a particular habit of mind: skim, react, move on. The trouble is that deep understanding works the opposite way. To follow a long argument, hold several ideas at once, or notice what an author implies but never states, the mind must stay still and sustain effort across paragraphs. That stamina is a skill, and like any skill it weakens without practice. Reading a difficult page slowly is not nostalgia for an older medium; it is a workout for the exact muscles that feeds quietly let atrophy. The encouraging part is that the muscle responds. People who read demanding material a little each day report that focus returns, often within weeks.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage's central argument?",
+          "choices": [
+            "Social media feeds should be banned.",
+            "Scrolling trains shallow attention, but deliberate reading can rebuild deep focus.",
+            "Reading is only valuable for nostalgia.",
+            "Deep understanding requires no effort."
+          ],
+          "answer": 1,
+          "explanation": "The passage contrasts the skim-and-react habit feeds create with the sustained focus reading builds, and ends on the hopeful note that the \"muscle responds.\""
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author compare difficult reading to a \"workout\"?",
+          "choices": [
+            "Because reading burns physical calories",
+            "Because focus is a trainable capacity that strengthens with effortful practice",
+            "Because reading is unpleasant like exercise",
+            "Because both should be done at a gym"
+          ],
+          "answer": 1,
+          "explanation": "The author frames sustained attention as a \"muscle\" that \"weakens without practice\" but \"responds\" to training — a workout metaphor for a trainable skill."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Atrophy,\" as used in the passage, most nearly means:",
+          "choices": [
+            "grow stronger",
+            "waste away from disuse",
+            "become distracted",
+            "spread quickly"
+          ],
+          "answer": 1,
+          "explanation": "The feeds \"let atrophy\" the focus muscles — i.e., let them weaken or waste away from lack of use."
+        }
+      ]
+    },
+    {
+      "id": "og-ai-and-the-reader",
+      "title": "When the Machine Reads For You",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 4,
+      "text": "It is now trivial to ask a machine to summarize a book in three bullet points. The summary will often be accurate, and for some purposes that is enough. But a summary is a destination handed to you without the journey, and the journey is where most of the value lay. When you read the full argument yourself, you do not merely learn its conclusion; you watch how the author builds it, where the evidence is strong and where it quietly leans on assumption, which sentence made you pause and reconsider. That experience leaves you able to reason in the author's domain, not just to repeat a verdict. Outsourcing the reading returns the answer but keeps the understanding for the machine. The wise use of these tools, then, is not to replace your reading but to sharpen it: let the machine fetch and translate and define, while you keep, for yourself, the slow work of judgment.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What distinction does the author draw between a summary and reading the full text?",
+          "choices": [
+            "Summaries are always inaccurate; full texts are accurate.",
+            "A summary gives the conclusion, while full reading builds the understanding and judgment behind it.",
+            "Full reading is faster than reading a summary.",
+            "Summaries are only useful for fiction."
+          ],
+          "answer": 1,
+          "explanation": "The author calls a summary \"a destination handed to you without the journey\" — you get the verdict but not the reasoning ability that full reading develops."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the author suggest is the wise use of AI tools for reading?",
+          "choices": [
+            "Use them to replace reading entirely",
+            "Avoid them completely",
+            "Let them assist (fetch, translate, define) while you keep the work of judgment",
+            "Use them only for summaries"
+          ],
+          "answer": 2,
+          "explanation": "The closing line says to \"let the machine fetch and translate and define, while you keep, for yourself, the slow work of judgment.\""
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What does the phrase \"keeps the understanding for the machine\" imply?",
+          "choices": [
+            "The machine becomes conscious.",
+            "When you outsource reading, you gain the answer but not the comprehension.",
+            "Machines store text more reliably than people.",
+            "Understanding is impossible without machines."
+          ],
+          "answer": 1,
+          "explanation": "It is a pointed way of saying the reader who skips the reading is left without the understanding that the effort would have produced."
+        }
+      ]
+    },
+    {
+      "id": "og-how-memory-consolidates",
+      "title": "Why Sleep Finishes Your Reading",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 3,
+      "text": "When you finish a chapter, your brain is not done with it. During sleep, especially deep slow-wave sleep, the hippocampus replays the day's experiences and gradually transfers the durable parts to the cortex for long-term storage. This is why a passage that felt slippery at night can seem clearer the next morning: the material was reorganized while you rested. The practical lesson is that cramming fights your own biology. Reading a little each day, with sleep between sessions, lets each night's consolidation lock in what the previous day's effort began. Spacing your practice is not a sign of weak commitment; it is the schedule the memory system was built to use.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "detail",
+          "stem": "According to the passage, what does the hippocampus do during deep sleep?",
+          "choices": [
+            "Erases the day's memories",
+            "Replays experiences and transfers durable parts to the cortex",
+            "Stops all activity",
+            "Creates dreams unrelated to learning"
+          ],
+          "answer": 1,
+          "explanation": "The passage states the hippocampus \"replays the day's experiences and gradually transfers the durable parts to the cortex.\""
+        },
+        {
+          "id": "q2",
+          "skill": "main-idea",
+          "stem": "What practical advice follows from the science described?",
+          "choices": [
+            "Cram all your reading into one long session",
+            "Read a little each day with sleep between sessions",
+            "Avoid sleeping after reading",
+            "Reading does not benefit from rest"
+          ],
+          "answer": 1,
+          "explanation": "Because consolidation happens during sleep, spaced daily reading \"lets each night's consolidation lock in\" the prior day's effort."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Consolidation,\" as used here, most nearly means:",
+          "choices": [
+            "forgetting information",
+            "the strengthening and storing of memories",
+            "reading aloud",
+            "physical exercise"
+          ],
+          "answer": 1,
+          "explanation": "The passage uses \"consolidation\" for the process by which the brain stabilizes and stores what was learned."
+        }
+      ]
+    },
+    {
+      "id": "pd-twain-mississippi",
+      "title": "Reading the River",
+      "sourceType": "public-domain",
+      "source": "Mark Twain, Life on the Mississippi (1883)",
+      "attribution": "Mark Twain, Life on the Mississippi (1883). Public domain.",
+      "genre": "essay",
+      "level": 4,
+      "text": "The face of the water, in time, became a wonderful book — a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice. And it was not a book to be read once and thrown aside, for it had a new story to tell every day. Throughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing. There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparklingly renewed with every reperusal.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "What does Twain mean by calling the river a \"book\"?",
+          "choices": [
+            "He literally read books while on the river.",
+            "The river's surface held meaning that a trained eye could interpret.",
+            "The river was as boring as a textbook.",
+            "Passengers wrote about the river in journals."
+          ],
+          "answer": 1,
+          "explanation": "Twain treats the water's \"face\" as a text whose \"secrets\" he, unlike the untrained passenger, could read."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why is the river \"a dead language to the uneducated passenger\"?",
+          "choices": [
+            "Because passengers could not see the water",
+            "Because only trained skill lets one read its signs",
+            "Because the river had no features",
+            "Because passengers spoke a foreign language"
+          ],
+          "answer": 1,
+          "explanation": "Like a language one hasn't learned, the river's meaning is inaccessible without the training Twain acquired."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "\"Unflagging\" as used here most nearly means:",
+          "choices": [
+            "never weakening",
+            "frequently changing",
+            "poorly marked",
+            "easily ignored"
+          ],
+          "answer": 0,
+          "explanation": "Twain praises the river's \"unflagging\" interest — interest that never tires or diminishes."
+        }
+      ]
+    },
+    {
+      "id": "pd-austen-pride-opening",
+      "title": "A Truth Universally Acknowledged",
+      "sourceType": "public-domain",
+      "source": "Jane Austen, Pride and Prejudice (1813)",
+      "attribution": "Jane Austen, Pride and Prejudice (1813). Public domain.",
+      "genre": "fiction",
+      "level": 4,
+      "text": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife. However little known the feelings or views of such a man may be on his first entering a neighbourhood, this truth is so well fixed in the minds of the surrounding families, that he is considered the rightful property of some one or other of their daughters. \"My dear Mr. Bennet,\" said his lady to him one day, \"have you heard that Netherfield Park is let at last?\" Mr. Bennet replied that he had not. \"But it is,\" returned she; \"for Mrs. Long has just been here, and she told me all about it.\" Mr. Bennet made no answer. \"Do you not want to know who has taken it?\" cried his wife impatiently. \"You want to tell me, and I have no objection to hearing it.\" This was invitation enough.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "The famous opening sentence is best understood as:",
+          "choices": [
+            "A sincere scientific fact",
+            "Gentle irony about how families view wealthy bachelors",
+            "Mr. Bennet's personal opinion",
+            "A legal rule of the time"
+          ],
+          "answer": 1,
+          "explanation": "Austen's tone is ironic: the \"truth\" reflects the matchmaking assumptions of \"surrounding families,\" not an actual law of nature."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the exchange reveal about Mr. Bennet?",
+          "choices": [
+            "He is eager and talkative.",
+            "He is dryly amused and teases his wife.",
+            "He is angry at his wife.",
+            "He has no interest in his family."
+          ],
+          "answer": 1,
+          "explanation": "His reply — \"You want to tell me, and I have no objection to hearing it\" — shows a dry, teasing wit."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "What news is Mrs. Bennet eager to share?",
+          "choices": [
+            "That a wedding has occurred",
+            "That Netherfield Park has been rented",
+            "That Mrs. Long is ill",
+            "That the family has lost its fortune"
+          ],
+          "answer": 1,
+          "explanation": "She asks whether he has heard \"that Netherfield Park is let at last.\""
+        }
+      ]
+    },
+    {
+      "id": "og-deep-vs-shallow-reading",
+      "title": "Two Kinds of Reading",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 2,
+      "text": "Not all reading is the same. Shallow reading scans for a single fact: a price, a time, a yes or no. It is fast and useful, and we do it dozens of times a day. Deep reading is different. It asks you to build a model in your head of what the writer is saying, to test it against what you already know, and to carry an idea from one paragraph into the next. Both kinds matter, but only one of them grows with practice. You can scan your whole life and never get better at scanning. Deep reading, by contrast, rewards effort: the more demanding texts you finish, the more easily you finish the next one. A good daily habit is small but deep — one short passage read with full attention beats an hour of skimming.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of the passage?",
+          "choices": [
+            "Shallow reading is useless.",
+            "Deep reading is a skill that improves with practice, unlike scanning.",
+            "All reading is equally valuable.",
+            "Skimming for an hour is the best habit."
+          ],
+          "answer": 1,
+          "explanation": "The passage contrasts the two and stresses that \"only one of them grows with practice\" — deep reading rewards effort."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what does deep reading ask you to do?",
+          "choices": [
+            "Scan for a single fact quickly",
+            "Build a mental model, test it, and carry ideas across paragraphs",
+            "Read as fast as possible",
+            "Memorize every word"
+          ],
+          "answer": 1,
+          "explanation": "Deep reading asks you to \"build a model,\" \"test it,\" and \"carry an idea from one paragraph into the next.\""
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What daily habit does the author recommend?",
+          "choices": [
+            "An hour of skimming",
+            "One short passage read with full attention",
+            "Reading only headlines",
+            "Avoiding difficult texts"
+          ],
+          "answer": 1,
+          "explanation": "The closing advice: \"one short passage read with full attention beats an hour of skimming.\""
+        }
+      ]
+    },
+    {
+      "id": "pd-douglass-learning-to-read",
+      "title": "Learning to Read",
+      "sourceType": "public-domain",
+      "source": "Frederick Douglass, Narrative of the Life of Frederick Douglass (1845)",
+      "attribution": "Frederick Douglass, Narrative of the Life of Frederick Douglass, an American Slave (1845). Public domain.",
+      "genre": "history",
+      "level": 4,
+      "text": "Very soon after I went to live with Mr. and Mrs. Auld, she very kindly commenced to teach me the A, B, C. After I had learned this, she assisted me in learning to spell words of three or four letters. Just at this point of my progress, Mr. Auld found out what was going on, and at once forbade Mrs. Auld to instruct me further, telling her, among other things, that it was unlawful, as well as unsafe, to teach a slave to read. To use his own words, further, he said, 'If you give a slave an inch, he will take an ell. A slave should know nothing but to obey his master — to do as he is told to do. Learning would spoil the best slave in the world.' These words sank deep into my heart, stirred up sentiments within that lay slumbering, and called into existence an entirely new train of thought. It was a new and special revelation, explaining dark and mysterious things, with which my youthful understanding had struggled, but struggled in vain. I now understood what had been to me a most perplexing difficulty — namely, the white man's power to enslave the black man. From that moment, I understood the pathway from slavery to freedom. Though conscious of the difficulty of learning without a teacher, I set out with high hope, and a fixed purpose, at whatever cost of trouble, to learn how to read.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why did Mr. Auld forbid his wife from teaching Douglass to read?",
+          "choices": [
+            "He thought Douglass was too young to learn",
+            "He believed literacy would make an enslaved person harder to control",
+            "He wanted to teach Douglass himself",
+            "He thought reading was a waste of time"
+          ],
+          "answer": 1,
+          "explanation": "Auld said learning would \"spoil\" a slave and that one taught an inch would \"take an ell\" — he feared literacy would undermine his control."
+        },
+        {
+          "id": "q2",
+          "skill": "main-idea",
+          "stem": "What realization did Auld's words spark in Douglass?",
+          "choices": [
+            "That his mistress had been unkind",
+            "That reading was the pathway from slavery to freedom",
+            "That he should obey his master",
+            "That spelling was easier than reading"
+          ],
+          "answer": 1,
+          "explanation": "Douglass writes, \"From that moment, I understood the pathway from slavery to freedom\" — the very thing Auld feared revealed reading's power to him."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In \"give him an inch, he will take an ell,\" an \"ell\" (an old unit of length) is used to mean:",
+          "choices": [
+            "a tiny amount",
+            "a much greater amount",
+            "a place to hide",
+            "a kind of letter"
+          ],
+          "answer": 1,
+          "explanation": "An ell is far longer than an inch; the saying means a small concession will be stretched into a large one."
+        }
+      ]
+    },
+    {
+      "id": "pd-plato-cave",
+      "title": "The Allegory of the Cave",
+      "sourceType": "public-domain",
+      "source": "Plato, The Republic, Book VII (c. 375 BC)",
+      "attribution": "Plato, The Republic, trans. Benjamin Jowett (1871). Public domain.",
+      "genre": "philosophy",
+      "level": 5,
+      "text": "And now let me show in a figure how far our nature is enlightened or unenlightened. Behold human beings living in an underground den; here they have been from their childhood, and have their legs and necks chained so that they cannot move, and can only see before them, being prevented by the chains from turning round their heads. Above and behind them a fire is blazing at a distance, and between the fire and the prisoners there is a raised way; and you will see, if you look, a low wall built along the way, like the screen which marionette players have in front of them, over which they show the puppets. And do you see men passing along the wall carrying vessels, and statues and figures of animals made of wood and stone? To the prisoners, the truth would be literally nothing but the shadows of these images cast upon the wall before them. And when one of them is liberated and compelled suddenly to stand up and turn his neck and walk and look towards the light, he will suffer sharp pains; the glare will distress him, and he will be unable to see the realities of which in his former state he had seen only the shadows. He will need to grow accustomed to the sight of the upper world, and only by degrees will he come to see the things themselves.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "What do the shadows on the wall represent for the prisoners?",
+          "choices": [
+            "Frightening illusions they wish to escape",
+            "The only reality they have ever known",
+            "Messages from the world above",
+            "A game the prisoners play"
+          ],
+          "answer": 1,
+          "explanation": "Having seen nothing else, the prisoners take the shadows to be \"literally nothing but\" the truth — the shadows are their entire reality."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What happens when a prisoner is first turned toward the light?",
+          "choices": [
+            "He immediately sees everything clearly",
+            "He suffers pain and cannot yet see the real objects",
+            "He returns to his chains at once",
+            "He becomes invisible to the others"
+          ],
+          "answer": 1,
+          "explanation": "The text says he \"will suffer sharp pains,\" the glare distresses him, and he is at first \"unable to see the realities.\""
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "The allegory is best understood as an image of:",
+          "choices": [
+            "The dangers of living underground",
+            "The painful, gradual passage from illusion to genuine knowledge",
+            "Why prisoners should not be freed",
+            "The superiority of firelight to sunlight"
+          ],
+          "answer": 1,
+          "explanation": "Plato uses the freed prisoner's difficult adjustment to the light as a figure for how the mind moves, slowly and uncomfortably, from appearances to truth."
+        }
+      ]
+    },
+    {
+      "id": "og-art-of-finishing",
+      "title": "The Lost Art of Finishing",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nonfiction",
+      "level": 4,
+      "text": "There is a particular satisfaction that comes only from finishing something difficult, and it is disappearing from our lives one notification at a time. Consider what reading a long, demanding chapter actually requires. You must hold the beginning in mind as you reach the end. You must resist the dozen small urges to check something, to look away, to do anything other than stay with the single thread of an argument as it slowly tightens. None of this is comfortable, and that discomfort is precisely the point. The mind, like the body, grows only against resistance.\n\nModern tools are engineered to remove resistance. They deliver the answer before you have formed the question, summarize the book before you have opened it, and interrupt any sustained effort with something brighter and easier. Each individual convenience is harmless. Taken together, over years, they quietly retrain us to expect that understanding should arrive without struggle — and understanding that arrives without struggle rarely stays.\n\nThe cure is not to abandon these tools, which are genuinely useful, but to deliberately reserve some part of each day for the slow work they cannot do for you. Read one hard thing to the end. Sit with a paragraph you did not grasp the first time, and read it again. Notice the moment you want to quit, and continue just past it. Finishing is a skill, and like every skill it is built by finishing — not by intending to, not by summarizing, but by actually crossing the last line of something that asked more of you than you wanted to give.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage's central argument?",
+          "choices": [
+            "Modern tools should be abandoned entirely.",
+            "Effortful reading builds an understanding that easy, summarized consumption cannot.",
+            "Finishing books is no longer necessary.",
+            "Comfort is the goal of reading."
+          ],
+          "answer": 1,
+          "explanation": "The author argues that the discomfort of sustained reading is \"precisely the point,\" and that understanding without struggle \"rarely stays.\""
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author say \"that discomfort is precisely the point\"?",
+          "choices": [
+            "Because reading should be unpleasant",
+            "Because the mind grows only against resistance, like a muscle",
+            "Because difficult books are better written",
+            "Because discomfort means you are reading too fast"
+          ],
+          "answer": 1,
+          "explanation": "The next line makes the analogy explicit: \"The mind, like the body, grows only against resistance.\""
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What does the author recommend doing about modern tools?",
+          "choices": [
+            "Abandon them, since they are harmful",
+            "Use them freely for everything",
+            "Keep using them, but reserve daily time for the slow reading they can't do for you",
+            "Only use them to summarize books"
+          ],
+          "answer": 2,
+          "explanation": "The cure \"is not to abandon these tools\" but \"to deliberately reserve some part of each day for the slow work they cannot do for you.\""
+        }
+      ]
+    },
+    {
+      "id": "og-fic-last-bus",
+      "title": "The Last Bus",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "fiction",
+      "level": 2,
+      "text": "Mara watched the bus pull away from the stop, its red lights shrinking into the dark. She had been three steps too slow. For a moment she just stood there, her bag heavy on her shoulder, the rain starting again. Then she laughed, a small surprised sound. Tomorrow she would have walked the long way home and arrived tired and grumpy. Now she had a reason to call her sister, who lived two blocks away and always kept the kettle warm. She turned up her collar and headed down the side street, almost glad the bus was gone.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "How does Mara feel by the end of the passage?",
+          "choices": [
+            "Quietly pleased about a change of plans",
+            "Furious at the bus driver",
+            "Frightened of the dark street",
+            "Bored and indifferent"
+          ],
+          "answer": 0,
+          "explanation": "She laughs and is 'almost glad the bus was gone' because missing it gives her a reason to visit her sister."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "Why does Mara decide to go down the side street?",
+          "choices": [
+            "To wait for the next bus",
+            "To visit her sister who lives nearby",
+            "To get out of the rain at a shop",
+            "To find a taxi"
+          ],
+          "answer": 1,
+          "explanation": "The text says her sister lives two blocks away and she heads off to call her, turning toward the side street."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, 'grumpy' most nearly means",
+          "choices": [
+            "cheerful",
+            "irritable",
+            "sleepy",
+            "generous"
+          ],
+          "answer": 1,
+          "explanation": "She imagines arriving 'tired and grumpy,' meaning bad-tempered or irritable."
+        }
+      ],
+      "wordCount": 98
+    },
+    {
+      "id": "og-fic-the-spare-key",
+      "title": "The Spare Key",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "fiction",
+      "level": 2,
+      "text": "Dev kept the spare key under the third flowerpot, the cracked one, because no one would think to look there. His neighbor, old Mr. Okafor, knew about it. So when Dev's phone buzzed at work with a photo of his front door standing open, he did not panic. The message under the photo read: Your cat got out. I put her back. Locked up. Key returned. Dev set down his sandwich and smiled at the screen. He had never told Mr. Okafor he was grateful for these small rescues. He decided that tonight he would knock on the old man's door and finally say it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why does Dev NOT panic when he sees the photo of his open door?",
+          "choices": [
+            "He knew the door was broken",
+            "He trusts Mr. Okafor, who has the key",
+            "He does not own a cat",
+            "He was already on his way home"
+          ],
+          "answer": 1,
+          "explanation": "Mr. Okafor knows where the spare key is, and the message shows he handled the problem, so Dev stays calm."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does Dev's plan to knock on the door suggest about him?",
+          "choices": [
+            "He wants to scold his neighbor",
+            "He feels he has overlooked thanking someone kind",
+            "He plans to move away",
+            "He no longer trusts Mr. Okafor"
+          ],
+          "answer": 1,
+          "explanation": "He realizes he 'never told' the old man he was grateful and decides to finally say it."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "Here, 'rescues' refers to",
+          "choices": [
+            "dangerous accidents",
+            "helpful acts that fix small problems",
+            "loud arguments",
+            "money lent to Dev"
+          ],
+          "answer": 1,
+          "explanation": "The 'small rescues' are Mr. Okafor's quiet acts of help, like returning the cat and locking up."
+        }
+      ],
+      "wordCount": 105
+    },
+    {
+      "id": "og-fic-tide-pool",
+      "title": "The Tide Pool",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "fiction",
+      "level": 3,
+      "text": "The boy crouched at the edge of the tide pool, holding his breath as if his breathing might scare the water. A small crab sidled out from under a rock, lifted one claw, and froze. His grandmother stood behind him, saying nothing. She had learned long ago that the surest way to make a child lose interest in a thing was to explain it to death. So she folded her hands and let the silence do its slow work. The boy leaned closer, then closer still, until his nose nearly touched the surface. A minute passed, then two. After a while he looked up, his eyes wide and his voice hushed with wonder, and whispered, \"It's watching me back.\" His grandmother nodded slowly. That, she thought, was the whole lesson, and he had managed to teach it to himself without a single word from her. She would remember this small triumph longer than he would. The waves came in then, sliding up over the rocks and filling the pool to its brim, and the crab folded its claw and slipped quietly away into the deeper green.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why does the grandmother stay quiet?",
+          "choices": [
+            "She does not know anything about crabs",
+            "She is angry at the boy",
+            "She believes explaining too much would spoil his discovery",
+            "She cannot see what he is looking at"
+          ],
+          "answer": 2,
+          "explanation": "The text says she learned that explaining everything makes a child lose interest, so she lets silence work."
+        },
+        {
+          "id": "q2",
+          "skill": "main-idea",
+          "stem": "What is the central idea of this passage?",
+          "choices": [
+            "Crabs are dangerous to children",
+            "Discovery means more when a person finds it themselves",
+            "Grandmothers should always teach lessons aloud",
+            "The ocean tide is unpredictable"
+          ],
+          "answer": 1,
+          "explanation": "The grandmother sees the boy teach himself 'the whole lesson,' showing self-discovery as the point."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "The word 'sidled' suggests the crab moved",
+          "choices": [
+            "loudly and quickly",
+            "sideways and cautiously",
+            "straight upward",
+            "in a circle"
+          ],
+          "answer": 1,
+          "explanation": "'Sidled' means to move sideways in a wary, careful way, matching the crab freezing with a lifted claw."
+        }
+      ],
+      "wordCount": 186
+    },
+    {
+      "id": "og-fic-the-understudy",
+      "title": "The Understudy",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "fiction",
+      "level": 3,
+      "text": "Nina had memorized every line of the play, though no one had asked her to. She was the understudy, the name printed in small type at the bottom of the program, the one who watched from the wings night after night while another actor took the bows. She told herself she did not mind, and most evenings she almost believed it. Then, an hour before curtain on a cold Thursday, the lead actor twisted her ankle on the stairs behind the dressing rooms. Word spread fast through the cramped backstage halls. The director went looking for Nina and found her already in costume, standing before the empty mirror, mouthing the opening speech under her breath. He stopped in the doorway. \"You knew,\" he said, half a question. Nina only shrugged, but her hands were perfectly steady as she fixed her collar. She had been ready for months, ready in a way she had never let herself say out loud. The waiting, she realized as she stepped toward the stage, had not been wasted after all. All those silent nights in the wings had not been a punishment. They had been practice.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "What does Nina mean by realizing the waiting 'had not been wasted'?",
+          "choices": [
+            "She wishes she had quit the play",
+            "Her years of preparation made her ready for the chance",
+            "She regrets memorizing the lines",
+            "The lead actor planned to get hurt"
+          ],
+          "answer": 1,
+          "explanation": "She had memorized every line and was already in costume; the waiting served as quiet preparation for this moment."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why is the director's 'You knew' described as 'half a question'?",
+          "choices": [
+            "He is unsure whether she heard him",
+            "He suspects she was secretly prepared but isn't certain",
+            "He is asking what time it is",
+            "He doubts the actor is really hurt"
+          ],
+          "answer": 1,
+          "explanation": "He finds her already in costume rehearsing, so he half-suspects she was ready, but isn't fully sure."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In the theater, 'the wings' are",
+          "choices": [
+            "the seats for the audience",
+            "the areas at the sides of the stage out of view",
+            "the curtains across the front",
+            "the lights above the stage"
+          ],
+          "answer": 1,
+          "explanation": "Nina watches 'from the wings,' the offstage side areas where an understudy waits unseen."
+        }
+      ],
+      "wordCount": 191
+    },
+    {
+      "id": "og-fic-snow-day",
+      "title": "Snow Day",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "fiction",
+      "level": 3,
+      "text": "The school called at six in the morning: closed, on account of snow. From under his blankets Tomas heard his father groan in the next room, already dialing work to say he could not come in, his voice tight with the particular irritation of a plan gone wrong. A whole day rearranged, the father muttered, just like that. Tomas pulled the covers higher and went back to sleep. But by nine, when the worst of the storm had passed and the street lay buried and silent, Tomas wandered downstairs and found the kitchen empty. Through the frosted window he saw his father outside in boots and an old coat, building a lopsided fort in the front yard, snow stuck to his eyebrows and a grin on his face. \"I haven't done this in thirty years,\" his father admitted, patting another crooked wall into place. Tomas pulled on his own boots and knelt beside him without a word. They worked together until their fingers ached and their cheeks burned red, saying very little, and somewhere in the quiet of it Tomas understood something. The inconvenience his father had grumbled about at six that morning had, by nine, quietly turned into the best part of the entire week.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "How does the father's attitude change over the course of the day?",
+          "choices": [
+            "From excited to bored",
+            "From annoyed at the disruption to enjoying it",
+            "From calm to angry",
+            "From tired to even more tired"
+          ],
+          "answer": 1,
+          "explanation": "He groans about missing work in the morning, but by nine he is happily building a fort, calling it the best part of the week."
+        },
+        {
+          "id": "q2",
+          "skill": "main-idea",
+          "stem": "What does the passage mainly suggest?",
+          "choices": [
+            "Snow always ruins plans",
+            "An unwelcome interruption can become a gift",
+            "Children dislike snow days",
+            "Work is more important than play"
+          ],
+          "answer": 1,
+          "explanation": "The closed school first reads as an inconvenience but becomes a cherished shared moment."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "Here, 'lopsided' means",
+          "choices": [
+            "very tall",
+            "uneven or tilted to one side",
+            "perfectly square",
+            "covered in ice"
+          ],
+          "answer": 1,
+          "explanation": "A 'lopsided' fort is built unevenly, leaning to one side, fitting the playful, imperfect effort."
+        }
+      ],
+      "wordCount": 206
+    },
+    {
+      "id": "og-fic-the-lighthouse-keeper",
+      "title": "The Lighthouse Keeper",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "fiction",
+      "level": 4,
+      "text": "For nineteen years Halloran had kept the light burning on the rock at the harbor mouth, and in all that time not a single ship had wrecked on his watch. The town considered this proof of nothing. Ships did not wreck, they said, because the sea here was calm; the light was a courtesy, a habit, an old man's company in the dark. Halloran did not argue. He climbed the spiral stairs each evening, trimmed the wick, and polished the great lens until it threw its beam clean across the water. He knew what the townsfolk could not: that the absence of disaster is the hardest kind of work to see. No one thanks the wall that holds back the flood until the day it falls. So he kept it standing, asking nothing, and slept well, because he understood the value of a thing that never has to prove itself by failing.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this passage?",
+          "choices": [
+            "Lighthouses are no longer useful",
+            "Quiet, preventive work often goes unnoticed because nothing goes wrong",
+            "The townsfolk are cruel to Halloran",
+            "Calm seas make sailing safe"
+          ],
+          "answer": 1,
+          "explanation": "The passage argues that 'the absence of disaster is the hardest kind of work to see,' praising unseen prevention."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does Halloran not argue with the townsfolk?",
+          "choices": [
+            "He agrees the light is useless",
+            "He is too shy to speak",
+            "He is content knowing his work's true worth even unrecognized",
+            "He plans to leave the town soon"
+          ],
+          "answer": 2,
+          "explanation": "He 'asks nothing' and 'sleeps well,' content in his private understanding of the light's value."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What does the image of 'the wall that holds back the flood' illustrate?",
+          "choices": [
+            "That floods are common in the town",
+            "That protective work is only appreciated after it fails",
+            "That walls are stronger than lighthouses",
+            "That Halloran fears a flood is coming"
+          ],
+          "answer": 1,
+          "explanation": "The line says no one thanks the wall 'until the day it falls,' mirroring the unseen value of the light."
+        }
+      ],
+      "wordCount": 152
+    },
+    {
+      "id": "og-fic-the-borrowed-coat",
+      "title": "The Borrowed Coat",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "fiction",
+      "level": 4,
+      "text": "When Reza arrived at the interview, the receptionist glanced at his coat and her face softened into recognition. \"That's a Dawson coat,\" she said. \"My father wore one for thirty years.\" Reza only smiled and thanked her, because the truth was complicated. The coat was not his. He had borrowed it that morning from a man at the shelter who had insisted, pressing it into his arms, saying a person walks taller in good wool. Reza had nearly refused. Now, sitting in the warm lobby, he understood the gift was never about the wool at all. It was permission to be seen as someone worth a chance. He resolved that whatever came of the interview, the coat would go back that night, and one day, somehow, he would pass the same kindness forward.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why does Reza say 'the truth was complicated' rather than explain the coat?",
+          "choices": [
+            "He stole the coat and feels guilty",
+            "The coat was borrowed from a shelter and the story is hard to tell quickly",
+            "He does not remember where he got it",
+            "He is lying about the brand"
+          ],
+          "answer": 1,
+          "explanation": "The coat was borrowed from a man at the shelter, a story too involved to share with the receptionist."
+        },
+        {
+          "id": "q2",
+          "skill": "main-idea",
+          "stem": "What does Reza realize the gift truly was?",
+          "choices": [
+            "A way to stay warm in winter",
+            "A valuable item he could sell",
+            "Permission to be seen as deserving of a chance",
+            "A disguise to fool the interviewer"
+          ],
+          "answer": 2,
+          "explanation": "He understands it was 'permission to be seen as someone worth a chance,' not about the wool."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "Here, 'resolved' most nearly means",
+          "choices": [
+            "doubted",
+            "firmly decided",
+            "forgot",
+            "regretted"
+          ],
+          "answer": 1,
+          "explanation": "Reza 'resolved' that the coat would go back and he would pay the kindness forward, meaning he made a firm decision."
+        }
+      ],
+      "wordCount": 133
+    },
+    {
+      "id": "og-phi-the-weight-of-attention",
+      "title": "The Weight of Attention",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "philosophy",
+      "level": 4,
+      "text": "We tend to treat attention as if it were free, as if we could spend it everywhere at once and lose nothing. But attention is the rarest currency we own. Every moment we give to one thing is a moment withheld from all others. To attend to a friend's face is to choose, just then, not to attend to the phone in our pocket, the worry in our chest, the noise of the street. In this sense, attention is a kind of love, because it says: of all the things I could be turning toward right now, I am turning toward you. The person who learns to direct attention deliberately has gained not a trick of productivity but a measure of freedom. They are no longer dragged from object to object by whatever shouts loudest. They decide what is worth their seeing. And what we choose to see, over years, becomes the shape of the life we have actually lived.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the central claim of this passage?",
+          "choices": [
+            "Phones are bad for relationships",
+            "Attention is a scarce, chosen resource that shapes our lives",
+            "People should be more productive",
+            "Love requires constant attention to everything"
+          ],
+          "answer": 1,
+          "explanation": "The passage frames attention as 'the rarest currency,' chosen deliberately, that becomes 'the shape of the life we have actually lived.'"
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author call attention 'a kind of love'?",
+          "choices": [
+            "Because love is always pleasant",
+            "Because giving attention means choosing one thing over all others",
+            "Because attention is free",
+            "Because friends demand it"
+          ],
+          "answer": 1,
+          "explanation": "Attending to someone means 'I am turning toward you' instead of everything else, an act of preference like love."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "According to the passage, what does directing attention deliberately give a person?",
+          "choices": [
+            "More money",
+            "A measure of freedom from being pulled by distractions",
+            "Popularity among friends",
+            "A faster phone"
+          ],
+          "answer": 1,
+          "explanation": "Such a person is 'no longer dragged from object to object,' gaining freedom to decide what is worth seeing."
+        }
+      ],
+      "wordCount": 160
+    },
+    {
+      "id": "og-phi-on-doubt",
+      "title": "In Praise of Doubt",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "philosophy",
+      "level": 5,
+      "text": "Doubt has a bad reputation. We speak of it as weakness, as the enemy of conviction, as the gray fog that keeps a person from acting. Yet consider what certainty has cost the world. The cruelest deeds in history were rarely done by people wracked with doubt; they were done by people who were sure. Certainty does not pause to ask whether it might be wrong, and a mind that cannot imagine its own error is a dangerous instrument.\n\nDoubt, by contrast, is the quiet admission that our view of things is partial. It is what lets us listen to an opponent without simply waiting for our turn to speak. It is what makes a scientist test the belief she most wants to be true. Far from paralyzing us, honest doubt is the condition of learning anything at all, for nothing new can enter a mind already convinced it is full.\n\nThis is not a call to believe nothing. A person who doubts everything equally is as useless as one who doubts nothing. The art lies in holding our beliefs firmly enough to act on them and loosely enough to revise them. To live well is to walk that narrow ridge: committed, but correctable.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the author's main argument?",
+          "choices": [
+            "People should never be certain about anything",
+            "Doubt, held in balance with conviction, is a virtue that enables learning and humility",
+            "Certainty is always evil",
+            "Scientists are the only ones who doubt properly"
+          ],
+          "answer": 1,
+          "explanation": "The author defends 'honest doubt' as the condition of learning while warning that doubting everything is also useless, urging balance."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author point out that cruel deeds were done by people who were 'sure'?",
+          "choices": [
+            "To prove certainty has real dangers",
+            "To argue history is mostly violent",
+            "To say doubters never do harm",
+            "To praise people of conviction"
+          ],
+          "answer": 0,
+          "explanation": "The example shows that certainty 'does not pause to ask whether it might be wrong,' making it a dangerous instrument."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What does 'committed, but correctable' mean as a way to live?",
+          "choices": [
+            "Believe nothing and never act",
+            "Act firmly on beliefs while staying open to revising them",
+            "Always agree with opponents",
+            "Change your mind constantly"
+          ],
+          "answer": 1,
+          "explanation": "The 'narrow ridge' is holding beliefs firmly enough to act yet loosely enough to revise, balancing commitment and openness."
+        }
+      ],
+      "wordCount": 204
+    },
+    {
+      "id": "og-phi-the-uses-of-boredom",
+      "title": "The Uses of Boredom",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "philosophy",
+      "level": 3,
+      "text": "Boredom feels like an empty room, and our first instinct is to fill it. We reach for a screen, a snack, a conversation, anything at all to escape the small discomfort of having nothing to do. We treat the feeling as a problem to be solved as quickly as possible. But boredom may be doing something useful precisely when it feels most useless. It is the mind, having run out of easy stimulation from the outside, beginning to turn inward and invent its own. Many of our best ideas arrive not while we are busy and focused but during the dull, undirected stretches that a busy life leaves no room for. Think of a child left alone with nothing: before long, the floorboards become a river and the couch becomes a ship. A child who is never bored never learns to make a game out of nothing, never discovers that the imagination can supply what the world withholds. If we numb every empty moment the instant it appears, soothing it away with a glowing screen, we may be trading away the very restlessness that creativity needs in order to begin.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this passage?",
+          "choices": [
+            "Boredom should always be avoided",
+            "Boredom can spark creativity and should not always be escaped",
+            "Children are more creative than adults",
+            "Screens are the cause of boredom"
+          ],
+          "answer": 1,
+          "explanation": "The author argues boredom 'may be doing something useful' by prompting the mind to invent and create."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the author mention the bored child?",
+          "choices": [
+            "To show children dislike being bored",
+            "To illustrate that empty time teaches invention",
+            "To argue children need more toys",
+            "To compare children and adults unfairly"
+          ],
+          "answer": 1,
+          "explanation": "A child who is never bored 'never learns to make a game out of nothing,' showing boredom's creative value."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, 'numb' most nearly means to",
+          "choices": [
+            "sharpen",
+            "dull or deaden",
+            "celebrate",
+            "lengthen"
+          ],
+          "answer": 1,
+          "explanation": "To 'numb every empty moment' means to deaden the feeling of boredom by filling it, dulling it away."
+        }
+      ],
+      "wordCount": 190
+    },
+    {
+      "id": "og-ess-the-long-way",
+      "title": "The Long Way Home",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "essay",
+      "level": 5,
+      "text": "There is a stretch of my walk home that I could skip. A shortcut runs between two buildings and saves perhaps four minutes. For years I took it without thinking, because saving time felt like the obviously correct thing to do. Time, after all, is the one resource we cannot earn back.\n\nThen one autumn I broke my routine. I started taking the long way along the river, not for any reason I could name. The walk added little to my day, but it changed the day's texture. I noticed the herons that fished the shallows at dusk. I learned which trees turned first. I had conversations with myself that the shortcut had never given room to begin. Slowly I understood that I had been confusing two different things: the efficient use of time and the good use of time. They are not the same, and we have built a whole culture on pretending they are.\n\nThe shortcut treats the walk as a cost to be minimized. The long way treats it as part of the life itself. I am not against efficiency; it has its place, and there are mornings I am grateful for those four minutes. But a life optimized down to the bone is not necessarily a life worth having. Sometimes the detour is the point. We rush through the means in order to reach the ends, forgetting that the means are where nearly all of our actual hours are spent.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the central insight of this essay?",
+          "choices": [
+            "Walking by the river is healthier than taking shortcuts",
+            "The efficient use of time and the good use of time are not the same",
+            "People should never be in a hurry",
+            "Nature walks improve memory"
+          ],
+          "answer": 1,
+          "explanation": "The author distinguishes 'the efficient use of time and the good use of time,' arguing we wrongly treat them as identical."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the author mean by 'the means are where nearly all of our actual hours are spent'?",
+          "choices": [
+            "Goals are unimportant",
+            "Most of life happens in the in-between processes we rush through, not the destinations",
+            "Shortcuts waste money",
+            "We should plan our schedules better"
+          ],
+          "answer": 1,
+          "explanation": "The author warns we 'rush through the means' to reach ends, yet daily life mostly consists of those means."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "How does the author's view of efficiency come across?",
+          "choices": [
+            "Efficiency is always harmful",
+            "Efficiency is useful but should not govern everything",
+            "Efficiency is the highest goal",
+            "Efficiency does not exist"
+          ],
+          "answer": 1,
+          "explanation": "The author says, 'I am not against efficiency; it has its place,' but warns a life 'optimized down to the bone' may not be worth having."
+        }
+      ],
+      "wordCount": 244
+    },
+    {
+      "id": "og-ess-small-courage",
+      "title": "Small Courage",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "essay",
+      "level": 3,
+      "text": "When we picture courage, we usually imagine something loud: a soldier charging forward, a firefighter running into a burning building, a stranger leaping into a river. These moments are real, and they deserve our admiration, but they are also rare. Most of us will live our whole lives and never once be asked to perform such a feat. The danger of this dramatic picture is that it can quietly convince us that courage is not for ordinary days, that it belongs to other, braver people in other, harder situations. Yet there is a quieter kind of courage, and it is the kind the world actually runs on. It is the courage to admit, out loud, that you were wrong. It is the courage to ask a question that might make you look foolish in front of people you want to impress, or to say no when everyone around you is saying yes. These acts win no medals and draw no crowds, and no one will ever make a film about them. But they are practiced daily, by anyone willing to try, and over the long span of a lifetime they may shape a person far more deeply than a single dramatic moment ever could.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this essay?",
+          "choices": [
+            "Only soldiers are truly brave",
+            "Everyday acts of quiet courage matter as much as dramatic ones",
+            "Courage is impossible for ordinary people",
+            "Asking questions is always foolish"
+          ],
+          "answer": 1,
+          "explanation": "The essay contrasts loud heroism with a 'quieter kind of courage' practiced daily that can shape a person more deeply."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "Which of these does the author give as an example of quiet courage?",
+          "choices": [
+            "Running into a burning building",
+            "Charging into battle",
+            "Admitting you were wrong",
+            "Winning a medal"
+          ],
+          "answer": 2,
+          "explanation": "The author lists 'the courage to admit you were wrong' as an example of everyday quiet courage."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "Why does the author say the loud picture of courage can be a 'danger'?",
+          "choices": [
+            "It might make people reckless",
+            "It can make people think courage doesn't apply to ordinary life",
+            "It frightens children",
+            "It exaggerates real heroes"
+          ],
+          "answer": 1,
+          "explanation": "The author warns the dramatic image 'can make us believe courage is not for ordinary days.'"
+        }
+      ],
+      "wordCount": 204
+    },
+    {
+      "id": "og-his-printing-press",
+      "title": "The Press That Spread Ideas",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "history",
+      "level": 2,
+      "text": "Long ago, every book had to be copied by hand. A single copy could take a writer many months to finish, so books were rare and very costly. Most people never owned one.\n\nIn the 1400s, a craftsman in Germany named Johannes Gutenberg built a machine called the printing press. It used small metal letters that could be arranged, inked, and pressed onto paper. The same letters could then be rearranged to print a new page. Because of this, many copies of a book could be made quickly.\n\nAs printing spread across Europe, books became cheaper. More people learned to read, and new ideas traveled faster than ever before.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "A machine that made books faster and cheaper to produce",
+            "How metal is shaped into letters",
+            "Why books are expensive today",
+            "The life story of one writer"
+          ],
+          "answer": 0,
+          "explanation": "The passage explains how the printing press changed book-making and spread ideas."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "Before the printing press, how were books made?",
+          "choices": [
+            "By machines",
+            "Copied by hand",
+            "Printed on cloth",
+            "Carved into stone"
+          ],
+          "answer": 1,
+          "explanation": "The text says every book had to be copied by hand."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "Why did more people learn to read after printing spread?",
+          "choices": [
+            "Reading became required by law",
+            "Books became cheaper and easier to get",
+            "Writers stopped making mistakes",
+            "Paper was newly invented"
+          ],
+          "answer": 1,
+          "explanation": "The passage says books became cheaper, which led more people to read."
+        }
+      ],
+      "wordCount": 109
+    },
+    {
+      "id": "og-his-silk-road",
+      "title": "Roads of Silk and Trade",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "history",
+      "level": 3,
+      "text": "The Silk Road was not a single road but a wide network of trading routes that linked China with lands far to the west, including India, Persia, and the cities of the Mediterranean. Merchants did not usually travel the whole distance themselves. Instead, goods were passed from trader to trader, moving a little farther west or east at each stop.\n\nSilk gave the network its name, because Chinese silk was prized in distant markets. Yet many other things traveled along these routes. Spices, glass, paper, and precious stones changed hands, and so did ideas. Religions, inventions, and even diseases moved with the caravans.\n\nThe journey was hard. Traders crossed deserts and high mountain passes, often relying on camels that could endure long stretches without water. Towns called oasis cities grew up along the way, offering rest, food, and a place to trade. These cities became wealthy and busy, mixing people and customs from many cultures.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "Which statement best captures the passage?",
+          "choices": [
+            "The Silk Road was a single paved highway",
+            "The Silk Road was a network of routes that moved goods and ideas between distant lands",
+            "Silk was the only thing traded on the Silk Road",
+            "Camels were the most important invention of the era"
+          ],
+          "answer": 1,
+          "explanation": "The passage describes a network of routes carrying many goods and ideas, not just silk."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "How did goods usually travel the full length of the route?",
+          "choices": [
+            "One merchant carried them all the way",
+            "They were passed from trader to trader along the way",
+            "They were shipped only by sea",
+            "They were carried by a single caravan owned by China"
+          ],
+          "answer": 1,
+          "explanation": "The text states goods were passed from trader to trader at each stop."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, an 'oasis city' was a place that mainly offered traders what?",
+          "choices": [
+            "A factory to make silk",
+            "Rest, food, and a place to trade",
+            "A library of religious texts",
+            "Protection from foreign armies"
+          ],
+          "answer": 1,
+          "explanation": "The passage says oasis cities offered rest, food, and a place to trade."
+        }
+      ],
+      "wordCount": 155
+    },
+    {
+      "id": "og-bio-ada-lovelace",
+      "title": "Ada Lovelace and the Thinking Machine",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "biography",
+      "level": 4,
+      "text": "Ada Lovelace was born in England in 1815, a time when few women were encouraged to study mathematics. Her mother, however, made sure she received serious lessons in numbers and logic, hoping that careful study would give her a steady mind.\n\nAs a young woman, Ada met an inventor named Charles Babbage, who had designed a complex machine he called the Analytical Engine. The machine was never fully built in his lifetime, but its plans described a device that could follow a series of instructions to carry out calculations.\n\nAda was asked to translate an article about the engine from French. She did far more than translate it. She added long notes of her own, and in those notes she described how the machine could be given step-by-step instructions to solve a particular problem. Many historians consider this one of the earliest examples of a computer program.\n\nAda also saw something that Babbage himself did not fully stress. She suggested that such a machine might one day handle more than numbers. If symbols could stand for other things, she reasoned, the engine might work with music or other ideas. In a world where the machine was only a set of drawings on paper, this was a remarkable leap of imagination, since no working computer existed for her to study or test. She died young, at thirty-six, but her vision reached far beyond her own century, and today she is honored as a pioneer of computing.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "What does the passage suggest made Ada's notes especially important?",
+          "choices": [
+            "She built the Analytical Engine herself",
+            "She imagined the machine doing far more than simple math, including handling symbols",
+            "She invented the French language",
+            "She refused to work with Babbage"
+          ],
+          "answer": 1,
+          "explanation": "The text says she suggested the machine might work with music and ideas, not just numbers, showing vision beyond her time."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What task was Ada originally asked to do?",
+          "choices": [
+            "Build the engine",
+            "Translate an article about the engine from French",
+            "Teach mathematics at a school",
+            "Write a book about her mother"
+          ],
+          "answer": 1,
+          "explanation": "The passage states she was asked to translate an article about the engine from French."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In the passage, the word 'stress' (as in Babbage 'did not fully stress') most nearly means to do what?",
+          "choices": [
+            "Worry about",
+            "Emphasize or highlight",
+            "Build quickly",
+            "Translate"
+          ],
+          "answer": 1,
+          "explanation": "She saw something Babbage did not emphasize; 'stress' here means to emphasize."
+        }
+      ],
+      "wordCount": 245
+    },
+    {
+      "id": "og-his-moon-landing",
+      "title": "Footsteps on the Moon",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "history",
+      "level": 3,
+      "text": "In July 1969, a spacecraft called Apollo 11 carried three astronauts toward the Moon. After traveling for several days, two of them, Neil Armstrong and Buzz Aldrin, climbed into a small landing craft and drifted down to the Moon's surface. The third astronaut, Michael Collins, stayed in orbit above, circling alone while he waited for his crewmates to return.\n\nWhen Armstrong stepped onto the gray, dusty ground, millions of people on Earth watched on television. He and Aldrin collected rocks, took photographs, and planted a flag. The Moon's gravity is much weaker than Earth's, so they could bounce as they walked.\n\nThe landing was the result of years of work by thousands of engineers, scientists, and workers. It showed that careful planning and teamwork could achieve something that had once seemed impossible.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "detail",
+          "stem": "Which astronaut stayed in orbit while the others landed?",
+          "choices": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Michael Collins",
+            "No one stayed behind"
+          ],
+          "answer": 2,
+          "explanation": "The passage says Michael Collins stayed in orbit, circling alone."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why could the astronauts bounce as they walked on the Moon?",
+          "choices": [
+            "They wore spring-loaded boots",
+            "The Moon's gravity is much weaker than Earth's",
+            "The ground was made of rubber",
+            "They were running very fast"
+          ],
+          "answer": 1,
+          "explanation": "The text explains the Moon's gravity is weaker, so they could bounce."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "What does the last paragraph emphasize about the landing?",
+          "choices": [
+            "It was done by only three people alone",
+            "It happened by accident",
+            "It came from years of planning and teamwork by many people",
+            "It was filmed but never finished"
+          ],
+          "answer": 2,
+          "explanation": "The final paragraph credits thousands of workers and careful planning and teamwork."
+        }
+      ],
+      "wordCount": 132
+    },
+    {
+      "id": "og-his-great-wall",
+      "title": "Building the Great Wall",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "history",
+      "level": 2,
+      "text": "The Great Wall of China is one of the largest structures ever built by people. It is not one smooth wall but many walls joined together over a very long time.\n\nLong ago, rulers in China wanted to protect their lands from invaders who came from the north. They ordered workers to build walls of earth, stone, and brick along the borders. Over hundreds of years, different rulers added more sections.\n\nThe work was hard and slow. Many laborers carried heavy stones up steep hills by hand. Watchtowers were placed along the wall so guards could spot enemies and send warning signals. Today, people from all over the world visit the wall to see how much was built so long ago.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mostly about?",
+          "choices": [
+            "A single short wall built in one year",
+            "A huge wall built over many years to protect China",
+            "A modern tourist hotel",
+            "A river in northern China"
+          ],
+          "answer": 1,
+          "explanation": "The passage describes a large wall built over hundreds of years for protection."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "Why were watchtowers placed along the wall?",
+          "choices": [
+            "To store food",
+            "So guards could spot enemies and send warnings",
+            "To grow crops",
+            "To hold meetings"
+          ],
+          "answer": 1,
+          "explanation": "The text says watchtowers let guards spot enemies and send warning signals."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "Why did the wall end up made of many joined sections?",
+          "choices": [
+            "It was built by one ruler in a day",
+            "Different rulers added more parts over time",
+            "It kept falling and being rebuilt the same week",
+            "Workers refused to connect them"
+          ],
+          "answer": 1,
+          "explanation": "The passage says different rulers added more sections over hundreds of years."
+        }
+      ],
+      "wordCount": 121
+    },
+    {
+      "id": "og-bio-harriet-tubman",
+      "title": "Harriet Tubman's Dangerous Journeys",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "biography",
+      "level": 4,
+      "text": "Harriet Tubman was born into slavery in the United States in the early 1820s. As a young woman, she made a bold decision to escape, traveling north on foot, often at night, until she reached a state where she could be free.\n\nMany people would have stopped there, content with their own freedom. Tubman did not. She returned to the South again and again to lead others out of slavery. To do this, she relied on a secret system known as the Underground Railroad, which was not a real railroad at all. It was a network of safe houses and trusted helpers who hid escaping people and pointed them toward freedom.\n\nTubman became famous for her courage and caution. She traveled in winter, when long nights gave more cover, and she planned routes carefully to avoid capture. It is said that she never lost a single person she guided. Later in her life, she also worked as a nurse and a scout during the Civil War, and she spoke out for the rights of women. Her steady bravery made her one of the most admired figures of her time.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "What does the passage suggest about Tubman's character?",
+          "choices": [
+            "She cared only about her own safety",
+            "She was brave and willing to risk herself to help others",
+            "She avoided all danger",
+            "She disliked planning"
+          ],
+          "answer": 1,
+          "explanation": "She repeatedly returned to the South to free others despite great risk, showing selfless bravery."
+        },
+        {
+          "id": "q2",
+          "skill": "vocabulary",
+          "stem": "In the passage, the Underground Railroad was actually what?",
+          "choices": [
+            "A train that ran below ground",
+            "A network of safe houses and helpers",
+            "A river route",
+            "A type of tunnel"
+          ],
+          "answer": 1,
+          "explanation": "The text says it was not a real railroad but a network of safe houses and helpers."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "Why did Tubman often travel in winter?",
+          "choices": [
+            "The weather was warmer",
+            "Long nights gave more cover",
+            "Trains ran only in winter",
+            "She preferred the snow"
+          ],
+          "answer": 1,
+          "explanation": "The passage states she traveled in winter because long nights gave more cover."
+        }
+      ],
+      "wordCount": 189
+    },
+    {
+      "id": "og-his-pyramids",
+      "title": "The Pyramids of Egypt",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "history",
+      "level": 3,
+      "text": "Thousands of years ago, the rulers of ancient Egypt, called pharaohs, ordered giant stone tombs to be built for themselves. The most famous of these tombs are the pyramids, which still stand near the Nile River today.\n\nEach great pyramid was made of millions of heavy stone blocks. Workers cut the blocks from quarries, moved them to the building site, and stacked them into a shape that narrowed toward the top. Historians still study exactly how such heavy stones were lifted so high without modern machines. Many believe ramps and large teams of skilled workers were used.\n\nThe Egyptians believed that a pharaoh would continue to live in some way after death. Because of this belief, they filled the tombs with treasures, food, and objects the ruler might need. They also worked hard to protect the tombs from robbers, sometimes hiding the entrance or building false passages, though many tombs were still broken into over the centuries.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "detail",
+          "stem": "Who ordered the pyramids to be built?",
+          "choices": [
+            "Foreign kings",
+            "The pharaohs of Egypt",
+            "Greek traders",
+            "Roman soldiers"
+          ],
+          "answer": 1,
+          "explanation": "The passage says the pharaohs ordered the giant stone tombs."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why did the Egyptians fill the tombs with treasures and food?",
+          "choices": [
+            "To sell them later",
+            "Because they believed the pharaoh would live on after death",
+            "To feed the workers",
+            "To trade with neighbors"
+          ],
+          "answer": 1,
+          "explanation": "The text says they believed the pharaoh would continue to live after death, so they provided needed objects."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly explaining?",
+          "choices": [
+            "How the Nile River formed",
+            "Why and how the Egyptians built the pyramids as tombs",
+            "How modern machines move stone",
+            "The diet of ancient workers"
+          ],
+          "answer": 1,
+          "explanation": "The passage focuses on the purpose and building of the pyramids as pharaohs' tombs."
+        }
+      ],
+      "wordCount": 157
+    },
+    {
+      "id": "og-bio-marie-curie",
+      "title": "Marie Curie and the Glow of Discovery",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "biography",
+      "level": 5,
+      "text": "Marie Curie was born in Poland in 1867, at a time when women there had few chances to attend university. Determined to learn, she eventually moved to Paris, where she could study science freely. She lived simply and worked long hours, often going without proper meals so that she could afford her studies.\n\nIn Paris she met and married another scientist, Pierre Curie, and together they began investigating a strange property of certain elements. Some materials, they found, gave off a kind of energy on their own, without being heated or lit. Marie gave this property a name: radioactivity. Through patient and exhausting work, she and Pierre identified two new elements, which she called polonium, after her homeland, and radium.\n\nHer discoveries reshaped how scientists understood matter, and they earned her a Nobel Prize, the first ever awarded to a woman. Years later she won a second Nobel Prize in a different field of science, a feat almost no one had achieved. Yet the same rays she studied were slowly harming her, for at the time no one understood how dangerous long exposure could be. She carried test tubes of glowing material in her pockets and kept them on her desk, fascinated by their light.\n\nMarie Curie spent her life pushing into the unknown. Her courage to study what others feared, and her refusal to be stopped by the barriers placed before women, made her one of the most important scientists in history.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "Which sentence best states the main idea of the passage?",
+          "choices": [
+            "Marie Curie disliked living in Paris",
+            "Through determined work, Marie Curie made groundbreaking discoveries despite barriers and danger",
+            "Marie Curie invented the Nobel Prize",
+            "Marie Curie studied only one element"
+          ],
+          "answer": 1,
+          "explanation": "The passage centers on her determination, her discoveries, and the obstacles and risks she faced."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What did Marie Curie name the property of elements that gave off energy on their own?",
+          "choices": [
+            "Polonium",
+            "Radium",
+            "Radioactivity",
+            "Magnetism"
+          ],
+          "answer": 2,
+          "explanation": "The text says she named the property radioactivity; polonium and radium were elements."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What can the reader conclude about the dangers of her work?",
+          "choices": [
+            "She knew the rays were safe",
+            "The rays harmed her because no one yet understood the risk of long exposure",
+            "The danger came from her travels, not her materials",
+            "She avoided handling the glowing materials"
+          ],
+          "answer": 1,
+          "explanation": "The passage says the rays slowly harmed her and that no one then understood how dangerous exposure could be."
+        }
+      ],
+      "wordCount": 243
+    },
+    {
+      "id": "og-his-roman-roads",
+      "title": "The Roads of Rome",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "history",
+      "level": 3,
+      "text": "The ancient Romans built one of the most impressive road systems the world had ever seen. At its height, the empire was connected by tens of thousands of miles of roads, stretching from Britain in the north to the deserts of the south.\n\nRoman engineers built these roads to last. They dug deep and laid down several layers, beginning with large stones at the bottom and finishing with smooth, tightly fitted paving stones on top. Many roads were slightly curved across their width so that rainwater would run off the sides instead of pooling in the middle.\n\nThe roads served the army first. Soldiers could march quickly from one part of the empire to another to defend its borders or keep order. But the roads helped everyone. Traders moved goods, messengers carried news, and ordinary travelers found their journeys faster and safer. A saying grew up that all roads lead to Rome, because so many routes pointed toward the capital.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "detail",
+          "stem": "Why were many Roman roads slightly curved across their width?",
+          "choices": [
+            "To make them look nicer",
+            "So rainwater would run off the sides",
+            "To slow down travelers",
+            "To save stone"
+          ],
+          "answer": 1,
+          "explanation": "The text says the curve let rainwater run off the sides instead of pooling."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why was a strong road system useful to the Roman army?",
+          "choices": [
+            "It let soldiers grow crops",
+            "It let soldiers march quickly across the empire to defend it",
+            "It stopped traders from traveling",
+            "It blocked enemy ships"
+          ],
+          "answer": 1,
+          "explanation": "The passage says the roads let soldiers march quickly to defend borders and keep order."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "How Romans grew food",
+            "The well-built Roman roads and how they helped the empire",
+            "The fall of Rome",
+            "Roman clothing"
+          ],
+          "answer": 1,
+          "explanation": "The passage describes how the roads were built and how they served the army, traders, and travelers."
+        }
+      ],
+      "wordCount": 160
+    },
+    {
+      "id": "og-bio-mansa-musa",
+      "title": "Mansa Musa and the Golden Journey",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "biography",
+      "level": 4,
+      "text": "In the 1300s, the empire of Mali in West Africa was ruled by a king named Mansa Musa. The word mansa means ruler. His lands were rich in gold, and he controlled trade in salt and other goods, which made him enormously wealthy.\n\nMansa Musa is best remembered for a long journey he made to Mecca, a holy city far to the east. He did not travel quietly. According to accounts from the time, he set out with a huge group of followers and a great supply of gold. As he passed through cities along the way, he gave away and spent so much gold that prices in some places were thrown out of balance for years afterward.\n\nThe journey did more than display his riches. It put Mali on the maps that distant scholars drew, and it drew attention to the empire's wealth and learning. Mansa Musa also brought back scholars and builders, and he supported the growth of cities such as Timbuktu, which became known as a center of study. His reign showed how a powerful African empire could shape trade and knowledge across a wide region.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "vocabulary",
+          "stem": "Based on the passage, the word 'mansa' means what?",
+          "choices": [
+            "Gold",
+            "City",
+            "Ruler",
+            "Journey"
+          ],
+          "answer": 2,
+          "explanation": "The passage directly states that the word mansa means ruler."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why did prices fall out of balance in some cities he passed through?",
+          "choices": [
+            "He took gold from those cities",
+            "He gave away and spent so much gold that it upset local prices",
+            "He closed the markets",
+            "He raised taxes"
+          ],
+          "answer": 1,
+          "explanation": "The text says he spent and gave away so much gold that prices were thrown out of balance."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "Which city is named as a center of study that grew under his support?",
+          "choices": [
+            "Mecca",
+            "Mali",
+            "Timbuktu",
+            "Cairo"
+          ],
+          "answer": 2,
+          "explanation": "The passage says he supported the growth of Timbuktu, known as a center of study."
+        }
+      ],
+      "wordCount": 189
+    },
+    {
+      "id": "og-his-printing-vaccine",
+      "title": "The First Vaccine",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "history",
+      "level": 5,
+      "text": "For most of history, a disease called smallpox was one of the deadliest threats people faced. It spread easily and left survivors scarred, and it killed a great many of those it infected. People had long searched for a way to protect themselves, and over time some had noticed a curious fact.\n\nIn the late 1700s, an English doctor named Edward Jenner paid attention to a piece of common knowledge among country people. Milkmaids who had caught cowpox, a mild disease passed from cows, almost never seemed to get smallpox. Jenner wondered whether the mild illness somehow shielded them from the deadly one.\n\nTo test his idea, he took material from a cowpox sore and introduced a small amount into a healthy boy. The boy developed only a mild reaction. Later, when Jenner exposed the boy to smallpox, the child did not become sick. The mild disease had indeed protected him.\n\nJenner called his method vaccination, from the Latin word for cow. His work did not explain why the protection happened, for the science of germs was not yet understood. Even so, the practice spread, and over the following centuries, careful programs of vaccination reduced and eventually wiped out smallpox entirely. Jenner's careful observation of an everyday fact became the foundation of one of medicine's greatest achievements.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the central idea of the passage?",
+          "choices": [
+            "Smallpox was a harmless disease",
+            "Jenner's observation of cowpox led to the first vaccine and eventually ended smallpox",
+            "Milkmaids invented medicine",
+            "Cows are dangerous animals"
+          ],
+          "answer": 1,
+          "explanation": "The passage traces how Jenner's observation led to vaccination and the eventual end of smallpox."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What everyday observation gave Jenner his idea?",
+          "choices": [
+            "Doctors rarely got sick",
+            "Milkmaids who had caught cowpox almost never got smallpox",
+            "Cows could not catch smallpox",
+            "Children never caught smallpox"
+          ],
+          "answer": 1,
+          "explanation": "The text says he noticed milkmaids with cowpox almost never got smallpox."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "Why is it notable that Jenner could not explain why his method worked?",
+          "choices": [
+            "He kept the method secret",
+            "The science of germs was not yet understood, yet the method still worked",
+            "He guessed wrongly about cowpox",
+            "He never tested the idea"
+          ],
+          "answer": 1,
+          "explanation": "The passage notes the germ science was not yet known, so the method worked before its cause was understood."
+        }
+      ],
+      "wordCount": 217
+    },
+    {
+      "id": "og-bio-wright-brothers",
+      "title": "The Brothers Who Learned to Fly",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "biography",
+      "level": 2,
+      "text": "Orville and Wilbur Wright were two brothers in the United States who ran a shop that built and repaired bicycles. In their free time, they shared a big dream. They wanted to build a machine that could fly.\n\nMany people had tried to fly before and failed. The brothers studied birds and tested small models. They built a flying machine with wings and an engine, and they practiced controlling it. They also used a wind tunnel to learn how air pushed against different shapes.\n\nIn 1903, near a windy beach in North Carolina, their machine lifted off the ground and flew for a short time. It was one of the first flights by a powered airplane. Their patient work helped open the age of flying.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "detail",
+          "stem": "What kind of shop did the Wright brothers run?",
+          "choices": [
+            "A bakery",
+            "A bicycle shop",
+            "A bookstore",
+            "A clothing store"
+          ],
+          "answer": 1,
+          "explanation": "The passage says they ran a shop that built and repaired bicycles."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the passage suggest helped the brothers succeed?",
+          "choices": [
+            "They were lucky on the first try with no practice",
+            "They studied, tested, and practiced patiently",
+            "They copied a finished airplane",
+            "They flew without any planning"
+          ],
+          "answer": 1,
+          "explanation": "The text describes them studying birds, testing models, using a wind tunnel, and practicing."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "What is the passage mostly about?",
+          "choices": [
+            "How to fix a bicycle",
+            "Two brothers whose careful work led to one of the first powered flights",
+            "A trip to the beach",
+            "How birds build nests"
+          ],
+          "answer": 1,
+          "explanation": "The passage focuses on the brothers' effort to build a flying machine and their early flight."
+        }
+      ],
+      "wordCount": 125
+    },
+    {
+      "id": "og-non-compound-interest",
+      "title": "The Quiet Power of Compounding",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "economics",
+      "level": 2,
+      "text": "Imagine planting a single coin that grows a little each year, and that the growth itself starts to grow. This is the heart of compound interest. In the first year, you earn a small amount on what you saved. In the second year, you earn money not only on your original savings but also on the interest from the first year. Each round builds on the last.\n\nThe surprise is how slow it feels at the start and how fast it becomes later. For a long time the pile barely seems to move. Then, almost without warning, it climbs steeply. People who begin saving early often end up far ahead of those who save more but begin late, because they give the process more time to fold gains upon gains.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of the passage?",
+          "choices": [
+            "Saving money is impossible for most people",
+            "Compound interest makes savings grow on earlier gains, rewarding time",
+            "Coins are a poor way to store money",
+            "Interest rates change every year"
+          ],
+          "answer": 1,
+          "explanation": "The passage explains that interest is earned on both original savings and prior interest, and that time is the key advantage."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why might an early saver beat a later saver who saves more?",
+          "choices": [
+            "Early savers earn higher interest rates",
+            "More time lets gains keep building on gains",
+            "Later savers always lose money",
+            "Banks favor younger customers"
+          ],
+          "answer": 1,
+          "explanation": "The text says beginning early gives 'the process more time to fold gains upon gains.'"
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In the passage, 'steeply' most nearly means",
+          "choices": [
+            "slowly and evenly",
+            "sharply and quickly upward",
+            "downward toward zero",
+            "in a flat line"
+          ],
+          "answer": 1,
+          "explanation": "The pile 'climbs steeply' after a slow start, meaning a sharp, fast rise."
+        }
+      ],
+      "wordCount": 130
+    },
+    {
+      "id": "og-non-confirmation-bias",
+      "title": "Seeing What We Expect",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "psychology",
+      "level": 3,
+      "text": "Once we form a belief, the mind quietly begins to defend it. We notice facts that fit what we already think and skim past those that do not. This habit is called confirmation bias, and it operates below our awareness, which is what makes it so stubborn.\n\nConsider someone convinced that a certain food cures colds. When they recover after eating it, they count that as proof. When they stay sick, they decide they simply did not eat enough, or they forget the case entirely. Every outcome is bent to support the belief.\n\nThe danger is not that we hold opinions but that we stop testing them. A more careful thinker deliberately searches for evidence that could prove the belief wrong. If the belief survives that honest search, it has earned more trust. Confirmation bias is not a sign of stupidity; even brilliant people fall into it. It is simply the path of least mental effort, and resisting it takes practice.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The passage is mainly about",
+          "choices": [
+            "why certain foods cure colds",
+            "how we favor evidence that supports beliefs we already hold",
+            "why brilliant people make fewer mistakes",
+            "the importance of holding strong opinions"
+          ],
+          "answer": 1,
+          "explanation": "The whole passage defines and illustrates confirmation bias, the tendency to favor confirming evidence."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "According to the passage, what makes a belief more trustworthy?",
+          "choices": [
+            "Holding it confidently",
+            "Finding many people who agree",
+            "Surviving an honest search for evidence against it",
+            "Repeating it often"
+          ],
+          "answer": 2,
+          "explanation": "The text says if a belief survives a search for disproving evidence, it 'has earned more trust.'"
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "As used here, 'stubborn' most nearly means",
+          "choices": [
+            "easy to remove",
+            "hard to change or overcome",
+            "loud and obvious",
+            "rarely noticed by anyone"
+          ],
+          "answer": 1,
+          "explanation": "The bias is called stubborn because it operates below awareness, making it hard to change."
+        }
+      ],
+      "wordCount": 161
+    },
+    {
+      "id": "og-non-tragedy-commons",
+      "title": "The Shared Field",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "economics",
+      "level": 4,
+      "text": "Picture a meadow open to every herder in a village. Each may graze as many animals as they like, free of charge. For any single herder, the logic is simple: adding one more cow brings a clear private gain, while the cost of slightly overgrazed grass is spread across the whole village. So each herder, acting reasonably, keeps adding animals.\n\nThe trouble is that everyone reasons the same way. The grass, which could have fed the herds for generations, is stripped bare within a few seasons. What was rational for each person turns out to be ruinous for all. This pattern is known as the tragedy of the commons, and it appears wherever a shared resource has no limits on its use: fisheries emptied of fish, air thickened with smoke, roads choked with traffic.\n\nThe lesson is not that people are wicked. The herders are not villains; they are responding sensibly to the incentives in front of them. The failure lies in the structure. When the benefits of use are private but the costs are shared, individual good sense produces collective harm. Solutions usually require changing that structure, by assigning ownership, setting enforceable limits, or charging for use, so that the cost of taking more lands on the one who takes it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the central point of the passage?",
+          "choices": [
+            "Herders are greedy and should be punished",
+            "Shared resources with no limits get overused because costs are spread while gains are private",
+            "Meadows are the best place to raise cattle",
+            "People always act against their own interests"
+          ],
+          "answer": 1,
+          "explanation": "The passage defines the tragedy of the commons: private gains plus shared costs lead to overuse and collective harm."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Based on the passage, why do the proposed solutions focus on structure rather than character?",
+          "choices": [
+            "Because changing laws is cheaper than educating people",
+            "Because the harm comes from incentives, not from people being wicked",
+            "Because herders cannot understand the problem",
+            "Because shared resources can never be saved"
+          ],
+          "answer": 1,
+          "explanation": "The text stresses that herders are not villains; the failure is in the structure of incentives, so fixes target structure."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "Which example of the tragedy does the passage give?",
+          "choices": [
+            "Banks running out of money",
+            "Fisheries emptied of fish",
+            "Forests planted too densely",
+            "Crowds at a concert"
+          ],
+          "answer": 1,
+          "explanation": "The passage lists 'fisheries emptied of fish' as an example of a shared resource being overused."
+        }
+      ],
+      "wordCount": 212
+    },
+    {
+      "id": "og-non-how-habits-form",
+      "title": "The Loop Behind a Habit",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "psychology",
+      "level": 3,
+      "text": "A habit is a behavior the brain has learned to run on autopilot. It usually forms around a simple loop with three parts: a cue, a routine, and a reward. The cue is a trigger, such as a time of day or a feeling. The routine is the action itself. The reward is the payoff that tells the brain the loop is worth remembering.\n\nWhen the same loop repeats often enough, the brain stops deliberating and lets the cue pull the routine along almost automatically. This saves effort, which is the whole point: habits free attention for harder tasks. But the same machinery that builds helpful habits also builds harmful ones, because the brain does not judge whether a reward is good for you, only whether it feels rewarding.\n\nThis is why willpower alone rarely changes a habit. A more effective approach keeps the cue and the reward but swaps the routine in between for a better one. The trigger still fires, the payoff still arrives, but the action that connects them is replaced.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The passage mainly explains",
+          "choices": [
+            "why willpower always works",
+            "how habits form through a cue, routine, and reward loop",
+            "which rewards are good for health",
+            "how the brain rests during sleep"
+          ],
+          "answer": 1,
+          "explanation": "The passage centers on the three-part habit loop and how it operates."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the passage suggest keeping the cue and reward while changing the routine?",
+          "choices": [
+            "Because cues and rewards cannot be removed",
+            "Because the loop still triggers and pays off, but with a better action between",
+            "Because routines are the easiest part to ignore",
+            "Because rewards are always harmful"
+          ],
+          "answer": 1,
+          "explanation": "The text says the trigger still fires and the payoff still arrives, but the routine in between is replaced."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "According to the passage, what does the reward do?",
+          "choices": [
+            "It creates the cue",
+            "It signals to the brain that the loop is worth remembering",
+            "It cancels the routine",
+            "It replaces willpower"
+          ],
+          "answer": 1,
+          "explanation": "The text states the reward is 'the payoff that tells the brain the loop is worth remembering.'"
+        }
+      ],
+      "wordCount": 174
+    },
+    {
+      "id": "og-non-supply-demand",
+      "title": "Where Price Comes From",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "economics",
+      "level": 2,
+      "text": "Prices are not set by a single person. They emerge from a tug-of-war between two forces: how much of a thing is available and how much people want it. These forces are called supply and demand.\n\nWhen many people want a product but little of it exists, the price rises. Buyers compete, and sellers can ask for more. When a product is everywhere but few people want it, the price falls, because sellers must lower it to attract anyone at all. Most of the time the two forces pull toward a balance, a price where the amount offered roughly matches the amount wanted.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "How to start a business",
+            "How supply and demand together shape prices",
+            "Why oranges are expensive",
+            "How buyers can avoid paying"
+          ],
+          "answer": 1,
+          "explanation": "The passage explains that price emerges from the interaction of supply and demand."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Based on the passage, what would likely happen to the price of umbrellas during a long drought?",
+          "choices": [
+            "It would rise sharply",
+            "It would likely fall, since fewer people want them",
+            "It would stay exactly the same",
+            "It would be set by the government"
+          ],
+          "answer": 1,
+          "explanation": "Lower demand pushes price down, as the passage says sellers must lower prices when few people want a product."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In the passage, 'emerge' most nearly means",
+          "choices": [
+            "disappear",
+            "come into being from something",
+            "stay fixed",
+            "be commanded"
+          ],
+          "answer": 1,
+          "explanation": "Prices 'emerge from a tug-of-war,' meaning they arise out of those forces."
+        }
+      ],
+      "wordCount": 103
+    },
+    {
+      "id": "og-non-attention-economy",
+      "title": "The Price of Your Attention",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "technology",
+      "level": 4,
+      "text": "Many of the apps and sites people use every day cost nothing to open. This generosity has a hidden logic. The companies behind them do not sell a product to you; they sell you, or rather your attention, to advertisers. The longer you stay and the more often you return, the more there is to sell.\n\nThis arrangement quietly reshapes the design of the things we use. A tool built mainly to be useful would help you finish a task and leave. A tool built to capture attention does the opposite: it is engineered to keep you scrolling. Endless feeds, autoplaying videos, and notifications timed to pull you back are not accidents. They are the natural result of measuring success by time spent rather than tasks completed.\n\nNone of this requires bad intentions. Designers are simply responding to what they are rewarded for. If a small change makes people linger a few seconds longer, it spreads, while a change that helps people leave satisfied may be quietly discarded. Over millions of users, those tiny choices accumulate into systems that are very good at holding us and not always good for us. Understanding the incentive does not switch it off, but it does let you watch the machinery work and decide, more deliberately, how much of yourself to feed it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The central idea of the passage is that",
+          "choices": [
+            "free apps are a gift to users with no catch",
+            "when attention is the product, apps are designed to hold us rather than help us finish",
+            "advertisers dislike apps that are free",
+            "designers intend to harm their users"
+          ],
+          "answer": 1,
+          "explanation": "The passage argues that selling attention to advertisers shapes design toward holding users, not serving them."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the passage say a feature that helps people 'leave satisfied' might be discarded?",
+          "choices": [
+            "It is too expensive to build",
+            "Users complain about it",
+            "Success is measured by time spent, so features that reduce time spread less",
+            "It violates advertising laws"
+          ],
+          "answer": 2,
+          "explanation": "Because success is measured by time spent, changes that make people linger spread, while ones that help people leave are discarded."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "As used in the passage, 'accumulate' most nearly means",
+          "choices": [
+            "disappear over time",
+            "build up into a larger whole",
+            "stay separate forever",
+            "cancel each other out"
+          ],
+          "answer": 1,
+          "explanation": "Tiny choices 'accumulate into systems,' meaning they build up into something larger."
+        }
+      ],
+      "wordCount": 219
+    },
+    {
+      "id": "og-non-network-effects",
+      "title": "Why the Crowd Attracts a Crowd",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "technology",
+      "level": 3,
+      "text": "Some products become more valuable the more people use them. A single telephone is useless; there is no one to call. A million telephones form a system worth far more than the sum of its parts. This pattern is called a network effect.\n\nThe pull is powerful. Once a service has many users, newcomers join because that is where everyone already is, and each new member makes it more attractive to the next. The same force can trap people, too. A product may keep its lead not because it is best but because everyone is already there, and no one wants to be first to leave. This is why strong networks are hard to challenge: a rival must offer not just a better tool, but a reason for the whole crowd to move at once.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea?",
+          "choices": [
+            "Telephones are outdated technology",
+            "Some products grow more valuable as more people use them, which both attracts and traps users",
+            "The best product always wins the market",
+            "People dislike joining large networks"
+          ],
+          "answer": 1,
+          "explanation": "The passage defines network effects and shows how they attract newcomers and lock users in."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why is the strongest network hard for a rival to defeat?",
+          "choices": [
+            "Rivals lack money",
+            "A rival must convince the whole crowd to move at once, not just build a better tool",
+            "Networks are protected by law",
+            "Users never try new products"
+          ],
+          "answer": 1,
+          "explanation": "The text says a rival must offer a reason for the whole crowd to move together, not merely a better tool."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "According to the passage, why is a single telephone useless?",
+          "choices": [
+            "It is too expensive",
+            "There is no one to call",
+            "It breaks easily",
+            "It cannot connect to the internet"
+          ],
+          "answer": 1,
+          "explanation": "The passage states 'A single telephone is useless; there is no one to call.'"
+        }
+      ],
+      "wordCount": 135
+    },
+    {
+      "id": "og-non-decision-fatigue",
+      "title": "The Tired Chooser",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "psychology",
+      "level": 3,
+      "text": "Making decisions feels weightless, but it draws on a limited supply of mental energy. After a long string of choices, that supply runs low, and the quality of our judgment quietly slips. Researchers call this decision fatigue.\n\nWhen worn down, the mind looks for shortcuts. It may grab the first acceptable option, or avoid deciding at all and simply keep things as they are. Both are the mind conserving what little fuel remains. This explains why some people deliberately shrink the number of small decisions they face, by eating the same breakfast or laying out clothes the night before. Each trivial choice removed leaves a little more energy for the choices that truly matter.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The passage mainly argues that",
+          "choices": [
+            "decisions are effortless",
+            "making many choices drains mental energy and lowers later judgment",
+            "people should never make plans",
+            "breakfast is the most important meal"
+          ],
+          "answer": 1,
+          "explanation": "The passage is about decision fatigue: choices draw on limited energy, weakening later judgment."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why might someone wear the same outfit every day, according to the passage?",
+          "choices": [
+            "To save money on clothes",
+            "To remove small decisions and save energy for important ones",
+            "Because they dislike variety",
+            "To follow a fashion trend"
+          ],
+          "answer": 1,
+          "explanation": "The text says removing trivial choices leaves more energy for choices that truly matter."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In the passage, 'conserving' most nearly means",
+          "choices": [
+            "wasting freely",
+            "saving or preserving",
+            "sharing widely",
+            "ignoring completely"
+          ],
+          "answer": 1,
+          "explanation": "The mind takes shortcuts to conserve fuel, meaning to save what energy remains."
+        }
+      ],
+      "wordCount": 114
+    },
+    {
+      "id": "og-non-memory-reconstruction",
+      "title": "Memory as Rebuilding",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "psychology",
+      "level": 4,
+      "text": "We tend to imagine memory as a recording, a faithful video stored away and replayed on demand. The truth is stranger. Each time we remember something, we are not pressing play; we are rebuilding the event from scattered fragments, filling the gaps with assumptions about how things usually go.\n\nThis reconstruction is useful. It lets us recall the gist of an experience without storing every detail, which would be impossibly costly. But it also means memory is editable. A leading question, a later conversation, even our own retelling can slip new details into the rebuilt scene, and we cannot feel the seam where invention meets fact. The altered memory seems just as vivid and certain as a true one.\n\nThis has unsettling consequences. Eyewitnesses can sincerely describe events that never happened, not because they lie but because their minds rebuilt the past around suggestions planted afterward. Confidence, it turns out, is a poor measure of accuracy. What feels like replay is really a fresh act of construction, shaped by everything we have learned since.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "Which statement best captures the main idea?",
+          "choices": [
+            "Memory works like a perfect video recording",
+            "Remembering is an act of rebuilding that can introduce errors we cannot detect",
+            "Eyewitnesses always lie about what they saw",
+            "Memory should be completely distrusted"
+          ],
+          "answer": 1,
+          "explanation": "The passage argues memory is reconstructed each time, making it editable and sometimes inaccurate without our awareness."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the passage say confidence is 'a poor measure of accuracy'?",
+          "choices": [
+            "People are usually lying when confident",
+            "Reconstructed false memories can feel just as vivid and certain as true ones",
+            "Confident people remember less",
+            "Accuracy cannot be measured at all"
+          ],
+          "answer": 1,
+          "explanation": "The text notes altered memories seem as vivid and certain as true ones, so feeling sure does not prove correctness."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "As used here, 'seam' most nearly refers to",
+          "choices": [
+            "a type of fabric",
+            "the join where invented details meet real ones",
+            "a strong emotion",
+            "a recording device"
+          ],
+          "answer": 1,
+          "explanation": "We cannot feel 'the seam where invention meets fact,' meaning the join between false and true details."
+        }
+      ],
+      "wordCount": 174
+    },
+    {
+      "id": "og-non-persuasion-reciprocity",
+      "title": "The Pull of a Favor",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "psychology",
+      "level": 3,
+      "text": "Across nearly every culture, people feel an urge to return a favor. When someone gives us something, even something small and unrequested, a quiet pressure builds to give something back. This rule of reciprocity helped early communities cooperate and share, and it runs so deep that we often obey it without noticing.\n\nBecause the urge is automatic, it can be used as a tool of persuasion. A free sample, an unexpected gift, a small concession in an argument: each can plant a sense of debt that makes us more willing to say yes afterward. The favor need not be large, and we need not even have wanted it. The discomfort of feeling indebted is enough to nudge our behavior.\n\nKnowing this does not make the urge vanish, but it offers a defense. When a gift seems designed to obligate you, you are free to receive it as what it is, a sales tactic rather than a true kindness, and to feel no debt at all.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The passage is mainly about",
+          "choices": [
+            "why people enjoy giving gifts",
+            "how the urge to return favors shapes behavior and can be used to persuade",
+            "the history of early communities",
+            "why free samples taste better"
+          ],
+          "answer": 1,
+          "explanation": "The passage explains reciprocity and how it can be used as a persuasion tool."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What defense against this tactic does the passage suggest?",
+          "choices": [
+            "Refusing to speak to salespeople",
+            "Recognizing a manipulative gift as a tactic and feeling no debt",
+            "Always returning every favor immediately",
+            "Never accepting anything from anyone"
+          ],
+          "answer": 1,
+          "explanation": "The text says you can receive such a gift as a sales tactic rather than kindness and feel no debt."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "According to the passage, must a favor be large to create a sense of debt?",
+          "choices": [
+            "Yes, only large gifts work",
+            "No, even a small, unwanted favor can create the feeling",
+            "Only gifts of money count",
+            "Only favors we asked for count"
+          ],
+          "answer": 1,
+          "explanation": "The passage says the favor need not be large and we need not even have wanted it."
+        }
+      ],
+      "wordCount": 165
+    },
+    {
+      "id": "og-non-opportunity-cost",
+      "title": "The Cost You Cannot See",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "economics",
+      "level": 5,
+      "text": "Every choice quietly closes a door. When you spend an afternoon on one activity, you give up everything else you might have done with that time. When you spend a dollar on one thing, you forgo whatever else that dollar could have bought. Economists call this hidden price the opportunity cost: the value of the best option you did not take.\n\nWhat makes opportunity cost slippery is that it never appears on a receipt. The money you paid is visible and easy to count. The trip you did not take, the skill you did not learn, the rest you did not get, leave no trace, so the mind tends to ignore them. Yet they are the true measure of what a decision costs. A purchase that seems cheap may be expensive once you account for the better use of the same resources, and a free activity is never truly free if it consumes time you valued more elsewhere.\n\nThinking in terms of opportunity cost changes the question we ask. Instead of wondering whether something is worth its sticker price, we ask whether it is worth more than the next best thing we could do instead. This is a harder question, because it forces us to name what we are giving up. But it is also a more honest one. Resources are limited, and the real cost of having anything is the most valuable thing we surrender to get it. Decisions made without this lens often feel like bargains while quietly draining what matters most: our time, our energy, and our attention.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of the passage?",
+          "choices": [
+            "Most purchases are bargains",
+            "The true cost of a choice is the best alternative you give up, which is easy to overlook",
+            "Money is the only real cost worth counting",
+            "Free activities have no cost at all"
+          ],
+          "answer": 1,
+          "explanation": "The passage defines opportunity cost as the value of the best forgone option and stresses that it is hidden but real."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the passage say opportunity cost is 'slippery'?",
+          "choices": [
+            "It changes every day",
+            "It never appears on a receipt, so the mind tends to ignore it",
+            "It only applies to money",
+            "It is illegal to calculate"
+          ],
+          "answer": 1,
+          "explanation": "The text explains the cost leaves no trace and never appears on a receipt, so people overlook it."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "How does opportunity cost change the question we should ask about a choice?",
+          "choices": [
+            "Whether it costs less than last year",
+            "Whether it is worth more than the next best alternative",
+            "Whether other people approve of it",
+            "Whether it is the cheapest option available"
+          ],
+          "answer": 1,
+          "explanation": "The passage says we should ask whether something is worth more than the next best thing we could do instead."
+        }
+      ],
+      "wordCount": 261
+    },
+    {
+      "id": "og-non-anchoring-effect",
+      "title": "The First Number Wins",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "psychology",
+      "level": 5,
+      "text": "When we judge an unknown quantity, the mind reaches for a starting point and adjusts from there. The trouble is that the starting point need not be relevant, and the adjustment is usually too small. The first figure we encounter, even an arbitrary one, tugs our estimate toward itself. Psychologists call this the anchoring effect.\n\nThe pull is surprisingly strong. In studies, people asked whether a quantity is higher or lower than some random number, perhaps drawn from a spin of a wheel, will later give estimates that drift toward that meaningless number. They do not believe the wheel knows anything, and yet their guesses bend toward it. The anchor works even when we are told to ignore it.\n\nThis quietly shapes the marketplace. A high original price printed beside a sale price makes the sale feel generous, because the original anchors our sense of what the item is worth. A first offer in a negotiation frames every counteroffer that follows. Even an absurd opening demand can drag the final agreement in its direction, which is why the person who names the first number often holds an unseen advantage.\n\nThe defense is not to feel immune, since no one is. It is to notice when a number has been handed to you and to ask, deliberately, what the thing would be worth if you had never seen that figure at all. Generating your own estimate first, before any anchor appears, is one of the few reliable ways to keep the anchor from setting the terms of your judgment.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The passage is mainly about",
+          "choices": [
+            "how to win every negotiation",
+            "how an initial number, even an irrelevant one, biases our later estimates",
+            "why sale prices are always fair",
+            "how wheels are used in psychology labs"
+          ],
+          "answer": 1,
+          "explanation": "The passage defines and illustrates the anchoring effect: a first number pulls our estimates toward it."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does naming the first number give a negotiator an advantage?",
+          "choices": [
+            "It ends the negotiation immediately",
+            "It sets an anchor that drags later counteroffers toward it",
+            "It proves the negotiator is honest",
+            "It lowers the final price for everyone"
+          ],
+          "answer": 1,
+          "explanation": "The text says a first offer frames every counteroffer and even an absurd demand drags the final agreement toward it."
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "What does the passage recommend as a defense against anchoring?",
+          "choices": [
+            "Believing you are immune to it",
+            "Forming your own estimate before any anchor appears",
+            "Always accepting the first offer",
+            "Ignoring all prices entirely"
+          ],
+          "answer": 1,
+          "explanation": "The passage says generating your own estimate first, before an anchor appears, is a reliable defense."
+        }
+      ],
+      "wordCount": 258
+    },
+    {
+      "id": "og-sci-moon-tides",
+      "title": "Why the Sea Rises and Falls",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 2,
+      "text": "Twice a day, the ocean creeps up the beach and then slides back down again. These changes are called tides, and they are caused mostly by the Moon. The Moon's gravity pulls on the water of the ocean. The side of Earth facing the Moon is tugged hardest, so the water there bulges outward. A matching bulge forms on the opposite side of the planet. As Earth spins, different coasts pass through these bulges, which is why high tide and low tide arrive at regular times. The Sun adds a smaller pull of its own. When the Sun and Moon line up, their pulls combine to make especially large tides.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this passage mainly about?",
+          "choices": [
+            "How the Moon formed",
+            "What causes ocean tides",
+            "Why the ocean is salty",
+            "How fish survive in the sea"
+          ],
+          "answer": 1,
+          "explanation": "The passage explains that tides are the rise and fall of the sea, caused mostly by the Moon's gravity."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the text, how many bulges of water form on Earth?",
+          "choices": [
+            "One",
+            "Two",
+            "Three",
+            "Four"
+          ],
+          "answer": 1,
+          "explanation": "The text says water bulges on the side facing the Moon and 'a matching bulge forms on the opposite side,' which is two."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, the word 'bulges' means areas that",
+          "choices": [
+            "sink inward",
+            "swell outward",
+            "dry up",
+            "freeze solid"
+          ],
+          "answer": 1,
+          "explanation": "The water is 'tugged' and 'bulges outward,' so a bulge swells outward."
+        }
+      ],
+      "wordCount": 110
+    },
+    {
+      "id": "og-sci-honeybee-dance",
+      "title": "The Dance of the Honeybee",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nature",
+      "level": 3,
+      "text": "When a honeybee discovers a rich patch of flowers, it does not simply fly home and rest. Instead, it returns to the hive and performs a curious movement that scientists call the waggle dance. The bee walks in a straight line while shaking its body, then loops back to repeat the pattern. The direction of the straight run, measured against the position of the Sun, tells the other bees which way to fly. The length of the waggle hints at how far away the food lies. Nearby flowers earn a short, quick dance, while distant ones produce a long, vigorous one. Through this silent language, a single scout can send dozens of workers straight to a meal they have never seen.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The passage is mostly about how honeybees",
+          "choices": [
+            "build their hives",
+            "make honey from nectar",
+            "communicate the location of food",
+            "defend against predators"
+          ],
+          "answer": 2,
+          "explanation": "The whole passage describes the waggle dance as a way bees tell others where food is."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What does the length of the waggle indicate?",
+          "choices": [
+            "The type of flower",
+            "How far away the food is",
+            "The time of day",
+            "The number of bees needed"
+          ],
+          "answer": 1,
+          "explanation": "The text states the length of the waggle 'hints at how far away the food lies.'"
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "Based on the passage, a very long, vigorous dance most likely means the flowers are",
+          "choices": [
+            "right next to the hive",
+            "far from the hive",
+            "out of nectar",
+            "dangerous to visit"
+          ],
+          "answer": 1,
+          "explanation": "The text contrasts short dances for nearby flowers with long, vigorous dances for distant ones."
+        }
+      ],
+      "wordCount": 121
+    },
+    {
+      "id": "og-sci-volcano-rock",
+      "title": "How Rock Becomes Rock Again",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 3,
+      "text": "Rock may look permanent, but over long stretches of time it changes from one form into another. Deep below the surface, intense heat melts rock into a glowing liquid called magma. When magma cools, either underground or after erupting from a volcano, it hardens into igneous rock. Wind and water then break that rock into tiny grains. The grains settle in layers at the bottom of lakes and seas, and over millions of years the weight above presses them into sedimentary rock. If sedimentary rock is buried deeper still, heat and pressure can squeeze and bake it into metamorphic rock without fully melting it. Should that rock sink far enough to melt, it becomes magma again. Geologists call this endless loop the rock cycle, and it has been turning for billions of years. Because each step takes so long, a single grain of sand may carry the history of several different rocks within it, a record patient observers can learn to read.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "vocabulary",
+          "stem": "In this passage, 'magma' refers to rock that is",
+          "choices": [
+            "frozen solid",
+            "melted into liquid",
+            "broken into grains",
+            "pressed into layers"
+          ],
+          "answer": 1,
+          "explanation": "The text defines magma as rock that intense heat 'melts ... into a glowing liquid.'"
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the text, sedimentary rock forms when",
+          "choices": [
+            "magma cools quickly",
+            "grains settle and are pressed in layers",
+            "rock melts underground",
+            "volcanoes erupt"
+          ],
+          "answer": 1,
+          "explanation": "The passage says grains settle in layers and the weight above presses them into sedimentary rock."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "The best title for the central idea of this passage is",
+          "choices": [
+            "Volcanoes Around the World",
+            "How Rocks Constantly Change Form",
+            "Why Lakes Form Layers",
+            "The Work of Geologists"
+          ],
+          "answer": 1,
+          "explanation": "The passage describes the rock cycle, the endless loop in which rock changes form."
+        }
+      ],
+      "wordCount": 162
+    },
+    {
+      "id": "og-sci-tardigrade",
+      "title": "The Toughest Animal You Can't See",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nature",
+      "level": 4,
+      "text": "Among the most resilient creatures on Earth is one barely visible to the naked eye. The tardigrade, sometimes called a water bear, is a chubby, eight-legged animal smaller than a grain of sand. It lives in mossy patches, ocean sediments, and the films of water that cling to soil. What makes the tardigrade remarkable is its response to harsh conditions. When its surroundings dry out, the animal expels nearly all the water from its body and pulls in its legs, shriveling into a dormant ball called a tun. In this suspended state its metabolism almost halts, and it can endure temperatures near absolute zero, the vacuum of space, and doses of radiation that would kill most life many times over. Years later, a single drop of water can revive it, and the tiny animal lumbers off as though nothing had happened. Scientists study tardigrades to understand how life might survive on other worlds, and how delicate biological structures can be preserved through extreme stress.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "vocabulary",
+          "stem": "As used in the passage, 'dormant' most nearly means",
+          "choices": [
+            "growing rapidly",
+            "inactive or resting",
+            "brightly colored",
+            "newly hatched"
+          ],
+          "answer": 1,
+          "explanation": "The tun is a state where 'metabolism almost halts,' so dormant means inactive or resting."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why do scientists study tardigrades in connection with other worlds?",
+          "choices": [
+            "Tardigrades come from space",
+            "Their survival hints at how life might endure harsh, alien conditions",
+            "They can only live in vacuums",
+            "They glow in the dark"
+          ],
+          "answer": 1,
+          "explanation": "The passage says scientists study them to understand how life might survive on other worlds because they endure extreme conditions."
+        },
+        {
+          "id": "q3",
+          "skill": "detail",
+          "stem": "What does a tardigrade do when its surroundings dry out?",
+          "choices": [
+            "It lays eggs",
+            "It expels water and curls into a tun",
+            "It swims to deeper water",
+            "It grows extra legs"
+          ],
+          "answer": 1,
+          "explanation": "The text states it 'expels nearly all the water from its body and pulls in its legs,' forming a tun."
+        }
+      ],
+      "wordCount": 164
+    },
+    {
+      "id": "og-sci-photosynthesis",
+      "title": "Eating Sunlight",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 2,
+      "text": "Animals must find food to get energy, but green plants make their own. Inside their leaves are tiny green parts that capture sunlight. The plant uses that light energy to combine water from the soil with a gas called carbon dioxide from the air. This process turns those simple ingredients into sugar, which feeds the plant and helps it grow. The process is called photosynthesis. As a bonus, the plant releases oxygen, the gas that people and animals need to breathe. So when you stand near a leafy tree on a sunny day, the tree is quietly building food and freshening the air at the same time.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this passage?",
+          "choices": [
+            "Animals eat plants for energy",
+            "Plants use sunlight to make their own food",
+            "Trees grow best in soil",
+            "Oxygen is a kind of sugar"
+          ],
+          "answer": 1,
+          "explanation": "The passage centers on photosynthesis, how plants use sunlight to make food."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the text, what gas do plants release during photosynthesis?",
+          "choices": [
+            "Carbon dioxide",
+            "Oxygen",
+            "Nitrogen",
+            "Steam"
+          ],
+          "answer": 1,
+          "explanation": "The text says the plant 'releases oxygen' as a bonus."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In the passage, 'capture' most nearly means",
+          "choices": [
+            "take in or catch",
+            "reflect away",
+            "burn up",
+            "hide from"
+          ],
+          "answer": 0,
+          "explanation": "The green parts 'capture sunlight,' meaning they take it in to use its energy."
+        }
+      ],
+      "wordCount": 107
+    },
+    {
+      "id": "og-sci-neuron-signals",
+      "title": "Messages in the Brain",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 4,
+      "text": "Every thought, memory, and movement begins as a tiny electrical signal traveling through the brain. The brain contains roughly eighty-six billion cells called neurons, each one shaped like a tree with many branching arms. A neuron receives signals through its branches, and when enough of them arrive, the cell fires a pulse of electricity down a long fiber toward its neighbors. But neurons do not actually touch. Between them lies a microscopic gap called a synapse. To cross it, the electrical signal triggers the release of chemical messengers that drift across the gap and pass the message along. This blend of electricity and chemistry lets billions of neurons coordinate in fractions of a second. What we experience as a single smooth thought is really a vast storm of these signals racing through an intricate web of connections, many of them strengthened or weakened by what we learn.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "detail",
+          "stem": "What is the small gap between two neurons called?",
+          "choices": [
+            "A synapse",
+            "A fiber",
+            "A pulse",
+            "A branch"
+          ],
+          "answer": 0,
+          "explanation": "The text says 'Between them lies a microscopic gap called a synapse.'"
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "The passage suggests that a single thought is",
+          "choices": [
+            "produced by one neuron alone",
+            "the result of many neurons signaling together",
+            "purely chemical with no electricity",
+            "slower than a heartbeat"
+          ],
+          "answer": 1,
+          "explanation": "The text says a smooth thought is 'really a vast storm of these signals' across billions of neurons."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, 'intricate' most nearly means",
+          "choices": [
+            "simple and plain",
+            "complex and detailed",
+            "empty",
+            "fast"
+          ],
+          "answer": 1,
+          "explanation": "An 'intricate web of connections' refers to a complex, detailed network."
+        }
+      ],
+      "wordCount": 147
+    },
+    {
+      "id": "og-sci-coral-reef",
+      "title": "Cities Beneath the Waves",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nature",
+      "level": 3,
+      "text": "A coral reef looks like a colorful rocky garden, but it is actually built by living animals. Each coral is a colony of tiny soft-bodied creatures called polyps. Over many years, the polyps draw minerals from seawater to build hard limestone cups around themselves, and as old polyps die and new ones grow on top, the reef slowly rises. Inside the polyps live even smaller partners: microscopic algae that make food from sunlight and share it with the coral. In return, the algae get shelter. This partnership is why reefs grow only in clear, sunlit waters. When the water grows too warm, the coral expels its algae and turns pale, an event known as bleaching. Without its partners, the coral can starve. That is why scientists watch ocean temperatures so closely, since even a small, lasting rise can leave miles of reef pale and lifeless within a single season.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "The passage is mainly about",
+          "choices": [
+            "how fish hunt on reefs",
+            "how living coral builds reefs and depends on algae",
+            "why oceans are getting warmer",
+            "how to dive safely"
+          ],
+          "answer": 1,
+          "explanation": "The passage explains that reefs are built by coral polyps that partner with algae."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What do the algae give the coral in their partnership?",
+          "choices": [
+            "Shelter",
+            "Food made from sunlight",
+            "Limestone cups",
+            "Warm water"
+          ],
+          "answer": 1,
+          "explanation": "The text says the algae 'make food from sunlight and share it with the coral.'"
+        },
+        {
+          "id": "q3",
+          "skill": "inference",
+          "stem": "Based on the passage, bleaching is harmful to coral because",
+          "choices": [
+            "it makes the coral too colorful",
+            "the coral loses the algae that feed it",
+            "it cools the water too much",
+            "it adds extra minerals"
+          ],
+          "answer": 1,
+          "explanation": "Bleaching is when coral expels its algae; without those partners 'the coral can starve.'"
+        }
+      ],
+      "wordCount": 149
+    },
+    {
+      "id": "og-sci-water-cycle",
+      "title": "The Endless Journey of Water",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 2,
+      "text": "The water in a puddle today may have floated in a cloud last week and rushed down a river last year. Water travels through the world in a repeating path called the water cycle. The Sun heats oceans, lakes, and rivers, turning some of the water into an invisible gas called vapor that rises into the sky. High up, where the air is cooler, the vapor turns back into tiny droplets that gather to form clouds. When the droplets grow heavy enough, they fall as rain or snow. That water flows back into rivers and seas, and the journey starts over. No new water is made and none is lost; the same water has been moving in this circle for a very long time.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "vocabulary",
+          "stem": "In this passage, 'vapor' is best described as",
+          "choices": [
+            "frozen ice",
+            "water in the form of gas",
+            "muddy water",
+            "a heavy cloud"
+          ],
+          "answer": 1,
+          "explanation": "The text calls vapor 'an invisible gas' that water turns into when heated."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the text, what makes water rise into the sky?",
+          "choices": [
+            "The wind",
+            "Heat from the Sun",
+            "Falling snow",
+            "Cold air"
+          ],
+          "answer": 1,
+          "explanation": "The passage says 'The Sun heats oceans, lakes, and rivers,' turning water into vapor that rises."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "The passage mainly explains that water",
+          "choices": [
+            "is always being newly created",
+            "moves in a repeating cycle",
+            "only exists in clouds",
+            "disappears forever as vapor"
+          ],
+          "answer": 1,
+          "explanation": "The whole passage describes the water cycle as a repeating path, and notes no water is made or lost."
+        }
+      ],
+      "wordCount": 124
+    },
+    {
+      "id": "og-sci-deep-sea-light",
+      "title": "Glowing in the Dark Ocean",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nature",
+      "level": 4,
+      "text": "Sunlight reaches only the upper layers of the ocean. Below about a thousand meters lies a realm of permanent darkness, crushing pressure, and frigid cold. Yet this seemingly empty zone teems with life, and much of it makes its own light. The ability of an organism to produce light through a chemical reaction is called bioluminescence, and in the deep sea it is the rule rather than the exception. Animals there use their glow for many purposes. Some anglerfish dangle a luminous lure to draw curious prey within reach of their jaws. Certain squid release a cloud of glowing fluid to confuse a predator, much as a shallow-water octopus releases ink. Others flash patterns to find a mate in the vast blackness. Because the deep ocean offers almost no places to hide, light has become both a weapon and a language. A sudden burst can startle an attacker, while a steady glow can betray the swimmer that produces it, so each animal must balance the risk of being seen against the benefit of being noticed. Some species even tune the color and timing of their flashes so precisely that they amount to private codes, recognized only by their own kind. Studying these creatures is difficult, since the delicate animals often die when hauled up through warmer, lower-pressure water, so researchers increasingly send cameras and robotic vehicles down to observe them where they live. Each expedition tends to return with footage of species no one has ever catalogued, a reminder of how much of our own planet remains genuinely unexplored.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "vocabulary",
+          "stem": "As used in the passage, 'bioluminescence' is",
+          "choices": [
+            "the pressure of deep water",
+            "an organism producing light by a chemical reaction",
+            "a kind of cold ocean current",
+            "the lack of sunlight in the deep"
+          ],
+          "answer": 1,
+          "explanation": "The text defines it as 'the ability of an organism to produce light through a chemical reaction.'"
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "How does an anglerfish use its light, according to the passage?",
+          "choices": [
+            "To warm itself",
+            "To dangle a lure that attracts prey",
+            "To scare away larger fish",
+            "To find its way to the surface"
+          ],
+          "answer": 1,
+          "explanation": "The text says anglerfish 'dangle a luminous lure to draw curious prey within reach of their jaws.'"
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "The central idea of this passage is that",
+          "choices": [
+            "the deep sea is completely lifeless",
+            "many deep-sea animals make and use light to survive",
+            "sunlight reaches the entire ocean",
+            "anglerfish are the only glowing animals"
+          ],
+          "answer": 1,
+          "explanation": "The passage describes how bioluminescence is widespread in the deep sea and serves many survival purposes."
+        }
+      ],
+      "wordCount": 259
+    },
+    {
+      "id": "og-sci-greenhouse-effect",
+      "title": "The Blanket of Air",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 5,
+      "text": "Earth stays warm enough for life because of a delicate balance played out in its atmosphere. Energy arrives from the Sun mostly as visible light, which passes easily through the air and warms the planet's surface. The warmed surface then radiates that energy back upward, but it does so as infrared heat, a longer wavelength that behaves differently. Certain gases in the atmosphere, including carbon dioxide, methane, and water vapor, are nearly transparent to incoming sunlight yet absorb outgoing infrared. They re-radiate some of that heat back toward the ground, slowing its escape into space. This natural trapping is the greenhouse effect, and without it the planet would freeze. The concern today is one of degree rather than direction. By burning fossil fuels, humans have raised the concentration of these heat-absorbing gases, thickening the blanket and pushing the balance toward a warmer state. Because the climate system responds slowly and unevenly, the full consequences of a change unfold over decades, long after the gases are released. The oceans, in particular, absorb a vast share of the extra heat and release it only gradually, acting like a sluggish flywheel that keeps turning after the engine is switched off. Understanding this lag is essential, for it means the warming already set in motion will continue even if emissions were to stop tomorrow. It also explains why the effects of choices made today, whether harmful or helpful, may not become fully visible until the people who made them are gone, a feature that makes the problem unusually hard for societies to confront.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why does the passage say the warming would continue even if emissions stopped tomorrow?",
+          "choices": [
+            "Because the Sun is getting hotter",
+            "Because the climate system responds slowly, with a lag",
+            "Because the gases vanish instantly",
+            "Because sunlight cannot escape at all"
+          ],
+          "answer": 1,
+          "explanation": "The text explains the climate 'responds slowly and unevenly,' so warming already set in motion continues."
+        },
+        {
+          "id": "q2",
+          "skill": "vocabulary",
+          "stem": "In this passage, gases described as 'transparent to incoming sunlight' means sunlight",
+          "choices": [
+            "is blocked by them",
+            "passes through them",
+            "is created by them",
+            "is reflected by them"
+          ],
+          "answer": 1,
+          "explanation": "Transparent to sunlight means light passes easily through, which the text contrasts with absorbing outgoing infrared."
+        },
+        {
+          "id": "q3",
+          "skill": "main-idea",
+          "stem": "The passage is mainly concerned with",
+          "choices": [
+            "how the greenhouse effect works and how humans are intensifying it",
+            "how the Sun produces light",
+            "why winters are cold",
+            "how plants absorb carbon dioxide"
+          ],
+          "answer": 0,
+          "explanation": "The passage explains the greenhouse effect and how burning fossil fuels thickens the blanket toward a warmer state."
+        }
+      ],
+      "wordCount": 259
+    },
+    {
+      "id": "og-sci-spider-silk",
+      "title": "The Strength of Spider Silk",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "nature",
+      "level": 4,
+      "text": "For its weight, spider silk is one of the strongest materials known. A strand far thinner than a human hair can stretch without snapping and absorb the impact of a flying insect many times the spider's size. Engineers admire silk because it combines two qualities that usually oppose each other: it is both strong and stretchy. Steel is strong but brittle, while rubber stretches but tears easily. Silk manages both, which is why a web can catch prey without shattering. A single spider can produce several kinds of silk from different glands, each tuned for a task. One sort forms the sturdy frame of the web, another the sticky spiral that traps insects, and yet another wraps eggs in a protective case. Scientists have long hoped to manufacture silk in factories for uses from medical stitches to lightweight armor, but reproducing the spider's recipe has proven stubbornly hard.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Why do engineers find spider silk especially impressive?",
+          "choices": [
+            "It is heavier than steel",
+            "It is both strong and stretchy, qualities that usually oppose each other",
+            "It dissolves quickly in water",
+            "It glows in the dark"
+          ],
+          "answer": 1,
+          "explanation": "The text says silk combines strength and stretchiness, two qualities that 'usually oppose each other.'"
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what is one kind of silk used for?",
+          "choices": [
+            "Building the web's frame",
+            "Digesting food",
+            "Helping the spider see",
+            "Producing venom"
+          ],
+          "answer": 0,
+          "explanation": "The text says one sort of silk 'forms the sturdy frame of the web.'"
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, 'brittle' most nearly means",
+          "choices": [
+            "easily stretched",
+            "likely to snap or break",
+            "very soft",
+            "extremely heavy"
+          ],
+          "answer": 1,
+          "explanation": "Steel is called 'strong but brittle,' contrasted with stretchy, so brittle means likely to break."
+        }
+      ],
+      "wordCount": 148
+    },
+    {
+      "id": "og-sci-star-life-cycle",
+      "title": "The Lives of Stars",
+      "sourceType": "original",
+      "source": "Written for Hone Literacy",
+      "attribution": "Original passage © Team AM, written for Hone Literacy.",
+      "genre": "science",
+      "level": 5,
+      "text": "A star is not eternal; it is born, lives, and dies over spans that dwarf human history. Stars begin within vast clouds of gas and dust drifting through space. Gravity slowly pulls a clump of this material inward, and as the clump shrinks it grows denser and hotter. When the core becomes hot enough, hydrogen atoms begin fusing into helium, releasing enormous energy and igniting the star. For most of its life a star maintains a steady balance: the outward push of this fusion energy resists the inward crush of gravity. When the hydrogen fuel runs low, that balance breaks, and the star's fate depends on its mass. A modest star like the Sun swells into a red giant, sheds its outer layers, and settles into a slowly cooling ember. A far more massive star ends violently, collapsing and then exploding as a supernova that briefly outshines an entire galaxy. The debris of such explosions scatters heavy elements across space. Gathered by gravity over billions of years, that scattered debris becomes the raw material for new clouds, new stars, and the planets that circle them. Remarkably, the carbon in living bodies and the iron in blood were forged inside ancient stars, making every person, in a literal sense, the remnant of stellar death. The very atoms that let you read this sentence were once at the searing heart of a sun that perished long before the Earth existed, a continuity that links the smallest cell to the grandest events in the sky.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "inference",
+          "stem": "Which factor decides whether a star ends as a cooling ember or a supernova?",
+          "choices": [
+            "Its color",
+            "Its mass",
+            "Its distance from Earth",
+            "Its age in human years"
+          ],
+          "answer": 1,
+          "explanation": "The text states that when hydrogen runs low, 'the star's fate depends on its mass.'"
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "What keeps a star in a steady balance for most of its life?",
+          "choices": [
+            "The pull of nearby planets",
+            "Fusion energy pushing out against gravity pulling in",
+            "The cold of surrounding space",
+            "The light of other stars"
+          ],
+          "answer": 1,
+          "explanation": "The passage says the 'outward push of this fusion energy resists the inward crush of gravity.'"
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "As used in the passage, 'forged' most nearly means",
+          "choices": [
+            "destroyed",
+            "created or formed",
+            "cooled down",
+            "copied falsely"
+          ],
+          "answer": 1,
+          "explanation": "Heavy elements like carbon and iron were 'forged inside ancient stars,' meaning created or formed there."
+        }
+      ],
+      "wordCount": 252
+    }
+  ]
+}
