@@ -21,8 +21,11 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA_PATH = join(ROOT, 'data', 'passages.json');
 const MANIFEST_PATH = join(ROOT, 'data', 'manifest.json');
 
-// Public Pages URL where the app fetches the data from.
-const DATA_URL = 'https://support-teamam.github.io/honeliteracy-data/data/passages.json';
+// Public Pages URL where the app fetches the data from. Must match the LIVE
+// hosting org (studioamart) — the legacy support-teamam URL still serves a
+// stale v3 corpus with pre-rebrand strings, and a manifest pointing there
+// makes every refresh fail its sha256 check.
+const DATA_URL = 'https://studioamart.github.io/hone-literacy-data/data/passages.json';
 // Bump this only if the JSON shape changes incompatibly. Older app builds
 // ignore remote data whose schema is newer than they understand.
 const SCHEMA_VERSION = 1;
