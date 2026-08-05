@@ -7,9 +7,17 @@
  *        --source-type original --genre nonfiction --level 3 \
  *        --text "Full passage text here..." [--source "..."] [--attribution "..."]
  *
- * It computes wordCount automatically, appends a passage skeleton with one
- * placeholder question (which you then fill in), validates the file, and leaves
- * data/passages.json ready for `node scripts/build-manifest.mjs`.
+ * It computes wordCount automatically, stamps today's date as `releasedAt`,
+ * appends a passage skeleton with one placeholder question (which you then fill
+ * in), validates the file, and leaves data/passages.json ready for
+ * `node scripts/build-manifest.mjs`.
+ *
+ * `releasedAt` (yyyy-MM-dd) is what makes a drop Pro-first: the app keeps a
+ * passage Pro-only for 30 days from this date, then rolls it into the general
+ * corpus by itself. Pass `--released-at YYYY-MM-DD` to backdate a drop (e.g.
+ * publishing content written earlier), or `--released-at none` to add a passage
+ * that is free-eligible immediately — which is how every passage published
+ * before this field existed behaves.
  *
  * Content rules (keep IP clean):
  *   - source-type "public-domain": only pre-1929 / verified public-domain text.
@@ -52,6 +60,21 @@ if (!(level >= 1 && level <= 5)) {
   process.exit(1);
 }
 
+// Local calendar day, not toISOString() — the app parses this as a calendar day
+// and a UTC stamp would read as "tomorrow" for an evening drop in the Americas.
+function today() {
+  const d = new Date();
+  const p = (n) => String(n).padStart(2, '0');
+  return `${d.getFullYear()}-${p(d.getMonth() + 1)}-${p(d.getDate())}`;
+}
+
+const releasedAtArg = arg('released-at', today());
+const releasedAt = releasedAtArg === 'none' ? null : releasedAtArg;
+if (releasedAt !== null && !/^\d{4}-\d{2}-\d{2}$/.test(releasedAt)) {
+  console.error('--released-at must be YYYY-MM-DD (or "none" to publish it free-eligible).');
+  process.exit(1);
+}
+
 const wordCount = text.trim().split(/\s+/).length;
 const data = JSON.parse(readFileSync(DATA_PATH, 'utf8'));
 if (data.passages.some((p) => p.id === id)) {
@@ -71,6 +94,9 @@ data.passages.push({
   genre,
   level,
   wordCount,
+  // Omitted entirely when "none": older app builds ignore the key, and newer
+  // ones treat its absence as "free-eligible from day one".
+  ...(releasedAt ? { releasedAt } : {}),
   text: text.trim(),
   questions: [
     {
@@ -89,6 +115,7 @@ data.version = (typeof data.version === 'number' ? data.version : 0) + 1;
 
 writeFileSync(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
 console.log(
-  `Added "${id}" (${wordCount} words); bumped version to ${data.version}. ` +
+  `Added "${id}" (${wordCount} words${releasedAt ? `, released ${releasedAt}` : ', no release date'}); ` +
+  `bumped version to ${data.version}. ` +
   `Fill in its questions, then run:\n  node scripts/build-manifest.mjs`
 );

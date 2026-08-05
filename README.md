@@ -54,6 +54,7 @@ unambiguous correct answer.
       "genre": "fable",                      // fable|fiction|science|history|philosophy|essay|nonfiction
       "level": 1,                            // 1 (easiest) .. 5 (hardest)
       "wordCount": 180,
+      "releasedAt": "2026-08-04",            // OPTIONAL, yyyy-MM-dd — see "Pro-first drops"
       "text": "In a field one summer's day ...",
       "questions": [
         {
@@ -83,8 +84,30 @@ node scripts/build-manifest.mjs
 ```
 
 `build-manifest.mjs` validates every passage (text present, ≥1 question, each
-answer index in range) and refuses to publish a broken dataset. It bumps
-`version` only when the data actually changed.
+answer index in range, `releasedAt` well-formed if present) and refuses to
+publish a broken dataset. It bumps `version` only when the data actually
+changed.
+
+## Pro-first drops (`releasedAt`)
+
+New passages go to Pro subscribers first, then open up on their own:
+
+```
+published ──▶ 30 days Pro-only ──▶ general corpus (free-eligible)
+```
+
+- `new-passage.mjs` stamps `releasedAt` with today's local date automatically.
+  `--released-at YYYY-MM-DD` backdates a drop; `--released-at none` publishes it
+  free-eligible immediately.
+- The app keeps a dated passage out of the free daily-workout pool until it is
+  `releasedAt + 30 days` old, and marks it **Pro** in the library meanwhile.
+  Nothing schedules the roll-over — the gate is a pure function of the date, so
+  a passage frees itself.
+- **The field is optional and additive.** A passage without it is free-eligible
+  from day one, so every corpus published before this existed behaves exactly as
+  it always did. Passages bundled inside the app binary are never gated by it.
+- Keep the 30-day window in sync with `PassageStore.proWindowDays` in the app if
+  it ever changes; the app is the authority, this repo only reports it.
 
 ## Honesty contract
 
