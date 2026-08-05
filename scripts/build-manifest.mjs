@@ -12,6 +12,9 @@
  *   then joins the general corpus on its own. The field is OPTIONAL — passages
  *   without it are free-eligible immediately, which is how the whole corpus
  *   behaved before content packs existed.
+ * - Passes through the optional data/free-limits.json as the manifest's
+ *   `freeLimits`, so the free tier can be resized without an App Store release.
+ *   Absent file = no key in the manifest = the app's bundled defaults.
  *
  * Run locally:  node scripts/build-manifest.mjs
  * In CI:        invoked by .github/workflows/update-data.yml
@@ -25,6 +28,9 @@ import { dirname, join } from 'node:path';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA_PATH = join(ROOT, 'data', 'passages.json');
 const MANIFEST_PATH = join(ROOT, 'data', 'manifest.json');
+// OPTIONAL. Absent is the normal state: no file means no `freeLimits` key in
+// the manifest, which means the app uses the limits it shipped with.
+const FREE_LIMITS_PATH = join(ROOT, 'data', 'free-limits.json');
 
 // Public Pages URL where the app fetches the data from. Must match the LIVE
 // hosting org (studioamart) — the legacy support-teamam URL still serves a
@@ -40,6 +46,12 @@ const SCHEMA_VERSION = 1;
 // Must match PassageStore.proWindowDays in the app. Used only to report how
 // much of a drop is still Pro-first at publish time; the app is the authority.
 const PRO_WINDOW_DAYS = 30;
+// The free-tier limits this repo may publish, and the floors they may not go
+// under — mirrors FreeLimits in the app (minWorkoutPerDay / minFreePoolSize).
+// The app clamps to these floors anyway; failing here is the point, so a bad
+// number is caught by the person publishing it instead of silently landing on
+// every free reader and being quietly corrected.
+const FREE_LIMIT_FLOORS = { workoutPerDay: 1, freePoolSize: 20 };
 
 const raw = readFileSync(DATA_PATH);
 const sha256 = createHash('sha256').update(raw).digest('hex');
@@ -107,12 +119,61 @@ if (typeof version !== 'number' || version < 1) {
   process.exit(1);
 }
 
+// Optional free-tier limits. Hard-fails on anything malformed, exactly like a
+// bad `releasedAt`: the app is deliberately forgiving (an unreadable value there
+// reads as "use the bundled default"), so a typo would publish as a silent no-op
+// and the experiment would look like it had no effect.
+const freeLimits = readFreeLimits();
+
+function readFreeLimits() {
+  if (!existsSync(FREE_LIMITS_PATH)) return null;
+  let config;
+  try {
+    config = JSON.parse(readFileSync(FREE_LIMITS_PATH, 'utf8'));
+  } catch (e) {
+    console.error('data/free-limits.json is not valid JSON:', e.message);
+    process.exit(1);
+  }
+  if (config === null || typeof config !== 'object' || Array.isArray(config)) {
+    console.error('data/free-limits.json must be a JSON object.');
+    process.exit(1);
+  }
+  const out = {};
+  for (const [key, value] of Object.entries(config)) {
+    const floor = FREE_LIMIT_FLOORS[key];
+    if (floor === undefined) {
+      console.error(
+        `data/free-limits.json has an unknown key "${key}" ` +
+        `(expected: ${Object.keys(FREE_LIMIT_FLOORS).join(', ')}).`);
+      process.exit(1);
+    }
+    if (!Number.isInteger(value)) {
+      console.error(`data/free-limits.json "${key}" must be a whole number, got ${JSON.stringify(value)}.`);
+      process.exit(1);
+    }
+    if (value < floor) {
+      console.error(`data/free-limits.json "${key}" is ${value}; the floor is ${floor}.`);
+      process.exit(1);
+    }
+    out[key] = value;
+  }
+  // An empty object would publish a key that says nothing; omit it so "absent"
+  // has exactly one representation on the wire.
+  return Object.keys(out).length > 0 ? out : null;
+}
+
 let prev = null;
 if (existsSync(MANIFEST_PATH)) {
   try { prev = JSON.parse(readFileSync(MANIFEST_PATH, 'utf8')); } catch { /* ignore */ }
 }
 
-if (prev && prev.sha256 === sha256 && prev.schema === SCHEMA_VERSION) {
+// A limits-only push changes NO passage bytes, so the sha256 short-circuit has
+// to notice the limits too — otherwise the one kind of change this file exists
+// for could never be published.
+const limitsChanged =
+  JSON.stringify(prev?.freeLimits ?? null) !== JSON.stringify(freeLimits);
+
+if (prev && prev.sha256 === sha256 && prev.schema === SCHEMA_VERSION && !limitsChanged) {
   console.log(`No change (sha256 matches, version ${prev.version}). Nothing to do.`);
   process.exit(0);
 }
@@ -133,6 +194,9 @@ const manifest = {
   sha256,
   passageCount,
   questionCount,
+  // Optional and additive — omitted entirely when there is no config, so older
+  // builds see the manifest they have always seen. Did NOT bump SCHEMA_VERSION.
+  ...(freeLimits ? { freeLimits } : {}),
   generatedAt: new Date().toISOString(),
 };
 
@@ -145,4 +209,9 @@ console.log(
   proFirstCount > 0
     ? `${proFirstCount} passage(s) are inside the ${PRO_WINDOW_DAYS}-day Pro-first window.`
     : 'No passages are inside the Pro-first window — this drop is free-eligible on arrival.'
+);
+console.log(
+  freeLimits
+    ? `Free-tier limits published: ${JSON.stringify(freeLimits)} (omitted keys stay at the app's defaults).`
+    : 'No free-tier limits published — the app uses the limits it shipped with.'
 );

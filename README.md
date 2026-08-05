@@ -9,6 +9,8 @@ can fetch new readings without an App Store release.
   questions tagged by skill: `main-idea`, `inference`, `vocabulary`, `detail`.
 - `data/manifest.json` — version + sha256 + counts, rebuilt by CI
   (`scripts/build-manifest.mjs`) on every data change.
+- `data/free-limits.json` — OPTIONAL, usually absent: the free tier's tunable
+  limits, passed through to the manifest. See "Free-tier limits" below.
 
 ## How updates reach users
 
@@ -86,7 +88,8 @@ node scripts/build-manifest.mjs
 `build-manifest.mjs` validates every passage (text present, ≥1 question, each
 answer index in range, `releasedAt` well-formed if present) and refuses to
 publish a broken dataset. It bumps `version` only when the data actually
-changed.
+changed. It also validates `data/free-limits.json` when that file exists (see
+"Free-tier limits").
 
 ## Pro-first drops (`releasedAt`)
 
@@ -108,6 +111,49 @@ published ──▶ 30 days Pro-only ──▶ general corpus (free-eligible)
   it always did. Passages bundled inside the app binary are never gated by it.
 - Keep the 30-day window in sync with `PassageStore.proWindowDays` in the app if
   it ever changes; the app is the authority, this repo only reports it.
+
+## Free-tier limits (`freeLimits`)
+
+How big the free tier is, tunable from here instead of from an App Store
+release. Write `data/free-limits.json` (both keys optional):
+
+```json
+{ "workoutPerDay": 1, "freePoolSize": 25 }
+```
+
+`build-manifest.mjs` validates it and copies it into the manifest:
+
+```jsonc
+{
+  "schema": 1, "version": 9, "url": "...", "sha256": "...",
+  "passageCount": 231, "questionCount": 861,
+  "freeLimits": { "workoutPerDay": 1, "freePoolSize": 25 },  // OPTIONAL
+  "generatedAt": "..."
+}
+```
+
+| Key | Means | Floor | App default |
+|---|---|---|---|
+| `workoutPerDay` | Ceiling on the passages in a **free** reader's daily workout (and therefore on their streak target). Only ever shrinks the reader's own goal — someone set to 1/day stays at 1. | 1 | no ceiling |
+| `freePoolSize` | How many passages the free daily workout draws from. | 20 | 40 |
+
+- **Absent = the app's bundled defaults.** No file, or a key left out, means the
+  app behaves exactly as it shipped. **Pro readers are never affected.**
+- **Rollback is deleting the key**, not pushing the old number back: the app
+  treats each fetched manifest as authoritative and clears what it no longer
+  carries.
+- The app **clamps to the same floors and ignores anything malformed**, so a bad
+  push can shrink the free tier but never zero it. This script is stricter on
+  purpose — it **hard-fails** on a non-integer, a value under the floor, an
+  unknown key, or unparseable JSON, because the app's forgiveness would
+  otherwise turn a typo into a silent no-op that looks like a null result.
+- **Optional and additive — it does not bump `schema`.** Builds shipped before
+  this existed decode straight past it.
+- A limits-only change rewrites the manifest **without** touching `version` or
+  `sha256` (no passage bytes changed), so readers pick it up on their next
+  once-a-day manifest check without re-downloading the corpus.
+- Mirrors `FreeLimits` in the app (`minWorkoutPerDay` / `minFreePoolSize`); the
+  app is the authority, this repo only refuses to publish nonsense.
 
 ## Honesty contract
 
