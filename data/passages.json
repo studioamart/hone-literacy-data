@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 9,
+  "version": 10,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -24039,6 +24039,1397 @@
           "inference": "Follow the writer's own example to its end. One kilogram used out of five bought means the full price paid for that one.",
           "vocabulary": "A list of examples can define a term. Box, label, and truck space all share one feature: they do not change with size.",
           "detail": "With numbers, check the unit. The question asks per kilogram, not per box."
+        }
+      }
+    },
+    {
+      "id": "og-wtr1-where-the-tap-begins",
+      "title": "Where the Tap Begins",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "science",
+      "level": 2,
+      "wordCount": 173,
+      "releasedAt": "2026-08-04",
+      "text": "Turn a tap in a city and the water arrives in a second. The journey behind it started weeks earlier, and far away.\n\nRain does not fall on a city and stay there. It falls on hills, roofs, fields, and forests, and gravity pulls it downhill into small streams. Those streams join into larger ones. The whole area of land that drains into a single river is called a watershed, and it can be hundreds of times larger than the city itself.\n\nSomewhere along that river stands a wall of concrete or earth, built across the valley. Behind it the water backs up into a long lake. This is a reservoir: not a natural lake, but a store. Its job is patience. Rain is uneven, and some months bring floods while others bring nothing. A reservoir holds the wet months so the dry ones can be spent.\n\nEverything that follows in a water system rests on this first step. A city can clean water, move it, and price it. It cannot make it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "Why rain falls unevenly through the year.",
+            "How a city's water is collected from a watershed and stored in a reservoir.",
+            "How walls of concrete are built across river valleys.",
+            "Why water arrives at a tap so quickly."
+          ],
+          "answer": 1,
+          "explanation": "The passage follows one path: rain drains off a wide area into a river, and a dam holds that river in a reservoir. The uneven rain and the concrete wall are parts of that story, not the subject of it."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what is a watershed?",
+          "choices": [
+            "The whole area of land that drains into a single river.",
+            "The wall that holds water back across a valley.",
+            "A building where a city stores water it has cleaned.",
+            "A month in which heavy rain falls."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph defines it in one sentence: the whole area of land that drains into a single river. The wall is the dam, described later."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, a \"reservoir\" is best understood as",
+          "choices": [
+            "a natural lake high in the hills",
+            "a pipe that carries rain off a roof",
+            "a store of water held back so it can be used later",
+            "a machine that cleans water taken from a river"
+          ],
+          "answer": 2,
+          "explanation": "The text says plainly that it is \"not a natural lake, but a store,\" and that it holds the wet months so the dry ones can be spent."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "The passage says a reservoir's \"job is patience.\" This suggests that",
+          "choices": [
+            "a reservoir takes many years to build",
+            "the useful thing a reservoir does is hold water from wet months for dry ones",
+            "water tastes better after it has been stored for a while",
+            "rivers move too slowly to serve a large city"
+          ],
+          "answer": 1,
+          "explanation": "Patience here means waiting. The sentences on either side explain the waiting: rain is uneven, so the store carries water from the months that have it to the months that do not."
+        }
+      ],
+      "lesson": {
+        "strategy": "Follow the water backwards. The passage moves from your tap out to the streams, then to the reservoir behind the dam, one stage per paragraph. Hold that order. The last two sentences state the point of the whole chain: a city can move water, not make it.",
+        "signals": [
+          {
+            "phrase": "The journey behind it started weeks earlier",
+            "means": "Signals that the passage runs backwards in time, from the tap toward the source."
+          },
+          {
+            "phrase": "is called a watershed",
+            "means": "A definition is arriving. The words just before it carry the meaning."
+          },
+          {
+            "phrase": "Its job is patience.",
+            "means": "A figure of speech holding the reservoir's real purpose: waiting out wet and dry months."
+          },
+          {
+            "phrase": "It cannot make it.",
+            "means": "The closing limit. Every later stage depends on this one fixed supply."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "gravity",
+            "inContext": "the pull that makes water run downhill on its own"
+          },
+          {
+            "word": "watershed",
+            "inContext": "all the land whose rain drains into one river"
+          },
+          {
+            "word": "reservoir",
+            "inContext": "a large store of water held behind a dam for later use"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Three stages, one subject: where a city's water comes from. Choose the answer that covers collecting and storing, not one that names only the rain or only the dam.",
+          "inference": "\"Its job is patience\" is not literal. Ask what patience does here, then read the sentence about wet and dry months for the answer.",
+          "vocabulary": "Both \"watershed\" and \"reservoir\" are explained in the sentence that names them. When a passage says \"is called,\" the meaning sits right beside it.",
+          "detail": "The watershed is defined once, in one sentence. Find that sentence and match its words instead of picking what sounds close."
+        }
+      }
+    },
+    {
+      "id": "og-wtr2-how-water-is-made-safe",
+      "title": "How Water Is Made Safe",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "science",
+      "level": 2,
+      "wordCount": 178,
+      "releasedAt": "2026-08-04",
+      "text": "Water leaving a reservoir is not yet drinkable. It carries clay, leaves, and living things too small to see. Between the reservoir and the tap sits a treatment plant, and its work happens in a fixed order.\n\nFirst the water is made to drop what it carries. A chemical is stirred in that makes the tiny particles stick to one another in clumps heavy enough to sink. The water then sits still in a wide tank while those clumps settle to the bottom. Stillness does most of the cleaning here, and stillness is free.\n\nNext comes the filter, usually a deep bed of sand and gravel. Water passes down through it and leaves behind whatever the settling missed.\n\nThe water is now clear. Clear is not the same as safe. Some bacteria are small enough to pass through sand, so the last step kills them, with chlorine or with ultraviolet light.\n\nEach step is cheap because the step before it did its share. Send raw river water straight to a filter and the filter clogs within an hour.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of the passage?",
+          "choices": [
+            "Sand filters are the most important part of cleaning water.",
+            "Water taken from a reservoir is dangerous to drink.",
+            "A treatment plant cleans water in a fixed order, each step preparing the next.",
+            "Chlorine is the cheapest way to make water safe."
+          ],
+          "answer": 2,
+          "explanation": "Each paragraph is one step, and the last paragraph explains why the steps cannot be reordered. The order is the point, not any single step."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what makes the tiny particles sink?",
+          "choices": [
+            "A chemical stirred in that makes them clump together.",
+            "The weight of the sand and gravel above them.",
+            "Chlorine added at the start of the process.",
+            "Heat applied to the water in a wide tank."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph says a chemical is stirred in that makes the particles stick to one another in clumps heavy enough to sink. Chlorine comes last, and heat is never mentioned."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, \"settle\" means",
+          "choices": [
+            "become calm after a disagreement",
+            "sink slowly to the bottom and stay there",
+            "pay what is owed",
+            "spread out evenly across a surface"
+          ],
+          "answer": 1,
+          "explanation": "The clumps are heavy enough to sink, and they settle while the water sits still in a tank. The everyday senses of the word do not fit what is happening."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "Why would a filter clog within an hour if it were fed raw river water?",
+          "choices": [
+            "River water moves too fast for a bed of sand.",
+            "Sand and gravel wear out quickly when they are used.",
+            "Chlorine has to be added before water can be filtered.",
+            "The settling step normally removes most of the material first."
+          ],
+          "answer": 3,
+          "explanation": "The passage says each step is cheap because the one before did its share. Without settling, everything that would have sunk arrives at the filter instead."
+        }
+      ],
+      "lesson": {
+        "strategy": "This is a process in a fixed order: settle, filter, disinfect. Read for the order, and for what each step leaves the next one to do. The final paragraph explains why the order cannot be changed, and that is the real point of the passage.",
+        "signals": [
+          {
+            "phrase": "its work happens in a fixed order",
+            "means": "Tells you to read the rest as a sequence, and that the sequence itself matters."
+          },
+          {
+            "phrase": "First the water is made to drop what it carries.",
+            "means": "The opening stage. \"First\" promises more stages behind it."
+          },
+          {
+            "phrase": "Clear is not the same as safe.",
+            "means": "A turn. The writer corrects an assumption the sentence before it invited."
+          },
+          {
+            "phrase": "because the step before it did its share",
+            "means": "The main idea, saved for the end: the steps depend on one another."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "settle",
+            "inContext": "sink slowly to the bottom of still water"
+          },
+          {
+            "word": "filter",
+            "inContext": "a bed of sand and gravel that traps what the water carries through it"
+          },
+          {
+            "word": "bacteria",
+            "inContext": "living things too small to see, some of which cause illness"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Every paragraph is one step of the same process. The main idea is the process and its order, not whichever step sounds most impressive.",
+          "inference": "The clogged filter is a thought experiment, not a reported fact. Work backwards to what settling must normally remove.",
+          "vocabulary": "\"Settle\" is explained by what surrounds it: the water sits still and the clumps go to the bottom. Use the action, not the everyday sense.",
+          "detail": "Each step has its own tool: a chemical, a wide tank, sand, chlorine. Match the question's step to its own sentence before answering."
+        }
+      }
+    },
+    {
+      "id": "og-wtr3-the-push-in-the-pipe",
+      "title": "The Push in the Pipe",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "technology",
+      "level": 3,
+      "wordCount": 199,
+      "releasedAt": "2026-08-04",
+      "text": "Clean water in a tank is still useless. It has to reach a fifth-floor kitchen, and it has to arrive with enough force to fill a glass in seconds. That force is pressure, and a city buys it with height.\n\nThe oldest method is the simplest. Pump the treated water up into a tall tank and let gravity do the rest. The higher the tank stands above the taps, the harder the water pushes when a tap is opened. This is why a water tower sits on the highest ground a town owns, or on legs that lift it clear of the roofs.\n\nA tower also buys time. Pumps run at a steady rate, but people do not use water at a steady rate; a city wakes, washes, and cooks inside the same hour. The tank fills through the quiet night and drains through the busy morning, so the pumps never have to be sized for the worst minute of the day. When the power fails, the tower holds the pressure up until it empties.\n\nThe same pressure that serves the fifth floor also pushes on every joint in the network. Where a pipe is weak, pressure finds it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "Height gives a water system its pressure, and that pressure both serves buildings and strains pipes.",
+            "Water towers cost less to build than the pumps they replace.",
+            "Tall buildings use far more water than short ones.",
+            "Pumps should be sized for the busiest minute of the day."
+          ],
+          "answer": 0,
+          "explanation": "The passage explains how height makes pressure, lists what the tower buys, then closes by turning that same pressure into a problem. Only the first choice holds both halves."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what does a tower let a city avoid?",
+          "choices": [
+            "Treating the same water twice.",
+            "Building anything on high ground.",
+            "Sizing its pumps for the worst minute of the day.",
+            "Using gravity to move water through pipes."
+          ],
+          "answer": 2,
+          "explanation": "The third paragraph says the tank fills at night and drains in the morning, so the pumps never have to be sized for the worst minute of the day."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, \"pressure\" is best understood as",
+          "choices": [
+            "the weight of the tank and its legs",
+            "the demand people place on a water system",
+            "the speed at which the pumps turn",
+            "the force that pushes water out of a tap"
+          ],
+          "answer": 3,
+          "explanation": "Pressure is introduced as the force that fills a glass in seconds, and at the end it is the force pushing on every joint. It is a push, not a weight, a speed, or a demand."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "The last two sentences suggest that",
+          "choices": [
+            "the height that makes taps work also makes leaks more likely",
+            "water should be shut off at night to rest the pipes",
+            "weak pipes should be replaced before any tower is built",
+            "a fifth-floor kitchen wastes more water than a ground-floor one"
+          ],
+          "answer": 0,
+          "explanation": "The passage says the same pressure serves the fifth floor and pushes on every joint, and that pressure finds a weak pipe. The benefit and the risk come from one cause."
+        }
+      ],
+      "lesson": {
+        "strategy": "An engineering passage built on a single idea: height makes pressure. Track the three things the tower buys, which are reach, a steady supply, and a backup. Then notice the turn in the last two sentences, where the same pressure becomes a cost.",
+        "signals": [
+          {
+            "phrase": "a city buys it with height",
+            "means": "The central idea in five words. Height is the source of the pressure."
+          },
+          {
+            "phrase": "A tower also buys time.",
+            "means": "\"Also\" adds a second use. The tower is not only about reaching upper floors."
+          },
+          {
+            "phrase": "but people do not use water at a steady rate",
+            "means": "The mismatch the tank exists to absorb: steady supply against uneven demand."
+          },
+          {
+            "phrase": "Where a pipe is weak, pressure finds it.",
+            "means": "A closing turn. The benefit and the damage come from the same force."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "pressure",
+            "inContext": "the push that sends water out of a tap"
+          },
+          {
+            "word": "gravity",
+            "inContext": "the downward pull that makes a raised tank push water outward"
+          },
+          {
+            "word": "network",
+            "inContext": "the whole connected system of pipes running under a city"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Three paragraphs give three uses of one idea. State the idea to yourself, height makes pressure, before you judge any answer choice.",
+          "inference": "The final line adds no new fact. It reuses one. Ask what pressure does to a weak joint, given everything the passage already said pressure does.",
+          "vocabulary": "\"Pressure\" is defined by its effects: it fills a glass in seconds and pushes on joints. Read the verbs around a word to fix its meaning.",
+          "detail": "The night-and-morning sentence carries the pump answer. When a question asks what a tower avoids, look for the phrase \"never have to be.\""
+        }
+      }
+    },
+    {
+      "id": "og-wtr4-after-the-drain",
+      "title": "After the Drain",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "science",
+      "level": 3,
+      "wordCount": 200,
+      "releasedAt": "2026-08-04",
+      "text": "Half of a water system runs the other way. Everything that leaves a sink, a shower, or a toilet enters a second network of pipes, sloping downhill toward a plant on the low edge of the city.\n\nWhat arrives is mostly water. The trouble is what is dissolved in it. Screens and settling tanks take out the solids in the first hour, much as a drinking-water plant does, but they cannot touch what has dissolved.\n\nFor that, the plant hires bacteria. Air is blown up through a long tank of wastewater, and a dense population of microbes feeds on the dissolved waste, turning it into more microbes. The plant is not a machine that strips the waste out; it is a place where something is kept alive and fed well. The living sludge is then left to settle, and most of it is pumped back to the head of the tank to keep the population strong.\n\nThe water that leaves goes into a river. Somewhere downstream, another city's reservoir is filling. That is the part of the loop nobody sees, and it explains why the standard for what leaves a plant is set by the people who will drink it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "Sewage pipes have to slope downhill in order to work.",
+            "Dissolved waste cannot be removed from water.",
+            "Wastewater is cleaned mostly by bacteria and then returned to a river others will drink from.",
+            "Cities should build their treatment plants on high ground."
+          ],
+          "answer": 2,
+          "explanation": "The passage names the method, which is a fed population of microbes, and then the reason it must work, which is that the water goes downstream to somebody's reservoir."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what can the screens and settling tanks not remove?",
+          "choices": [
+            "Whatever has dissolved in the water.",
+            "The solids that sink to the bottom.",
+            "The microbes living in the long tank.",
+            "The air that is blown through the water."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph says they take out the solids but cannot touch what has dissolved. That limit is what forces the next step."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, material that is \"dissolved\" is",
+          "choices": [
+            "floating on the surface of the water",
+            "resting at the bottom of a settling tank",
+            "broken into pieces by a screen",
+            "mixed into the water so completely that it cannot be strained out"
+          ],
+          "answer": 3,
+          "explanation": "The word is defined by what defeats it: screens and settling tanks cannot touch it, so it is not floating, sitting, or catchable."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "Why does the passage say the standard is \"set by the people who will drink it\"?",
+          "choices": [
+            "Cities downstream help pay for the plants upstream.",
+            "The river carries the treated water into another city's supply.",
+            "Drinking-water plants and sewage plants use the same machines.",
+            "Bacteria cannot survive in water that has been made too clean."
+          ],
+          "answer": 1,
+          "explanation": "The water leaves into a river, and downstream another city's reservoir is filling. What one plant releases becomes the next city's raw supply."
+        }
+      ],
+      "lesson": {
+        "strategy": "This is the return half of a system you have seen going out. Read it against the drinking-water plant it names: the same screens, the same settling, then one step that is completely different. The final paragraph closes the loop and gives the reason the passage was heading toward.",
+        "signals": [
+          {
+            "phrase": "runs the other way",
+            "means": "Frames the whole passage as the reverse of the supply side of the system."
+          },
+          {
+            "phrase": "they cannot touch what has dissolved",
+            "means": "Names the limit that forces the next step. Expect a new method right after this."
+          },
+          {
+            "phrase": "the plant hires bacteria",
+            "means": "The turn to the surprising method. \"Hires\" tells you the microbes do the work."
+          },
+          {
+            "phrase": "another city's reservoir is filling",
+            "means": "The point of the passage: treated wastewater becomes somebody else's supply."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "wastewater",
+            "inContext": "used water leaving homes, carrying whatever was washed or flushed away"
+          },
+          {
+            "word": "microbes",
+            "inContext": "living things too small to see, here the ones that eat dissolved waste"
+          },
+          {
+            "word": "downstream",
+            "inContext": "further along a river, in the direction the water is flowing"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The passage gives a method and then a reason. A main idea that holds only one of them is incomplete: bacteria clean it, and someone downstream drinks it.",
+          "inference": "The last sentence assumes you remember where a reservoir sits. Connect \"goes into a river\" to \"another city's reservoir\" and the reason follows.",
+          "vocabulary": "\"Dissolved\" is defined by what fails against it. Screens and settling tanks cannot touch it, so let that failure describe the word.",
+          "detail": "The stages are split across paragraphs: screens and tanks first, then the aerated tank. Go back to the right paragraph before choosing."
+        }
+      }
+    },
+    {
+      "id": "og-wtr5-the-cost-of-a-cheap-glass",
+      "title": "The Cost of a Cheap Glass",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "economics",
+      "level": 4,
+      "wordCount": 216,
+      "releasedAt": "2026-08-04",
+      "text": "A glass of tap water costs a household a fraction of a cent. That price is honest about the water and dishonest about everything else.\n\nThe water itself is free; it falls out of the sky. What a bill pays for is the watershed bought and protected, the reservoir and its dam, the treatment plant, the pumps, the tower, and the buried mains that carry pressure to every street. Almost none of that cost moves with the amount you use. A city that sells ten percent less water does not spend ten percent less. The pipes are just as long, and the plant runs anyway.\n\nThis is the awkward arithmetic of a network. The costs are fixed and enormous, the product is cheap and essential, and the customers vote. Raising the price of water is unpopular in a way that raising the price of almost nothing else is, so the price tends to stay where it was while the pipes age underneath it.\n\nThe bill for that arrives late, and in another form. In many systems a fifth or more of the treated water never reaches a tap, leaking out of joints laid before anyone now living was working. The cheap glass was never cheap. Its real price was paid in postponement, and postponement charges interest.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the central claim of the passage?",
+          "choices": [
+            "Water is expensive to treat because of the chemicals a plant uses.",
+            "Leaking pipes are the main reason water bills go up.",
+            "Cities should sell more water in order to cover their costs.",
+            "A water bill pays for a fixed, aging system, and holding the price down only postpones a larger cost."
+          ],
+          "answer": 3,
+          "explanation": "The claim is set in the second sentence and returned to at the end. The leaks and the ten percent are evidence for it, not the claim itself."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what happens to a city's spending when it sells ten percent less water?",
+          "choices": [
+            "It stays much the same, because the costs do not move with use.",
+            "It falls by roughly ten percent.",
+            "It rises, because the plant has to run longer.",
+            "It falls, but only once the old pipes are replaced."
+          ],
+          "answer": 0,
+          "explanation": "The passage answers this twice in a row: the pipes are just as long, and the plant runs anyway."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, costs that are \"fixed\" are costs that",
+          "choices": [
+            "have already been repaired",
+            "are set by law and cannot be altered",
+            "stay much the same whether much or little water is sold",
+            "are paid once, when the system is first built"
+          ],
+          "answer": 2,
+          "explanation": "Two sentences earlier the passage says almost none of that cost moves with the amount you use, and gives the ten percent example to prove it."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "What does the passage mean by \"postponement charges interest\"?",
+          "choices": [
+            "Cities have to borrow money in order to replace old pipes.",
+            "Interest rates decide when a city can afford new mains.",
+            "Water bills rise by a small amount every year.",
+            "Putting off repairs makes the eventual cost larger."
+          ],
+          "answer": 3,
+          "explanation": "The image is borrowed from lending: a debt left unpaid grows. Here the debt is maintenance, and the growth shows up as a fifth of the treated water leaking away."
+        }
+      ],
+      "lesson": {
+        "strategy": "An argument, not an explanation. The claim sits in the second sentence, and everything after it is support: what the bill actually buys, why the price will not rise, and what the delay costs. Read the last line as the claim restated.",
+        "signals": [
+          {
+            "phrase": "honest about the water and dishonest about everything else",
+            "means": "The thesis in one line. The rest of the passage unpacks the dishonest half."
+          },
+          {
+            "phrase": "This is the awkward arithmetic of a network.",
+            "means": "A summary sentence. The three clauses after it compress the whole argument."
+          },
+          {
+            "phrase": "so the price tends to stay where it was",
+            "means": "The consequence. Politics, not cost, is what holds the price still."
+          },
+          {
+            "phrase": "postponement charges interest",
+            "means": "A metaphor from lending: a delayed repair grows more expensive, like a debt."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "mains",
+            "inContext": "the large buried pipes that carry water beneath the streets"
+          },
+          {
+            "word": "fixed",
+            "inContext": "not changing with how much is used or sold"
+          },
+          {
+            "word": "postponement",
+            "inContext": "putting off something that will still have to be done"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "In an argument the main idea is the claim, not the evidence. The leaks and the ten percent are there to support a claim about price.",
+          "inference": "\"Postponement charges interest\" borrows a word from lending. Ask what an unpaid debt does over time, then apply that to an unrepaired pipe.",
+          "vocabulary": "\"Fixed\" is defined two sentences before it appears, in plain words: the cost does not move with the amount you use. Look before a word as well as after it.",
+          "detail": "The ten percent sentence answers directly and then answers again: the pipes are just as long, the plant runs anyway."
+        }
+      }
+    },
+    {
+      "id": "og-l1-why-onions-make-you-cry",
+      "title": "Why Onions Make You Cry",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "science",
+      "level": 1,
+      "wordCount": 153,
+      "releasedAt": "2026-08-04",
+      "text": "An onion on the table is quiet. Cut it, and your eyes sting within seconds. The onion is not doing this to you. It is defending itself, and you are standing too close.\n\nInside an onion, two things are kept apart in separate rooms. One is a chemical the plant has stored. The other is a tool that changes it. A knife breaks the walls between them. They meet, and the onion makes a new gas that rises into the air.\n\nThe gas reaches your eye. There it meets the thin layer of water on the surface and turns into a weak acid. Your eye feels the sting and does the only thing it can. It makes tears to wash the acid away.\n\nThis is why a sharp knife helps. It cuts the cells instead of crushing them, so less gas escapes. A cold onion helps too. Cold slows the whole reaction down.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "How onions grow and store their food.",
+            "Why cutting an onion makes a gas that stings the eyes.",
+            "Why some knives cut better than others.",
+            "How tears protect the body from harm."
+          ],
+          "answer": 1,
+          "explanation": "The passage follows one chain from the knife to the tears. The knife and the tears are steps in that chain, not the subject."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what happens when a knife breaks the walls inside an onion?",
+          "choices": [
+            "Two things that were kept apart meet and make a gas.",
+            "Water leaks out onto the surface of the eye.",
+            "The onion begins to dry out.",
+            "The onion turns colder."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph says the two were kept apart in separate rooms, the knife breaks the walls, and then they meet and make a new gas."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, a \"reaction\" is",
+          "choices": [
+            "a strong feeling about a smell",
+            "a tool used for cutting food",
+            "the way an eye moves when it stings",
+            "a change that happens when two things meet"
+          ],
+          "answer": 3,
+          "explanation": "The passage has already shown two things meeting and making something new. When cold \"slows the whole reaction down,\" the reaction is that change."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "The passage suggests that how much your eyes sting depends on",
+          "choices": [
+            "how large the onion is",
+            "how much gas escapes from the cut onion",
+            "how long the onion has been stored",
+            "how close your face is to the table"
+          ],
+          "answer": 1,
+          "explanation": "A sharp knife lets less gas escape and it helps. Turn that around: more gas means more sting. Size, storage, and the table are never mentioned."
+        }
+      ],
+      "lesson": {
+        "strategy": "A chain of causes in four steps: a cut, a gas, an acid, tears. Take one sentence at a time and ask what it causes next. The last paragraph turns the chain into two pieces of advice, and the advice only makes sense if you followed the chain.",
+        "signals": [
+          {
+            "phrase": "It is defending itself",
+            "means": "Frames the sting as the onion's purpose, not an accident."
+          },
+          {
+            "phrase": "They meet, and the onion makes a new gas",
+            "means": "The turning point. Nothing stings until these two things meet."
+          },
+          {
+            "phrase": "turns into a weak acid",
+            "means": "The step that explains the pain. The gas by itself is not what hurts."
+          },
+          {
+            "phrase": "This is why a sharp knife helps.",
+            "means": "A move from explanation to advice. The reason follows straight after."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "gas",
+            "inContext": "something like air that spreads out and cannot be seen"
+          },
+          {
+            "word": "acid",
+            "inContext": "something that stings or burns what it touches"
+          },
+          {
+            "word": "cells",
+            "inContext": "the tiny rooms a living thing is built from"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Each paragraph is one link in the same chain, from the knife to the tears. Choose the answer that covers the chain, not one link in it.",
+          "inference": "The passage never says \"more gas means more sting.\" It says a sharp knife makes less gas and helps. Turn that around to get the rule.",
+          "vocabulary": "\"Acid\" is explained by what happens next: the eye stings and makes tears to wash it away. Let the effect tell you the meaning.",
+          "detail": "The two things inside the onion are described before they are named. Reread the second paragraph slowly before you answer about the knife."
+        }
+      }
+    },
+    {
+      "id": "og-l1-how-a-zipper-holds",
+      "title": "How a Zipper Holds",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "technology",
+      "level": 1,
+      "wordCount": 159,
+      "releasedAt": "2026-08-04",
+      "text": "A zipper looks like one thing. It is really three: two rows of teeth, and a small slider that runs between them.\n\nLook closely at a single tooth. On its top there is a little bump. On its bottom there is a small hollow. Every tooth is the same shape, and the two rows face each other.\n\nNow the slider. Inside it, the path splits into a Y. When you pull the slider up, the two rows come in through the wide end and are forced together at an angle. The bump on one tooth drops into the hollow of the tooth opposite. Once it is seated, that tooth cannot lift out unless it is bent sideways again, and the teeth beside it hold it flat.\n\nPull the slider the other way and a small wedge inside it slides between the rows and lifts them apart. The slider does no gripping of its own. The teeth hold each other.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "Why zippers are better than buttons.",
+            "How a slider is made in a factory.",
+            "How the teeth of a zipper lock into each other as the slider passes.",
+            "Why zippers sometimes break and stick."
+          ],
+          "answer": 2,
+          "explanation": "The passage describes one tooth, then the slider, then what happens when it moves each way. All of it explains the locking."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what is on the bottom of each tooth?",
+          "choices": [
+            "A small hollow.",
+            "A little bump.",
+            "A small wedge.",
+            "A row of stitches."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph gives both: the bump is on the top, the hollow is on the bottom."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, a \"wedge\" is",
+          "choices": [
+            "a handle you hold with your fingers",
+            "a piece that joins two things together",
+            "a row of metal teeth",
+            "a shape that pushes things apart as it moves between them"
+          ],
+          "answer": 3,
+          "explanation": "The last paragraph says the wedge slides between the rows and lifts them apart. That is what it does, so that is what it is."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "The last two sentences suggest that a zipper stays closed because",
+          "choices": [
+            "each tooth is held in place by the teeth beside it",
+            "the slider grips the two rows tightly",
+            "the cloth pulls the two rows together",
+            "the teeth are made of very hard metal"
+          ],
+          "answer": 0,
+          "explanation": "The slider does no gripping, so it is not holding anything. The passage has already said the teeth beside a seated tooth hold it flat."
+        }
+      ],
+      "lesson": {
+        "strategy": "A description of a small machine. Read it in the order it gives you: one tooth, then the slider, then the two directions of travel. Picture each part before moving on. The last two sentences say where the strength really comes from.",
+        "signals": [
+          {
+            "phrase": "It is really three",
+            "means": "Warns you that the obvious view is wrong, and sets up the three parts."
+          },
+          {
+            "phrase": "the path splits into a Y",
+            "means": "The key shape. The Y is what forces the two rows together."
+          },
+          {
+            "phrase": "Once it is seated",
+            "means": "The moment of locking. Everything before this was preparation."
+          },
+          {
+            "phrase": "The teeth hold each other.",
+            "means": "The main idea in four words, saved for the last line."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "slider",
+            "inContext": "the small piece you pull, which joins or parts the two rows"
+          },
+          {
+            "word": "hollow",
+            "inContext": "a small dip that another shape fits into"
+          },
+          {
+            "word": "wedge",
+            "inContext": "a shape that widens toward one end and pushes things apart"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The passage explains how a thing works. Its main idea is how the parts act on each other, not what a zipper is used for.",
+          "inference": "The closing lines say the slider does no gripping. If it is not holding the zipper shut, ask what is, and only one part is left.",
+          "vocabulary": "\"Wedge\" is described by its job in the same sentence: it slides between the rows and lifts them apart.",
+          "detail": "The top and the bottom of a tooth are given in two short sentences. Check which one the question asks about before you answer."
+        }
+      }
+    },
+    {
+      "id": "og-l1-why-names-slip-away",
+      "title": "Why Names Slip Away",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "psychology",
+      "level": 1,
+      "wordCount": 159,
+      "releasedAt": "2026-08-04",
+      "text": "You meet someone, talk for ten minutes, and remember that she is a nurse, that she has just moved here, and that she laughs easily. Her name is gone. This happens to almost everyone, and it is not a sign of a poor memory.\n\nMemory holds on to things that connect to other things. A job is full of connections. Hearing \"nurse\" brings up a hospital, a uniform, a night shift, someone you already know. The word has somewhere to attach.\n\nA name has nowhere. Nothing about a woman called Rose is rose-like. The sound is a label, chosen before she was born, and it links to nothing else you know about her. So it sits alone, and things that sit alone are the first to go.\n\nThere is a second reason, and it is simpler. In the moment of meeting, most people are busy deciding what to say next. The name is spoken while you are not listening.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of the passage?",
+          "choices": [
+            "Most people have a poor memory for faces.",
+            "It is rude to forget a person's name.",
+            "Names are hard to remember because they connect to nothing else we know.",
+            "A person's job is the easiest thing to remember about them."
+          ],
+          "answer": 2,
+          "explanation": "The passage compares a job, which has many connections, with a name, which has none. That contrast is the whole explanation."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what does hearing the word \"nurse\" bring up?",
+          "choices": [
+            "A hospital, a uniform, a night shift, someone you already know.",
+            "A face you cannot quite place.",
+            "A name you have heard somewhere before.",
+            "A feeling of being busy and tired."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph lists exactly these four things as what the word attaches to."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, a \"label\" is",
+          "choices": [
+            "a small sticker put on a bottle",
+            "a name given to something that says nothing about it",
+            "a short description of a person's work",
+            "a word that is easy to say out loud"
+          ],
+          "answer": 1,
+          "explanation": "The sentence says the sound was chosen before she was born and links to nothing else about her. A label names without describing."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "The passage suggests that you would remember a name better if",
+          "choices": [
+            "you met the person in a quieter room",
+            "the person had an unusual job",
+            "it connected to something you already knew",
+            "you heard it spoken more loudly"
+          ],
+          "answer": 2,
+          "explanation": "The rule is that memory holds what connects. Names fail because they connect to nothing, so a name with a connection would hold better."
+        }
+      ],
+      "lesson": {
+        "strategy": "Two reasons for one everyday problem. The first takes three paragraphs and rests on a comparison between a job and a name. The second gets four lines. Watch for the sentence that announces the second reason, or you will read straight past it.",
+        "signals": [
+          {
+            "phrase": "it is not a sign of a poor memory",
+            "means": "Clears away the obvious explanation before the real one arrives."
+          },
+          {
+            "phrase": "Memory holds on to things that connect to other things.",
+            "means": "The rule the passage rests on. Everything after it tests names against this rule."
+          },
+          {
+            "phrase": "A name has nowhere.",
+            "means": "The comparison snaps shut. The job had connections; the name has none."
+          },
+          {
+            "phrase": "There is a second reason",
+            "means": "A plain marker that a new cause is being added, not the old one repeated."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "connect",
+            "inContext": "join on to something else you already know"
+          },
+          {
+            "word": "attach",
+            "inContext": "hold on to something, so it has a place to stay"
+          },
+          {
+            "word": "label",
+            "inContext": "a name put on something that does not describe it"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Two reasons are given, but only one is developed at length. The main idea is the connection rule, with the second reason as an addition.",
+          "inference": "The passage explains why names fail to stick. Reverse that explanation to see what would make one stick instead.",
+          "vocabulary": "\"Label\" is explained by the words around it: chosen before she was born, linked to nothing about her.",
+          "detail": "The list after \"nurse\" has four items. Match all of them, not just the first one you recognize."
+        }
+      }
+    },
+    {
+      "id": "og-l1-the-first-street-lights",
+      "title": "The First Street Lights",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "history",
+      "level": 1,
+      "wordCount": 160,
+      "releasedAt": "2026-08-04",
+      "text": "For most of history, a city went dark at sunset. Anyone who had to go out carried a lantern, or paid a boy with a torch to walk in front of them. Some towns ordered every household to hang a lamp by its door on winter nights. The light was thin, and it ended where the house ended.\n\nIn January 1807, a street in London called Pall Mall was lit with gas. Pipes ran under the pavement, and a small flame burned at the top of each post. The light was steady, and it did not blow out. Within twenty years, gas lamps stood in cities across Europe and America.\n\nSomeone still had to walk those streets each evening with a ladder and a flame. Lamplighters had a route and a time, and people set their evenings by them. Electricity ended that work. A whole street could be lit from one switch, by a person who never left the room.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "How city streets went from carried lanterns to gas lamps and then to electric light.",
+            "Why gas lamps were dangerous in cold weather.",
+            "How London grew larger after 1807.",
+            "Why people stopped going out after dark."
+          ],
+          "answer": 0,
+          "explanation": "Each paragraph is one stage of the same change, and the last one closes it with electricity."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what did some towns order every household to do?",
+          "choices": [
+            "Hang a lamp by its door on winter nights.",
+            "Pay a boy to carry a torch through the street.",
+            "Keep a candle burning until sunrise.",
+            "Stay indoors after the sun went down."
+          ],
+          "answer": 0,
+          "explanation": "The first paragraph states the rule directly. Paying a boy with a torch was a private choice, not an order."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, a \"lantern\" is",
+          "choices": [
+            "a lamp fixed to the top of a post",
+            "a light you carry, with the flame held inside a case",
+            "a pipe that brings gas under a street",
+            "a ladder used to reach a high lamp"
+          ],
+          "answer": 1,
+          "explanation": "It is what a person carried when going out at night, before any street had lamps of its own."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "Why did electricity end the lamplighter's work?",
+          "choices": [
+            "Cities had grown too large for anyone to walk across.",
+            "Gas pipes were dug up and taken away.",
+            "Electric lamps were cheaper to buy than gas lamps.",
+            "One switch could light a whole street, so nobody had to walk it."
+          ],
+          "answer": 3,
+          "explanation": "The last sentence describes a person who never left the room lighting a whole street. If nobody walks the route, the job is gone."
+        }
+      ],
+      "lesson": {
+        "strategy": "A short history in three stages: carried light, gas light, electric light. Each paragraph is one stage, and each stage removes something the stage before it needed. Read for what disappears, not only for what arrives.",
+        "signals": [
+          {
+            "phrase": "For most of history, a city went dark at sunset.",
+            "means": "Sets the starting condition. Everything after this is a change away from it."
+          },
+          {
+            "phrase": "In January 1807",
+            "means": "A date marks the turn. The first stage has ended and the second begins."
+          },
+          {
+            "phrase": "Someone still had to walk those streets",
+            "means": "\"Still\" signals that the change was not complete. A limit is coming."
+          },
+          {
+            "phrase": "Electricity ended that work.",
+            "means": "The final stage, stated as a loss as much as a gain."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "lantern",
+            "inContext": "a light you carry, with the flame inside a case"
+          },
+          {
+            "word": "pavement",
+            "inContext": "the hard walking path at the side of a street"
+          },
+          {
+            "word": "route",
+            "inContext": "a fixed path that someone follows each time"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Three stages, one subject. Choose the answer that names the change across all three, not the one that stops at gas.",
+          "inference": "The last two sentences give a cause without using the word \"because.\" Put the one switch and the person who never left the room together.",
+          "vocabulary": "\"Lantern\" sits next to people who had to go out at night. What they carried tells you what it is.",
+          "detail": "The household rule is in the first paragraph and the lamplighters are in the third. Go back to the right paragraph before choosing."
+        }
+      }
+    },
+    {
+      "id": "og-l1-the-farmer-who-photographed-snow",
+      "title": "The Farmer Who Photographed Snow",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 1,
+      "wordCount": 167,
+      "releasedAt": "2026-08-04",
+      "text": "Wilson Bentley was a farmer in Vermont. He was also the first person to photograph a single snow crystal.\n\nHe was fifteen when his mother gave him an old microscope. He caught snowflakes on a black board, carried them into a cold shed, and looked. What he saw would melt in a minute, and he could not draw fast enough. So he asked for a camera, and his family bought one that cost more than the farm could easily spare.\n\nIt took him two winters to get one picture. He was nineteen. He kept going for forty-six more years, in a shed with no heat, working in the cold so that his subject would not vanish. He made more than five thousand photographs of snow crystals.\n\nHe never sold many. He gave prints away and charged little, and in his village he was known mostly as a strange, patient neighbor. The pictures outlasted the opinion. Almost every image of a snowflake we know began in that shed.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "Snow crystals melt too quickly to be studied properly.",
+            "A Vermont farmer spent his life photographing snow crystals.",
+            "Cameras were rare and costly on farms in the 1800s.",
+            "A microscope is the best tool for studying snow."
+          ],
+          "answer": 1,
+          "explanation": "The passage is about one man and one long task. The camera and the microscope are tools in that story."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, how long did it take Bentley to get his first picture?",
+          "choices": [
+            "Two winters.",
+            "Forty-six years.",
+            "Fifteen years.",
+            "A single night."
+          ],
+          "answer": 0,
+          "explanation": "The third paragraph opens with it. Forty-six years is how long he worked afterward, and fifteen is his age when he got the microscope."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, \"patient\" describes someone who",
+          "choices": [
+            "is waiting to be seen by a doctor",
+            "is gentle and quiet with other people",
+            "works quickly but very carefully",
+            "keeps working at something slow without giving up"
+          ],
+          "answer": 3,
+          "explanation": "Two winters for one picture, then forty-six years in an unheated shed. The numbers around the word show what it means here."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "\"The pictures outlasted the opinion\" suggests that",
+          "choices": [
+            "photographs last longer than snow does",
+            "he became famous while he was still alive",
+            "what his village thought of him mattered less in the end than his work",
+            "he changed his neighbors' minds about him"
+          ],
+          "answer": 2,
+          "explanation": "The opinion is the village calling him strange. The pictures are still with us, so the work outlived the judgement."
+        }
+      ],
+      "lesson": {
+        "strategy": "A life told through one stubborn task. Watch the numbers: fifteen, two winters, nineteen, forty-six years, five thousand. They carry a point the sentences never state outright. The last line puts the value of the work outside his lifetime.",
+        "signals": [
+          {
+            "phrase": "the first person to photograph a single snow crystal",
+            "means": "The claim the passage supports. Read everything after it as how he did it."
+          },
+          {
+            "phrase": "It took him two winters to get one picture.",
+            "means": "The cost of the work, given as a plain fact. Expect more numbers like it."
+          },
+          {
+            "phrase": "He never sold many.",
+            "means": "A turn from what he achieved to how little it was valued at the time."
+          },
+          {
+            "phrase": "The pictures outlasted the opinion.",
+            "means": "The closing judgement, weighing his work against what his village thought."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "crystal",
+            "inContext": "a solid with a regular shape, here one piece of snow"
+          },
+          {
+            "word": "microscope",
+            "inContext": "a tool that makes very small things look large"
+          },
+          {
+            "word": "patient",
+            "inContext": "willing to keep going slowly, without hurrying or quitting"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "This is about a person and one task. A main idea has to join them: who he was and what he spent his life doing.",
+          "inference": "The last paragraph never says he was ignored. It says he charged little and was thought strange. Read the tone as well as the facts.",
+          "vocabulary": "\"Patient\" is proved by the numbers near it: two winters, forty-six years, a shed with no heat.",
+          "detail": "The numbers are easy to mix up. Two winters is the first picture; forty-six years is everything that came after."
+        }
+      }
+    },
+    {
+      "id": "og-l2-why-passwords-got-longer",
+      "title": "Why Passwords Got Longer",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "technology",
+      "level": 2,
+      "wordCount": 193,
+      "releasedAt": "2026-08-04",
+      "text": "Twenty years ago, a good password was short and strange. The advice then asked for a capital letter, a number, and a symbol, and eight characters was enough. That advice has changed, and the reason is arithmetic.\n\nA password is only as strong as the number of guesses needed to find it. Machines do the guessing now, and they do it in parallel, millions of tries a second against a stolen file. Under that kind of attack, eight characters fall in hours, whatever symbols are hidden in them.\n\nAdding one more character does far more than adding one more symbol. Each new character multiplies the number of possible passwords by the size of the alphabet. Length compounds; complexity does not.\n\nThere is a second change, and it is not about math. People could not remember the short strange passwords, so they used the same one everywhere. When a single site is broken into, every account sharing that password opens at once. So the advice now is a long phrase of three or four words nobody else would put together, a different one per account, kept in a password manager or written somewhere safe.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "Symbols make passwords too difficult to type.",
+            "People should change their passwords more often than they do.",
+            "Password advice changed because length resists fast guessing better than symbols do.",
+            "Stolen files are the greatest danger a website faces."
+          ],
+          "answer": 2,
+          "explanation": "The passage states that the advice changed, then gives the arithmetic reason and the human one. Length against complexity is the core of it."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, how long does an eight-character password last under attack?",
+          "choices": [
+            "Seconds.",
+            "Hours.",
+            "Several weeks.",
+            "It depends on which symbols are in it."
+          ],
+          "answer": 1,
+          "explanation": "The second paragraph says eight characters fall in hours, and adds \"whatever symbols are hidden in them,\" which rules out the last choice."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, \"complexity\" refers to",
+          "choices": [
+            "the odd mix of capitals, numbers, and symbols in a password",
+            "the number of accounts one person has to manage",
+            "how hard a password is to type correctly",
+            "the strength that comes from extra length"
+          ],
+          "answer": 0,
+          "explanation": "Complexity is set against length in the same sentence, so it must mean the other thing the old advice asked for: capitals, numbers, and symbols."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "Why does using the same password everywhere matter so much?",
+          "choices": [
+            "Machines can guess a reused password more quickly.",
+            "Long passwords are harder to reuse than short ones.",
+            "Websites are broken into less often than they used to be.",
+            "One broken site opens every account that shares that password."
+          ],
+          "answer": 3,
+          "explanation": "The passage states the mechanism directly: when one site is broken into, every account sharing that password opens at once."
+        }
+      ],
+      "lesson": {
+        "strategy": "An argument that the old advice was wrong. It offers two reasons, one about arithmetic and one about people. Find the sentence where the second begins. The last line turns the argument into a rule, so check that the rule follows from both reasons.",
+        "signals": [
+          {
+            "phrase": "the reason is arithmetic",
+            "means": "Promises a numerical argument rather than an opinion. The next paragraph delivers it."
+          },
+          {
+            "phrase": "Length compounds; complexity does not.",
+            "means": "The claim in four words. The semicolon sets the two ideas directly against each other."
+          },
+          {
+            "phrase": "There is a second change",
+            "means": "A clean break. The passage moves from arithmetic to human behavior."
+          },
+          {
+            "phrase": "opens at once",
+            "means": "The cost of reuse, compressed into three words. One break becomes many."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "characters",
+            "inContext": "the single letters, numbers, or symbols a password is made of"
+          },
+          {
+            "word": "parallel",
+            "inContext": "many at the same time, rather than one after another"
+          },
+          {
+            "word": "compounds",
+            "inContext": "grows by multiplying, so each step adds more than the last one did"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Two reasons support one claim, that the advice changed. Do not pick an answer that states only one of the reasons.",
+          "inference": "The reuse paragraph never uses the word risk. It describes one break opening many accounts, and you name the risk yourself.",
+          "vocabulary": "\"Compounds\" is explained by the sentence before it: each character multiplies the possibilities. Read the example, then the word.",
+          "detail": "The numbers here are exact: eight characters, hours, millions a second. Match the one the question actually asks for."
+        }
+      }
+    },
+    {
+      "id": "og-l2-your-name-in-a-loud-room",
+      "title": "Your Name in a Loud Room",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "psychology",
+      "level": 2,
+      "wordCount": 175,
+      "releasedAt": "2026-08-04",
+      "text": "At a crowded party you can follow one voice and let the rest of the room become noise. It feels like closing a door. Then someone across the room says your name, and you hear it.\n\nBoth of those are true, and together they say something odd about attention. If the door were really shut, your name could not get through. If it were open, you would be flooded.\n\nA researcher named Colin Cherry tested this in the 1950s. He played two different recordings, one into each ear, and asked people to repeat one of them aloud as it went. They managed it. Afterwards they could report almost nothing about the ignored ear: not the topic, not the words. But in a later study built on his method, about a third of listeners noticed their own name when it was slipped into the ear they were ignoring.\n\nSo the ignored channel is not switched off. Something keeps reading all of it, cheaply and without your knowledge, and interrupts you when it finds something that matters.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "People are unable to follow two conversations at the same time.",
+            "The sound you are ignoring is still being checked for things that matter.",
+            "Crowded parties are difficult places to hold a conversation.",
+            "Hearing works better than sight in a noisy room."
+          ],
+          "answer": 1,
+          "explanation": "The passage sets up a puzzle, uses the study as evidence, and answers it in the last paragraph: something keeps reading the ignored side."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, what could Cherry's listeners report about the ignored ear?",
+          "choices": [
+            "The topic, but not the exact words.",
+            "Their own name, and nothing else.",
+            "Almost nothing: not the topic and not the words.",
+            "Everything they had heard on that side."
+          ],
+          "answer": 2,
+          "explanation": "The passage says they could report almost nothing, and then names both things they missed. The name result came from a later study."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, a \"channel\" is",
+          "choices": [
+            "a station on a television set",
+            "a narrow path cut to carry water",
+            "the part of the ear that carries sound inward",
+            "one stream of sound among several you could listen to"
+          ],
+          "answer": 3,
+          "explanation": "The word arrives right after an experiment with two recordings and two ears, and it is the one being ignored. It names a stream of sound."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "The passage suggests that attention works less like a door and more like",
+          "choices": [
+            "a switch that is either on or off",
+            "a room that slowly fills with noise",
+            "a filter that keeps checking whatever it lets past",
+            "a memory that stores everything it hears"
+          ],
+          "answer": 2,
+          "explanation": "A shut door would block the name and an open one would flood you. What is left is something that lets most through unread but still watches it."
+        }
+      ],
+      "lesson": {
+        "strategy": "The passage sets up a contradiction and then resolves it with an experiment. Read the second paragraph slowly, since it names both halves of the puzzle. The last paragraph is the answer, and it quietly corrects the door image from the opening.",
+        "signals": [
+          {
+            "phrase": "It feels like closing a door.",
+            "means": "An image the passage will later argue against. Hold on to it loosely."
+          },
+          {
+            "phrase": "Both of those are true",
+            "means": "Marks the contradiction. Two things that seem to conflict are about to be reconciled."
+          },
+          {
+            "phrase": "about a third of listeners noticed their own name",
+            "means": "The crucial exception. Not everything in the ignored ear was lost."
+          },
+          {
+            "phrase": "Something keeps reading all of it",
+            "means": "The resolution. Attention filters, but the filter is never idle."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "attention",
+            "inContext": "the mind's choice of what to follow and what to let go"
+          },
+          {
+            "word": "ignored",
+            "inContext": "left unattended on purpose while you follow something else"
+          },
+          {
+            "word": "channel",
+            "inContext": "one stream of sound among several arriving at the same time"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The experiment is evidence, not the point. The point is what it shows about the side you are not listening to.",
+          "inference": "The door image is offered and then undercut. When a passage sets up an image early, check whether its ending still supports it.",
+          "vocabulary": "\"Channel\" arrives late, after two recordings and two ears. Use that setup to fix what it means.",
+          "detail": "The study has two separate results: nothing remembered, and a third hearing their name. Keep them apart when you answer."
+        }
+      }
+    },
+    {
+      "id": "og-l2-the-woman-who-drew-the-sea-floor",
+      "title": "The Woman Who Drew the Sea Floor",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 2,
+      "wordCount": 174,
+      "releasedAt": "2026-08-04",
+      "text": "In 1948, Marie Tharp took a job at a laboratory in New York that studied the ocean floor. She was a trained geologist and a skilled mapmaker. She was not allowed on the research ships, because women were thought to bring bad luck at sea.\n\nSo she worked ashore with whatever the ships sent back. Bruce Heezen and others crossed the Atlantic, bouncing sound off the bottom and writing down how long each echo took to return. Tharp turned those columns of numbers into a picture of the sea floor, drawing by hand, profile by profile.\n\nA shape kept appearing. Down the middle of the Atlantic ran a long range of mountains, and along the top of that range ran a narrow valley, like a crack. She said it looked like a rift, a place where the floor was being pulled apart. Heezen called the idea girl talk.\n\nThen someone plotted the earthquakes of the Atlantic on the same map. They fell in a line, inside her valley. Heezen stopped calling it girl talk.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the passage mainly about?",
+          "choices": [
+            "Bruce Heezen discovered a mountain range under the Atlantic.",
+            "Echo sounding is the most accurate way to measure an ocean.",
+            "Earthquakes happen more often in the Atlantic than elsewhere.",
+            "Kept off the ships, Marie Tharp drew the sea floor from numbers and found a rift nobody had seen."
+          ],
+          "answer": 3,
+          "explanation": "The passage joins the obstacle, the work she did instead, and what that work revealed. The other choices take one piece out of context."
+        },
+        {
+          "id": "q2",
+          "skill": "detail",
+          "stem": "According to the passage, why was Tharp not allowed on the research ships?",
+          "choices": [
+            "Women were thought to bring bad luck at sea.",
+            "She had no training in geology.",
+            "She was needed on shore to draw the maps.",
+            "The ships had no room for extra staff."
+          ],
+          "answer": 0,
+          "explanation": "The first paragraph gives the reason directly, and it has nothing to do with her skill: she was a trained geologist and mapmaker."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "In this passage, a \"rift\" is",
+          "choices": [
+            "a disagreement between two scientists",
+            "a place where something is being pulled apart",
+            "a tall ridge of underwater mountains",
+            "the echo of a sound returning from the sea floor"
+          ],
+          "answer": 1,
+          "explanation": "The passage defines it in the same sentence, right after the comma: a place where the floor was being pulled apart."
+        },
+        {
+          "id": "q4",
+          "skill": "inference",
+          "stem": "Why did the earthquake map change Heezen's mind?",
+          "choices": [
+            "It proved that the mountain range was really there.",
+            "It was drawn by someone other than Tharp.",
+            "It showed that the ships had measured the depths wrongly.",
+            "It put earthquakes exactly where she said the floor was splitting."
+          ],
+          "answer": 3,
+          "explanation": "Two maps made from unrelated data agreed. Earthquakes falling inside her valley is what a splitting floor would produce."
+        }
+      ],
+      "lesson": {
+        "strategy": "A story about evidence. Track three things: what she was refused, what she built out of second-hand data, and what finally settled the argument. The turn comes when an independent map lands on top of hers and agrees with it.",
+        "signals": [
+          {
+            "phrase": "She was not allowed on the research ships",
+            "means": "The obstacle. Everything she does afterward is shaped by working from shore."
+          },
+          {
+            "phrase": "bouncing sound off the bottom",
+            "means": "How the raw data was made. She never saw the ocean floor, only numbers."
+          },
+          {
+            "phrase": "A shape kept appearing.",
+            "means": "The discovery begins. A pattern found across many drawings, not in one."
+          },
+          {
+            "phrase": "Heezen stopped calling it girl talk.",
+            "means": "The reversal, shown as a change in behavior rather than an admission."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "geologist",
+            "inContext": "a scientist who studies rock and the structure of the earth"
+          },
+          {
+            "word": "profile",
+            "inContext": "a side view of the ground, drawn as a single line"
+          },
+          {
+            "word": "rift",
+            "inContext": "a split, or a place where something is being pulled apart"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "A life story's main idea joins the person to what changed because of them. Keep both the obstacle and the discovery in your answer.",
+          "inference": "The passage never explains why the earthquake line mattered. Set the two maps side by side and ask what their agreement proves.",
+          "vocabulary": "\"Rift\" is defined in the same sentence, just after the comma. When a hard word is followed by a comma, read on before guessing.",
+          "detail": "The reason she stayed ashore is given once, in the first paragraph, and it says nothing about her ability."
         }
       }
     }
