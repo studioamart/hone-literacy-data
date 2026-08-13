@@ -12,18 +12,17 @@
  * in), validates the file, and leaves data/passages.json ready for
  * `node scripts/build-manifest.mjs`.
  *
- * `releasedAt` (yyyy-MM-dd) is what makes a drop Pro-first: the app keeps a
- * passage Pro-only for 30 days from this date, then rolls it into the general
- * corpus by itself. Pass `--released-at YYYY-MM-DD` to backdate a drop (e.g.
- * publishing content written earlier), or `--released-at none` to add a passage
- * that is free-eligible immediately — which is how every passage published
- * before this field existed behaves.
+ * `releasedAt` (yyyy-MM-dd) gives a passage a 30-day New tag in current Fluency
+ * builds; it does not schedule or hide content. Pass `--released-at YYYY-MM-DD`
+ * to record another real publication date, or `--released-at none` to omit the
+ * tag metadata. Older schema-1 builds may still treat a recent date as a
+ * Pro-first gate, so do not use future dates to preload scheduled content.
  *
  * Content rules (keep IP clean):
  *   - source-type "public-domain": only pre-1929 / verified public-domain text.
  *     Fill `source` and `attribution` precisely.
- *   - source-type "original": written for Hone Literacy (human or AI-assisted,
- *     human-reviewed). attribution defaults to a Team AM line.
+ *   - source-type "original": written for Fluency (human or AI-assisted,
+ *     human-reviewed). attribution defaults to a Studio AM line.
  * Questions: skills are one of main-idea | inference | vocabulary | detail.
  */
 
@@ -71,7 +70,7 @@ function today() {
 const releasedAtArg = arg('released-at', today());
 const releasedAt = releasedAtArg === 'none' ? null : releasedAtArg;
 if (releasedAt !== null && !/^\d{4}-\d{2}-\d{2}$/.test(releasedAt)) {
-  console.error('--released-at must be YYYY-MM-DD (or "none" to publish it free-eligible).');
+  console.error('--released-at must be YYYY-MM-DD (or "none" to omit New-tag metadata).');
   process.exit(1);
 }
 
@@ -86,16 +85,15 @@ data.passages.push({
   id,
   title,
   sourceType,
-  source: arg('source', sourceType === 'original' ? 'Written for Hone Literacy' : ''),
+  source: arg('source', sourceType === 'original' ? 'Written for Fluency' : ''),
   attribution: arg(
     'attribution',
-    sourceType === 'original' ? 'Original passage © Team AM, written for Hone Literacy.' : ''
+    sourceType === 'original' ? 'Original passage © Studio AM, written for Fluency.' : ''
   ),
   genre,
   level,
   wordCount,
-  // Omitted entirely when "none": older app builds ignore the key, and newer
-  // ones treat its absence as "free-eligible from day one".
+  // Omitted entirely when "none": the passage receives no date-based New tag.
   ...(releasedAt ? { releasedAt } : {}),
   text: text.trim(),
   questions: [

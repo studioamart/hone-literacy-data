@@ -8,19 +8,18 @@
  *   and refuses to publish a content change that forgot to bump it.
  * - Computes the sha256 of the data file (the app verifies it after download).
  * - Validates the optional per-passage `releasedAt` (yyyy-MM-dd), which drives
- *   the app's Pro-first window: a passage stays Pro-only for its first 30 days,
- *   then joins the general corpus on its own. The field is OPTIONAL — passages
- *   without it are free-eligible immediately, which is how the whole corpus
- *   behaved before content packs existed.
- * - Passes through the optional data/free-limits.json as the manifest's
- *   `freeLimits`, so the free tier can be resized without an App Store release.
- *   Absent file = no key in the manifest = the app's bundled defaults.
+ *   the app's 30-day "New" tag. It does not schedule or gate a passage; a
+ *   future-dated passage would still be selectable immediately.
+ * - Passes through the optional legacy data/free-limits.json as the manifest's
+ *   `freeLimits` for compatible older builds. Current Fluency builds do not use
+ *   it to gate reading access. Absent file = no manifest key.
  *
  * Run locally:  node scripts/build-manifest.mjs
  * In CI:        invoked by .github/workflows/update-data.yml
  */
 
 import { createHash } from 'node:crypto';
+import { execFileSync } from 'node:child_process';
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
@@ -28,8 +27,8 @@ import { dirname, join } from 'node:path';
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA_PATH = join(ROOT, 'data', 'passages.json');
 const MANIFEST_PATH = join(ROOT, 'data', 'manifest.json');
-// OPTIONAL. Absent is the normal state: no file means no `freeLimits` key in
-// the manifest, which means the app uses the limits it shipped with.
+// OPTIONAL legacy compatibility. Absent is the normal state: no file means no
+// `freeLimits` key in the manifest.
 const FREE_LIMITS_PATH = join(ROOT, 'data', 'free-limits.json');
 
 // Public Pages URL where the app fetches the data from. Must match the LIVE
@@ -43,18 +42,24 @@ const DATA_URL = 'https://studioamart.github.io/hone-literacy-data/data/passages
 // `releasedAt` did NOT bump this: it is an optional additive key, older builds
 // decode right past it, and its absence means exactly what it always meant.
 const SCHEMA_VERSION = 1;
-// Must match PassageStore.proWindowDays in the app. Used only to report how
-// much of a drop is still Pro-first at publish time; the app is the authority.
-const PRO_WINDOW_DAYS = 30;
-// The free-tier limits this repo may publish, and the floors they may not go
-// under — mirrors FreeLimits in the app (minWorkoutPerDay / minFreePoolSize).
-// The app clamps to these floors anyway; failing here is the point, so a bad
-// number is caught by the person publishing it instead of silently landing on
-// every free reader and being quietly corrected.
+// Must match PassageStore.newWindowDays in the app. Used only to report how
+// much of a drop will carry the informational New tag; the app is authoritative.
+const NEW_WINDOW_DAYS = 30;
+// The legacy free-tier limits this repo may publish, and their safe floors.
+// Compatible builds clamp to these values; failing here catches a bad number
+// before it reaches those readers. Current Fluency builds are unaffected.
 const FREE_LIMIT_FLOORS = { workoutPerDay: 1, freePoolSize: 20 };
 
 const raw = readFileSync(DATA_PATH);
 const sha256 = createHash('sha256').update(raw).digest('hex');
+
+// Validate the complete Swift-Codable/runtime contract, not merely the fields
+// needed to compose a manifest. Editorial warnings remain visible for review;
+// schema or runtime errors stop publication.
+execFileSync('python3', [join(ROOT, 'scripts', 'audit-corpus.py'), DATA_PATH], {
+  cwd: ROOT,
+  stdio: 'inherit',
+});
 
 let parsed;
 try {
@@ -74,27 +79,39 @@ if (passageCount === 0) {
 // Structural validation: every passage needs text + at least one well-formed
 // question whose `answer` indexes into its `choices`.
 let questionCount = 0;
-let proFirstCount = 0;
+let newTagCount = 0;
 const nowMs = Date.now();
+
+function parseCalendarDate(value) {
+  if (typeof value !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(value)) return null;
+  const [year, month, day] = value.split('-').map(Number);
+  const milliseconds = Date.UTC(year, month - 1, day);
+  const date = new Date(milliseconds);
+  if (date.getUTCFullYear() !== year || date.getUTCMonth() !== month - 1 || date.getUTCDate() !== day) {
+    return null;
+  }
+  return milliseconds;
+}
+
 for (const p of passages) {
   if (!p.id || !p.title || typeof p.text !== 'string' || p.text.length < 40) {
     console.error(`Passage "${p.id ?? '?'}" missing id/title/text.`);
     process.exit(1);
   }
   // Optional. A malformed date is rejected rather than silently ignored: the
-  // app reads an unparseable date as "no date", which would quietly publish a
-  // Pro-first drop as free on day one.
+  // app reads an unparseable date as "no date", which would quietly suppress
+  // the intended New tag (and can change gating in older schema-1 builds).
   if (p.releasedAt !== undefined) {
     if (typeof p.releasedAt !== 'string' || !/^\d{4}-\d{2}-\d{2}$/.test(p.releasedAt)) {
       console.error(`Passage "${p.id}" has a malformed releasedAt "${p.releasedAt}" (expected YYYY-MM-DD).`);
       process.exit(1);
     }
-    const released = Date.parse(`${p.releasedAt}T00:00:00Z`);
-    if (Number.isNaN(released)) {
+    const released = parseCalendarDate(p.releasedAt);
+    if (released === null) {
       console.error(`Passage "${p.id}" has an impossible releasedAt "${p.releasedAt}".`);
       process.exit(1);
     }
-    if ((nowMs - released) / 86400000 < PRO_WINDOW_DAYS) proFirstCount++;
+    if ((nowMs - released) / 86400000 < NEW_WINDOW_DAYS) newTagCount++;
   }
   if (!Array.isArray(p.questions) || p.questions.length === 0) {
     console.error(`Passage "${p.id}" has no questions.`);
@@ -114,8 +131,8 @@ for (const p of passages) {
 }
 
 const version = parsed.version;
-if (typeof version !== 'number' || version < 1) {
-  console.error('passages.json must carry a numeric "version" >= 1.');
+if (!Number.isInteger(version) || version < 1) {
+  console.error('passages.json must carry an integer "version" >= 1.');
   process.exit(1);
 }
 
@@ -173,17 +190,26 @@ if (existsSync(MANIFEST_PATH)) {
 const limitsChanged =
   JSON.stringify(prev?.freeLimits ?? null) !== JSON.stringify(freeLimits);
 
-if (prev && prev.sha256 === sha256 && prev.schema === SCHEMA_VERSION && !limitsChanged) {
+if (prev && prev.sha256 === sha256 && prev.schema === SCHEMA_VERSION
+    && prev.version === version && prev.url === DATA_URL
+    && prev.passageCount === passageCount && prev.questionCount === questionCount
+    && !limitsChanged) {
   console.log(`No change (sha256 matches, version ${prev.version}). Nothing to do.`);
   process.exit(0);
 }
 
 // Guard: content changed but the author forgot to bump passages.json "version".
 // Shipping a new sha under an old version means apps never fetch the update.
-if (prev && prev.sha256 !== sha256 && prev.version === version) {
+if (prev && version < prev.version) {
   console.error(
-    `Content changed but version is still ${version}. Bump "version" in ` +
-    `data/passages.json (to ${version + 1}) before publishing.`);
+    `Corpus version ${version} is below published version ${prev.version}. ` +
+    'OTA versions are monotonic; choose a higher version before publishing.');
+  process.exit(1);
+}
+if (prev && prev.sha256 !== sha256 && version === prev.version) {
+  console.error(
+    `Content changed but version is still ${version}. ` +
+    'Bump "version" in data/passages.json before publishing.');
   process.exit(1);
 }
 
@@ -206,12 +232,12 @@ console.log(
   `(${passageCount} passages, ${questionCount} questions, sha256 ${sha256.slice(0, 12)}…).`
 );
 console.log(
-  proFirstCount > 0
-    ? `${proFirstCount} passage(s) are inside the ${PRO_WINDOW_DAYS}-day Pro-first window.`
-    : 'No passages are inside the Pro-first window — this drop is free-eligible on arrival.'
+  newTagCount > 0
+    ? `${newTagCount} passage(s) are inside the ${NEW_WINDOW_DAYS}-day New-tag window.`
+    : 'No passages are inside the New-tag window.'
 );
 console.log(
   freeLimits
     ? `Free-tier limits published: ${JSON.stringify(freeLimits)} (omitted keys stay at the app's defaults).`
-    : 'No free-tier limits published — the app uses the limits it shipped with.'
+    : 'No legacy free-tier limits published.'
 );
