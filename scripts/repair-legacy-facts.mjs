@@ -1141,6 +1141,15 @@ for (const [id, repair] of REPAIRS) {
   const passage = passagesById.get(id);
   if (!passage) throw new Error(`Required passage is missing: ${id}.`);
   if (YEAR_PACK_ID.test(id)) throw new Error(`${id}: target must be a legacy passage.`);
+  // This repair replaces complete question arrays. Once semantic tags exist,
+  // only a separately reviewed replacement that carries each choice/tag pair
+  // may proceed; silently discarding or reinterpreting those tags is forbidden.
+  if (passage.questions.some((item) => Object.hasOwn(item, 'distractorTags'))) {
+    throw new Error(
+      `${id}: reviewed distractorTags already exist; run factual repairs before ` +
+      'semantic tagging or update the reviewed replacement and tags atomically.'
+    );
+  }
   const existingIds = passage.questions.map((q) => q.id);
   const desiredIds = repair.questions.map((q) => q.id);
   if (JSON.stringify(existingIds) !== JSON.stringify(desiredIds)) {

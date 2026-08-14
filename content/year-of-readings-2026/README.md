@@ -66,6 +66,10 @@ must occur verbatim in `text`.
 - Every question has one unambiguous answer supported by the passage. A
   vocabulary answer is the meaning in this exact context. Explanations state
   the textual reason, not merely that an option is correct.
+- A misconception tag belongs to one exact distractor, not to the question's
+  skill as a whole. Add it only through the fingerprinted
+  `distractor-reviews-v1.json` sidecar with a written rationale. Leave an
+  uncertain option null; partial or zero coverage is valid.
 - The correct `main-idea` choice is a self-contained, one-sentence gist. The
   app reuses that exact choice as the reference answer in its recall step.
 - Fiction varies settings, names, relationships, and outcomes. Across all
@@ -87,6 +91,8 @@ node scripts/repair-legacy-lessons.mjs
 node scripts/repair-legacy-paragraphs.mjs
 node scripts/repair-legacy-facts.mjs
 node scripts/repair-legacy-history.mjs
+python3 scripts/materialize-distractor-reviews.py --write-target data/passages.json
+python3 scripts/materialize-distractor-reviews.py
 python3 scripts/audit-corpus.py --strict
 swift scripts/validate-swift-decode.swift data/passages.json
 node scripts/build-manifest.mjs

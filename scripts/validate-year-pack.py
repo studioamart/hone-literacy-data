@@ -16,6 +16,8 @@ import re
 import sys
 from pathlib import Path
 
+from distractor_taxonomy import load_registry, validate_question_tags
+
 
 ROOT = Path(__file__).resolve().parent.parent
 PACK_DIR = ROOT / "content" / "year-of-readings-2026"
@@ -65,6 +67,7 @@ RELEASED_AT = "2026-08-12"
 ID_RE = re.compile(r"^og-y26-d(\d{3})-[a-z0-9]+(?:-[a-z0-9]+)*$")
 PLACEHOLDER_RE = re.compile(r"\b(?:todo|tbd|placeholder|lorem ipsum|as an ai)\b", re.I)
 WORD_RE = re.compile(r"[a-z0-9]+(?:[’'-][a-z0-9]+)*", re.I)
+DISTRACTOR_REGISTRY, DISTRACTOR_REGISTRY_ERRORS = load_registry()
 
 
 def compact(value: str) -> str:
@@ -91,10 +94,12 @@ def load_json(path: Path, errors: list[str]):
         return None
 
 
-def validate_passage(p: object, origin: str, errors: list[str]) -> tuple[int | None, int | None]:
+def validate_passage(
+    p: object, origin: str, errors: list[str]
+) -> tuple[int | None, int | None, int, int, int]:
     if not isinstance(p, dict):
         errors.append(f"{origin}: passage is not an object")
-        return None, None
+        return None, None, 0, 0, 0
 
     pid = p.get("id")
     tag = f"{origin}:{pid or '?'}"
@@ -171,6 +176,9 @@ def validate_passage(p: object, origin: str, errors: list[str]) -> tuple[int | N
             )
 
     questions = p.get("questions")
+    tagged_distractors = 0
+    total_distractors = 0
+    authored_tag_questions = 0
     if not isinstance(questions, list) or len(questions) != 4:
         errors.append(f"{tag}: questions must contain exactly four items")
         questions = questions if isinstance(questions, list) else []
@@ -201,6 +209,12 @@ def validate_passage(p: object, origin: str, errors: list[str]) -> tuple[int | N
         expected_answer = ((day - 1 + index) % 4) if day is not None else None
         if q.get("answer") != expected_answer:
             errors.append(f"{qtag}: answer must be {expected_answer}, found {q.get('answer')!r}")
+        tag_issues, coverage = validate_question_tags(q, DISTRACTOR_REGISTRY)
+        total_distractors += coverage.distractor_slots
+        tagged_distractors += coverage.tagged_slots
+        authored_tag_questions += int(coverage.authored)
+        for _code, message in tag_issues:
+            errors.append(f"{qtag}: {message}")
         if index == 0 and expected_answer is not None and len(choices) == 4:
             gist = choices[expected_answer]
             if isinstance(gist, str) and (
@@ -285,7 +299,7 @@ def validate_passage(p: object, origin: str, errors: list[str]) -> tuple[int | N
     if PLACEHOLDER_RE.search(serialized):
         errors.append(f"{tag}: passage contains placeholder language")
 
-    return day, level
+    return day, level, tagged_distractors, total_distractors, authored_tag_questions
 
 
 def main() -> int:
@@ -303,7 +317,9 @@ def main() -> int:
     )
     args = parser.parse_args()
 
-    errors: list[str] = []
+    errors: list[str] = [
+        f"distractor taxonomy: {message}" for message in DISTRACTOR_REGISTRY_ERRORS
+    ]
     paths = args.paths or sorted(PACK_DIR.glob("batch-*.json"))
     paths = [path if path.is_absolute() else ROOT / path for path in paths]
     # A full run must not silently accept abandoned/overlapping draft batches.
@@ -374,9 +390,15 @@ def main() -> int:
     levels: collections.Counter[int] = collections.Counter()
     genres: collections.Counter[str] = collections.Counter()
     cells: collections.Counter[tuple[int, str]] = collections.Counter()
+    tagged_distractors = 0
+    total_distractors = 0
+    authored_tag_questions = 0
 
     for p, origin in zip(passages, origins):
-        day, level = validate_passage(p, origin, errors)
+        day, level, tagged, distractors, authored = validate_passage(p, origin, errors)
+        tagged_distractors += tagged
+        total_distractors += distractors
+        authored_tag_questions += authored
         if day is not None:
             days.append(day)
         if isinstance(p, dict):
@@ -481,7 +503,9 @@ def main() -> int:
 
     print(
         f"OK — {len(passages)} proposed passages; "
-        f"levels={dict(sorted(levels.items()))}; genres={dict(sorted(genres.items()))}"
+        f"levels={dict(sorted(levels.items()))}; genres={dict(sorted(genres.items()))}; "
+        f"distractor evidence={tagged_distractors}/{total_distractors} slots across "
+        f"{authored_tag_questions}/{len(passages) * 4} questions with optional tag arrays"
     )
     return 0
 

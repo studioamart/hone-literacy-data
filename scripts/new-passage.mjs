@@ -10,7 +10,9 @@
  * It computes wordCount automatically, stamps today's date as `releasedAt`,
  * appends a passage skeleton with one placeholder question (which you then fill
  * in), validates the file, and leaves data/passages.json ready for
- * `node scripts/build-manifest.mjs`.
+ * distractor review and `node scripts/build-manifest.mjs`. Do not assign a
+ * misconception from skill or wording alone: use the fingerprinted review
+ * sidecar and leave uncertain option slots null.
  *
  * `releasedAt` (yyyy-MM-dd) gives a passage a 30-day New tag in current Fluency
  * builds; it does not schedule or hide content. Pass `--released-at YYYY-MM-DD`
@@ -115,5 +117,7 @@ writeFileSync(DATA_PATH, JSON.stringify(data, null, 2) + '\n');
 console.log(
   `Added "${id}" (${wordCount} words${releasedAt ? `, released ${releasedAt}` : ', no release date'}); ` +
   `bumped version to ${data.version}. ` +
-  `Fill in its questions, then run:\n  node scripts/build-manifest.mjs`
+  `Fill in its questions, scaffold any defensible option reviews with:\n` +
+  `  python3 scripts/materialize-distractor-reviews.py --scaffold ${data.version}:${id}:q1\n` +
+  `Then materialize reviewed tags and run the release gate; uncertain choices stay null.`
 );
