@@ -172,8 +172,8 @@ key, an ambiguous question) are welcome via issues.
 - The Fluency iOS app (formerly Hone Literacy), whose OTA reader uses
   `data/manifest.json`.
 
-Sibling repos: [carstory-data](https://github.com/support-teamam/carstory-data),
-[kittystory-data](https://github.com/support-teamam/kittystory-data).
+Sibling repos: [carstory-data](https://github.com/studioamart/garage-story-data),
+[kittystory-data](https://github.com/studioamart/pet-story-data).
 
 ## Disclaimer
 
@@ -184,7 +184,7 @@ data, and some descriptions are produced with the help of automated (AI) tools.
 
 It is **not** professional, medical, veterinary, or manufacturer advice. Always
 verify against a teacher or qualified educator where it matters before acting. The data is provided "as is", without
-warranty of any kind, and you use it at your own risk. Team AM is not affiliated
+warranty of any kind, and you use it at your own risk. Studio AM is not affiliated
 with any manufacturer or brand referenced.
 
-Full terms: https://teamam.org/terms
+Full terms: https://studioam.art/terms
