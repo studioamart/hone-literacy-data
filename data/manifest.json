@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "version": 13,
+  "version": 14,
   "url": "https://studioamart.github.io/hone-literacy-data/data/passages.json",
-  "sha256": "7d2fb719463cdc9816256d498ba05047d7d5af75ac35368d5dfe95ab88952fbc",
+  "sha256": "b96ffd25f4d8723df57d5a2887597f95378329f0056c7438e3a3d23fa3c580a3",
   "passageCount": 651,
   "questionCount": 2616,
-  "generatedAt": "2026-08-21T20:21:00.838Z"
+  "generatedAt": "2026-08-21T21:11:29.919Z"
 }
