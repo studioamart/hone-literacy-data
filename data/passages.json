@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 13,
+  "version": 14,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -116,7 +116,7 @@
       "attribution": "Abraham Lincoln, Gettysburg Address (1863). Public domain.",
       "genre": "history",
       "level": 4,
-      "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.\n\nNow we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.\n\nBut, in a larger sense, we can not dedicate — we can not consecrate — we can not hallow — this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
+      "text": "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.\n\nNow we are engaged in a great civil war, testing whether that nation, or any nation so conceived and so dedicated, can long endure. We are met on a great battle-field of that war. We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.\n\nBut, in a larger sense, we can not dedicate; we can not consecrate; we can not hallow this ground. The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract. It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.",
       "questions": [
         {
           "id": "q1",
@@ -183,7 +183,7 @@
             "means": "The hinge of the speech. Everything before honors the dead; after this, he redirects to the living."
           },
           {
-            "phrase": "we can not dedicate — we can not consecrate",
+            "phrase": "we can not dedicate; we can not consecrate",
             "means": "Three rising near-synonyms. He denies the crowd's power to bless the ground, so the soldiers' act outweighs it."
           },
           {
@@ -540,7 +540,7 @@
       "attribution": "Arthur Conan Doyle, The Adventures of Sherlock Holmes (1891). Public domain.",
       "genre": "fiction",
       "level": 3,
-      "text": "To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer — excellent for drawing the veil from men's motives and actions.\n\nBut for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results.",
+      "text": "To Sherlock Holmes she is always the woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer. They were admirable things for the observer, excellent for drawing the veil from men's motives and actions.\n\nBut for the trained reasoner to admit such intrusions into his own delicate and finely adjusted temperament was to introduce a distracting factor which might throw a doubt upon all his mental results.",
       "questions": [
         {
           "id": "q1",
@@ -977,7 +977,7 @@
       "attribution": "Mark Twain, Life on the Mississippi (1883). Public domain.",
       "genre": "essay",
       "level": 4,
-      "text": "The face of the water, in time, became a wonderful book — a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice. And it was not a book to be read once and thrown aside, for it had a new story to tell every day.\n\nThroughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing. There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparklingly renewed with every reperusal.",
+      "text": "The face of the water, in time, became a wonderful book, a book that was a dead language to the uneducated passenger, but which told its mind to me without reserve, delivering its most cherished secrets as clearly as if it uttered them with a voice. And it was not a book to be read once and thrown aside, for it had a new story to tell every day.\n\nThroughout the long twelve hundred miles there was never a page that was void of interest, never one that you could leave unread without loss, never one that you would want to skip, thinking you could find higher enjoyment in some other thing. There never was so wonderful a book written by man; never one whose interest was so absorbing, so unflagging, so sparklingly renewed with every reperusal.",
       "questions": [
         {
           "id": "q1",
@@ -1321,7 +1321,7 @@
       "attribution": "Frederick Douglass, Narrative of the Life of Frederick Douglass, an American Slave (1845). Public domain.",
       "genre": "history",
       "level": 4,
-      "text": "Very soon after I went to live with Mr. and Mrs. Auld, she very kindly commenced to teach me the A, B, C. After I had learned this, she assisted me in learning to spell words of three or four letters. Just at this point of my progress, Mr. Auld found out what was going on, and at once forbade Mrs. Auld to instruct me further, telling her, among other things, that it was unlawful, as well as unsafe, to teach a slave to read.\n\nTo use his own words, further, he said, 'If you give a slave an inch, he will take an ell. A slave should know nothing but to obey his master — to do as he is told to do. Learning would spoil the best slave in the world.' These words sank deep into my heart, stirred up sentiments within that lay slumbering, and called into existence an entirely new train of thought. It was a new and special revelation, explaining dark and mysterious things, with which my youthful understanding had struggled, but struggled in vain.\n\nI now understood what had been to me a most perplexing difficulty — namely, the white man's power to enslave the black man. From that moment, I understood the pathway from slavery to freedom. Though conscious of the difficulty of learning without a teacher, I set out with high hope, and a fixed purpose, at whatever cost of trouble, to learn how to read.",
+      "text": "Very soon after I went to live with Mr. and Mrs. Auld, she very kindly commenced to teach me the A, B, C. After I had learned this, she assisted me in learning to spell words of three or four letters. Just at this point of my progress, Mr. Auld found out what was going on, and at once forbade Mrs. Auld to instruct me further, telling her, among other things, that it was unlawful, as well as unsafe, to teach a slave to read.\n\nTo use his own words, further, he said, 'If you give a slave an inch, he will take an ell. A slave should know nothing but to obey his master, to do as he is told to do. Learning would spoil the best slave in the world.' These words sank deep into my heart, stirred up sentiments within that lay slumbering, and called into existence an entirely new train of thought. It was a new and special revelation, explaining dark and mysterious things, with which my youthful understanding had struggled, but struggled in vain.\n\nI now understood what had been to me a most perplexing difficulty: namely, the white man's power to enslave the black man. From that moment, I understood the pathway from slavery to freedom. Though conscious of the difficulty of learning without a teacher, I set out with high hope, and a fixed purpose, at whatever cost of trouble, to learn how to read.",
       "questions": [
         {
           "id": "q1",
