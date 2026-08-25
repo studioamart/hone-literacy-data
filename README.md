@@ -132,9 +132,9 @@ full-state SHA-256 binds those mirror fields so a partial/manual edit fails.
 ```bash
 # Print an all-null review record; paste it into the sidecar and fill only
 # categories an editorial reviewer can support from this exact passage and option.
-# Replace 15 when the OTA corpus version advances.
+# Replace 16 when the OTA corpus version advances.
 python3 scripts/materialize-distractor-reviews.py \
-  --scaffold 15:PASSAGE_ID:QUESTION_ID
+  --scaffold 16:PASSAGE_ID:QUESTION_ID
 
 # Apply sidecar reviews after every prose/question repair, then verify parity.
 # The target is explicit even though bundled v11 and current OTA variants are read.
@@ -188,7 +188,7 @@ before materialization. The corpus audit also fails on a wrong-length array, a
 tagged correct option, an unknown ID, or a tag used with the wrong skill.
 
 The committed review sidecar is currently empty, and neither the bundled v11
-snapshot nor the current OTA v15 corpus materializes optional tag arrays. That
+snapshot nor the current OTA v16 corpus materializes optional tag arrays. That
 zero-coverage state is valid and does not block a release. Future reviews can
 be added incrementally; the tooling does not invent labels from question skill
 or option position, and an uncertain choice remains `null`.

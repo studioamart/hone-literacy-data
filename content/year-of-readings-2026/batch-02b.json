@@ -421,7 +421,7 @@
       "releasedAt": "2026-08-12",
       "genre": "essay",
       "level": 3,
-      "text": "I once thought a diagram belonged at the end of an explanation. First I would understand a machine, then I would draw a neat picture to show what I knew. My sketches refused that order. The moment I drew two gears, I had to ask where their teeth met and which way each one turned.\n\nA sentence can glide over a gap with a broad word like “connects.” A drawing demands a location. If I cannot place a hinge, label a flow, or show the path of a force, my uncertainty becomes visible. The page does not solve the problem, but it tells me where the problem is.\n\nThis is why rough diagrams matter more to me than polished ones during inquiry. Their crossed-out arrows preserve failed guesses. Their empty spaces invite precise questions. A final illustration may communicate an answer, but a working sketch helps produce one. I draw not only to show what I know, but also to discover what I have not yet asked.",
+      "text": "I once thought a diagram belonged at the end of an explanation. First I would understand a machine, then I would draw a neat picture to show what I knew. My sketches refused that order. The moment I drew two gears, I had to ask where their teeth met and which way each one turned.\n\nA sentence can glide over a gap with a broad word like “connects.” A drawing demands a location. If I cannot place a hinge, label a flow, or show the path of a force, my uncertainty becomes visible. The page does not solve the problem, but it tells me where the problem is.\n\nThis is why rough diagrams matter more to me than polished ones during inquiry. Their crossed-out arrows preserve failed guesses. Their empty spaces invite precise questions. A final illustration may communicate an answer, but a working sketch helps produce one. I draw to show what I know and to discover the questions that I have not thought to ask.",
       "wordCount": 167,
       "questions": [
         {
@@ -764,13 +764,13 @@
           "skill": "vocabulary",
           "stem": "What does “prompt” mean in the final paragraph?",
           "choices": [
-            "A clue or question that invites the learner to produce an answer",
+            "A clue or question that asks the learner to answer",
             "A complete answer kept visible during study",
             "A mistake repeated without correction",
             "A memory that cannot be recalled"
           ],
           "answer": 0,
-          "explanation": "The prompt guides a search while hiding enough information to require an answer, so it is the clue or question that starts retrieval."
+          "explanation": "A prompt guides the learner toward an answer without showing the answer."
         },
         {
           "id": "q4",
@@ -819,7 +819,7 @@
         "skillTips": {
           "main-idea": "Include both the memory benefit and its supports; the passage recommends guided production, not guessing alone.",
           "inference": "Combine the exposed gap with later correction to explain how an unsuccessful attempt can still guide learning.",
-          "vocabulary": "The prompt both guides and withholds, showing that it is a clue or question rather than the complete answer.",
+          "vocabulary": "A prompt guides the learner but does not show the full answer.",
           "detail": "Look in the final paragraph for the stated support that may be needed before practice with unfamiliar material."
         }
       }
@@ -1886,11 +1886,11 @@
           "choices": [
             "The stranger cannot see bright colors.",
             "Niko painted the mark too close to noon.",
-            "The stranger has not learned the rule connecting the mark with the meeting plan.",
+            "The stranger has not learned what the mark means.",
             "Blue circles cannot be used as reminders."
           ],
           "answer": 2,
-          "explanation": "Niko's private decision supplies no public route to the meaning; the stranger needs explanation, repeated use, or context."
+          "explanation": "Niko chose the meaning privately. A stranger needs an explanation, repeated use, or context to learn it."
         },
         {
           "id": "q3",
@@ -1920,7 +1920,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Test the blue circle from two viewpoints: Niko has a private reminder, but strangers gain a public sign only when the mark-to-action connection becomes learnable.",
+        "strategy": "Compare what Niko and a stranger know. Niko chose the circle as a reminder. It becomes a public sign only when others can learn the connection.",
         "signals": [
           {
             "phrase": "For himself, perhaps",
@@ -1952,7 +1952,7 @@
         "skillTips": {
           "main-idea": "Distinguish a private reminder from a public sign whose rule other people can learn.",
           "inference": "Ask what knowledge Niko possesses that the stranger initially lacks.",
-          "vocabulary": "The mark's location provides clues, which makes work out the fitting meaning of infer.",
+          "vocabulary": "The mark’s location provides clues, so infer means to use clues to work out the meaning.",
           "detail": "The three learning routes appear together before the rule becomes shared."
         }
       }
@@ -4027,7 +4027,7 @@
       "level": 3,
       "wordCount": 179,
       "releasedAt": "2026-08-12",
-      "text": "A string quartet owns four fine instruments and has been invited to play at a neighborhood celebration. No new equipment is needed. Yet the hardest resource to obtain is a two-hour block when all four musicians are free. One player can offer Monday, two can meet Tuesday, and three can attend Friday; none of those hours produces a rehearsal.\n\nEconomists call time scarce because using it for one purpose prevents its use elsewhere. In a quartet, the musicians' hours are also complements: each person's time becomes more useful when it joins the other three. Four separate free hours do not equal one shared hour. The organizer therefore asks everyone to mark several possible times, then chooses the overlap before reserving the room.\n\nThis coordination has a cost, even when no money changes hands. Messages must be answered, plans may be moved, and the chosen hour may be inconvenient for someone. A reliable calendar and a prompt reply reduce that cost. The performance depends not only on individual skill, but also on arranging scarce pieces of time so they meet.",
+      "text": "A string quartet owns four fine instruments and has been invited to play at a neighborhood celebration. No new equipment is needed. Yet the hardest resource to obtain is a two-hour block when all four musicians are free. One player can offer Monday, two can meet Tuesday, and three can attend Friday; none of those hours produces a rehearsal.\n\nEconomists call time scarce because using it for one purpose prevents its use elsewhere. In a quartet, the musicians' hours are also complements: each person's time becomes more useful when it joins the other three. Four separate free hours do not equal one shared hour. The organizer therefore asks everyone to mark several possible times, then chooses the overlap before reserving the room.\n\nThis coordination has a cost, even when no money changes hands. Messages must be answered, plans may be moved, and the chosen hour may be inconvenient for someone. A reliable calendar and a prompt reply reduce that cost. The performance depends on individual skill and on finding a two-hour rehearsal period when all four musicians are free.",
       "questions": [
         {
           "id": "q1",
@@ -5160,7 +5160,7 @@
       "genre": "biography",
       "level": 4,
       "wordCount": 204,
-      "text": "When construction of the Brooklyn Bridge began in 1870, Emily Warren Roebling did not hold an engineering title. Her husband, Washington Roebling, served as chief engineer after his father, John, who had designed the bridge, died before the work began. Washington later became seriously ill after working in the pressurized caissons beneath the river.\n\nAs his health limited visits to the site, Emily became the vital link between his room and the project. She carried instructions to engineers and contractors, returned with questions, kept records, and handled correspondence. To do that work accurately, she studied mathematics, cable construction, the strength of materials, and the curves formed by suspension cables. Her growing technical knowledge allowed her to discuss problems instead of merely delivering notes.\n\nThe arrangement did not turn a vast project into one person’s achievement. Washington remained chief engineer, and many assistants and workers supplied essential skill. Yet Emily’s coordination preserved a working channel when illness could have isolated the project’s leader. She also defended Washington’s position when some officials considered replacing him.\n\nThe bridge opened in 1883. Emily’s role showed that engineering depends not only on calculations and materials, but also on reliable exchange among people who hold different pieces of a plan.",
+      "text": "When construction of the Brooklyn Bridge began in 1870, Emily Warren Roebling did not hold an engineering title. Her husband, Washington Roebling, served as chief engineer after his father, John, who had designed the bridge, died before the work began. Washington later became seriously ill after working in the pressurized caissons beneath the river.\n\nAs his health limited visits to the site, Emily became the vital link between his room and the project. She carried instructions to engineers and contractors, returned with questions, kept records, and handled correspondence. To do that work accurately, she studied mathematics, cable construction, the strength of materials, and the curves formed by suspension cables. Her growing technical knowledge allowed her to discuss problems instead of merely delivering notes.\n\nThe arrangement did not turn a vast project into one person’s achievement. Washington remained chief engineer, and many assistants and workers supplied essential skill. Yet Emily’s coordination preserved a working channel when illness could have isolated the project’s leader. She also defended Washington’s position when some officials considered replacing him.\n\nThe bridge opened in 1883. Emily’s role showed that engineering requires accurate calculations and suitable materials. It also requires clear communication among people who understand different parts of a complex project.",
       "questions": [
         {
           "id": "q1",
@@ -5249,7 +5249,7 @@
           "main-idea": "Keep Washington’s formal role and the whole team in view while identifying Emily’s essential work as the biography’s focus.",
           "inference": "Connect Emily’s technical studies to her ability to carry questions, answers, and decisions accurately between locations.",
           "vocabulary": "Use the nearby actions “kept records” and “handled” to identify correspondence as written communication.",
-          "detail": "The opening and completion years serve different roles; retrieve 1883 from the final paragraph for the bridge’s opening."
+          "detail": "Keep 1870, when construction began, separate from 1883, when the bridge opened."
         }
       }
     },

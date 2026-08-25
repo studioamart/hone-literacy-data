@@ -1690,7 +1690,7 @@
           "skill": "vocabulary",
           "stem": "What does “private value” mean in this passage?",
           "choices": [
-            "The value a bidder personally places on the item rather than a value secretly fixed by the auctioneer",
+            "The amount the item is worth to one bidder",
             "A price that every bidder must pay before submitting an offer",
             "The second-highest offer after all bidders coordinate",
             "A resale price guaranteed to be identical for everyone"

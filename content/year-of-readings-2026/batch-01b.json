@@ -458,10 +458,10 @@
             "made from written words",
             "painted very quickly",
             "displayed outside",
-            "showing a subject just as it appears"
+            "showing a subject as it appears"
           ],
           "answer": 3,
-          "explanation": "The passage contrasts a direct picture with Thomas's new abstract visual language."
+          "explanation": "The passage contrasts a lifelike picture with Thomas's abstract style."
         },
         {
           "id": "q4",
@@ -478,7 +478,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track the sources and the transformation separately. Gardens and space imagery provide observations; short bright strokes, spaces, and rhythm show how Thomas turned them into an abstract language.",
+        "strategy": "Track what inspired Thomas and how she transformed it. Gardens and space images inspired her. Short bright strokes, gaps, and rhythm created an abstract style.",
         "signals": [
           {
             "phrase": "After retiring",
@@ -510,7 +510,7 @@
         "skillTips": {
           "main-idea": "Link Thomas's long preparation with the colorful abstract form that grew from observation.",
           "inference": "Short strokes and spaces preserve the energy of garden sights without making a literal garden picture.",
-          "vocabulary": "The contrast with a “new visual language” shows that literal means directly representational.",
+          "vocabulary": "The contrast with her abstract style shows that literal means showing the subject as it appears.",
           "detail": "The object outside the window is named in the first paragraph among her sources of study."
         }
       }
@@ -856,11 +856,11 @@
           "choices": [
             "It shows that geometric drawings are heavier than stones.",
             "It proves every phrase containing two shapes is meaningless.",
-            "It suggests that a contradictory description fails to name a possible task rather than naming a limit on power.",
+            "It suggests that a contradiction describes no possible task, not a limit on power.",
             "It establishes that omnipotence means only artistic skill."
           ],
           "answer": 2,
-          "explanation": "The example illustrates the view that inability to perform a logical contradiction is not a genuine inability."
+          "explanation": "The example supports the view that a logical contradiction describes no possible action."
         },
         {
           "id": "q3",
@@ -890,7 +890,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Map the dilemma first, then inspect its terms. The passage shifts attention from which answer wins to whether the description names a logically possible action, so definitions do the philosophical work.",
+        "strategy": "Identify the two answers to the dilemma. Then ask whether the description names a logically possible action. The answer depends on how the key terms are defined.",
         "signals": [
           {
             "phrase": "appears to force",
@@ -921,7 +921,7 @@
         ],
         "skillTips": {
           "main-idea": "Describe the definitional test rather than pretending the passage settles the debate about omnipotence.",
-          "inference": "If contradictory words name no possible action, failure to perform that description would not reveal weak power.",
+          "inference": "If the words describe no possible action, failing to do it does not show weak power.",
           "vocabulary": "The question whether both alternatives are genuine possibilities defines “coherent” as logically consistent.",
           "detail": "The first paragraph builds the dilemma from creation on one side and lifting on the other."
         }
@@ -970,13 +970,13 @@
           "skill": "vocabulary",
           "stem": "What does “cue” mean in the second paragraph?",
           "choices": [
-            "serve as a signal that helps bring something to mind",
+            "help bring something to mind",
             "erase a memory",
             "decorate a page",
             "change a sequence"
           ],
           "answer": 0,
-          "explanation": "Each form can prompt recall of the matching meaning stored with the other."
+          "explanation": "Each form can help the learner remember the same idea."
         },
         {
           "id": "q4",
@@ -993,7 +993,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare what each form contributes. The words name the parts, while the arrows display their relationship in space; the final paragraph tests whether an image supports that same idea or merely decorates it.",
+        "strategy": "Compare what the words and picture each provide. The words name the parts. The arrows show how the parts relate in space. Decide whether an image supports the idea or only decorates the page.",
         "signals": [
           {
             "phrase": "Beside the sentence",
@@ -2812,12 +2812,12 @@
           "stem": "Why does upside-down flight challenge the equal-time story?",
           "choices": [
             "Gravity reverses whenever an aircraft rolls upside down.",
-            "A suitable wing angle can still redirect air and create lift without requiring the proposed top-path rule.",
+            "A suitable wing angle can redirect air and create lift without the proposed top-path rule.",
             "Upside-down wings no longer interact with surrounding air.",
             "Air density becomes zero above an inverted aircraft."
           ],
           "answer": 1,
-          "explanation": "The fourth paragraph uses inverted flight to show that angle and redirection, not an invented equal-arrival requirement, are central."
+          "explanation": "The fourth paragraph says inverted flight depends on wing angle and redirected air, not the equal-time claim."
         },
         {
           "id": "q3",
@@ -2847,7 +2847,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Tie each description to the same force exchange. The wing shapes pressure and turns air downward; the air's response pushes the wing. Then use the stall and inverted-flight cases to test simplistic rules.",
+        "strategy": "Follow how a wing creates lift. Its shape changes pressure and directs air downward. The air pushes back on the wing. Use stalls and inverted flight to test simple explanations.",
         "signals": [
           {
             "phrase": "not rival tricks",
@@ -3110,10 +3110,10 @@
             "Every historical keepsake should be used until it breaks.",
             "Objects remain perfectly preserved whenever they stay inside a cupboard.",
             "Only guests deserve to use cups, notebooks, and fine soap.",
-            "Protecting valued objects can defeat their purpose, so ordinary useful things should sometimes be enjoyed before a perfect occasion arrives."
+            "Useful objects should often be enjoyed now, while meaningful keepsakes may still deserve protection."
           ],
           "answer": 3,
-          "explanation": "The essay contrasts intended use with endless postponement while keeping an exception for meaningful conservation."
+          "explanation": "Endless saving can prevent ordinary objects from serving their purpose. The essay also allows protection for meaningful keepsakes."
         },
         {
           "id": "q2",
@@ -3156,7 +3156,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track the essay's distinction between care and postponement. The everyday examples show purpose lost through waiting, while the keepsake paragraph preserves a reasoned exception for conservation.",
+        "strategy": "Compare ordinary objects with meaningful keepsakes. Endless saving can prevent ordinary objects from serving their purpose. A keepsake's history can justify preserving it.",
         "signals": [
           {
             "phrase": "remains wrapped",
@@ -3532,7 +3532,7 @@
           "skill": "inference",
           "stem": "Why is short range useful?",
           "choices": [
-            "It helps identify which nearby card or phone is intended to interact with the reader.",
+            "It helps the reader identify the intended nearby card or phone.",
             "It lets the card avoid all structured messages.",
             "It sends the request to every shop at once.",
             "It makes approval unnecessary."
@@ -3568,7 +3568,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow the transaction outward: nearby device to reader, then reader through a larger network. Keep proximity, user verification, message security, and final approval as distinct parts.",
+        "strategy": "Track the transaction from the device to the reader, then from the reader to the network. Treat proximity, user verification, message security, and final approval as separate parts.",
         "signals": [
           {
             "phrase": "very close",
@@ -3778,7 +3778,7 @@
         "signals": [
           {
             "phrase": "not travel by intuition alone",
-            "means": "The passage frames wayfinding as learned observation rather than unexplained instinct."
+            "means": "Wayfinding relies on learned observation and training."
           },
           {
             "phrase": "no single sign guaranteed",
@@ -4564,7 +4564,7 @@
           "choices": [
             "The sentence changes its written words each time.",
             "Truth values are physical objects moving around it.",
-            "Calling the sentence true implies falsehood, while calling it false seems to make its claim true.",
+            "Calling it true makes it false, and calling it false seems to make it true.",
             "The sentence refers to a different statement."
           ],
           "answer": 2,
@@ -4598,7 +4598,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Substitute each label and follow the consequence. True leads to false and false leads back toward true; then identify self-reference as the feature producing this loop.",
+        "strategy": "Test both labels. Calling the sentence true leads to false. Calling it false leads back to true. Then identify self-reference as the cause.",
         "signals": [
           {
             "phrase": "If it is true",
@@ -4768,13 +4768,13 @@
           "skill": "inference",
           "stem": "Why might a cached image differ from the source?",
           "choices": [
-            "The source changed after the local copy was stored and the cache has not refreshed it yet.",
+            "The source changed, but the cache still holds the old copy.",
             "A cache converts every image into text.",
             "The original server has forgotten its own file.",
             "Network capacity always changes image colors."
           ],
           "answer": 0,
-          "explanation": "The second paragraph directly describes the old-copy period after an origin update."
+          "explanation": "The second paragraph describes this delay after the source changes."
         },
         {
           "id": "q3",
@@ -4804,7 +4804,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track copy location and copy age separately. Nearness explains speed; validation and expiration address whether the nearby copy still matches the source. Multiple layers explain stubborn stale results.",
+        "strategy": "Track where each copy is stored and when it was updated. Nearby storage improves speed. Validation and expiration help the cache stay current. Several cache layers can explain persistent old results.",
         "signals": [
           {
             "phrase": "temporary local copy",
@@ -5066,7 +5066,7 @@
           "choices": [
             "Every owl flies in perfect silence at any speed.",
             "Owl wings remove all air from the path ahead.",
-            "Specialized feather edges, soft surfaces, and broad wings reduce flight noise so many owls can listen while approaching prey.",
+            "Special feather edges, soft surfaces, and broad wings help many owls fly quietly and hear prey.",
             "Narrow rigid wings make slow flight quieter for hunting."
           ],
           "answer": 2,
@@ -5478,11 +5478,11 @@
           "choices": [
             "Choosing any immediate reward proves that a person lacks long-term goals.",
             "A future reward becomes physically smaller whenever someone waits for it.",
-            "Future rewards are discounted for practical and psychological reasons, and present bias can create conflicts that commitment devices sometimes help manage.",
+            "Practical concerns and present bias can reduce the appeal of future rewards, and commitment devices may help.",
             "Commitment devices always improve choices without reducing flexibility."
           ],
           "answer": 2,
-          "explanation": "The passage explains discounting, present bias, planning conflict, tools, and the surrounding circumstances."
+          "explanation": "The passage explains why future rewards feel smaller, how present bias creates conflict, and how commitment devices can help."
         },
         {
           "id": "q2",
@@ -5500,7 +5500,7 @@
         {
           "id": "q3",
           "skill": "vocabulary",
-          "stem": "What does “vivid” mean in the third paragraph?",
+          "stem": "What does “vivid” mean in the second paragraph?",
           "choices": [
             "strongly present and easy to imagine",
             "financially impossible to measure",
@@ -5521,11 +5521,11 @@
             "ignoring a genuine change in circumstances"
           ],
           "answer": 1,
-          "explanation": "The fourth paragraph names automatic transfers as a way to make an earlier plan harder to reverse."
+          "explanation": "The third paragraph names automatic transfers as a way to make an earlier plan harder to reverse."
         }
       ],
       "lesson": {
-        "strategy": "Compare choices across time positions. Separate ordinary reasons to value the present from the extra pull created when one option becomes immediate, then weigh how commitment tools alter later options.",
+        "strategy": "Compare choices before and after one reward becomes immediate. Separate practical reasons for valuing the present from present bias. Then consider how commitment devices change later options.",
         "signals": [
           {
             "phrase": "has a price",
@@ -5786,12 +5786,12 @@
           "stem": "What is the main idea of the passage?",
           "choices": [
             "A stopped clock can never display the actual time.",
-            "A Gettier-style case suggests that a justified true belief may still fail to be knowledge when its truth depends on luck.",
+            "A justified true belief may still fail to be knowledge when it matches the truth only by luck.",
             "Any belief supported by a familiar clock must count as knowledge.",
             "Philosophers agree that reasons play no role in knowledge."
           ],
           "answer": 1,
-          "explanation": "Mara has belief, truth, and an ordinary reason, yet the accidental match creates doubt about knowledge."
+          "explanation": "Mara believes a true claim for a normal reason, but only luck makes the stopped clock correct."
         },
         {
           "id": "q2",
@@ -5800,7 +5800,7 @@
           "choices": [
             "Mara does not form any belief after viewing it.",
             "The actual time is different from the displayed time.",
-            "The stopped clock matches the real time only by coincidence, not because it tracks the time.",
+            "The stopped clock shows the right time only by coincidence.",
             "Library clocks are never reasonable sources."
           ],
           "answer": 2,
@@ -5834,7 +5834,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Test the three traditional parts separately: Mara believes 8:15, it is true, and the clock seems to justify her. Then locate the luck that keeps the evidence from tracking the fact.",
+        "strategy": "Check belief, truth, and justification separately. Mara believes it is 8:15, it is true, and the clock seems reliable. Then ask why the stopped clock makes her success lucky.",
         "signals": [
           {
             "phrase": "Unknown to her",
@@ -5890,7 +5890,7 @@
           "choices": [
             "Any two sentences with different wording must describe different numerical outcomes.",
             "Framing always reverses every person's decision in the same way.",
-            "Equivalent outcomes can feel different when framed around gains or losses, so readers should translate presentations and inspect missing context.",
+          "Equivalent outcomes can feel different as gains or losses, so readers should compare results and check missing context.",
             "Careful readers can remove all perspective from language permanently."
           ],
           "answer": 2,
@@ -5937,7 +5937,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Translate each description into its complement and compare totals. Then separate a merely equivalent frame from wording that actually adds new information, such as time saved versus total time used.",
+        "strategy": "Rewrite each description in terms of its complement and compare totals. Then check whether the wording adds new information, such as time saved versus total time used.",
         "signals": [
           {
             "phrase": "same result",
@@ -5967,7 +5967,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Combine framing's influence with its limits and the practical translation check.",
+          "main-idea": "State how framing can influence people and how to compare equivalent results.",
           "inference": "Stating the complement directs attention to the portion omitted by the first emphasis.",
           "vocabulary": "The outcome stays the same beneath two different statements, defining underlying.",
           "detail": "The passage says a loss frame highlights failure or cost."

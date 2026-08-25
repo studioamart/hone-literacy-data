@@ -1920,7 +1920,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate visibility from information. The suit is easy to observe, but the passage tests whether its cost is linked to reliability, whether different applicants can copy it, and whether the workplace reads it the same way.",
+        "strategy": "Separate visibility from information. The suit is easy to see. Ask whether its cost relates to reliability. Check whether different applicants can copy the signal with equal ease. Consider how each workplace interprets it.",
         "signals": [
           {
             "phrase": "while reliability is hidden",
@@ -2285,11 +2285,11 @@
           "choices": [
             "The final moment always erases every earlier part of an experience.",
             "People accurately calculate the average pleasure of every museum visit.",
-            "People may remember an experience through its peak and ending more than a minute-by-minute average, though other factors also matter.",
+            "People may give extra weight to an experience’s peak and ending, though other factors also shape memory.",
             "Only negative endings remain available in long-term memory."
           ],
           "answer": 2,
-          "explanation": "The passage explains the peak-end tendency, applies it, and limits it rather than presenting an absolute rule."
+          "explanation": "The passage explains the peak-end tendency, applies it, and notes that other factors affect memory."
         },
         {
           "id": "q2",
@@ -2332,7 +2332,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate lived duration from remembered evaluation. Mark the peak and ending in the museum examples, then use the third paragraph's limits to keep the rule probabilistic rather than absolute.",
+        "strategy": "Separate the full experience from the later memory of it. Mark the peak and ending in the museum examples. Use the third paragraph to identify other factors that shape memory.",
         "signals": [
           {
             "phrase": "the same amount of time",
@@ -2362,7 +2362,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Include both the unequal weighting of moments and the caution that memory has other influences.",
+          "main-idea": "Include the peak and ending. Note that other factors also affect memory.",
           "inference": "Use the sentence after the frame metaphor to explain how an ending structures later recall.",
           "vocabulary": "Contrast “full duration” with the peak and ending to identify it as the complete timespan.",
           "detail": "Keep the two museum visits separate; the crowded exit belongs to the first one."
@@ -2915,7 +2915,7 @@
           "stem": "Why are auroras especially common near high latitudes?",
           "choices": [
             "Those regions receive direct sunlight throughout every night.",
-            "Earth's magnetic field guides many incoming charged particles toward regions near the magnetic poles.",
+            "Earth's magnetic field guides charged particles toward areas near the magnetic poles.",
             "Only polar air contains oxygen and nitrogen.",
             "High-latitude cities produce more electrical light."
           ],
@@ -2950,7 +2950,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Build the mechanism from source to sight: solar particles reach Earth's magnetic environment, are guided toward high latitudes, transfer energy to gases, and produce emissions viewed in perspective.",
+        "strategy": "Follow the steps that create an aurora. Solar particles reach Earth. The magnetic field guides them toward the poles. Gases emit light after gaining energy from the particles.",
         "signals": [
           {
             "phrase": "do not fall in a straight line",
@@ -4781,13 +4781,13 @@
           "skill": "vocabulary",
           "stem": "What does “closure” mean here?",
           "choices": [
-            "a sense that something has been settled or given an endpoint",
+            "the feeling that something is finished",
             "a locked restaurant door",
             "a method of testing memory",
             "an unexpected new order"
           ],
           "answer": 0,
-          "explanation": "An incomplete task lacks an ending; a recorded next step may reduce that unresolved feeling."
+          "explanation": "An incomplete task lacks an ending. Recording the next step can reduce that unresolved feeling."
         },
         {
           "id": "q4",
@@ -4804,7 +4804,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow the passage's cautious modal language: unfinished work “can” remain active and “may” return. Pair the server example with the final limits so a tendency does not become a universal memory law.",
+        "strategy": "Notice the words “can” and “may.” They show that this is a tendency, not a rule. Compare the server example with the limits in the final paragraph.",
         "signals": [
           {
             "phrase": "until it is delivered",
@@ -4836,7 +4836,7 @@
         "skillTips": {
           "main-idea": "Retain the possibility and its limits rather than making every incomplete task unforgettable.",
           "inference": "A specific next step lowers uncertainty about resuming, even though the larger task remains unfinished.",
-          "vocabulary": "The contrast between unfinished and completed provides the clue that “closure” means an endpoint.",
+          "vocabulary": "The passage contrasts unfinished and completed tasks, so “closure” means an ending.",
           "detail": "The historical paragraph identifies the psychologist whose surname labels the effect."
         }
       }
@@ -4975,7 +4975,7 @@
           "stem": "Why is the delivery label important?",
           "choices": [
             "It proves Mr. Cho bought the umbrella for Paula.",
-            "It provides a traceable clue that moves the search from a color-based guess toward the actual delivery error.",
+            "It gives Mina a traceable clue that leads to the delivery error.",
             "It lists every person who carried the umbrella.",
             "It shows that Mina ordered groceries for apartment 2A."
           ],
@@ -5041,7 +5041,7 @@
         ],
         "skillTips": {
           "main-idea": "Connect the corrected assumption with the network of favors; the story is more than an ownership puzzle.",
-          "inference": "The label is stronger than the color guess because it carries data from the umbrella's delivery history.",
+          "inference": "Unlike the color guess, the label records part of the umbrella's delivery history.",
           "vocabulary": "The courier can still use the number, so “partial” means incomplete rather than unreadable.",
           "detail": "The final ownership is established by the order check, not by who temporarily carries the umbrella."
         }
@@ -5799,12 +5799,12 @@
           "stem": "Why does the crab dislike the oyster's answer?",
           "choices": [
             "The oyster erased every water-level mark.",
-            "It has invested effort in the line and does not want to admit the line lacks control.",
+            "The crab spent all morning making a line that cannot control the sea.",
             "The crab cannot understand what a measurement records.",
             "The sea has promised to follow the oyster instead."
           ],
           "answer": 1,
-          "explanation": "The story links the crab's resistance to the entire morning spent making the line."
+          "explanation": "The crab resists because it spent the entire morning making the line."
         },
         {
           "id": "q3",
@@ -5834,7 +5834,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare the crab's two uses of a line. First it treats one mark as authority over the sea; later it treats several marks as evidence for a plan that can tolerate changing water.",
+        "strategy": "Compare the crab's two uses of a line. At first, it thinks one mark can control the sea. Later, it uses several marks to plan for changing water.",
         "signals": [
           {
             "phrase": "looked official",
@@ -5903,11 +5903,11 @@
           "choices": [
             "A copied memory must be completely false.",
             "Two bodies cannot exist in the same room.",
-            "The same psychological history could point to more than one future claimant, while identity is usually treated as one-to-one.",
+            "Copied memories and traits could make two future people claim the same earlier identity.",
             "Physical continuity disappears whenever information is stored."
           ],
           "answer": 2,
-          "explanation": "The final paragraph explicitly contrasts duplicable information with the expectation of one continuing person."
+          "explanation": "The final paragraph says copied information could make two later people claim one earlier identity."
         },
         {
           "id": "q3",
@@ -5937,7 +5937,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Make a continuity map with separate rows for body, memory, personality, and relationships. The swap sends those rows in different directions, revealing which one each answer treats as identity-bearing.",
+        "strategy": "List what happens to the body, memories, personality, and relationships. Then see which feature each answer treats as the basis of identity.",
         "signals": [
           {
             "phrase": "only one person",
@@ -5968,7 +5968,7 @@
         ],
         "skillTips": {
           "main-idea": "Name the rival kinds of continuity rather than choosing an answer the passage leaves open.",
-          "inference": "Copying allows two later people to share one earlier history, challenging a one-person continuation rule.",
+          "inference": "A copy could make two later people claim the same earlier identity.",
           "vocabulary": "Every theory seeks a connection linking the person before and after, defining continuity.",
           "detail": "The first sentence gives both names before describing what wakes in each body."
         }
@@ -6107,13 +6107,13 @@
           "skill": "inference",
           "stem": "How can a lower-frequency processor sometimes finish sooner?",
           "choices": [
-            "It may accomplish more work per cycle or benefit from better cores, memory, cache, software, or design.",
+            "It may do more work per cycle or have better cores, memory, cache, software, or design.",
             "A lower frequency always creates more cycles each second.",
             "Its clock completes every instruction without using memory.",
             "Cooling converts each clock cycle into three instructions."
           ],
           "answer": 0,
-          "explanation": "The third paragraph explicitly places frequency among several factors and notes that architecture can overcome a lower rate."
+          "explanation": "The third paragraph lists several factors that can let a lower-frequency processor finish sooner."
         },
         {
           "id": "q3",
@@ -6143,7 +6143,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate timing opportunities from completed work. The clock provides cycles; architecture and workload decide what fits into them; heat, power, and memory can prevent a high advertised rate from becoming equal performance.",
+        "strategy": "Separate clock cycles from completed work. Architecture and workload determine how much work occurs in each cycle. Heat, power, and memory can also limit performance.",
         "signals": [
           {
             "phrase": "reference moments",
@@ -6211,12 +6211,12 @@
           "stem": "Why do Sora and Mr. Imani laugh on the stairs?",
           "choices": [
             "They learn that neither person likes soup.",
-            "They discover that both were shy even though their bowl exchange had already connected them.",
+            "They learn that both were shy even though their quiet exchange had connected them.",
             "The paper flowers have blown into the stairwell.",
             "The night guard has hidden the bowl."
           ],
           "answer": 1,
-          "explanation": "Their matching apologies reveal a shared worry that the quiet exchange had already overcome."
+          "explanation": "Their matching apologies show that they shared the same worry, even though the quiet exchange had worked."
         },
         {
           "id": "q3",
@@ -6246,7 +6246,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow what the bowl carries in both directions. Each small response answers the previous gift, so the object becomes a low-pressure conversation before the neighbors exchange spoken words.",
+        "strategy": "Track each gift placed in the bowl. Every response answers the previous gift. The exchange lets the neighbors connect before they speak.",
         "signals": [
           {
             "phrase": "worried that the gesture",
@@ -6277,7 +6277,7 @@
         ],
         "skillTips": {
           "main-idea": "Trace the exchange from Sora's uncertainty through mutual gifts to kindness shared with the guard.",
-          "inference": "Their laughter follows the realization that both felt the same shyness despite an already successful connection.",
+          "inference": "Their laughter shows that both were shy despite their successful exchange.",
           "vocabulary": "Sora's fear that a gift crossed a neighbor's boundary explains “intrusive.”",
           "detail": "The first returned object contains basil; paper flowers arrive during a later exchange."
         }

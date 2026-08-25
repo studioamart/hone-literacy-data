@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 15,
+  "version": 16,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -42610,7 +42610,7 @@
           "choices": [
             "Any two sentences with different wording must describe different numerical outcomes.",
             "Framing always reverses every person's decision in the same way.",
-            "Equivalent outcomes can feel different when presented as gains or losses. Readers should compare results and check missing context.",
+            "Equivalent outcomes can feel different as gains or losses, so readers should compare results and check missing context.",
             "Careful readers can remove all perspective from language permanently."
           ],
           "answer": 2,
@@ -62386,7 +62386,7 @@
           "choices": [
             "Every impulse disappears after exactly one breath.",
             "Checking a phone is always an unwise decision.",
-            "A brief pause can add useful information before a choice. It cannot guarantee control.",
+            "A brief pause can add useful information before a choice without guaranteeing control.",
             "Reflection works only when a tempting object stays nearby."
           ],
           "answer": 2,
@@ -63314,7 +63314,7 @@
             "A speaker is responsible for controlling every possible interpretation of every sentence.",
             "Accurate words remove any need to consider context, audience, or shared knowledge.",
             "Listeners alone must repair confusing government forms and safety warnings.",
-            "Understanding requires shared effort. Speakers with more knowledge or power must do more to make messages understandable."
+            "Understanding requires shared effort, and speakers with more knowledge or power must do more to make messages understandable."
           ],
           "answer": 3,
           "explanation": "The essay explains what speakers can control, what they cannot, and why power creates a greater duty."

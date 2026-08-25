@@ -1063,7 +1063,7 @@
             "It gave the removed sea stars a new place to eat.",
             "It prevented mussels from attaching to any rocks.",
             "It proved seasons never affect coastal food webs.",
-            "It helped show what changed when sea stars were removed rather than when the shore was left alone."
+            "It helped identify changes caused by removing the sea stars."
           ],
           "answer": 3,
           "explanation": "A comparison makes the intervention easier to distinguish from ordinary changes on the shore."
@@ -1096,7 +1096,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Trace the experiment as cause and effect: removal changes predation, mussels gain space, and diversity falls. Then use the arch comparison to understand why abundance and influence are not the same measure.",
+        "strategy": "Follow the experiment's results. Removing sea stars reduces predation, mussels take more space, and diversity falls. Then compare abundance with influence in the arch example.",
         "signals": [
           {
             "phrase": "Without the predator",
@@ -1797,7 +1797,7 @@
             "cancel one another completely",
             "belong only to nearby people",
             "move farther away",
-            "exist and be met at the same time"
+            "exist at the same time"
           ],
           "answer": 3,
           "explanation": "The next sentence shows a promise to a friend and support for strangers being carried together."
@@ -1817,7 +1817,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Map the argument as claim, challenge, and synthesis. The final paragraph keeps the insight about special promises while widening concern beyond a local circle.",
+        "strategy": "Follow the argument's three parts. It starts with special promises, considers duties to distant strangers, and concludes that both duties can coexist.",
         "signals": [
           {
             "phrase": "But distance does not erase",
@@ -2801,23 +2801,23 @@
             "The most generous gifts must be useless and surprising.",
             "A cookbook is the correct gift for every person.",
             "Practical gifts matter only when they create dramatic photographs.",
-            "A practical gift can show deep care when usefulness grows from attention to the recipient rather than correction."
+            "A useful gift shows care when it reflects the recipient's real needs and interests."
           ],
           "answer": 3,
-          "explanation": "The essay values usefulness while setting respect and listening as its conditions."
+          "explanation": "The essay says useful gifts show care when the giver listens and respects the recipient."
         },
         {
           "id": "q2",
           "skill": "inference",
           "stem": "Why can a practical gift become a poor gift?",
           "choices": [
-            "It may express the giver’s preferred version of someone instead of the person’s real interests.",
+            "It can reflect the giver’s wishes instead of the recipient’s interests.",
             "It always removes too many daily burdens.",
             "It cannot be wrapped or photographed.",
             "It reminds the recipient of careful listening."
           ],
           "answer": 0,
-          "explanation": "The cookbook example shows usefulness being imposed without regard for the recipient."
+          "explanation": "The cookbook reflects what the giver wants the recipient to become."
         },
         {
           "id": "q3",
@@ -2847,7 +2847,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow the essay’s distinction between usefulness based on observation and usefulness imposed as correction. The conclusion joins practicality with respect.",
+        "strategy": "Ask what the giver learned about the recipient. A thoughtful practical gift reflects the recipient's interests and respects their choices.",
         "signals": [
           {
             "phrase": "Yet usefulness",
@@ -2878,7 +2878,7 @@
         ],
         "skillTips": {
           "main-idea": "Include both the value of practical attention and the need to respect the recipient.",
-          "inference": "Infer what goes wrong in the cookbook example by comparing listening with an imagined life.",
+          "inference": "Compare the recipient's real interests with the life the giver imagines.",
           "vocabulary": "Use the verbs “remove,” “replace,” and “return” to understand burden as a recurring difficulty.",
           "detail": "For the example detail, locate the three practical items named in the opening."
         }
@@ -4075,15 +4075,15 @@
           "choices": [
             "illness and a clean notebook",
             "applause and a first run",
-            "a genuine change in value and the discomfort of restarting",
+            "changed values and discomfort with restarting",
             "one scale and one page"
           ],
           "answer": 2,
-          "explanation": "The fourth paragraph poses that exact evaluation between changed values and ordinary restart discomfort."
+          "explanation": "The fourth paragraph asks whether values changed or restarting simply feels uncomfortable."
         }
       ],
       "lesson": {
-        "strategy": "Notice how the essay redefines discipline twice: first as return rather than perfection, then as evaluation rather than endless repetition. The small-step examples connect these ideas to action.",
+        "strategy": "The essay defines discipline twice. It first emphasizes returning after interruptions. It later asks whether continued effort still serves a valued goal. Small steps make returning easier.",
         "signals": [
           {
             "phrase": "Yet most practices",
@@ -4116,7 +4116,7 @@
           "main-idea": "Include manageable return and honest reevaluation in the main idea; either alone misses the balance.",
           "inference": "Infer the value of tiny actions from how they lower restart drama and preserve identity.",
           "vocabulary": "Use the practice’s “way back” after disruption to define durable as able to continue.",
-          "detail": "For the final comparison, locate the two explanations for resistance posed in paragraph four."
+          "detail": "In paragraph four, find the two reasons someone may resist returning."
         }
       }
     },
@@ -4871,7 +4871,7 @@
           "skill": "inference",
           "stem": "Why can’t the manager rely only on a stopwatch?",
           "choices": [
-            "Live actions and pauses may take different amounts of time each performance.",
+            "Live actions and pauses vary between performances.",
             "The marked script contains no information.",
             "Lighting operators cannot hear headsets.",
             "Every scene always ends early."
@@ -4919,7 +4919,7 @@
           },
           {
             "phrase": "yet it helps",
-            "means": "This contrast highlights the importance of work the audience may not hear."
+            "means": "This shows why unheard work matters to a performance."
           }
         ],
         "vocab": [
@@ -5515,17 +5515,17 @@
           "skill": "detail",
           "stem": "What two values does the final paragraph say respect includes?",
           "choices": [
-            "feelings and the ability to make informed choices",
+            "feelings and informed choice",
             "perfection and public praise",
             "silence and embarrassment",
             "speed and total agreement"
           ],
           "answer": 0,
-          "explanation": "The final paragraph names concern for feelings and for informed choice."
+          "explanation": "The final paragraph says respect includes care for feelings and informed choice."
         }
       ],
       "lesson": {
-        "strategy": "Track the false either-or and the alternatives the author builds through wording, timing, purpose, and permission. The conclusion treats respect as care for both feeling and agency.",
+        "strategy": "Identify the two values the author refuses to separate. Wording, timing, purpose, and permission can protect both feelings and informed choice.",
         "signals": [
           {
             "phrase": "not simply",
@@ -5598,7 +5598,7 @@
             "Its layout may resemble an earlier place whose specific context is not consciously retrieved."
           ],
           "answer": 3,
-          "explanation": "The fourth paragraph offers partial similarity without accessible source details as one possible mechanism."
+          "explanation": "The third paragraph suggests that a new layout may resemble an earlier place whose details are not consciously recalled."
         },
         {
           "id": "q3",
@@ -5619,7 +5619,7 @@
           "stem": "When does the passage recommend medical attention?",
           "choices": [
             "after every brief ordinary episode",
-            "when déjà vu is frequent and comes with confusion or other symptoms",
+            "when it happens often with confusion or other symptoms",
             "only when a café looks unfamiliar",
             "whenever a person remembers a real source"
           ],
@@ -5628,7 +5628,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate the feeling of knowing from the retrieval of a source. The possible mechanisms are hypotheses, while the final paragraph distinguishes an ordinary episode from a symptom pattern needing attention.",
+        "strategy": "Separate the feeling of familiarity from remembering its source. Treat the possible causes as hypotheses. The final paragraph explains when frequent episodes need medical attention.",
         "signals": [
           {
             "phrase": "yet no earlier visit emerges",
@@ -5695,13 +5695,13 @@
           "skill": "inference",
           "stem": "Why should an unusual warm patch be checked in the field?",
           "choices": [
-            "Several conditions can affect the signal, so warmth alone does not identify one cause.",
+            "A field check can test other possible causes of the signal.",
             "Field visits increase the satellite’s orbital speed.",
             "Every warm pixel proves that crops were never planted.",
             "Near-infrared reflection prevents water stress."
           ],
           "answer": 0,
-          "explanation": "The third paragraph says the remote pattern is not a diagnosis and lists possible influences."
+          "explanation": "The second paragraph says the remote pattern is not a diagnosis and lists possible influences."
         },
         {
           "id": "q3",
@@ -5731,7 +5731,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Trace the evidence chain from wavelength measurement to pattern, comparison, investigation, and action. Treat every image as a clue at a particular scale rather than an automatic diagnosis.",
+        "strategy": "Follow the evidence from wavelength measurement to pattern, comparison, field check, and action. A field check can help identify causes of the image pattern.",
         "signals": [
           {
             "phrase": "not a diagnosis",

@@ -216,7 +216,7 @@
       "level": 3,
       "wordCount": 193,
       "releasedAt": "2026-08-12",
-      "text": "Speed narrows attention toward what is next. On an express train, a town becomes a station name and a blur of roofs. Walking the same route reveals the slope of a street, bread cooling near a bakery, and a path worn through grass where the official sidewalk makes an inconvenient turn.\n\nMoving slowly can expose relationships that efficiency hides. A repairer notices why a hinge fails repeatedly. A listener hears the hesitation after an easy answer. A scientist watches a process long enough to see a rare change. Slowness gives small evidence time to become visible.\n\nYet slow is not automatically wise. An ambulance must not admire the scenery. A delayed decision can leave another person carrying uncertainty. Repetition without attention is merely delay. The value lies in choosing a pace suited to the purpose.\n\nModern life often treats speed as proof of importance or skill. Sometimes it is. Quick action can protect people and preserve opportunity. But a slow lane remains a useful instrument when the question requires texture, maintenance, or trust. It changes not only how long a journey takes, but what the traveler is able to notice along the way.",
+      "text": "Speed narrows attention toward what is next. On an express train, a town becomes a station name and a blur of roofs. Walking the same route reveals the slope of a street, bread cooling near a bakery, and a path worn through grass where the official sidewalk makes an inconvenient turn.\n\nMoving slowly can expose relationships that efficiency hides. A repairer notices why a hinge fails repeatedly. A listener hears the hesitation after an easy answer. A scientist watches a process long enough to see a rare change. Slowness gives small evidence time to become visible.\n\nYet slow is not automatically wise. An ambulance must not admire the scenery. A delayed decision can leave another person carrying uncertainty. Repetition without attention is merely delay. The value lies in choosing a pace suited to the purpose.\n\nModern life often treats speed as proof of importance or skill. Sometimes it is. Quick action can protect people and preserve opportunity. But a slow lane remains a useful instrument when the question requires texture, maintenance, or trust. The chosen pace changes travel time and affects which details a person can notice while moving through the same place.",
       "questions": [
         {
           "id": "q1",
@@ -319,7 +319,7 @@
       "level": 4,
       "wordCount": 223,
       "releasedAt": "2026-08-12",
-      "text": "A porcupine lived beside a bridge whose third plank had begun to split. He warned every traveler. “Only a fool would step there,” he told the deer. The deer bristled and crossed without looking down. “Your eyes must be made of mud,” he told the mole, who turned away before hearing which plank was weak. When the porcupine shouted at a flock of quail, they scattered at the insult and landed on the bridge. The porcupine complained. A frog listened. “Perhaps they hear the thorns before the warning,” she said. “A true fact stays true,” answered the porcupine.\n\n“Yes,” said the frog. “But advice must arrive.” She hopped to the road and called, “Please use the left edge. The third plank is splitting.” Travelers slowed, thanked her, and crossed safely. The porcupine felt the familiar sharp reply rise in his throat. He let it pass. Together they blocked the bridge and fetched beavers. By sunset, the plank was sound.\n\nThe next morning, the porcupine saw a young hare racing toward wet stones. “Only a…” he began. Then he tried again. “The stones are slick. Take the grass.” The hare changed course.\n\nThe porcupine had not made the danger less true. He had learned that a warning is measured not only by its accuracy, but by whether another creature can receive and use it.",
+      "text": "A porcupine lived beside a bridge whose third plank had begun to split. He warned every traveler. “Only a fool would step there,” he told the deer. The deer bristled and crossed without looking down. “Your eyes must be made of mud,” he told the mole, who turned away before hearing which plank was weak. When the porcupine shouted at a flock of quail, they scattered at the insult and landed on the bridge. The porcupine complained. A frog listened. “Perhaps they hear the thorns before the warning,” she said. “A true fact stays true,” answered the porcupine.\n\n“Yes,” said the frog. “But advice must arrive.” She hopped to the road and called, “Please use the left edge. The third plank is splitting.” Travelers slowed, thanked her, and crossed safely. The porcupine felt the familiar sharp reply rise in his throat. He let it pass. Together they blocked the bridge and fetched beavers. By sunset, the plank was sound.\n\nThe next morning, the porcupine saw a young hare racing toward wet stones. “Only a…” he began. Then he tried again. “The stones are slick. Take the grass.” The hare changed course.\n\nThe porcupine had not made the danger less true. He had learned that a warning needs accuracy and clear language so another creature can receive, understand, and use it to stay safe.",
       "questions": [
         {
           "id": "q1",
@@ -534,7 +534,7 @@
           "choices": [
             "Every impulse disappears after exactly one breath.",
             "Checking a phone is always an unwise decision.",
-            "A brief pause can add useful cues before an impulse becomes a choice, though it does not guarantee control.",
+          "A brief pause can add useful information before a choice without guaranteeing control.",
             "Reflection works only when a tempting object stays nearby."
           ],
           "answer": 2,
@@ -581,7 +581,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track the cues available before and after Maya pauses. The passage presents delay as a way to widen information, not as a guaranteed cure or rule.",
+        "strategy": "Compare the information Maya has before and after she pauses. The delay gives her more information. She still decides what to do.",
         "signals": [
           {
             "phrase": "before she decides",
@@ -611,7 +611,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "State the main idea with both the benefit of pausing and its lack of a guarantee.",
+          "main-idea": "State how pausing helps. Also state its limit.",
           "inference": "Infer the question’s purpose from the study-related objects Maya notices immediately afterward.",
           "vocabulary": "Compare the phone buzz and open book to define a cue as an action prompt.",
           "detail": "For a setting change, locate the three concrete examples in the final paragraph."
@@ -1246,7 +1246,7 @@
       "level": 3,
       "wordCount": 197,
       "releasedAt": "2026-08-12",
-      "text": "Lillian Moller Gilbreth studied how people moved while doing work. Trained in psychology and engineering, she and her husband, Frank, analyzed tasks into smaller motions. After his death, she continued their consulting work while supporting a large family.\n\nFactories did not always welcome a woman engineer, so Gilbreth also applied her methods to household labor. She observed cooks walking repeatedly between sink, stove, table, and shelves. A kitchen could require extra steps not because cooking demanded them, but because tools and work surfaces had been placed without attention to sequence.\n\nGilbreth helped develop kitchen designs organized around common tasks. She promoted useful heights, accessible storage, movable work surfaces, and a practical flow among major stations. The aim was not to make one rigid room for every body. It was to let observation replace habit when arranging work.\n\nShe also designed adaptations for people with disabilities and worked on products used in homes. Her research treated ordinary movement as worthy of engineering. A wasted reach repeated fifty times was no longer invisible once someone counted it. Gilbreth's legacy lies not only in efficiency, but in asking whose effort a design assumes and how that effort might be reduced.",
+      "text": "Lillian Moller Gilbreth studied how people moved while doing work. Trained in psychology and engineering, she and her husband, Frank, analyzed tasks into smaller motions. After his death, she continued their consulting work while supporting a large family.\n\nFactories did not always welcome a woman engineer, so Gilbreth also applied her methods to household labor. She observed cooks walking repeatedly between sink, stove, table, and shelves. A kitchen could require extra steps not because cooking demanded them, but because tools and work surfaces had been placed without attention to sequence.\n\nGilbreth helped develop kitchen designs organized around common tasks. She promoted useful heights, accessible storage, movable work surfaces, and a practical flow among major stations. The aim was not to make one rigid room for every body. It was to let observation replace habit when arranging work.\n\nShe also designed adaptations for people with disabilities and worked on products used in homes. Her research treated ordinary movement as worthy of engineering. A wasted reach repeated fifty times was no longer invisible once someone counted it. Gilbreth's legacy includes greater efficiency and a question for designers: who uses a design, and how can it reduce their daily effort?",
       "questions": [
         {
           "id": "q1",
@@ -1462,10 +1462,10 @@
             "A speaker is responsible for controlling every possible interpretation of every sentence.",
             "Accurate words remove any need to consider context, audience, or shared knowledge.",
             "Listeners alone must repair confusing government forms and safety warnings.",
-            "Understanding is shared work, while speakers with greater knowledge or power have a stronger duty to make messages reasonably accessible and repair confusion."
+          "Understanding requires shared effort, and speakers with more knowledge or power must do more to make messages understandable."
           ],
           "answer": 3,
-          "explanation": "The essay balances realistic limits with specific speaker choices and a greater burden under unequal power."
+          "explanation": "The essay explains what speakers can control, what they cannot, and why power creates a greater duty."
         },
         {
           "id": "q2",
@@ -1483,7 +1483,7 @@
         {
           "id": "q3",
           "skill": "vocabulary",
-          "stem": "What does “stakes” mean in the fourth paragraph?",
+          "stem": "What does “stakes” mean in the second paragraph?",
           "choices": [
             "wooden posts holding up a sign",
             "the possible consequences or importance of the exchange",
@@ -1504,11 +1504,11 @@
             "removing units from a chart"
           ],
           "answer": 2,
-          "explanation": "The fourth paragraph explicitly recommends a new example or format when repetition fails."
+          "explanation": "The second paragraph recommends a new example or format when repetition fails."
         }
       ],
       "lesson": {
-        "strategy": "Trace the argument from available speaker choices, through limits on control, to greater duties under power. The conclusion defines responsibility as reasonable enablement, not guaranteed success.",
+        "strategy": "Identify the speaker's choices and limits. Then explain why greater power brings greater responsibility. The conclusion requires reasonable support for understanding. No speaker can guarantee success.",
         "signals": [
           {
             "phrase": "Responsibility is not unlimited",
@@ -1538,10 +1538,10 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Include shared effort, limited control, and the greater duty of knowledgeable or powerful speakers.",
+          "main-idea": "Include shared effort, limits on control, and greater duties for powerful speakers.",
           "inference": "Infer the institutional burden from recipients’ limited ability to challenge, clarify, or avoid the message.",
           "vocabulary": "Use the high-consequence setting around revision to define stakes.",
-          "detail": "For the alternative to repetition, locate the paired options at the end of paragraph four."
+          "detail": "For an alternative to repetition, look at the end of paragraph two."
         }
       }
     },
@@ -1884,7 +1884,7 @@
           "skill": "inference",
           "stem": "Why might replacing one component require recalibration?",
           "choices": [
-            "A different part can change how the sensor turns a physical condition into a measurement.",
+            "A new part may change how the sensor measures a physical condition.",
             "The open license disappears whenever a part changes.",
             "Every replacement makes assembly labels unreadable.",
             "Calibration applies only to sealed devices."
@@ -1903,7 +1903,7 @@
             "a rule preventing public inspection"
           ],
           "answer": 1,
-          "explanation": "The fourth paragraph lists diagrams, units, history, and procedures as needed records."
+          "explanation": "The third paragraph lists units, version history, and test procedures as needed documentation."
         },
         {
           "id": "q4",
@@ -1920,7 +1920,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Distinguish permission to inspect and modify from evidence that a particular build works safely. Track how documentation and returned test results turn files into collaboration.",
+        "strategy": "Separate permission to modify a design from proof that the new build works safely. Documentation and test results help people improve the design together.",
         "signals": [
           {
             "phrase": "not the same as a tested product",
@@ -2002,7 +2002,7 @@
           "choices": [
             "given points by theater judges",
             "painted to resemble iron",
-            "cut or marked partway through to control where it tears",
+            "partly cut or marked to guide a tear",
             "made thicker with solid oak"
           ],
           "answer": 2,
@@ -2023,7 +2023,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Trace the difference between strength everywhere and strength arranged around a purpose. Then apply the door metaphor cautiously to the siblings’ separable needs.",
+        "strategy": "Compare uniform strength with strength designed for a specific purpose. Then apply that idea carefully to the siblings’ separate needs.",
         "signals": [
           {
             "phrase": "too well",
@@ -2504,11 +2504,11 @@
           "choices": [
             "The formulas were written only as musical notes.",
             "Proof would have prevented any later application.",
-            "They could not readily check why a claim followed or whether it held in all intended cases.",
+            "They could not easily verify the claims or know whether they always applied.",
             "Hardy required every known claim to be wrong."
           ],
           "answer": 2,
-          "explanation": "The conclusion distinguishes an inspired claim from a verified path others can examine and reuse."
+          "explanation": "The conclusion says a proof lets others check and reuse a mathematical claim."
         },
         {
           "id": "q3",
@@ -2538,7 +2538,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Keep discovery, proof, and later verification as distinct contributions. Read the cross-cultural partnership without turning either mathematician into the sole source of Ramanujan’s achievement.",
+        "strategy": "Separate Ramanujan's discoveries from the proofs and later verification. Give each mathematician accurate credit for the cross-cultural partnership.",
         "signals": [
           {
             "phrase": "Yet unusual notation",
@@ -2594,7 +2594,7 @@
           "choices": [
             "Every market must keep all goods and buyers inside one physical hall.",
             "A market exists only after fish have spoiled.",
-            "A market can form without one building when buyers and sellers share offers, rules, and enough trust to exchange.",
+            "A market can exist without one building when buyers and sellers share offers, rules, and trust.",
             "Shared price information prevents sellers from comparing offers."
           ],
           "answer": 2,
@@ -2618,7 +2618,7 @@
           "skill": "vocabulary",
           "stem": "What does “exchange” mean here?",
           "choices": [
-            "giving goods or services in return for payment or value",
+            "trading goods or services for payment or value",
             "building walls around a product",
             "announcing weather without prices",
             "weighing only one kilogram"
@@ -2641,7 +2641,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Identify the essential connections among offers, comparison, payment, delivery, and trust. The physical location is useful but not part of the definition.",
+        "strategy": "Identify what makes exchange possible: offers, comparisons, payment, delivery, and trust. A shared building is optional.",
         "signals": [
           {
             "phrase": "because offers can meet",
@@ -2671,7 +2671,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "State the main idea through information, rules, trust, and exchange rather than location.",
+          "main-idea": "Include information, rules, trust, and exchange. Location is not essential.",
           "inference": "Infer comparison value from the different offers fishers can consider.",
           "vocabulary": "Use payment and delivery between buyer and seller to define exchange.",
           "detail": "For the shared unit, return to the examples of rules in the final paragraph."
@@ -2708,13 +2708,13 @@
           "skill": "inference",
           "stem": "Why should another newcomer test the map?",
           "choices": [
-            "The test can reveal whether revisions actually help someone without prior route knowledge.",
+            "It shows whether the revised map helps someone new to the route.",
             "The newcomer can remove every secure door.",
             "Testing makes expert knowledge unnecessary.",
             "One new user knows all winter conditions."
           ],
           "answer": 0,
-          "explanation": "A second fresh user checks whether the combined map bridges the same knowledge gap in practice."
+          "explanation": "A second new user tests whether the added directions are clear enough to follow."
         },
         {
           "id": "q3",
@@ -2744,7 +2744,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare the blind spots of familiarity with the blind spots of one-time observation. The proposed workflow combines and tests both forms of knowledge.",
+        "strategy": "Compare the expert's blind spots with the newcomer's missed details. Combine both kinds of knowledge, revise the map, and test it again.",
         "signals": [
           {
             "phrase": "forgetting the three unmarked doors",
@@ -2916,7 +2916,7 @@
           "choices": [
             "Its individual footprints are always physically larger.",
             "The hiker controls all park signs and barriers.",
-            "It directs many visits and has greater knowledge and capacity to change the pattern.",
+            "It directs many visits and may have more ability to change the pattern.",
             "Companies cannot contribute money to repair."
           ],
           "answer": 2,
@@ -2950,7 +2950,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare the two rejected extremes, then map responsibility across roles and capacities. The solution shifts attention from isolated blame to the system that repeats the outcome.",
+        "strategy": "Compare individual responsibility with institutional responsibility. The tour company directs repeated visits and can change the system that causes harm.",
         "signals": [
           {
             "phrase": "Both answers miss",
@@ -3210,13 +3210,13 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the story?",
           "choices": [
-            "A lost paper crane gathers small messages from bus riders and helps Mei feel connected in a new city.",
+            "Messages added to Mei’s lost paper crane help her feel less alone in the city.",
             "Mei’s crane is thrown away before anyone can find it.",
             "Every rider writes the same advice about school.",
             "The messages make every difficult part of Mei’s day disappear."
           ],
           "answer": 0,
-          "explanation": "The story follows the object’s community journey and Mei’s realistic change in belonging."
+          "explanation": "The crane collects messages from several riders. When it returns, Mei feels more connected and adds her own message."
         },
         {
           "id": "q2",
@@ -3259,7 +3259,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow how each rider changes the same object, then compare the blank and crowded crane. The ending turns Mei from recipient into participant.",
+        "strategy": "Track how each rider changes the crane. Compare it before and after the messages. At the end, Mei adds her own message and joins the exchange.",
         "signals": [
           {
             "phrase": "All day",
@@ -3844,7 +3844,7 @@
             "It produces the highest harvest in every possible season.",
             "It makes forecasts and soil irrelevant.",
             "It guarantees that floods never occur.",
-            "Its drought survival may protect the household from a result it cannot afford to bear."
+            "Its drought survival may protect the family from a loss it cannot afford."
           ],
           "answer": 3,
           "explanation": "The conclusion connects resilience with a family’s limited capacity to absorb disaster."
@@ -3877,7 +3877,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate maximum outcome, average expectation, and ability to survive a bad outcome. Then evaluate each risk tool by both what it reduces and what uncertainty remains.",
+        "strategy": "Separate highest possible yield, average yield, and survival in a bad season. For each risk tool, identify what it reduces and what uncertainty remains.",
         "signals": [
           {
             "phrase": "ignores risk",
@@ -3910,7 +3910,7 @@
           "main-idea": "Include return, risk, household capacity, coping tools, and uncertainty in the main idea.",
           "inference": "Infer the lower-yield choice from the severe consequence of one drought for a vulnerable household.",
           "vocabulary": "Use saved cash or grain after a poor harvest to define buffer.",
-          "detail": "For diversification, locate the first strategy in paragraph three."
+          "detail": "For the strategy that spreads weather risk, find the first option in paragraph two."
         }
       }
     },
@@ -4256,7 +4256,7 @@
             "It removes every remaining book from the pile.",
             "It proves the task has no larger purpose.",
             "It makes sorting quality unimportant.",
-            "It provides evidence that their method works and shows a reachable unit of completion."
+            "It shows their method works and gives them a reachable next goal."
           ],
           "answer": 3,
           "explanation": "The finished shelf supplies both a concrete result and a model for the next step."
@@ -4289,7 +4289,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track what a small win contributes: evidence, a visible endpoint, and a next step. The cautions prevent progress signals from replacing purpose or resources.",
+        "strategy": "Identify what a small win provides: evidence, a clear endpoint, and a next step. Progress still needs purpose and resources.",
         "signals": [
           {
             "phrase": "however",
@@ -5592,7 +5592,7 @@
           "skill": "inference",
           "stem": "Why can feedback reduce reliance on vision?",
           "choices": [
-            "A learned sensation pattern can indicate contact and grip force while the user acts.",
+            "A learned sensation pattern can show contact and grip force during use.",
             "Sensors make every object transparent to the eye.",
             "Motors no longer need any control signal.",
             "The prosthesis stops touching fragile objects."
@@ -5624,11 +5624,11 @@
             "the user’s goal"
           ],
           "answer": 2,
-          "explanation": "The second paragraph says sensors turn force into electrical measurements."
+          "explanation": "The first paragraph says the sensors turn force into electrical measurements."
         }
       ],
       "lesson": {
-        "strategy": "Trace the closed loop from contact to sensor, processor, feedback, learning, and grip adjustment. Then evaluate the loop in daily life from the user’s priorities.",
+        "strategy": "Follow the process: contact, sensor, processor, feedback, learning, and grip adjustment. Then judge the design using the user's daily needs.",
         "signals": [
           {
             "phrase": "Sensation is another",
@@ -6108,17 +6108,17 @@
           "stem": "Why do satellite systems require corrections from both theories?",
           "choices": [
             "Satellites travel without motion or gravity.",
-            "Orbital motion and weaker gravity affect satellite clock rates in different ways relative to ground clocks.",
+            "Orbital motion and weaker gravity change satellite clock rates differently from ground clocks.",
             "Position systems work without precise timing signals.",
             "Special and general relativity predict identical effects for the same reason."
           ],
           "answer": 1,
-          "explanation": "The fifth paragraph assigns one rate effect to rapid motion and another to gravitational difference."
+          "explanation": "The third paragraph says orbital motion and weaker gravity affect satellite clocks in opposing ways."
         },
         {
           "id": "q3",
           "skill": "vocabulary",
-          "stem": "What does “reference frame” mean in context?",
+          "stem": "What does “frame” mean in context?",
           "choices": [
             "the metal case surrounding a clock",
             "a photograph of one satellite path",
@@ -6139,7 +6139,7 @@
             "satellite navigation"
           ],
           "answer": 3,
-          "explanation": "The fifth paragraph identifies satellite navigation as a system applying relativistic corrections."
+          "explanation": "The third paragraph identifies satellite navigation as a system that applies relativistic corrections."
         }
       ],
       "lesson": {
