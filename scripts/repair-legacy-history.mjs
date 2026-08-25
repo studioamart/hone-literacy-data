@@ -1082,6 +1082,15 @@ for (const [id, repair] of REPAIRS) {
   validateReplacement(id, repair.replacement);
   const passage = passagesById.get(id);
   if (!passage) throw new Error(`Required passage is missing: ${id}.`);
+  // Complete passage replacement includes every question. Refuse to cross the
+  // semantic-review boundary until the replacement itself has reviewed,
+  // position-aligned tags; otherwise a historical repair could erase evidence.
+  if (passage.questions.some((item) => Object.hasOwn(item, 'distractorTags'))) {
+    throw new Error(
+      `${id}: reviewed distractorTags already exist; run historical repairs before ` +
+      'semantic tagging or update the reviewed replacement and tags atomically.'
+    );
+  }
   if (passage.level !== repair.replacement.level || passage.genre !== repair.replacement.genre) {
     throw new Error(`${id}: replacement must preserve level and genre.`);
   }

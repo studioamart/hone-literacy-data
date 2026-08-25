@@ -1,0 +1,48 @@
+{
+  "schema": 1,
+  "version": 1,
+  "tags": [
+    {
+      "id": "literal-detail-for-inference",
+      "skill": "inference",
+      "definition": "The option repeats or paraphrases a stated detail but does not make the inference the stem asks for.",
+      "editorialRule": "Use only when the option is actually supported as a literal detail and the missing inferential step is the reason it is wrong."
+    },
+    {
+      "id": "unsupported-inference",
+      "skill": "inference",
+      "definition": "The option reaches beyond what the passage evidence supports.",
+      "editorialRule": "Use only when the option requires an extra assumption; do not use as a generic label for every wrong inference choice."
+    },
+    {
+      "id": "detail-instead-of-main-idea",
+      "skill": "main-idea",
+      "definition": "The option is a true supporting detail presented as though it were the passage's larger point.",
+      "editorialRule": "Use only when the detail is genuinely stated and relevant, not when the option is fabricated or contradicted."
+    },
+    {
+      "id": "main-idea-too-broad",
+      "skill": "main-idea",
+      "definition": "The option extends the passage's claim beyond the scope supported by the whole text.",
+      "editorialRule": "Name the unsupported expansion during review; a merely wrong or opposite answer is not automatically too broad."
+    },
+    {
+      "id": "main-idea-too-narrow",
+      "skill": "main-idea",
+      "definition": "The option captures part of the passage's controlling idea but omits another necessary part.",
+      "editorialRule": "Use only when the option is a defensible partial gist, not simply one isolated fact."
+    },
+    {
+      "id": "context-clue-mismatch",
+      "skill": "vocabulary",
+      "definition": "The proposed word meaning does not fit the local sentence and passage context.",
+      "editorialRule": "Use only after a reviewer identifies the context clue that rules the option out; do not mass-label vocabulary distractors by skill."
+    },
+    {
+      "id": "nearby-detail",
+      "skill": "detail",
+      "definition": "The option is a nearby or closely related detail that answers a different locator than the stem asks for.",
+      "editorialRule": "Use only when the option itself is grounded in the passage; invented or contradicted details stay untagged."
+    }
+  ]
+}

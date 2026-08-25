@@ -45,6 +45,15 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Test distractor review gates
+        run: python3 -m unittest scripts/test_distractor_evidence.py
+
+      - name: Validate optional distractor review parity
+        run: |
+          python3 scripts/materialize-distractor-reviews.py \
+            --corpus data/passages.json \
+            --snapshot content/corpus-snapshots/bundled-v11-question-semantics.json
+
       - name: Audit corpus
         run: python3 scripts/audit-corpus.py --strict
 

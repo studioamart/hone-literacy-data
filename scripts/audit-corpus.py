@@ -16,6 +16,8 @@ import re
 import sys
 from pathlib import Path
 
+from distractor_taxonomy import load_registry, validate_question_tags
+
 
 ROOT = Path(__file__).resolve().parent.parent
 DEFAULT = ROOT / "data" / "passages.json"
@@ -52,6 +54,9 @@ def add(bucket: list[dict], code: str, passage: str, message: str, question: str
 def audit(path: Path) -> dict:
     errors: list[dict] = []
     warnings: list[dict] = []
+    registry, registry_errors = load_registry()
+    for message in registry_errors:
+        add(errors, "distractor-taxonomy-registry", "?", message)
     try:
         doc = json.loads(path.read_text(encoding="utf-8"))
     except (OSError, json.JSONDecodeError) as exc:
@@ -83,6 +88,10 @@ def audit(path: Path) -> dict:
     level_counts: collections.Counter[int] = collections.Counter()
     skill_counts: collections.Counter[str] = collections.Counter()
     total_questions = 0
+    total_distractors = 0
+    authored_tag_questions = 0
+    tagged_questions = 0
+    tagged_distractors = 0
     exact_texts: collections.defaultdict[str, list[str]] = collections.defaultdict(list)
 
     for index, p in enumerate(passages):
@@ -190,6 +199,15 @@ def audit(path: Path) -> dict:
                 add(errors, "question-answer", pid, f"answer {answer!r} is outside choices", qid)
             else:
                 answer_positions[answer] += 1
+            tag_issues, coverage = validate_question_tags(q, registry)
+            total_distractors += coverage.distractor_slots
+            if coverage.authored:
+                authored_tag_questions += 1
+            if coverage.tagged_slots > 0:
+                tagged_questions += 1
+                tagged_distractors += coverage.tagged_slots
+            for code, message in tag_issues:
+                add(errors, code, pid, message, qid)
             if isinstance(q.get("stem"), str) and len(q["stem"]) > 180:
                 add(warnings, "question-stem-length", pid, f"stem is {len(q['stem'])} characters", qid)
             if isinstance(q.get("explanation"), str) and len(q["explanation"]) > 400:
@@ -293,6 +311,13 @@ def audit(path: Path) -> dict:
         "genreCounts": dict(sorted(genre_counts.items())),
         "skillCounts": dict(sorted(skill_counts.items())),
         "answerPositions": dict(sorted(answer_positions.items())),
+        "distractorCoverage": {
+            "authoredQuestionCount": authored_tag_questions,
+            "taggedQuestionCount": tagged_questions,
+            "questionCount": total_questions,
+            "taggedDistractorCount": tagged_distractors,
+            "distractorCount": total_distractors,
+        },
         "errors": errors,
         "warnings": warnings,
         "issueCounts": {
@@ -318,6 +343,16 @@ def main() -> int:
             f"{report.get('questionCount', 0)} questions"
         )
         print(f"Errors: {len(report['errors'])}; warnings: {len(report['warnings'])}")
+        coverage = report.get("distractorCoverage", {})
+        print(
+            "Distractor evidence: "
+            f"{coverage.get('taggedQuestionCount', 0)}/{coverage.get('questionCount', 0)} "
+            "questions; "
+            f"{coverage.get('taggedDistractorCount', 0)}/{coverage.get('distractorCount', 0)} "
+            "distractor slots; "
+            f"{coverage.get('authoredQuestionCount', 0)} optional tag arrays present "
+            "(partial nil coverage is allowed)"
+        )
         for severity in ("errors", "warnings"):
             counts = report.get("issueCounts", {}).get(severity, {})
             if counts:

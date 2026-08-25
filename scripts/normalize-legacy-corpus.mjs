@@ -73,11 +73,27 @@ for (const passage of legacyPassages) {
         || question.answer < 0 || question.answer >= question.choices.length) {
       throw new Error(`${passage.id}:${question.id}: malformed choices/answer.`);
     }
+    if (Object.hasOwn(question, 'distractorTags')) {
+      if (!Array.isArray(question.distractorTags)
+          || question.distractorTags.length !== question.choices.length
+          || question.distractorTags[question.answer] !== null) {
+        throw new Error(
+          `${passage.id}:${question.id}: distractorTags must align with choices and ` +
+          'keep the correct slot null before answer balancing.'
+        );
+      }
+    }
     const target = questionIndex % 4;
     if (options.balanceAnswers && question.answer !== target) {
       const correct = question.answer;
       [question.choices[correct], question.choices[target]] =
         [question.choices[target], question.choices[correct]];
+      // Tags describe the option, never its old position. Move the pair as one
+      // unit so an answer-layout repair cannot silently rewrite evidence.
+      if (Object.hasOwn(question, 'distractorTags')) {
+        [question.distractorTags[correct], question.distractorTags[target]] =
+          [question.distractorTags[target], question.distractorTags[correct]];
+      }
       question.answer = target;
       movedAnswers += 1;
     }

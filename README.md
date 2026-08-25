@@ -70,6 +70,7 @@ not presented as a verbatim public-domain excerpt.
           "stem": "What lesson does the fable teach?",
           "choices": ["...", "...", "...", "..."],
           "answer": 0,                       // index into choices
+          "distractorTags": [null, "main-idea-too-broad", null, null], // OPTIONAL
           "explanation": "..."
         }
       ]
@@ -95,6 +96,101 @@ structure, computes the checksum, and refuses to publish content under an
 unchanged or lower version. The root `version` in `passages.json` is
 authoritative and must be bumped by the author. The script also validates
 `data/free-limits.json` when that legacy file exists.
+
+## Optional distractor evidence: reviewed, never inferred
+
+`distractorTags` is an optional array aligned position-for-position with
+`choices`. The correct choice must be `null`. A distractor may also remain
+`null` when its error type is uncertain; there is deliberately no coverage
+minimum. Tags come only from the closed vocabulary in
+`content/distractor-taxonomy-v1.json`, and each tag is valid only for its
+reviewed question skill.
+
+This evidence is a future editorial enhancement, not a corpus-release
+requirement. Zero, partial, and complete coverage are all valid. CI validates
+the shape and provenance of any tags that do exist, but it does not require an
+editor to add tags or convert uncertain `null` slots into labels.
+
+The authoritative authoring record is `content/distractor-reviews-v1.json`.
+Every non-null option review must include a specific editorial rationale. Its
+fingerprint includes the passage text, stem, choices, answer, explanation, and
+skill, so changing any evidence-bearing content forces a fresh review instead
+of silently moving an old label.
+
+Reviews are versioned by `(corpusVersion, passageId, questionId)`. The current
+OTA corpus and the immutable compact v11 snapshot are both indexed by the
+default command, so two released variants with the same IDs cannot be
+conflated. The snapshot pins the original app-repository commit, path, file
+SHA-256, every compound question ID, and an aggregate semantic SHA-256. It is
+not a runtime corpus and never a materialization target. It also mirrors
+absent-versus-present aligned tag state, allowing CI to reject a v11 review
+until the separately stored app bundle is actually materialized and the pinned
+compact snapshot is refreshed from that committed runtime source. A separate
+full-state SHA-256 binds those mirror fields so a partial/manual edit fails.
+
+```bash
+# Print an all-null review record; paste it into the sidecar and fill only
+# categories an editorial reviewer can support from this exact passage and option.
+# Replace 15 when the OTA corpus version advances.
+python3 scripts/materialize-distractor-reviews.py \
+  --scaffold 15:PASSAGE_ID:QUESTION_ID
+
+# Apply sidecar reviews after every prose/question repair, then verify parity.
+# The target is explicit even though bundled v11 and current OTA variants are read.
+python3 scripts/materialize-distractor-reviews.py \
+  --write-target data/passages.json
+python3 scripts/materialize-distractor-reviews.py
+```
+
+To materialize a bundled v11 review, supply the app's runtime corpus alongside
+the current corpus and pinned snapshot, and name only the app file as the write
+target. The materializer first requires its evidence-bearing semantics to match
+the immutable snapshot; it never writes the snapshot or the other corpus.
+Semantic edits require a new corpus version and snapshot, not an overwritten
+v11 provenance artifact.
+
+```bash
+python3 scripts/materialize-distractor-reviews.py \
+  --corpus ../hone-literacy/app/Resources/passages.json \
+  --corpus data/passages.json \
+  --snapshot content/corpus-snapshots/bundled-v11-question-semantics.json \
+  --write-target ../hone-literacy/app/Resources/passages.json
+```
+
+After reviewing that diff, commit the app corpus first. Refresh the compact
+snapshot with that exact source commit (omit `--check` in the command below),
+then commit the data-repository sidecar and snapshot together. The builder
+reads the Git blob and refuses a fake commit, mismatched working file, or path
+outside the source repository. Once a bundled review is added, its parity
+check remains red between those steps, which prevents the review from claiming
+materialization prematurely.
+
+The committed v11 snapshot was generated from app commit
+`8c7fd5e739f21214636f7b8e22a2a063f7ead9be` and exact source SHA-256
+`5c001800dd97a580475d92811965dbab1bff567d8369c8ac8a30f3579e6b0f67`.
+When that pinned source is available, its deterministic bytes can be checked
+without rewriting the snapshot:
+
+```bash
+python3 scripts/build-distractor-snapshot.py \
+  --corpus ../hone-literacy/app/Resources/passages.json \
+  --output content/corpus-snapshots/bundled-v11-question-semantics.json \
+  --source-commit 8c7fd5e739f21214636f7b8e22a2a063f7ead9be \
+  --source-path app/Resources/passages.json \
+  --source-repository ../hone-literacy \
+  --check
+```
+
+Choice-reordering tools move `choices` and `distractorTags` as one pair. Scripts
+that replace whole questions refuse to run after tags exist, so repairs happen
+before materialization. The corpus audit also fails on a wrong-length array, a
+tagged correct option, an unknown ID, or a tag used with the wrong skill.
+
+The committed review sidecar is currently empty, and neither the bundled v11
+snapshot nor the current OTA v15 corpus materializes optional tag arrays. That
+zero-coverage state is valid and does not block a release. Future reviews can
+be added incrementally; the tooling does not invent labels from question skill
+or option position, and an uncertain choice remains `null`.
 
 ## New tags (`releasedAt`)
 

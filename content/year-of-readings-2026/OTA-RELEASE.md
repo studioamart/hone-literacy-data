@@ -32,6 +32,8 @@ node scripts/repair-legacy-lessons.mjs
 node scripts/repair-legacy-paragraphs.mjs
 node scripts/repair-legacy-facts.mjs
 node scripts/repair-legacy-history.mjs
+python3 scripts/materialize-distractor-reviews.py --write-target data/passages.json
+python3 scripts/materialize-distractor-reviews.py
 python3 scripts/audit-corpus.py
 swift scripts/validate-swift-decode.swift data/passages.json
 node scripts/build-manifest.mjs
@@ -39,7 +41,9 @@ git diff --exit-code -- data/manifest.json # after the generated manifest is com
 ```
 
 Any additional reviewed legacy repair scripts listed in the repository must run
-before the final audit and manifest build. Do not use
+before distractor-review materialization, the final audit, and manifest build.
+The materializer requires a fingerprinted option-level rationale and never
+infers a misconception from skill; an uncertain distractor stays null. Do not use
 `normalize-legacy-corpus.mjs --balance-answers` without a question-by-question
 editorial review; the v12 content release intentionally preserves legacy choice
 order.
