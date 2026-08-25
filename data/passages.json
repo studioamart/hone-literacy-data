@@ -163,7 +163,7 @@
           "stem": "According to the speech, why have the listeners gathered at the battlefield?",
           "choices": [
             "To celebrate the war's end",
-            "To dedicate part of the field as a resting place for those who died there",
+            "To dedicate a resting place for fallen soldiers",
             "To sign a treaty of peace",
             "To choose a new general"
           ],
@@ -172,7 +172,7 @@
         }
       ],
       "lesson": {
-        "strategy": "This is a wartime speech, not a report. Read it in three beats: the founding claim that all men are created equal, the test the civil war puts it to, then the turn at 'But, in a larger sense' where Lincoln shifts from honoring the dead to charging the living.",
+        "strategy": "Follow the speech in three parts. Lincoln recalls the nation's founding principle, says the Civil War is testing it, and then asks the living to continue the soldiers' work.",
         "signals": [
           {
             "phrase": "Four score and seven years ago",
@@ -180,7 +180,7 @@
           },
           {
             "phrase": "But, in a larger sense",
-            "means": "The hinge of the speech. Everything before honors the dead; after this, he redirects to the living."
+            "means": "Lincoln shifts from honoring the dead to describing the duty of the living."
           },
           {
             "phrase": "we can not dedicate — we can not consecrate",
@@ -188,7 +188,7 @@
           },
           {
             "phrase": "It is for us the living, rather",
-            "means": "The pivot lands: the real subject is not the dead but a duty handed to those still alive."
+            "means": "Lincoln states the duty he wants the living to accept."
           }
         ],
         "vocab": [
@@ -206,7 +206,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point is not the burial. Read past the tribute to 'But, in a larger sense' and 'It is for us the living': the main idea is the charge that the living finish the soldiers' work.",
+          "main-idea": "Read through 'It is for us the living.' Lincoln asks the living to continue the soldiers' unfinished work.",
           "inference": "He never says what 'the unfinished work' is. Infer it from 'all men are created equal' and 'so conceived and so dedicated': the work is keeping that founding promise alive.",
           "vocabulary": "'Dedicate,' 'consecrate,' and 'hallow' are stacked as near-synonyms meaning 'make sacred.' The rising repetition tells you they climb in force, not in new meaning.",
           "detail": "Anchor the facts he gives: 'a great civil war,' 'a great battle-field,' 'a final resting place.' These set when, where, and why the crowd stands there before the argument turns."
@@ -242,7 +242,7 @@
           "skill": "inference",
           "stem": "What does Darwin find striking about the outcome of \"the war of nature\"?",
           "choices": [
-            "That it produces the higher animals, an exalted result, from famine and death",
+            "That famine and death produce higher animals",
             "That it never truly ends",
             "That humans are exempt from it",
             "That it favors plants over animals"
@@ -278,11 +278,11 @@
         }
       ],
       "lesson": {
-        "strategy": "Read this as one argument in three moves: first the picture (the entangled bank full of life), then the named laws that made it, then the payoff at the very end. Do not stop at the pretty image. The point is that all that tangled life came from a few laws, and it \"directly follows.\"",
+        "strategy": "Follow Darwin's argument in order. He describes a bank full of life, names the natural laws that shaped it, and concludes that complex life follows from those laws.",
         "signals": [
           {
             "phrase": "laws acting around us",
-            "means": "The hinge: Darwin turns from describing the living scene to claiming a few natural laws produced all of it."
+            "means": "Darwin shifts from describing the scene to naming the laws that produced it."
           },
           {
             "phrase": "Struggle for Life",
@@ -290,11 +290,11 @@
           },
           {
             "phrase": "war of nature, from famine and death",
-            "means": "The dark cost. Watch how Darwin reframes it as the source of something grand, not something to mourn."
+            "means": "Darwin presents death and extinction as part of the process that produces new life."
           },
           {
             "phrase": "directly follows",
-            "means": "The landing word. The argument aims here: higher animals result from those laws. The main claim sits at the end."
+            "means": "Darwin concludes that higher animals developed through those natural laws."
           }
         ],
         "vocab": [
@@ -336,7 +336,7 @@
           "stem": "How does the Time Traveller expect his listeners to react to his ideas at first?",
           "choices": [
             "With instant agreement",
-            "With skepticism, which he plans to overcome with reasoning",
+            "With skepticism",
             "With boredom",
             "With fear"
           ],
@@ -362,9 +362,9 @@
           "stem": "\"Recondite\" as used here most nearly means:",
           "choices": [
             "obvious",
-            "obscure or hard to understand",
-            "humorous",
-            "dangerous"
+            "obscure or difficult",
+            "funny or playful",
+            "likely to cause harm"
           ],
           "answer": 1,
           "explanation": "A recondite matter is a deep or obscure one. That fits, since he must explain it carefully."
@@ -380,7 +380,7 @@
             "The Time Traveller admits his theory has no reasonable ground"
           ],
           "answer": 1,
-          "explanation": "He announces he must \"controvert one or two ideas that are almost universally accepted,\" names school geometry as the first, and promises reasonable ground for each step, the opposite of admitting he has none."
+        "explanation": "He says he will challenge accepted ideas, starting with school geometry. He also promises evidence for each step."
         }
       ],
       "lesson": {
@@ -400,7 +400,7 @@
           },
           {
             "phrase": "These things are mere abstractions",
-            "means": "The payoff of his proof: a line and plane are only ideas, not real, so school geometry rests on a false start."
+            "means": "He concludes that lines and planes are abstract ideas rather than physical objects."
           }
         ],
         "vocab": [
@@ -442,7 +442,7 @@
           "stem": "What is the author urging the reader to do?",
           "choices": [
             "Sleep longer to stay healthy",
-            "Rise and do the work proper to a human being",
+            "Rise and perform your human duty",
             "Avoid hard labor",
             "Imitate the warmth of bed-clothes"
           ],
@@ -672,7 +672,7 @@
             "Because both should be done at a gym"
           ],
           "answer": 1,
-          "explanation": "The author frames sustained attention as a \"muscle\" that \"weakens without practice\" but \"responds\" to training, a workout metaphor for a trainable skill."
+        "explanation": "The comparison shows that sustained attention weakens without practice and improves with training."
         },
         {
           "id": "q3",
@@ -702,7 +702,7 @@
         }
       ],
       "lesson": {
-        "strategy": "This whole argument rests on one metaphor: focus is a muscle. Watch three moves: how feeds train you to skim, react, move on; the cost at \"The trouble is\"; the fix at \"The encouraging part.\" Track those turns and you hold the essay.",
+        "strategy": "Follow the essay's three parts. It explains how feeds train quick reactions, describes the cost to sustained attention, and says attention can improve with practice.",
         "signals": [
           {
             "phrase": "engineered to interrupt you",
@@ -710,7 +710,7 @@
           },
           {
             "phrase": "The trouble is",
-            "means": "The pivot. The author turns from how feeds work to the harm they cause; the real argument starts here."
+            "means": "The author shifts from how feeds work to how they can weaken sustained attention."
           },
           {
             "phrase": "workout for the exact muscles",
@@ -760,7 +760,7 @@
           "stem": "What distinction does the author draw between a summary and reading the full text?",
           "choices": [
             "Summaries are always inaccurate; full texts are accurate.",
-            "A summary gives the conclusion, while full reading builds the understanding and judgment behind it.",
+            "A summary gives the conclusion. Full reading builds understanding and judgment.",
             "Full reading is faster than reading a summary.",
             "Summaries are only useful for fiction."
           ],
@@ -774,7 +774,7 @@
           "choices": [
             "Use them to replace reading entirely",
             "Avoid them completely",
-            "Let them assist (fetch, translate, define) while you keep the work of judgment",
+            "Use them for support while keeping your own judgment",
             "Use them only for summaries"
           ],
           "answer": 2,
@@ -786,7 +786,7 @@
           "stem": "What does the phrase \"keeps the understanding for the machine\" imply?",
           "choices": [
             "The machine becomes conscious.",
-            "When you outsource reading, you gain the answer but not the comprehension.",
+            "You get an answer without understanding it.",
             "Machines store text more reliably than people.",
             "Understanding is impossible without machines."
           ],
@@ -821,7 +821,7 @@
         }
       ],
       "lesson": {
-        "strategy": "One metaphor carries the argument: reading is a journey, the summary a destination. Note the concession (\"that is enough\"), the turn at \"But,\" then the final rule. That closing prescription, not the opening line, is the thesis.",
+        "strategy": "Separate the result of reading from the process. The author accepts that summaries can be accurate, then explains what readers miss when they skip the full text.",
         "signals": [
           {
             "phrase": "for some purposes that is enough",
@@ -829,7 +829,7 @@
           },
           {
             "phrase": "But a summary is a destination",
-            "means": "The pivot. 'But' flips the concession into the argument, using the journey/destination metaphor."
+            "means": "The author shifts from the value of summaries to what they leave out."
           },
           {
             "phrase": "Outsourcing the reading returns the answer",
@@ -855,10 +855,10 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The thesis is the last sentence, not the first. The opening grants that summaries work; the real point comes after 'But' and lands on 'not to replace your reading but to sharpen it.'",
+          "main-idea": "Use the final sentence. The author says tools should sharpen a person's reading instead of replacing it.",
           "inference": "The author never calls summaries bad. What 'keeps the understanding for the machine' implies: the loss is hidden because the answer is still correct. The cost is what you didn't build.",
           "vocabulary": "'Journey' and 'destination' aren't about travel. Destination = the summary handed to you; journey = reading it yourself. Decode each abstract word by its paired opposite.",
-          "detail": "For what full reading gives that a summary can't, gather the list after 'you watch how the author builds it': where evidence is strong, where it 'leans on assumption,' what 'made you pause.'"
+        "detail": "The passage lists what full reading adds: judging strong evidence, spotting assumptions, and noticing what makes you pause."
         }
       },
       "wordCount": 156
@@ -879,7 +879,7 @@
           "stem": "According to the passage, what does the hippocampus do during deep sleep?",
           "choices": [
             "Erases the day's memories",
-            "Replays experiences and transfers durable parts to the cortex",
+            "Transfers lasting memories to the cortex",
             "Stops all activity",
             "Creates dreams unrelated to learning"
           ],
@@ -905,7 +905,7 @@
           "stem": "\"Consolidation,\" as used here, most nearly means:",
           "choices": [
             "forgetting information",
-            "the strengthening and storing of memories",
+            "strengthening and storing memories",
             "reading aloud",
             "physical exercise"
           ],
@@ -927,7 +927,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A science explainer that moves from mechanism to advice. First track what the brain does during sleep: it replays experiences, then transfers the durable parts. Then find the two payoff sentences that turn that biology into a study rule. Let the causal words carry you.",
+        "strategy": "Follow what the brain does during sleep. It replays experiences and stores lasting parts. The final sentences use that process to explain why spaced study works better than cramming.",
         "signals": [
           {
             "phrase": "your brain is not done with it",
@@ -935,7 +935,7 @@
           },
           {
             "phrase": "This is why",
-            "means": "Causal hinge: links the sleep mechanism to the everyday result of a passage feeling clearer."
+            "means": "This links memory processing during sleep to clearer understanding the next day."
           },
           {
             "phrase": "cramming fights your own biology",
@@ -1025,7 +1025,7 @@
           "choices": [
             "The river bored experienced pilots",
             "Passengers understood the river better than pilots",
-            "To a trained eye, the river was an endlessly interesting book with a new story each day",
+            "A trained pilot reads an ever-changing story in the river",
             "Books about rivers were popular in Twain's time"
           ],
           "answer": 2,
@@ -1143,7 +1143,7 @@
           "stem": "The passage as a whole is best described as:",
           "choices": [
             "A quarrel that ends the Bennets' marriage",
-            "An ironic portrait of a neighborhood where a rich new tenant is at once treated as a match for someone's daughter",
+            "An ironic portrait of neighbors treating a rich newcomer as a possible husband",
             "A guide to renting a country estate",
             "A sincere argument that all men need wives"
           ],
@@ -1199,7 +1199,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point isn't the stated \"truth\"; it's that the narrator mocks how families scheme to marry daughters to rich men. Read the first sentence as irony, then watch the Bennets enact it.",
+          "main-idea": "Read the opening as irony. The narrator mocks families that quickly treat a rich new neighbor as a possible husband for a daughter.",
           "inference": "The narrator never calls Mrs. Bennet scheming. Infer it from her rush to report \"Netherfield Park is let\" and her push to name who took it: she is sizing up a husband for a daughter.",
           "vocabulary": "Old words shift meaning. \"want of a wife\" means lack, not desire; a house \"let at last\" means rented. Use the surrounding sentence to reset each word from its modern sense.",
           "detail": "Track the back-and-forth: who speaks, who stays silent. \"made no answer\" and \"cried his wife impatiently\" show Mr. Bennet stalling and Mrs. Bennet losing patience."
@@ -1236,7 +1236,7 @@
           "stem": "According to the passage, what does deep reading ask you to do?",
           "choices": [
             "Scan for a single fact quickly",
-            "Build a mental model, test it, and carry ideas across paragraphs",
+            "Build and test a mental model across paragraphs",
             "Read as fast as possible",
             "Memorize every word"
           ],
@@ -1279,7 +1279,7 @@
           },
           {
             "phrase": "but only one of them grows with practice",
-            "means": "The 'but' carries the main point: the two kinds are equal except in one key way the essay then explains."
+            "means": "The author begins explaining the main difference between shallow and deep reading."
           },
           {
             "phrase": "by contrast",
@@ -1308,7 +1308,7 @@
           "main-idea": "The essay argues one point by comparing. Find 'Both kinds matter, but only one of them grows with practice': the main idea is that conclusion, not a fact about either kind alone.",
           "inference": "'You can scan your whole life and never get better at scanning' states a fact but leaves the 'so what' unsaid. What it implies about which reading is worth practicing is the inference.",
           "vocabulary": "For a hard word like 'demanding,' read what sits next to it. The text pairs it with 'rewards effort' and 'the more easily you finish the next one,' which restate the meaning.",
-          "detail": "When a question asks what deep reading does, go to its list: 'build a model in your head,' 'test it against what you already know,' 'carry an idea from one paragraph into the next.'"
+        "detail": "The passage lists three parts of deep reading: build a mental model, test it, and connect ideas across paragraphs."
         }
       },
       "wordCount": 137
@@ -1495,7 +1495,7 @@
           },
           {
             "phrase": "And when one of them is liberated",
-            "means": "The pivot. The passage turns from the trap to the painful, forced climb toward the light."
+            "means": "The passage shifts from life in the cave to the prisoner's difficult climb toward the light."
           },
           {
             "phrase": "only by degrees will he come to see",
@@ -1568,7 +1568,7 @@
           "choices": [
             "Abandon them, since they are harmful",
             "Use them freely for everything",
-            "Keep using them, but reserve daily time for the slow reading they can't do for you",
+            "Keep them, but reserve time for slow reading",
             "Only use them to summarize books"
           ],
           "answer": 2,
@@ -1602,7 +1602,7 @@
         }
       ],
       "lesson": {
-        "strategy": "An argument essay with a clear turn. First find the claim: struggle is what builds understanding. Watch the middle blame 'Modern tools' for removing that struggle, then 'The cure is not... but...' flips to what you should do. The mind/body line is the argument in miniature.",
+        "strategy": "Find the author's claim that effort builds understanding. The middle explains how modern tools can remove that effort. The ending advises readers to stay with difficult texts longer.",
         "signals": [
           {
             "phrase": "that discomfort is precisely the point",
@@ -1618,7 +1618,7 @@
           },
           {
             "phrase": "grows only against resistance",
-            "means": "The mind/body analogy that carries the argument: effort, not comfort, is what makes you grow."
+            "means": "The comparison says mental effort can build understanding as physical effort builds strength."
           }
         ],
         "vocab": [
@@ -1971,7 +1971,7 @@
           "main-idea": "The main idea is not the crab. Track why the grandmother stays silent and her thought at the end: 'that was the whole lesson.' A child learns best when nobody explains it to death.",
           "inference": "Her thoughts are told; the boy's are shown. When he whispers 'It's watching me back' with eyes wide, infer what he felt (awe, wonder) from his actions, since the story never names it.",
           "vocabulary": "Use the action around a hard word to unlock it. 'sidled out from under a rock' plus 'lifted one claw' shows a slow sideways crawl, so sidled must mean moved sideways.",
-          "detail": "Notice the frame: the crab appears at the start and 'slipped quietly away' at the end, while 'a minute passed, then two' and the rising waves mark how much time went by."
+        "detail": "The crab appears at the start and leaves at the end. 'A minute passed, then two' and the rising waves mark elapsed time."
         }
       }
     },
@@ -2017,7 +2017,7 @@
           "stem": "In the theater, 'the wings' are",
           "choices": [
             "the seats for the audience",
-            "the areas at the sides of the stage out of view",
+            "offstage areas beside the stage",
             "the curtains across the front",
             "the lights above the stage"
           ],
@@ -2035,7 +2035,7 @@
             "A theater with dangerous stairs"
           ],
           "answer": 1,
-          "explanation": "Nina memorized every line though no one asked her to, and when the lead is hurt she is already in costume. The story's point lands in her realization: the waiting \"had been practice.\""
+          "explanation": "Nina memorized every line without being asked. When the lead is hurt, Nina is already in costume. She realizes that her waiting had also been practice."
         },
         {
           "id": "q5",
@@ -2069,7 +2069,7 @@
           },
           {
             "phrase": "They had been practice.",
-            "means": "The last line flips 'waiting' into 'practice.' The whole point sits in this reframe."
+            "means": "Nina understands that waiting and preparing made her ready to perform."
           }
         ],
         "vocab": [
@@ -2087,7 +2087,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point is not that Nina performs. Compare her view of the waiting at the start (a punishment she pretends not to mind) with the last two lines: the waiting became practice.",
+          "main-idea": "Compare Nina's view of waiting at the start with her view at the end. She comes to see that the waiting prepared her to perform.",
           "inference": "Nina never says she wants the lead. Read her actions: she memorized every line, and the director found her 'already in costume,' 'mouthing the opening speech.' Ready before she said so.",
           "vocabulary": "For theater words, use the action nearby. She 'watched from the wings night after night' while 'another actor took the bows,' so the wings are offstage, out of the spotlight.",
           "detail": "For a fact question, find the moment things turn: 'an hour before curtain on a cold Thursday, the lead actor twisted her ankle on the stairs.' Note the when, who, and how."
@@ -2159,7 +2159,7 @@
       ],
       "wordCount": 206,
       "lesson": {
-        "strategy": "This is a mood-flip story. The father starts angry about the snow day, then ends up loving it. Watch the clock: how he feels at \"six\" versus \"nine.\" The change in the father is the whole point, not the snow itself.",
+        "strategy": "Track how the father feels at six and again at nine. He begins the snow day angry and ends it happy after spending time outside with his family.",
         "signals": [
           {
             "phrase": "his voice tight with the particular irritation",
@@ -2167,7 +2167,7 @@
           },
           {
             "phrase": "But by nine",
-            "means": "The turn word. The story pivots here from the father's complaint to him playing."
+            "means": "The father stops complaining and begins to play in the snow."
           },
           {
             "phrase": "a grin on his face",
@@ -2175,7 +2175,7 @@
           },
           {
             "phrase": "the best part of the entire week",
-            "means": "The payoff. States plainly what the annoying day turned into."
+            "means": "The father says the unwanted snow day became a joyful one."
           }
         ],
         "vocab": [
@@ -2255,7 +2255,7 @@
           "stem": "As used in the passage, a \"courtesy\" is:",
           "choices": [
             "a paid service",
-            "a polite extra rather than a necessity",
+            "a polite but unnecessary extra",
             "a warning signal",
             "an old superstition"
           ],
@@ -2278,7 +2278,7 @@
       ],
       "wordCount": 152,
       "lesson": {
-        "strategy": "This fiction reads like a parable: thin plot, heavy meaning. Read Halloran's steady routine against the town calling it luck, then let the wall-and-flood metaphor and the \"absence of disaster\" line deliver the point: unseen prevention is the hardest work to notice.",
+        "strategy": "Compare Halloran's steady routine with the town's claim that safety was luck. The wall, flood, and \"absence of disaster\" show why people overlook preventive work.",
         "signals": [
           {
             "phrase": "The town considered this proof of nothing",
@@ -2286,7 +2286,7 @@
           },
           {
             "phrase": "the absence of disaster is the hardest kind of work",
-            "means": "The thematic key. The whole story exists to make this one sentence land. Mark it."
+            "means": "This sentence states why prevention often goes unnoticed."
           },
           {
             "phrase": "No one thanks the wall that holds back the flood",
@@ -2312,7 +2312,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point sits near the end. Find the line that stops describing Halloran and states a truth, \"the absence of disaster is the hardest kind of work to see,\" echoed by the wall metaphor.",
+          "main-idea": "Use the line about 'the absence of disaster.' Halloran's work protects others even though success makes the work easy to overlook.",
           "inference": "The text never says outright that Halloran is right and the town wrong. Infer him from what he does, not says: \"did not argue,\" \"asking nothing,\" \"slept well,\" calm trust in his own worth.",
           "vocabulary": "For \"courtesy,\" read the words around it: \"a courtesy, a habit, an old man's company.\" The town stacks three dismissive words that all mean the same: nice but not needed.",
           "detail": "Track the facts of his routine: \"nineteen years,\" \"not a single ship had wrecked,\" \"trimmed the wick,\" \"polished the great lens.\" These actions are the evidence the theme rests on."
@@ -2335,7 +2335,7 @@
           "stem": "Why does Reza say 'the truth was complicated' rather than explain the coat?",
           "choices": [
             "He stole the coat and feels guilty",
-            "The coat was borrowed from a shelter and the story is hard to tell quickly",
+            "He borrowed it at a shelter and cannot explain quickly",
             "He does not remember where he got it",
             "He is lying about the brand"
           ],
@@ -2418,7 +2418,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point sits where Reza rethinks the coat: the gift \"was never about the wool at all... permission to be seen as someone worth a chance.\" Ask what the coat stands for, not how the interview goes.",
+          "main-idea": "Focus on how Reza rethinks the coat. He sees it as a gift of dignity and a chance to be judged fairly.",
           "inference": "Reza \"only smiled and thanked her\" instead of correcting her. Pair that with \"the truth was complicated\" to infer why he stays silent: not lying, but guarding a fragile chance to be judged fairly.",
           "vocabulary": "Define hard words from the action beside them. Her face \"softened into recognition\" as she names her father's coat, so recognition here is warmth from something familiar, not just knowing a fact.",
           "detail": "Facts arrive quietly: who owns the coat, where it came from, what Reza promises. Note the shelter man \"pressing it into his arms\" and the vow the coat \"would go back that night.\""
@@ -2446,7 +2446,7 @@
             "Love requires constant attention to everything"
           ],
           "answer": 1,
-          "explanation": "The passage frames attention as 'the rarest currency,' chosen deliberately, that becomes 'the shape of the life we have actually lived.'"
+        "explanation": "The passage says attention is limited and chosen. Repeated choices shape a person's life."
         },
         {
           "id": "q2",
@@ -2454,7 +2454,7 @@
           "stem": "Why does the author call attention 'a kind of love'?",
           "choices": [
             "Because love is always pleasant",
-            "Because giving attention means choosing one thing over all others",
+            "Giving attention means choosing one thing over others",
             "Because attention is free",
             "Because friends demand it"
           ],
@@ -2467,7 +2467,7 @@
           "stem": "According to the passage, what does directing attention deliberately give a person?",
           "choices": [
             "More money",
-            "A measure of freedom from being pulled by distractions",
+            "Freedom to choose what deserves attention",
             "Popularity among friends",
             "A faster phone"
           ],
@@ -2503,7 +2503,7 @@
       ],
       "wordCount": 160,
       "lesson": {
-        "strategy": "This reads like reflection but it is an argument. Find the pivot: \"But attention is the rarest currency we own\" is the thesis. Then track how the author redefines attention twice (a currency, then a love), and read the final sentence as where the whole case lands.",
+        "strategy": "Find the claim that attention is limited and chosen. The author compares attention first to currency and then to love. The final sentence explains how repeated choices shape a life.",
         "signals": [
           {
             "phrase": "But attention is the rarest currency we own",
@@ -2511,7 +2511,7 @@
           },
           {
             "phrase": "attention is a kind of love",
-            "means": "A second redefinition. The author reframes attention from economics to intimacy to raise the stakes."
+            "means": "The author moves from the currency comparison to the idea that attention can express love."
           },
           {
             "phrase": "not a trick of productivity but a measure of freedom",
@@ -2519,7 +2519,7 @@
           },
           {
             "phrase": "the shape of the life we have actually lived",
-            "means": "The closing line where the argument lands: attention choices, summed over years, become the life itself."
+            "means": "The final line says a lifetime of attention choices shapes the life a person lives."
           }
         ],
         "vocab": [
@@ -2560,7 +2560,7 @@
           "stem": "What is the author's main argument?",
           "choices": [
             "People should never be certain about anything",
-            "Doubt, held in balance with conviction, is a virtue that enables learning and humility",
+            "Balanced doubt enables learning and humility",
             "Certainty is always evil",
             "Scientists are the only ones who doubt properly"
           ],
@@ -2586,7 +2586,7 @@
           "stem": "What does 'committed, but correctable' mean as a way to live?",
           "choices": [
             "Believe nothing and never act",
-            "Act firmly on beliefs while staying open to revising them",
+            "Act on beliefs while remaining open to revision",
             "Always agree with opponents",
             "Change your mind constantly"
           ],
@@ -2612,7 +2612,7 @@
           "stem": "According to the passage, what is true of a person who doubts everything equally?",
           "choices": [
             "They make the best scientists",
-            "They are as useless as a person who doubts nothing",
+            "They are as unhelpful as someone who doubts nothing",
             "They can never be cruel",
             "They learn faster than anyone"
           ],
@@ -2622,11 +2622,11 @@
       ],
       "wordCount": 204,
       "lesson": {
-        "strategy": "This essay defends an idea most people dismiss, so read for the flip. It opens by stating the common view of doubt, then pivots to argue the opposite, contrasting doubt against certainty. Watch the turn words and the final qualifier that keeps the argument from going too far.",
+        "strategy": "The essay begins with the common view that doubt is weakness. It then argues that certainty can be dangerous and doubt supports learning. The final lines limit that claim.",
         "signals": [
           {
             "phrase": "Yet consider what certainty has cost the world",
-            "means": "The pivot: the author drops the common view of doubt and turns to attack its opposite, certainty."
+            "means": "The author stops describing doubt as weakness and begins examining the danger of certainty."
           },
           {
             "phrase": "Doubt, by contrast",
@@ -2656,7 +2656,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Not just 'doubt is good.' Hold both (certainty 'a dangerous instrument,' doubt 'the condition of learning'), then land on 'committed, but correctable.' The idea is the balance.",
+          "main-idea": "Include both parts of the conclusion. People can act with conviction while remaining willing to correct their beliefs.",
           "inference": "The author rarely states his claims outright. When he says the cruelest deeds were done 'by people who were sure,' infer what he implies about doubt but never says. Read the gap he leaves.",
           "vocabulary": "Use the contrast frame to fix hard words. 'partial' sits opposite a mind 'convinced it is full,' so it means incomplete, not biased. Let the opposing term define the word.",
           "detail": "Separate claim from concession. Calling a total skeptic 'as useless as one who doubts nothing' limits his case, not his thesis. Note which sentences argue for doubt and which fence it in."
@@ -2762,7 +2762,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point is not the first sentence. Skip past filling boredom and find the flip at \"But boredom may be doing something useful.\" Read the essay as defending that one line.",
+          "main-idea": "Use the sentence 'But boredom may be doing something useful.' The essay argues that unfilled time can support imagination and reflection.",
           "inference": "He never flatly says screens are bad. Judge his stance by his verbs: \"numb every empty moment,\" \"soothing it away,\" \"trading away.\" Loaded words tell you how he feels.",
           "vocabulary": "\"undirected\" sits against \"busy and focused,\" so it means the opposite: open, unaimed time. For a hard word, use the contrast right beside it to define it.",
           "detail": "The child is evidence, not decoration. Note what the child does with nothing, floorboards into a river, couch into a ship, to see how imagination \"can supply what the world withholds.\""
@@ -2785,7 +2785,7 @@
           "stem": "What is the central insight of this essay?",
           "choices": [
             "Walking by the river is healthier than taking shortcuts",
-            "The efficient use of time and the good use of time are not the same",
+            "Using time well is not always using it efficiently",
             "People should never be in a hurry",
             "Nature walks improve memory"
           ],
@@ -2798,7 +2798,7 @@
           "stem": "What does the author mean by 'the means are where nearly all of our actual hours are spent'?",
           "choices": [
             "Goals are unimportant",
-            "Most of life happens in the in-between processes we rush through, not the destinations",
+            "Most of life happens between goals",
             "Shortcuts waste money",
             "We should plan our schedules better"
           ],
@@ -2829,7 +2829,7 @@
             "the roughness of the path"
           ],
           "answer": 2,
-          "explanation": "The long walk \"added little to my day, but it changed the day's texture,\" not its length, but how it felt to live through: noticing herons, learning which trees turned first, having room to think."
+        "explanation": "The walk did not add much time. It changed how the day felt by making room to notice nature and think."
         },
         {
           "id": "q5",
@@ -2847,7 +2847,7 @@
       ],
       "wordCount": 244,
       "lesson": {
-        "strategy": "Read the walk as a stand-in for a bigger claim about how to live. The shortcut is efficiency; the long way is a full life. Track two moves: the pivot where the writer breaks habit, and the concession (\"I am not against efficiency... But\") that states the real thesis.",
+        "strategy": "Compare the writer's old shortcut with the longer walk. The author accepts that efficiency has value but argues that the fastest choice is not always the best use of time.",
         "signals": [
           {
             "phrase": "confusing two different things",
@@ -2855,7 +2855,7 @@
           },
           {
             "phrase": "Then one autumn I broke my routine.",
-            "means": "The pivot. The essay turns here from years of habit to the change that reveals the point."
+            "means": "The writer breaks an old habit and begins taking the longer route."
           },
           {
             "phrase": "I am not against efficiency",
@@ -2881,7 +2881,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point is not 'walking is nice.' It sits in the line about 'confusing two different things': efficient use of time vs good use of time. State the main idea as that distinction, not as the walk.",
+          "main-idea": "Distinguish efficient use of time from good use of time. The walk is the author's example of that difference.",
           "inference": "The walk stands for life. When the writer says 'a life optimized down to the bone,' infer the real subject is how to live, and the shortcut and river are just the example.",
           "vocabulary": "Pin abstract words using the efficient/good contrast the essay builds. 'means' vs 'ends' in the last line: means is the path (the walk), ends is the goal you rush toward.",
           "detail": "The concrete proof of the abstract claim is what the long way gave: herons at dusk, which trees turned first, conversations with himself. Use these details as evidence, not decoration."
@@ -2904,7 +2904,7 @@
           "stem": "What is the main idea of this essay?",
           "choices": [
             "Only soldiers are truly brave",
-            "Everyday acts of quiet courage matter as much as dramatic ones",
+            "Quiet, everyday courage matters as much as dramatic courage",
             "Courage is impossible for ordinary people",
             "Asking questions is always foolish"
           ],
@@ -2930,7 +2930,7 @@
           "stem": "Why does the author say the loud picture of courage can be a 'danger'?",
           "choices": [
             "It might make people reckless",
-            "It can make people think courage doesn't apply to ordinary life",
+            "It limits courage to heroic acts",
             "It frightens children",
             "It exaggerates real heroes"
           ],
@@ -2953,7 +2953,7 @@
       ],
       "wordCount": 204,
       "lesson": {
-        "strategy": "This essay sets up one idea just to knock it down. First it paints courage as loud and rare (soldier, firefighter). Watch for the pivot at \"Yet\": that is where the real claim starts. After it, hold the two kinds of courage side by side and see which one the writer says matters more.",
+        "strategy": "Compare the two kinds of courage in the essay. The opening gives dramatic examples. After 'Yet,' the author argues that quiet, everyday courage matters more often.",
         "signals": [
           {
             "phrase": "we usually imagine something loud",
@@ -2965,7 +2965,7 @@
           },
           {
             "phrase": "Yet there is a quieter kind of courage",
-            "means": "The hinge of the whole essay; the real thesis begins right here."
+            "means": "The author begins the main claim about quiet, everyday courage."
           },
           {
             "phrase": "These acts win no medals and draw no crowds",
@@ -3222,7 +3222,7 @@
           "stem": "What does the passage suggest made Ada's notes especially important?",
           "choices": [
             "She built the Analytical Engine herself",
-            "She imagined the machine doing far more than simple math, including handling symbols",
+            "She imagined the machine handling more than numbers",
             "She invented the French language",
             "She refused to work with Babbage"
           ],
@@ -3266,7 +3266,7 @@
             "How Ada's mother taught her mathematics"
           ],
           "answer": 1,
-          "explanation": "Every paragraph builds toward Ada's contribution: her notes described step-by-step instructions for the machine, and her leap (that it might handle more than numbers) is why she is honored as a pioneer of computing. The engine itself was never fully built."
+        "explanation": "Ada's notes gave the machine step-by-step instructions and proposed uses beyond numbers. Those ideas made her a computing pioneer. The engine was never fully built."
         }
       ],
       "wordCount": 245,
@@ -3275,7 +3275,7 @@
         "signals": [
           {
             "phrase": "She did far more than translate it.",
-            "means": "The pivot: the assigned job was small; the real contribution is in the sentences right after this."
+            "means": "The passage shifts from Ada's assigned translation to the original notes she added."
           },
           {
             "phrase": "Many historians consider this",
@@ -3540,7 +3540,7 @@
           "stem": "What does the passage suggest about Tubman's character?",
           "choices": [
             "She cared only about her own safety",
-            "She was brave and willing to risk herself to help others",
+            "She risked herself to help others",
             "She avoided all danger",
             "She disliked planning"
           ],
@@ -3593,7 +3593,7 @@
         "signals": [
           {
             "phrase": "Tubman did not",
-            "means": "The pivot: she goes past her own freedom to free others. This is the point being argued."
+            "means": "Tubman chooses to return and guide other people to freedom."
           },
           {
             "phrase": "again and again",
@@ -3623,7 +3623,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Not just 'she escaped.' The pivot is 'Tubman did not' - her return trips 'again and again' to lead others out. The main idea is what she did after gaining her own freedom.",
+          "main-idea": "Focus on what Tubman did after escaping. She returned many times to guide other people to freedom.",
           "inference": "Why did she 'never lost a single person'? The text does not say. Combine the clues: she 'traveled in winter,' used nights for 'cover,' 'planned routes carefully.' Her success was planned.",
           "vocabulary": "Use each word's neighbor. 'content' sits by 'would have stopped there,' so satisfied. 'cover' sits by 'long nights,' so hiding, not a blanket. Let the nearby idea fix the meaning.",
           "detail": "For 'what did she do,' scan the list after 'Later in her life': nurse, scout in the Civil War, spoke for women's rights. That time-marker flags these came after the Railroad work."
@@ -3659,7 +3659,7 @@
           "stem": "Why did the Egyptians fill the tombs with treasures and food?",
           "choices": [
             "To sell them later",
-            "Because they believed the pharaoh would live on after death",
+            "For the pharaoh's afterlife",
             "To feed the workers",
             "To trade with neighbors"
           ],
@@ -3672,7 +3672,7 @@
           "stem": "What is the passage mainly explaining?",
           "choices": [
             "How the Nile River formed",
-            "Why and how the Egyptians built the pyramids as tombs",
+            "How and why Egyptians built pyramids as tombs",
             "How modern machines move stone",
             "The diet of ancient workers"
           ],
@@ -3695,7 +3695,7 @@
       ],
       "wordCount": 157,
       "lesson": {
-        "strategy": "This history passage separates what we know from what we only think. Read the first sentence of each paragraph as the claim, then the rest as detail. Watch two moves: cause words (\"Because of this belief\") that link belief to action, and hedge words (\"Historians still study\", \"Many believe\") that mark open questions.",
+        "strategy": "Separate established facts from open questions. Read the first sentence of each paragraph for its claim. Words such as 'because' show causes, while 'many believe' and 'still study' show uncertainty.",
         "signals": [
           {
             "phrase": "Because of this belief",
@@ -3752,7 +3752,7 @@
           "stem": "Which sentence best states the main idea of the passage?",
           "choices": [
             "Marie Curie disliked living in Paris",
-            "Through determined work, Marie Curie made groundbreaking discoveries despite barriers and danger",
+            "Curie made major discoveries despite barriers and danger",
             "Marie Curie invented the Nobel Prize",
             "Marie Curie studied only one element"
           ],
@@ -3778,7 +3778,7 @@
           "stem": "What can the reader conclude about the dangers of her work?",
           "choices": [
             "She knew the rays were safe",
-            "The rays harmed her because no one yet understood the risk of long exposure",
+            "People did not yet understand the harm of long exposure",
             "The danger came from her travels, not her materials",
             "She avoided handling the glowing materials"
           ],
@@ -3801,7 +3801,7 @@
       ],
       "wordCount": 243,
       "lesson": {
-        "strategy": "A life told in order: Poland to Paris, discovery, then two Nobel Prizes. Watch the word \"Yet\" - it flips triumph into hidden cost. The last paragraph stops narrating and delivers the verdict on why she matters, so read the events as evidence for that closing claim.",
+        "strategy": "Follow Curie's life from Poland to Paris, her discoveries, and her two Nobel Prizes. At 'Yet,' the passage turns to the harm caused by radiation. The final paragraph explains why her work still matters.",
         "signals": [
           {
             "phrase": "Determined to learn",
@@ -3977,7 +3977,7 @@
           "stem": "Why did prices fall out of balance in some cities he passed through?",
           "choices": [
             "He took gold from those cities",
-            "He gave away and spent so much gold that it upset local prices",
+            "His heavy gold spending disrupted local prices",
             "He closed the markets",
             "He raised taxes"
           ],
@@ -4005,7 +4005,7 @@
             "How gold is mined in West Africa",
             "How maps were drawn by distant scholars",
             "The founding of the city of Timbuktu",
-            "A wealthy ruler of Mali whose famous journey spread his empire's wealth and fame"
+            "A wealthy ruler whose journey made Mali famous"
           ],
           "answer": 3,
           "explanation": "The passage centers on Mansa Musa: his gold-rich empire, his journey to Mecca, and how that journey drew the world's attention to Mali's wealth and learning. Timbuktu and the maps are details serving that larger story."
@@ -4013,7 +4013,7 @@
       ],
       "wordCount": 189,
       "lesson": {
-        "strategy": "A biography in three beats: who Mansa Musa was (gold, salt, \"enormously wealthy\"), the act he is \"best remembered for\" (the journey to Mecca), then why it mattered. At \"did more than display his riches,\" the passage turns from spectacle to legacy. Read for the last line's claim.",
+        "strategy": "Follow three parts of Mansa Musa's story: his wealth, his journey to Mecca, and the journey's effects. At 'did more than display his riches,' the passage begins explaining his influence on trade and learning.",
         "signals": [
           {
             "phrase": "best remembered for",
@@ -4050,7 +4050,7 @@
           "main-idea": "Don't stop at \"he was rich.\" It builds to its last line: his reign \"showed how a powerful African empire could shape trade and knowledge.\" Wealth is the setup; influence is the point.",
           "inference": "No gold amount is given. Infer scale from effect: if prices were \"thrown out of balance for years,\" he must have spent a staggering quantity. Read the consequence to size the cause.",
           "vocabulary": "\"mansa\" is defined inside the text: \"The word mansa means ruler.\" When a biography introduces a foreign title, look for the author's own gloss nearby before guessing.",
-          "detail": "After the pivot, track the journey's results separately: it put Mali on scholars' maps, he brought back \"scholars and builders,\" and he supported Timbuktu as \"a center of study.\""
+          "detail": "Track the results of the journey separately. It drew attention to Mali, brought scholars and builders home, and supported Timbuktu as a center of study."
         }
       }
     },
@@ -4202,7 +4202,7 @@
           "stem": "What is the passage mostly about?",
           "choices": [
             "How to fix a bicycle",
-            "Two brothers whose careful work led to one of the first powered flights",
+            "Two brothers' careful work toward powered flight",
             "A trip to the beach",
             "How birds build nests"
           ],
@@ -4326,12 +4326,12 @@
             "Nothing until the third year"
           ],
           "answer": 2,
-          "explanation": "The passage says that in the second year \"you earn money not only on your original savings but also on the interest from the first year.\" Each round builds on the last."
+        "explanation": "In the second year, you earn on both the original savings and the first year's interest. Each round builds on the last."
         }
       ],
       "wordCount": 130,
       "lesson": {
-        "strategy": "This explainer teaches one idea with a picture. Hold the coin in mind, then follow the year-by-year steps that unpack it. Track the contrast between \"slow at the start\" and \"fast later,\" and notice the passage ends on a point about time.",
+        "strategy": "Follow the year-by-year example. Interest first grows on savings, then on earlier interest. The final paragraph explains why starting early matters.",
         "signals": [
           {
             "phrase": "the growth itself starts to grow",
@@ -4347,7 +4347,7 @@
           },
           {
             "phrase": "begin saving early often end up far ahead",
-            "means": "The takeaway. After the mechanism, the point lands on time, not on the amount saved."
+            "means": "The conclusion stresses how time increases the effect of compounding."
           }
         ],
         "vocab": [
@@ -4402,7 +4402,7 @@
           "choices": [
             "Holding it confidently",
             "Finding many people who agree",
-            "Surviving an honest search for evidence against it",
+            "Withstanding an honest search for opposing evidence",
             "Repeating it often"
           ],
           "answer": 2,
@@ -4453,7 +4453,7 @@
           },
           {
             "phrase": "It is simply the path of least mental effort",
-            "means": "The reframe: the bias is laziness, not stupidity, so anyone can fall in and must resist on purpose."
+            "means": "The author says this bias comes from a mental shortcut that can affect anyone."
           }
         ],
         "vocab": [
@@ -4471,7 +4471,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The main point is not the paragraph-one definition. It is the claim at \"The danger is not... that we stop testing them.\" The bias is defined only to argue we should test our beliefs.",
+          "main-idea": "Use the warning about stopping the search for evidence. The author argues that people should keep testing their own beliefs.",
           "inference": "The food example is proof by design: recovering counts as \"proof,\" staying sick they \"forget the case entirely.\" If both outcomes support the belief, it can never be disproven: the trap.",
           "vocabulary": "\"bent\" is figurative, not physical. Read \"Every outcome is bent to support the belief\" as: the person twists each result until it fits. Recovering and staying sick both show the twisting.",
           "detail": "See paragraph three for the careful thinker: they \"deliberately\" search for evidence that could \"prove the belief wrong,\" and only if it survives has it \"earned more trust\"."
@@ -4494,7 +4494,7 @@
           "stem": "What is the central point of the passage?",
           "choices": [
             "Herders are greedy and should be punished",
-            "Shared resources with no limits get overused because costs are spread while gains are private",
+            "Unrestricted shared resources get overused through private gains and shared costs",
             "Meadows are the best place to raise cattle",
             "People always act against their own interests"
           ],
@@ -4543,7 +4543,7 @@
       ],
       "wordCount": 212,
       "lesson": {
-        "strategy": "Read this as an argument, not a story. The meadow just sets it up; the real claim lands at \"The failure lies in the structure.\" Track how \"private\" gain and \"shared\" cost drive each herder, then see every fix change that structure.",
+        "strategy": "Use the meadow as an example of a shared-resource problem. Each herder receives the private gain while everyone shares the cost. Each proposed solution changes that incentive.",
         "signals": [
           {
             "phrase": "The trouble is",
@@ -4613,7 +4613,7 @@
           "stem": "Why does the passage suggest keeping the cue and reward while changing the routine?",
           "choices": [
             "Because cues and rewards cannot be removed",
-            "Because the loop still triggers and pays off, but with a better action between",
+            "The loop keeps its trigger and reward but uses a better action",
             "Because routines are the easiest part to ignore",
             "Because rewards are always harmful"
           ],
@@ -4626,7 +4626,7 @@
           "stem": "According to the passage, what does the reward do?",
           "choices": [
             "It creates the cue",
-            "It signals to the brain that the loop is worth remembering",
+            "It makes the brain remember the loop",
             "It cancels the routine",
             "It replaces willpower"
           ],
@@ -4649,7 +4649,7 @@
       ],
       "wordCount": 174,
       "lesson": {
-        "strategy": "A psychology explainer built on one model: the three-part habit loop. Pin down cue, routine, and reward first, then follow the two turns: \"But the same machinery\" (the same process builds bad habits too) and \"This is why willpower alone rarely\" (so swap the routine, keep the other two).",
+        "strategy": "Identify the cue, routine, and reward. The same loop can build useful or harmful habits. To change a habit, keep the cue and reward but replace the routine.",
         "signals": [
           {
             "phrase": "a cue, a routine, and a reward",
@@ -4661,7 +4661,7 @@
           },
           {
             "phrase": "This is why willpower alone rarely",
-            "means": "The payoff line: it uses the loop to explain why willpower fails and points to the real fix."
+            "means": "This applies the habit loop and explains why changing the routine can work better than willpower alone."
           },
           {
             "phrase": "keeps the cue and the reward but swaps the routine",
@@ -4755,7 +4755,7 @@
       ],
       "wordCount": 103,
       "lesson": {
-        "strategy": "This explains where a price comes from. The first two sentences give the answer: two forces, supply and demand. The middle two are mirror cases: price rises, then falls. The last sentence lands on balance. Read it as answer, two examples, then the middle point.",
+        "strategy": "Start with supply and demand. Then read one example of a rising price and one of a falling price. The last sentence explains how the two forces reach a balance.",
         "signals": [
           {
             "phrase": "tug-of-war between two forces",
@@ -4771,7 +4771,7 @@
           },
           {
             "phrase": "pull toward a balance",
-            "means": "The landing point: the two forces usually settle where amount offered matches amount wanted."
+            "means": "This states that prices often settle where the amount offered matches the amount wanted."
           }
         ],
         "vocab": [
@@ -4812,7 +4812,7 @@
           "stem": "The central idea of the passage is that",
           "choices": [
             "free apps are a gift to users with no catch",
-            "when attention is the product, apps are designed to hold us rather than help us finish",
+            "selling attention makes apps hold users instead of helping them finish",
             "advertisers dislike apps that are free",
             "designers intend to harm their users"
           ],
@@ -4826,7 +4826,7 @@
           "choices": [
             "It is too expensive to build",
             "Users complain about it",
-            "Success is measured by time spent, so features that reduce time spread less",
+            "It reduces how long users stay",
             "It violates advertising laws"
           ],
           "answer": 2,
@@ -4873,7 +4873,7 @@
           },
           {
             "phrase": "None of this requires bad intentions",
-            "means": "The pivot. Blame shifts from villains to a reward system that produces the outcome on its own."
+            "means": "The author explains that the reward system can produce the harm without deliberate bad intent."
           },
           {
             "phrase": "does not switch it off",
@@ -4918,7 +4918,7 @@
           "stem": "What is the main idea?",
           "choices": [
             "Telephones are outdated technology",
-            "Some products grow more valuable as more people use them, which both attracts and traps users",
+            "A larger network adds value and makes switching harder",
             "The best product always wins the market",
             "People dislike joining large networks"
           ],
@@ -4931,7 +4931,7 @@
           "stem": "Why is the strongest network hard for a rival to defeat?",
           "choices": [
             "Rivals lack money",
-            "A rival must convince the whole crowd to move at once, not just build a better tool",
+            "It must persuade many users to switch together",
             "Networks are protected by law",
             "Users never try new products"
           ],
@@ -4957,12 +4957,12 @@
           "stem": "In the passage, \"rival\" most nearly means:",
           "choices": [
             "a loyal user",
-            "a competing product trying to win users",
+            "a product competing for users",
             "a telephone engineer",
             "a network's founder"
           ],
           "answer": 1,
-          "explanation": "The rival is the challenger that \"must offer not just a better tool, but a reason for the whole crowd to move at once,\" that is, a competing product trying to take the users."
+        "explanation": "A rival is a competing product trying to attract the network's users."
         }
       ],
       "wordCount": 135,
@@ -5130,7 +5130,7 @@
           "stem": "Which statement best captures the main idea?",
           "choices": [
             "Memory works like a perfect video recording",
-            "Remembering is an act of rebuilding that can introduce errors we cannot detect",
+            "Rebuilding memories can introduce errors we do not notice",
             "Eyewitnesses always lie about what they saw",
             "Memory should be completely distrusted"
           ],
@@ -5143,7 +5143,7 @@
           "stem": "Why does the passage say confidence is 'a poor measure of accuracy'?",
           "choices": [
             "People are usually lying when confident",
-            "Reconstructed false memories can feel just as vivid and certain as true ones",
+            "False memories can feel as certain as true ones",
             "Confident people remember less",
             "Accuracy cannot be measured at all"
           ],
@@ -5156,7 +5156,7 @@
           "stem": "As used here, 'seam' most nearly refers to",
           "choices": [
             "a type of fabric",
-            "the join where invented details meet real ones",
+            "where invented and real details meet",
             "a strong emotion",
             "a recording device"
           ],
@@ -5179,7 +5179,7 @@
       ],
       "wordCount": 174,
       "lesson": {
-        "strategy": "Read this as an argument that flips a common belief. Sentence one states the belief (memory as a recording); \"The truth is stranger\" flips it. Follow one idea (reconstruction) as it turns from \"useful\" to \"editable\" to its eyewitness cost. The thesis lands last, not first.",
+        "strategy": "Compare memory as a recording with memory as reconstruction. Reconstruction saves effort, but later information can change it. The final paragraph explains why eyewitness confidence does not guarantee accuracy.",
         "signals": [
           {
             "phrase": "The truth is stranger",
@@ -5195,7 +5195,7 @@
           },
           {
             "phrase": "Confidence, it turns out, is a poor measure",
-            "means": "The payoff claim the whole piece builds toward. This is the point, not the opening line."
+            "means": "The author concludes that confidence does not reliably show whether a memory is accurate."
           }
         ],
         "vocab": [
@@ -5213,7 +5213,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The main claim is the flipped belief, not the opening one. The author rejects memory as \"a faithful video\" and lands the real point last: confidence \"is a poor measure of accuracy.\"",
+          "main-idea": "Memory is reconstructed rather than replayed. A memory can feel vivid and certain even after later information has changed it.",
           "inference": "Ask what follows if memory is rebuilt each time. Eyewitnesses describe false events \"sincerely,\" not by lying; the cause the author names is suggestions \"planted afterward.\"",
           "vocabulary": "For abstract words, use the nearby image. \"where invention meets fact\" tells you a \"seam\" is the join between made-up and real; \"editable\" shows as details that \"slip\" in.",
           "detail": "See which details back which claim. The \"leading question,\" \"later conversation,\" and \"own retelling\" are three examples of one point (memory is editable), not separate facts."
@@ -5236,7 +5236,7 @@
           "stem": "The passage is mainly about",
           "choices": [
             "why people enjoy giving gifts",
-            "how the urge to return favors shapes behavior and can be used to persuade",
+            "how returning favors can influence behavior and persuasion",
             "the history of early communities",
             "why free samples taste better"
           ],
@@ -5249,7 +5249,7 @@
           "stem": "What defense against this tactic does the passage suggest?",
           "choices": [
             "Refusing to speak to salespeople",
-            "Recognizing a manipulative gift as a tactic and feeling no debt",
+            "Treating the gift as a tactic, not a debt",
             "Always returning every favor immediately",
             "Never accepting anything from anyone"
           ],
@@ -5285,7 +5285,7 @@
       ],
       "wordCount": 165,
       "lesson": {
-        "strategy": "This essay runs in three moves: it names a rule (\"rule of reciprocity\"), shows how that rule becomes \"a tool of persuasion,\" then hands you \"a defense.\" Read for the turns, not the opening. The payoff is the last line, where relabeling the favor cancels the debt.",
+        "strategy": "Follow the essay in three parts. It defines reciprocity, shows how persuaders exploit it, and offers a defense. The final line says to treat a manipulative favor as a sales tactic rather than a debt.",
         "signals": [
           {
             "phrase": "rule of reciprocity",
@@ -5293,11 +5293,11 @@
           },
           {
             "phrase": "Because the urge is automatic",
-            "means": "The first turn. The essay pivots from describing the rule to showing how persuaders exploit it against you."
+            "means": "The essay shifts from defining reciprocity to showing how persuaders exploit it."
           },
           {
             "phrase": "but it offers a defense",
-            "means": "The second turn and the payoff. Knowing the trick won't kill the urge, but it lets you refuse the debt."
+            "means": "Recognizing a sales tactic can help a person refuse the feeling of debt."
           },
           {
             "phrase": "a sales tactic rather than a true kindness",
@@ -5342,7 +5342,7 @@
           "stem": "What is the main idea of the passage?",
           "choices": [
             "Most purchases are bargains",
-            "The true cost of a choice is the best alternative you give up, which is easy to overlook",
+            "A choice costs the best alternative given up",
             "Money is the only real cost worth counting",
             "Free activities have no cost at all"
           ],
@@ -5355,7 +5355,7 @@
           "stem": "Why does the passage say opportunity cost is 'slippery'?",
           "choices": [
             "It changes every day",
-            "It never appears on a receipt, so the mind tends to ignore it",
+            "No receipt makes it easy to overlook",
             "It only applies to money",
             "It is illegal to calculate"
           ],
@@ -5404,7 +5404,7 @@
       ],
       "wordCount": 261,
       "lesson": {
-        "strategy": "This essay defines one idea, opportunity cost, then defends it. Read in three beats: the definition (\"the value of the best option you did not take\"), why it hides (\"never appears on a receipt\"), and the reframe it forces (\"changes the question we ask\"). Track each \"yet\" or \"but\" turn.",
+        "strategy": "Follow three parts of the explanation: the definition of opportunity cost, why it is easy to overlook, and how it changes a decision. Words such as 'yet' and 'but' mark each change.",
         "signals": [
           {
             "phrase": "Economists call this hidden price",
@@ -5420,7 +5420,7 @@
           },
           {
             "phrase": "changes the question we ask",
-            "means": "The pivot: from 'worth its price?' to 'worth more than the next best thing?,' the payoff."
+            "means": "The author replaces a price-only question with a comparison to the next best option."
           }
         ],
         "vocab": [
@@ -5461,7 +5461,7 @@
           "stem": "The passage is mainly about",
           "choices": [
             "how to win every negotiation",
-            "how an initial number, even an irrelevant one, biases our later estimates",
+            "how a first number biases later estimates",
             "why sale prices are always fair",
             "how wheels are used in psychology labs"
           ],
@@ -5535,7 +5535,7 @@
           },
           {
             "phrase": "which is why the person who names the first number",
-            "means": "A causal payoff. The marketplace lesson drawn from the studies: naming the first number is quiet power."
+            "means": "This applies the anchoring effect to negotiations: the first offer pulls later offers toward it."
           },
           {
             "phrase": "The defense is not to feel immune",
@@ -5606,7 +5606,7 @@
           "stem": "A “diurnal” tidal pattern has",
           "choices": [
             "two equal high tides every hour",
-            "one high and one low tide during a tidal day",
+            "one high and one low tide each day",
             "no change in water level",
             "only a full-moon tide"
           ],
@@ -5805,7 +5805,7 @@
           "stem": "According to the text, sedimentary rock forms when",
           "choices": [
             "magma cools quickly",
-            "grains settle and are pressed in layers",
+            "settled layers of grains are pressed",
             "rock melts underground",
             "volcanoes erupt"
           ],
@@ -5911,7 +5911,7 @@
           "stem": "Why do scientists study tardigrades in connection with other worlds?",
           "choices": [
             "Tardigrades come from space",
-            "Their survival hints at how life might endure harsh, alien conditions",
+            "Their survival suggests how life may endure harsh conditions",
             "They can only live in vacuums",
             "They glow in the dark"
           ],
@@ -5924,7 +5924,7 @@
           "stem": "What does a tardigrade do when its surroundings dry out?",
           "choices": [
             "It lays eggs",
-            "It expels water and curls into a tun",
+            "It forms a dry, curled tun",
             "It swims to deeper water",
             "It grows extra legs"
           ],
@@ -5951,7 +5951,7 @@
         "signals": [
           {
             "phrase": "What makes the tardigrade remarkable",
-            "means": "The thesis marker: the sentence right after it states the whole point everything else backs up."
+            "means": "This introduces the tardigrade’s ability to survive harsh conditions."
           },
           {
             "phrase": "When its surroundings dry out",
@@ -6149,7 +6149,7 @@
           "stem": "Which statement best captures the main idea of the passage?",
           "choices": [
             "Neurons touch each other directly to pass signals",
-            "The brain uses both electrical and chemical signals to pass messages between billions of neurons",
+            "Electrical and chemical signals carry messages between neurons",
             "Chemical messengers slow the brain down",
             "Each thought comes from a single neuron"
           ],
@@ -6159,7 +6159,7 @@
       ],
       "wordCount": 147,
       "lesson": {
-        "strategy": "Read this as a process with a twist. It opens with a claim, then walks a signal through a neuron step by step, then turns at \"But neurons do not actually touch.\" Track the sequence and the switch from electricity to chemistry; the last sentence reframes it all.",
+        "strategy": "Follow a signal through a neuron step by step. At 'But neurons do not actually touch,' the process changes from an electrical signal inside a cell to a chemical signal between cells.",
         "signals": [
           {
             "phrase": "cells called neurons",
@@ -6175,7 +6175,7 @@
           },
           {
             "phrase": "a single smooth thought is really",
-            "means": "Appearance-vs-reality reframe: the passage's main point landing at the end."
+            "means": "A smooth thought depends on many signals moving through a changing network."
           }
         ],
         "vocab": [
@@ -6366,7 +6366,7 @@
             "It has never touched the ocean"
           ],
           "answer": 1,
-          "explanation": "The text says \"no new water is made and none is lost,\" and the same water has been moving in this circle for a very long time, so today's water has gone around many times."
+        "explanation": "The cycle makes no new water and loses none. The same water has moved through it many times."
         }
       ],
       "wordCount": 124,
@@ -6640,7 +6640,7 @@
           "stem": "Why do engineers find spider silk especially impressive?",
           "choices": [
             "It is heavier than steel",
-            "It is both strong and stretchy, qualities that usually oppose each other",
+            "It combines strength with stretch",
             "It dissolves quickly in water",
             "It glows in the dark"
           ],
@@ -6678,7 +6678,7 @@
           "skill": "main-idea",
           "stem": "Which statement best captures the main idea?",
           "choices": [
-            "Spider silk combines strength and stretch in a way scientists have not managed to copy",
+            "Spider silk combines strength and stretch but remains hard to copy",
             "Spiders make only one kind of silk",
             "Steel is better than silk for building webs",
             "Silk is mainly used to wrap eggs"
@@ -6689,7 +6689,7 @@
       ],
       "wordCount": 148,
       "lesson": {
-        "strategy": "This science explainer turns on one paradox: silk is \"both strong and stretchy,\" traits that \"usually oppose each other.\" Track the opening claim, the steel-and-rubber contrast, the \"which is why\" payoff, and the closing \"but\" for what humans still can't do.",
+        "strategy": "Compare spider silk with steel and rubber. Silk combines strength with stretch. Scientists still find it hard to manufacture.",
         "signals": [
           {
             "phrase": "For its weight",
@@ -6723,7 +6723,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point is not \"silk is strong\" alone. It is the paradox: silk joins strong and stretchy, traits that \"usually oppose each other,\" and copying it is \"stubbornly hard.\" Hold both halves.",
+          "main-idea": "Include both properties of silk. It is strong and stretchy, and people have found it difficult to reproduce.",
           "inference": "The steel-and-rubber sentence is never called the lesson, but it proves silk is special: each rival has one trait only, so \"Silk manages both\" is what makes it rare.",
           "vocabulary": "Let the built-in contrasts define hard words. \"Strong but brittle\" pairs brittle against strong; \"stretches but tears easily\" pairs with stretchy. Read the opposite word beside it.",
           "detail": "For the kinds of silk, anchor on \"each tuned for a task\" and count the three: the \"sturdy frame,\" the \"sticky spiral,\" and the wrap that protects eggs. Match each silk to its job."
@@ -6786,7 +6786,7 @@
           "choices": [
             "Stars burn hydrogen forever without changing",
             "Only massive stars matter to life on Earth",
-            "Stars are born, die, and scatter the elements that build new stars, planets, and living things",
+            "Stars live and die, scattering elements that form planets and living things",
             "The Sun will soon explode as a supernova"
           ],
           "answer": 2,
@@ -6852,7 +6852,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "A woman's first day at a new job, and how asking questions helped her learn",
+            "A new bakery worker learns by asking questions",
             "How to bake many kinds of bread",
             "A fight between two workers at a bakery",
             "Why the bakery opened an hour late"
@@ -6879,7 +6879,7 @@
           "stem": "Why did Nadia feel \"a little better\" after Cole spoke?",
           "choices": [
             "The bakery was very warm",
-            "His kind words told her it was okay to be new and to ask",
+            "He said it was fine to ask questions",
             "She had finished all her work",
             "She was about to go home"
           ],
@@ -6985,7 +6985,7 @@
           "stem": "Why does the passage say to wear your heaviest shoes on the plane?",
           "choices": [
             "Because planes are cold",
-            "So they do not take up weight and space in the bag",
+            "To save bag space and weight",
             "Because shoes are not allowed in bags",
             "Because new shoes hurt your feet"
           ],
@@ -7041,7 +7041,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The point is not any single tip. Tie the steps together under \"pack light\" and the closing line about a small bag.",
+        "main-idea": "Put the tips together: pack light and use a small bag.",
           "inference": "The passage never says a heavy bag ruins a trip in plain words. Infer it from \"You spend less time waiting and more time seeing.\"",
           "vocabulary": "For \"items,\" look at the examples near it: clothes, shoes, papers, money, phone. \"Items\" is the general word for all these things.",
           "detail": "The steps come in order. To answer a \"what to do\" question, find the matching step: after laying out, you \"take away half of it.\""
@@ -7104,7 +7104,7 @@
           "stem": "In this passage, \"protein\" is best understood as",
           "choices": [
             "a kind of spice",
-            "a part of food your body needs, also found in meat",
+            "something meat also gives your body",
             "a type of rice",
             "a cooking pot"
           ],
@@ -7170,7 +7170,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "How saving a small amount often, as a habit, builds up over time",
+            "How small, regular savings grow over time",
             "How to earn a bigger salary",
             "Why banks pay interest on savings",
             "How to make a monthly food budget"
@@ -7197,7 +7197,7 @@
           "stem": "Why does the passage say to keep savings \"in a place you cannot easily reach\"?",
           "choices": [
             "Because banks are far away",
-            "So you are not tempted to spend the money you set aside",
+            "To make the savings harder to spend",
             "Because cash is not safe at home",
             "Because the money grows faster there"
           ],
@@ -7210,7 +7210,7 @@
           "stem": "In this passage, \"habit\" most nearly means",
           "choices": [
             "a large amount of money",
-            "something you do again and again until it feels normal",
+            "something repeated until it feels normal",
             "a single lucky choice",
             "a strict rule from a bank"
           ],
@@ -7231,7 +7231,7 @@
           },
           {
             "phrase": "small weekly savings add up to a real sum",
-            "means": "The payoff. Tiny amounts, repeated over a year, grow into something that matters."
+            "means": "Small weekly amounts add up over a year."
           },
           {
             "phrase": "often ends up safer",
@@ -7276,7 +7276,7 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "A daily walk is a simple, free way to help both body and mind",
+            "Daily walks help body and mind for free",
             "Gyms are a waste of money",
             "Walking fast is the only good exercise",
             "You should never drive a car"
@@ -7409,7 +7409,7 @@
           "stem": "Why do birds sing at dawn instead of hunting?",
           "choices": [
             "They are not hungry in the morning",
-            "It is too dark to find food, so they use the time to call",
+            "In the dark, they can call but cannot find food",
             "They hunt only at night",
             "Singing gives them energy to hunt"
           ],
@@ -7700,7 +7700,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "The public library is a free place where anyone can learn and borrow",
+            "Libraries offer free learning and borrowing to everyone",
             "Libraries are only for children",
             "Books cost too much to buy",
             "Every town needs a bigger library"
@@ -7846,7 +7846,7 @@
           "stem": "In this passage, \"focus\" most nearly means",
           "choices": [
             "the brightness of a screen",
-            "how the eye sets itself to see clearly at a distance",
+            "how the eye changes to see clearly",
             "a kind of eye drop",
             "the center of a room"
           ],
@@ -7995,7 +7995,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Two feelings could fit: hardship or peace. The writer lands on peace. Read past \"strange\" to \"the day belongs only to her.\"",
+          "main-idea": "Use the line ‘the day belongs only to her.’ Priya values the quiet hours before the city wakes.",
           "inference": "The text says she is \"home and asleep\" by afternoon. Infer why she misses the busy hours: her body follows a night schedule.",
           "vocabulary": "For \"steady,\" use the pair beside it: \"steady and warm,\" tied to peace and calm. Steady means even, not rushed or unsure.",
           "detail": "Times are exact. Her day begins \"at two in the morning\"; customers come \"at six.\" Match the exact time the question names."
@@ -8018,7 +8018,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "A traveler who chooses the slow train to truly see the land, not just arrive",
+            "A traveler chooses a slow train to see the land",
             "Why trains cost less than planes",
             "How to pack for a very long trip",
             "Why mountains are hard to cross by train"
@@ -8045,7 +8045,7 @@
           "stem": "Why did Elena choose the train over the plane?",
           "choices": [
             "The plane was too expensive",
-            "She wanted to see the land, which a plane would hide behind clouds",
+            "She wanted to see the land during the trip",
             "She was afraid of flying",
             "The train was much faster"
           ],
@@ -8058,7 +8058,7 @@
           "stem": "In this passage, \"unrolled\" most nearly means",
           "choices": [
             "rolled up tight",
-            "opened up and spread out to view",
+            "spread out into view",
             "disappeared slowly",
             "broke apart"
           ],
@@ -8124,7 +8124,7 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "Sleep is active, useful time when the body and brain do vital work",
+            "Sleep lets the body and brain do vital work",
             "Students should never study at night",
             "The brain shuts fully off during sleep",
             "Everyone must sleep exactly eight hours"
@@ -8138,7 +8138,7 @@
           "stem": "According to the text, what does the brain do during sleep?",
           "choices": [
             "It grows new muscles",
-            "It sorts what we learned and stores what is worth keeping",
+            "It sorts and stores what we learned",
             "It heals cuts on the skin",
             "It stops all activity"
           ],
@@ -8270,7 +8270,7 @@
           "stem": "In this passage, \"emergency\" most nearly means",
           "choices": [
             "a planned holiday",
-            "a sudden serious event that needs quick action",
+            "a sudden event requiring quick action",
             "a small daily cost",
             "a long slow saving plan"
           ],
@@ -8279,7 +8279,7 @@
         }
       ],
       "lesson": {
-        "strategy": "This explains a money idea: the emergency fund. Read for what it is, what it is for, and what it is not for. The examples at the start show the kind of surprise it guards against. The last two lines say the payoff.",
+        "strategy": "Identify what an emergency fund is, which expenses it covers, and which expenses it does not cover. The final lines explain how the fund can keep a sudden bill from becoming a crisis.",
         "signals": [
           {
             "phrase": "an emergency fund",
@@ -8295,7 +8295,7 @@
           },
           {
             "phrase": "turns a disaster into a mere problem",
-            "means": "The payoff. The fund shrinks a crisis down to a manageable size."
+            "means": "The fund can make an unexpected expense easier to manage."
           }
         ],
         "vocab": [
@@ -8350,7 +8350,7 @@
           "stem": "According to the text, what keeps an otter's skin dry and warm?",
           "choices": [
             "A thick layer of fat",
-            "Thick fur that traps a layer of air",
+            "Air trapped in its thick fur",
             "The warm river water",
             "Its strong tail"
           ],
@@ -8360,7 +8360,7 @@
         {
           "id": "q3",
           "skill": "inference",
-          "stem": "Why is the otters' play more than just fun?",
+        "stem": "How does play help young otters?",
           "choices": [
             "It keeps them warm in the cold",
             "It helps young otters build strength and skill for hunting",
@@ -8456,7 +8456,7 @@
           "stem": "According to the text, how is tea served in Morocco?",
           "choices": [
             "With milk in the afternoon",
-            "Green tea poured with mint and sugar to make a foam",
+            "Green tea poured with mint and sugar",
             "In a ceremony lasting hours",
             "Cold, with no sugar at all"
           ],
@@ -8482,7 +8482,7 @@
           "stem": "In this passage, \"customs\" most nearly means",
           "choices": [
             "taxes paid on drinks",
-            "the usual ways a group of people does things",
+            "a group's usual ways",
             "kinds of tea leaves",
             "tools for pouring tea"
           ],
@@ -8654,7 +8654,7 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "The cactus has changed its shape in many ways to save water in the desert",
+            "How cactus features save water",
             "Deserts get far more rain than we think",
             "All plants have spines to protect them",
             "How a cactus grows its flowers"
@@ -8699,7 +8699,7 @@
             "slowly dies"
           ],
           "answer": 1,
-          "explanation": "The cactus \"not only survives... it thrives,\" so thrives means does well, more than just survive."
+        "explanation": "The cactus \"thrives,\" so it does well in the desert."
         }
       ],
       "lesson": {
@@ -8760,7 +8760,7 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "Working from home has real gains and real costs, and works best with limits",
+            "Working from home has benefits, costs, and needed limits",
             "Everyone should work from home",
             "Offices are always better than homes",
             "How to buy a good laptop for work"
@@ -8774,7 +8774,7 @@
           "stem": "According to the text, what is one gain of working from home?",
           "choices": [
             "More people to talk to each day",
-            "No long drive to work, which saves time and money",
+            "No drive to work saves time and money",
             "A bigger salary",
             "A quieter office building"
           ],
@@ -8787,7 +8787,7 @@
           "stem": "Why can \"the line between them blur\" at home?",
           "choices": [
             "Home lights are too dim to work by",
-            "Work and rest happen in the same place, so it is hard to separate them",
+            "Work and rest happen in the same place",
             "Laptops break too easily",
             "Homes have no clocks"
           ],
@@ -8800,7 +8800,7 @@
           "stem": "In this passage, \"blur\" most nearly means",
           "choices": [
             "grow sharp and clear",
-            "become unclear or hard to tell apart",
+            "become hard to separate",
             "move far away",
             "disappear fully"
           ],
@@ -8906,7 +8906,7 @@
           "stem": "In this passage, \"reset\" most nearly means",
           "choices": [
             "break down",
-            "set again to a new time",
+            "adjust to new time",
             "speed up",
             "turn off"
           ],
@@ -9078,7 +9078,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "An old woman who shops at the market for connection, not just cheaper food",
+            "An older woman shops at the market for connection",
             "How farmers grow the best tomatoes",
             "Why markets open on Saturday mornings",
             "The best food to buy in a small town"
@@ -9118,7 +9118,7 @@
           "stem": "In this passage, \"herbs\" most nearly means",
           "choices": [
             "kinds of fish",
-            "leafy plants used to add flavor to food",
+            "leafy plants used for flavor",
             "large melons",
             "farm tools"
           ],
@@ -9290,7 +9290,7 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "Geese fly in a V and take turns leading to save energy on a long trip",
+            "Geese fly in a V and take turns leading to save energy",
             "Geese are the fastest of all flying birds",
             "Why winters are so cold in the north",
             "How geese build and hide their nests"
@@ -9540,10 +9540,10 @@
           "skill": "vocabulary",
           "stem": "In this passage, 'adopted' most nearly means",
           "choices": [
-            "rejected",
-            "sold to others",
-            "measured carefully",
-            "took up and began to use"
+            "refused to use",
+            "offered for sale",
+            "measured with care",
+            "began to use"
           ],
           "answer": 3,
           "explanation": "Nations 'adopted these standard hours' means they took them up and began using them."
@@ -9762,7 +9762,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A history explainer told as a puzzle solved. Track the problem first: hieroglyphs were 'a locked door' no one could read. Then find the key: three matching texts, one in readable Greek. The payoff comes when 'the locked door swung open'. The last line states why the plain stone mattered.",
+        "strategy": "Start with the problem: scholars could not read hieroglyphs. Then follow how three versions of the same text, including readable Greek, helped them decode the writing. The final line explains the stone's importance.",
         "signals": [
           {
             "phrase": "a locked door",
@@ -9778,7 +9778,7 @@
           },
           {
             "phrase": "the locked door swung open",
-            "means": "The payoff, echoing the opening image: the code is broken and the writing can be read."
+            "means": "Scholars can now read hieroglyphs that were previously unreadable."
           }
         ],
         "vocab": [
@@ -9796,7 +9796,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The passage frames a locked door that finally opens. State the main idea as the solving of a problem (matching texts made hieroglyphs readable), not a story about soldiers or France.",
+        "main-idea": "Matching the three texts made hieroglyphs readable. Choose that main idea, not a detail about soldiers or France.",
           "inference": "The close calls the stone 'ordinary' yet powerful. Infer the passage values the method (a known text unlocking unknown ones) over the object itself.",
           "vocabulary": "'Scripts' is set against 'a language' in the next sentence. Use that contrast: scripts are ways of writing, so three scripts can record one message in different symbol systems.",
           "detail": "The decoding rests on one fact: 'all three said the same thing'. When a question asks how the stone helped, return to that matching, not its size or material."
@@ -9845,7 +9845,7 @@
           "skill": "inference",
           "stem": "Based on the passage, if the air held no gas molecules, the daytime sky would most likely",
           "choices": [
-            "look dark, since nothing would scatter the sunlight",
+            "look dark without molecules to scatter sunlight",
             "look even bluer",
             "turn bright red",
             "stay exactly the same"
@@ -10054,7 +10054,7 @@
           "stem": "Why do goosebumps do little for humans today?",
           "choices": [
             "We no longer have any rivals",
-            "We lost most of our fur, so raised hairs cannot trap heat or add size",
+            "Without fur, raised hairs cannot trap heat or add size",
             "We feel cold far less than animals",
             "Our muscles have grown too weak"
           ],
@@ -10069,7 +10069,7 @@
             "always causes disease",
             "is found only in humans",
             "is brand new in the body",
-            "once had a use and remains after that use has faded"
+            "remains after its original use has faded"
           ],
           "answer": 3,
           "explanation": "The text defines vestigial as 'a feature that once had a clear use and remains after that use has faded'."
@@ -10146,7 +10146,7 @@
           "skill": "detail",
           "stem": "What does a vaccine show the immune system?",
           "choices": [
-            "A harmless version of a germ, or just a piece of one",
+            "A harmless germ or part of one",
             "A healthy body cell",
             "A finished memory cell",
             "A strong, living germ"
@@ -10173,7 +10173,7 @@
           "stem": "In this passage, 'preview' most nearly means",
           "choices": [
             "a complete cure",
-            "an early, safe look before the real thing",
+            "a safe look before the real germ",
             "a loud warning bell",
             "a very strong dose"
           ],
@@ -10198,7 +10198,7 @@
           },
           {
             "phrase": "no longer meeting a stranger",
-            "means": "The payoff image: on the real attack the body already knows the germ and reacts fast."
+            "means": "The immune system recognizes the germ and responds faster during a later infection."
           }
         ],
         "vocab": [
@@ -10347,7 +10347,7 @@
           "choices": [
             "how insects survive the cold",
             "why forests grow in the south",
-            "the puzzle of a long migration that no single butterfly completes",
+            "a migration no single butterfly completes",
             "how butterflies find food"
           ],
           "answer": 2,
@@ -10373,7 +10373,7 @@
           "choices": [
             "They always travel in large groups",
             "They fly only at night",
-            "They were never taught the route, yet still find their way",
+            "They find a route nobody taught them",
             "The forests keep changing location"
           ],
           "answer": 2,
@@ -10406,7 +10406,7 @@
           },
           {
             "phrase": "This raises a hard question",
-            "means": "Marks the pivot to the puzzle: how can a butterfly know a route it never learned?"
+            "means": "This introduces the question of how a butterfly follows a route it never learned."
           },
           {
             "phrase": "written into them from birth",
@@ -10454,7 +10454,7 @@
             "why bats sleep during the day",
             "how human hearing works",
             "how insects escape from bats",
-            "how bats use sound and echoes to find things in the dark"
+            "how bats find things by echo"
           ],
           "answer": 3,
           "explanation": "The passage explains echolocation: how bats read echoes to sense their surroundings in the dark."
@@ -10558,7 +10558,7 @@
           "stem": "The passage mainly explains",
           "choices": [
             "why large crowds are dangerous",
-            "why people in a crowd may be less likely to help, and how to counter it",
+            "why crowds can delay help and how to respond",
             "how emergencies usually begin",
             "why some people are naturally cruel"
           ],
@@ -10691,7 +10691,7 @@
           "choices": [
             "films are always a waste of time",
             "effort should always be rewarded",
-            "the past payment cannot be changed, so only what lies ahead matters",
+            "Past costs cannot change, so only future outcomes matter",
             "money is not important"
           ],
           "answer": 2,
@@ -10785,7 +10785,7 @@
             "It wastes valuable study time",
             "It erases the memory",
             "It replaces older memories",
-            "It forces the brain to rebuild the memory, making it stronger"
+            "It rebuilds and strengthens the memory"
           ],
           "answer": 3,
           "explanation": "The text says reviewing as it fades 'forces your brain to pull the memory back and rebuild it', making it stronger."
@@ -10982,7 +10982,7 @@
           "stem": "The passage mainly explains",
           "choices": [
             "that cities should reduce their traffic",
-            "that a small share of causes often produces most results, and how to use that",
+            "why a few causes often produce most results",
             "that companies should sell fewer products",
             "that hard work always pays double"
           ],
@@ -10995,7 +10995,7 @@
           "stem": "According to the passage, what does the 80/20 rule say about causes and effects?",
           "choices": [
             "Effort always equals reward exactly",
-            "A small part of the causes tends to produce a large part of the effects",
+            "A few causes often produce most effects",
             "Causes and effects are always equal",
             "Effects always come before their causes"
           ],
@@ -11087,7 +11087,7 @@
           "skill": "main-idea",
           "stem": "The passage mainly explains",
           "choices": [
-            "why two people can both gain by specializing and trading, even if one is better at everything",
+            "why trade can help both, even when one is better at everything",
             "how to repair a pair of shoes",
             "how to bake better bread",
             "why some workers are slower than others"
@@ -11136,7 +11136,7 @@
         }
       ],
       "lesson": {
-        "strategy": "An economics explainer that argues against an obvious answer. It sets up the puzzle (why trade if one person is better at both jobs), then shifts the question from skill to cost: 'not who is better, but what each person gives up'. Follow that shift to the payoff.",
+        "strategy": "Start with the question of why people trade when one person is better at both jobs. The passage answers by comparing what each person gives up, rather than who works faster.",
         "signals": [
           {
             "phrase": "both people can gain if each focuses",
@@ -11144,7 +11144,7 @@
           },
           {
             "phrase": "The key is not who is better",
-            "means": "The turn that reframes the problem: the answer is about cost, not raw skill."
+            "means": "This changes the comparison from raw skill to what each person gives up."
           },
           {
             "phrase": "comparative advantage",
@@ -11221,7 +11221,7 @@
           "choices": [
             "Because sailors no longer use maps",
             "Because maps are often printed poorly",
-            "Because each flat map gives up one kind of accuracy to keep another",
+            "Each flat map keeps one kind of accuracy by losing another",
             "Because globes have become too expensive"
           ],
           "answer": 2,
@@ -11242,7 +11242,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A nonfiction explainer that argues one claim: no flat map can be fully true. It builds from a fact, 'a sphere cannot be flattened without stretching,' to a rule: every map trades one error for another. The Mercator example proves it. The close reframes how to read any map.",
+        "strategy": "Start with the fact that a sphere cannot be flattened without stretching. Then see how the Mercator map preserves some features while distorting others. The final paragraph applies this rule to every flat map.",
         "signals": [
           {
             "phrase": "cannot be flattened without stretching",
@@ -11276,7 +11276,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The Mercator map is an example serving a larger claim. State the main idea as the general rule (every flat map distorts), not just a fact about Greenland and Africa.",
+          "main-idea": "Use the Mercator map as evidence for the general rule that every flat map distorts something.",
           "inference": "Link 'which error to accept' to 'what has it traded away?'. Infer no map is simply right; each keeps one accuracy by giving up another.",
           "vocabulary": "'Distort' is used with 'shapes' and set against 'honest about distances'. Read it as showing something in a false, stretched form, the price a map pays.",
           "detail": "Be exact about the trade: Mercator keeps 'shapes... and the directions' but stretches 'areas near the top and bottom'. Match the detail to which property is kept versus lost."
@@ -11348,7 +11348,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A persuasive essay that overturns a common belief. The thesis lands early - 'We write in order to find out what we think' - and each paragraph gives a reason it holds. Watch the reversal at 'the order often runs the other way,' and treat the last line as the payoff.",
+        "strategy": "Use the early claim, 'We write in order to find out what we think.' Each paragraph gives a reason that writing can create thought instead of only recording it.",
         "signals": [
           {
             "phrase": "the order often runs the other way",
@@ -11427,7 +11427,7 @@
           "skill": "inference",
           "stem": "The claim that 'in constant company we perform a version of ourselves' suggests the author believes:",
           "choices": [
-            "We edit ourselves for others and reveal our true beliefs only when alone.",
+            "We edit ourselves for others but recover our beliefs alone.",
             "People are dishonest by nature.",
             "Performing for others is always harmful.",
             "Company should be avoided entirely."
@@ -11529,7 +11529,7 @@
           "skill": "inference",
           "stem": "The final paragraph extends the idea to suggest that:",
           "choices": [
-            "Non-physical things like routines and friendships can also be mended, not just discarded.",
+            "Routines and friendships can be repaired too.",
             "Only expensive objects are worth repairing.",
             "Friendships can never be repaired.",
             "People should never make new plans."
@@ -11605,7 +11605,7 @@
           "skill": "main-idea",
           "stem": "What is the essay's central argument?",
           "choices": [
-            "Adults limit their growth by avoiding the beginner's discomfort, which is the price of any skill.",
+            "Avoiding beginner discomfort limits adult growth.",
             "Children learn faster than adults ever can.",
             "Learning an instrument at forty is a mistake.",
             "Expertise is mainly a matter of natural talent."
@@ -11631,7 +11631,7 @@
           "skill": "inference",
           "stem": "The line 'expertise is simply a beginning that was survived' implies that:",
           "choices": [
-            "Experts are beginners who did not quit; the difference is persistence, not talent.",
+            "Persistence, not talent, separates experts from beginners.",
             "Experts never felt like beginners.",
             "Survival is purely a matter of luck.",
             "Expertise cannot be taught to anyone."
@@ -11644,7 +11644,7 @@
           "skill": "vocabulary",
           "stem": "In 'The first weeks were humbling,' the word \"humbling\" most nearly means:",
           "choices": [
-            "making one feel modest and aware of one's limits",
+            "revealing one's limits",
             "deeply relaxing",
             "physically painful",
             "financially costly"
@@ -11654,7 +11654,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A personal essay arguing from one experience to a general truth. The confession of learning an instrument at forty is evidence for the thesis that avoiding the beginner's discomfort seals off growth. The line 'expertise is simply a beginning that was survived' carries the argument.",
+        "strategy": "The writer uses learning an instrument at forty as evidence. Follow how the discomfort of being a beginner can stop adults from learning, while staying with it can lead to skill.",
         "signals": [
           {
             "phrase": "comfort becomes a cage we mistake for a home",
@@ -11662,7 +11662,7 @@
           },
           {
             "phrase": "expertise is simply a beginning that was survived",
-            "means": "The core reframe; experts are just beginners who stayed with it."
+            "means": "The author says experts developed their skill by continuing through the beginner stage."
           },
           {
             "phrase": "guarded only by embarrassment",
@@ -11809,7 +11809,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "Focusing on what we can control and releasing what we cannot reduces suffering and works better.",
+            "Focus on what you control and release what you cannot.",
             "The Stoics believed in doing nothing at all.",
             "Winning a contest is a matter of control.",
             "Emotions should be eliminated completely."
@@ -12119,7 +12119,7 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "The veil of ignorance tests fairness by asking what rules we would choose without knowing our place in society.",
+            "The veil tests fairness without knowing one's place in society.",
             "Societies are actually designed from behind such a veil.",
             "The rich should be the ones to design society's rules.",
             "Inequality of any kind can never be fair."
@@ -12168,7 +12168,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A philosophy essay built around one device, the veil of ignorance. It sets up the imagined condition, explains its purpose, states the fairness claim, then narrows what it is for. The shift lands last: the veil is 'a test of conscience,' not a history of how societies form.",
+        "strategy": "Follow the veil of ignorance in three steps. Note what people imagine, why they lack personal facts, and how the idea tests rules for fairness. The ending limits what the exercise can prove.",
         "signals": [
           {
             "phrase": "You must choose the rules before knowing who you will be",
@@ -12338,7 +12338,7 @@
           "choices": [
             "Because she cannot type well",
             "Because typing is beneath her",
-            "Because her typing hour costs her the more valuable legal work she gives up",
+            "Typing would replace more valuable legal work",
             "Because the typist is faster than she is"
           ],
           "answer": 2,
@@ -12349,7 +12349,7 @@
           "skill": "inference",
           "stem": "The passage implies that a person who is worse at everything:",
           "choices": [
-            "Still holds a comparative advantage in whatever they sacrifice the least to do.",
+            "Has comparative advantage where opportunity cost is lowest.",
             "Cannot benefit from trade at all.",
             "Should not work in any field.",
             "Is genuinely better at nothing useful."
@@ -12425,7 +12425,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "Dividing a job into specialized steps greatly raises output, though it can narrow the worker's experience.",
+            "Specialization raises output but can narrow workers' experience.",
             "Pins are the most important product in an economy.",
             "Workers should always do whole jobs alone.",
             "Machines will inevitably replace all workers."
@@ -12527,7 +12527,7 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "Adding more of one input while others stay fixed gives smaller and smaller gains, so more is not always better.",
+            "With other inputs fixed, more of one input brings smaller gains.",
             "Fertilizer always increases a harvest without limit.",
             "Effort of any kind never really pays off.",
             "Inputs should never be increased at all."
@@ -12566,7 +12566,7 @@
           "skill": "vocabulary",
           "stem": "In 'more of one input,' the word \"input\" most nearly means:",
           "choices": [
-            "a resource put in to produce output",
+            "a resource used to produce something",
             "a finished product",
             "a costly mistake",
             "a market price"
@@ -12629,13 +12629,13 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "When people are shielded from the cost of their risks they take less care, so some consequence should stay with the decider.",
+            "Shifting costs can reduce care, so decision-makers should face consequences.",
             "Insurance should be abolished entirely.",
             "Only dishonest people ever cause financial risk.",
             "Protection has no downside of any kind."
           ],
           "answer": 0,
-          "explanation": "Moral hazard is looser care under shielding; the remedy is to 'keep some of the consequence attached to the one who decides.'"
+          "explanation": "People may act less carefully when others bear the cost. The passage recommends keeping some consequences with the person who decides."
         },
         {
           "id": "q2",
@@ -12668,7 +12668,7 @@
           "skill": "vocabulary",
           "stem": "In 'can, perversely, produce the very recklessness,' the word \"perversely\" most nearly means:",
           "choices": [
-            "in a way opposite to what was intended",
+            "opposite to the intended result",
             "in a cruel manner",
             "very rarely",
             "quite honestly"
@@ -12837,7 +12837,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "Doubling growth defeats our straight-line intuition, staying small then exploding, which makes it easy to misjudge.",
+            "Repeated doubling looks small at first, then becomes overwhelming.",
             "Rice is an unusually valuable reward.",
             "Kings should be careful about making promises.",
             "Technology always grows in a straight line."
@@ -12939,13 +12939,13 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "Abstraction hides complexity behind simple controls, letting people build and use technology without understanding every layer.",
+            "Abstraction lets people use technology by hiding complex inner workings.",
             "Users are lazy for not understanding the code they run.",
             "Drivers ought to learn how their engines work.",
             "Technology would be better with far fewer layers."
           ],
           "answer": 0,
-          "explanation": "Abstraction is 'the central trick that makes modern technology possible,' with a payoff and a danger."
+          "explanation": "Abstraction hides complexity so people can use technology more easily, but it can also leave them unable to fix underlying problems."
         },
         {
           "id": "q2",
@@ -12953,7 +12953,7 @@
           "stem": "According to the passage, what does it mean 'to abstract'?",
           "choices": [
             "To break something into equal parts",
-            "To hide how something works behind a simple way to use it",
+            "Hiding complex workings behind a simple way to use them",
             "To remove every detail entirely",
             "To study the physics of a chip"
           ],
@@ -12988,7 +12988,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A technology essay that defines a concept and weighs its payoff against its danger. Abstraction is 'the central trick': hiding complexity behind simple controls. The driver and programmer show the same move. Read the final paragraph as a real warning - the benefit can leave us helpless.",
+        "strategy": "Paragraph three explains how abstraction helps people use technology. The final paragraph explains how abstraction can make underlying problems harder to fix.",
         "signals": [
           {
             "phrase": "the central trick that makes modern technology possible",
@@ -13041,7 +13041,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "Public-key cryptography lets strangers exchange secrets safely using a matched pair of keys where locking and unlocking differ.",
+            "Matched public and private keys let strangers exchange secrets safely.",
             "Passwords typed online are never actually safe.",
             "You must meet someone in person to share a secret.",
             "Hiding the method is what keeps a message secure."
@@ -13511,7 +13511,7 @@
       ],
       "wordCount": 137,
       "lesson": {
-        "strategy": "This is a scene, not a plot. Read the man's hands. The writer repeats one gesture at the start and at the end, and that repetition carries the meaning.",
+        "strategy": "Watch how the man carries the empty case at the start and end. The repeated gesture shows that it still has personal meaning for him.",
         "signals": [
           {
             "phrase": "The last train leaves at 12:40",
@@ -13935,7 +13935,7 @@
       ],
       "wordCount": 172,
       "lesson": {
-        "strategy": "This passage runs on one tension: a map promises that things stay, but Valea is disappearing. Track that conflict through three moves - the broken old map, Aurel's doubt, and his small solution at the end.",
+        "strategy": "Compare the map's promise of permanence with Valea's disappearance. Follow the broken old map, Aurel's doubt, and the small solution he chooses at the end.",
         "signals": [
           {
             "phrase": "because the old one had become a polite fiction",
@@ -14359,7 +14359,7 @@
       ],
       "wordCount": 188,
       "lesson": {
-        "strategy": "This is a definition, then a method, then consequences. Paragraph one says what inflation is, paragraph two says how it is measured, paragraph three says who wins and loses. Track the shift from 'what it is' to 'who it hits'.",
+        "strategy": "Paragraph one defines inflation. Paragraph two explains how economists measure it. Paragraph three names who gains and loses.",
         "signals": [
           {
             "phrase": "but inflation is broader",
@@ -14995,7 +14995,7 @@
       ],
       "wordCount": 213,
       "lesson": {
-        "strategy": "This passage argues in three moves: a vivid example, the general claim drawn from it, then a limit placed on that claim. Do not stop after the praise. The word 'incomplete' turns the argument, and the final paragraph balances the two halves.",
+        "strategy": "Follow the example, the general claim based on it, and the limit added in the final paragraph. The word 'incomplete' marks where the author begins qualifying the claim.",
         "signals": [
           {
             "phrase": "No committee announces this.",
@@ -15078,7 +15078,7 @@
           "stem": "Why does the passage call resistance to progress reasonable rather than irrational?",
           "choices": [
             "Because new technology usually fails to work as promised",
-            "Because the losers are few and know exactly what they are losing, while the winners barely notice their gains",
+            "A few people bear clear losses while many barely notice their gains",
             "Because governments always compensate displaced workers too generously",
             "Because most consumers would prefer the older products"
           ],
@@ -15117,7 +15117,7 @@
           },
           {
             "phrase": "not whether to permit the storm",
-            "means": "The conclusion reframes the debate instead of taking a side in it."
+            "means": "The conclusion changes the question instead of choosing one side of the debate."
           }
         ],
         "vocab": [
@@ -15158,7 +15158,7 @@
           "stem": "Which best expresses the passage's overall claim?",
           "choices": [
             "GDP is calculated incorrectly in most countries.",
-            "GDP measures paid production well; the danger lies in treating it as a measure of a good life.",
+            "GDP measures paid production, not the quality of life.",
             "GDP should be replaced immediately with a measure of happiness.",
             "Unpaid work is the largest part of any modern economy."
           ],
@@ -15207,7 +15207,7 @@
       ],
       "wordCount": 197,
       "lesson": {
-        "strategy": "This is a critique that gives ground before it lands. Paragraph two lists two blind spots, paragraph three concedes the defenders' point, and the last line delivers the real warning. Notice the target moves: the problem is not the number, it is our respect for the number.",
+        "strategy": "Paragraph two lists two limits of GDP. Paragraph three explains why the measure remains useful. The final line warns that relying on an easy measure can change what society values.",
         "signals": [
           {
             "phrase": "It is also, by construction, a strange instrument.",
@@ -15347,7 +15347,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "When a writer says the point is not X, the sentence right after it usually gives the real point.",
+          "main-idea": "When a writer rejects one interpretation, read the next sentence for the interpretation the writer supports.",
           "inference": "Watch for a comparison at the end of a passage. The story about the ship is there to say something about people.",
           "vocabulary": "Use the action nearby. The planks were rotted and pulled out, so discarded must mean thrown away.",
           "detail": "Two ships appear in paragraph two. Before answering, check which ship each fact belongs to."
@@ -15419,7 +15419,7 @@
         }
       ],
       "lesson": {
-        "strategy": "This is a portrait built from three moves: what Socrates did, a story that explains why, and why it still matters. The last paragraph carries the argument, so read the first two for evidence and the third for the claim.",
+        "strategy": "Follow what Socrates did, the story used to explain his method, and why the method still matters. Use the first two paragraphs as evidence for the claim in the third.",
         "signals": [
           {
             "phrase": "But after a few careful questions, their answers fell apart.",
@@ -15717,7 +15717,7 @@
             "People disagree about which foods count as natural.",
             "Nature itself changes over time.",
             "The word natural has no meaning at all.",
-            "The value step, that natural things are good for us, is added without defense."
+            "They assume without support that natural things are good."
           ],
           "answer": 3,
           "explanation": "The example says nothing follows from natural until a value is added, and that this added step is where disagreement hides."
@@ -15833,7 +15833,7 @@
           "skill": "vocabulary",
           "stem": "In this passage, portable means",
           "choices": [
-            "easy to carry over and use in other cases.",
+            "usable in other cases",
             "hard to explain to others.",
             "already written into law.",
             "accepted by everyone."
@@ -16139,7 +16139,7 @@
           "stem": "Why is the common refusal awkward for a theory that counts only pleasant experience?",
           "choices": [
             "Because the machine would be expensive to build.",
-            "Because the machine supplies more pleasure than real life, so refusing would count as an error.",
+            "Refusal is an error if the machine gives more pleasure.",
             "Because most people change their minds after trying it.",
             "Because pleasure cannot be programmed in advance."
           ],
@@ -16165,7 +16165,7 @@
         "signals": [
           {
             "phrase": "asked a question that sounds simple and is not",
-            "means": "The hinge of the passage; everything after it interprets the answer."
+            "means": "The passage asks whether people would reject pleasant experiences that lack real action and contact with reality."
           },
           {
             "phrase": "Most people say no.",
@@ -16275,7 +16275,7 @@
           },
           {
             "phrase": "The ubuntu claim reverses the order.",
-            "means": "The pivot of the comparison; what came first now comes second."
+            "means": "Ubuntu treats community as the source of personhood, rather than something finished individuals build."
           },
           {
             "phrase": "The practical difference shows up in how a wrong is handled.",
@@ -16537,7 +16537,7 @@
           "choices": [
             "Sponge diving was dangerous work in 1901",
             "Ancient statues are usually found in shipwrecks",
-            "A corroded lump from a shipwreck turned out to be a complex ancient machine that still raises questions",
+            "A shipwrecked object proved to be a complex machine and raised new questions",
             "Modern imaging can read any ancient writing"
           ],
           "answer": 2,
@@ -16585,7 +16585,7 @@
       ],
       "wordCount": 190,
       "lesson": {
-        "strategy": "The passage has three moves: discovery, description, and an unanswered question. Notice that the writer waits until the end to raise the question, so the last paragraph carries the argument, not just extra facts. Read the final three options as one thought, not as three separate claims.",
+        "strategy": "Follow the discovery, the description of the machine, and the unanswered question at the end. Read the three possibilities in the last paragraph as different answers to that question.",
         "signals": [
           {
             "phrase": "It sat in a museum for months before anyone noticed",
@@ -16682,7 +16682,7 @@
           "choices": [
             "a heavy tool used for lifting",
             "money kept safe in reserve",
-            "the power to make others act by controlling something they need",
+            "power gained by controlling something others need",
             "a written peace treaty"
           ],
           "answer": 2,
@@ -16750,7 +16750,7 @@
             "Venice was destroyed by fire many times",
             "Glass can only be made well on islands",
             "Noble families in Venice controlled every trade",
-            "Moving the furnaces to one island protected the city and also concentrated a valuable craft"
+            "Moving furnaces to one island protected Venice and concentrated its glassmaking"
           ],
           "answer": 3,
           "explanation": "The passage gives the fire reason, then the 'second effect' of keeping skill and secrecy in one place, and finally the results of that concentration."
@@ -16886,7 +16886,7 @@
             "The government did not know that farms were still producing other kinds of food."
           ],
           "answer": 2,
-          "explanation": "The passage connects hunger to poverty, prices, and lack of control over the land, not simply to the amount of food produced."
+          "explanation": "Other food existed, but many families lacked the money or land access needed to obtain it."
         },
         {
           "id": "q4",
@@ -17149,7 +17149,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Before-and-after passages state the main idea at the hinge sentence. Find the sentence where the old world breaks.",
+          "main-idea": "Find the sentence that separates the earlier system from the new one. Use that change to state the main idea.",
           "inference": "Concrete images do argumentative work. The slow horse explains why nobody needed exact time.",
           "vocabulary": "Check who acts on whom. 'A private industry imposed a standard' shows power flowing one way.",
           "detail": "Two dates in one passage invite a swap. Attach each date to its own country before answering."
@@ -17327,7 +17327,7 @@
       ],
       "wordCount": 206,
       "lesson": {
-        "strategy": "The passage moves from method, to popular name, to a debate about purpose, to the writer's own conclusion. Notice the two-voice contrast in paragraph two: the clerks' word against the people's word. The chain of clauses at the end ('see, assess, tax') is the argument in miniature.",
+        "strategy": "Follow the survey method, the origin of its popular name, the debate about its purpose, and the writer's conclusion. Compare the clerks' name with the name used by the people. The final verbs summarize what the survey allowed the king to do.",
         "signals": [
           {
             "phrase": "The king's clerks called it a description",
@@ -17715,7 +17715,7 @@
           "stem": "For which kind of outcome is the placebo effect weakest?",
           "choices": [
             "Pain reported by the patient.",
-            "Hard outcomes such as the size of a tumor.",
+            "Physical outcomes such as tumor size.",
             "Quality of sleep.",
             "Nausea after treatment."
           ],
@@ -17751,7 +17751,7 @@
       ],
       "wordCount": 179,
       "lesson": {
-        "strategy": "Track the reversal: an effect once dismissed as an annoyance becomes evidence about meaning. Re-read the contrast between reported symptoms and physical outcomes, then separate the established pattern from the conditional possibility in the final paragraph.",
+        "strategy": "Paragraph one presents the placebo effect as a research problem. Later paragraphs connect it to expectation and meaning. Separate reported symptoms from physical outcomes. The final paragraph describes a possibility, not a proven result.",
         "signals": [
           {
             "phrase": "For a long time, doctors treated the placebo as noise",
@@ -17836,7 +17836,7 @@
             "Because drivers rarely look at the road ahead.",
             "Because motorcycles are usually hidden behind larger vehicles.",
             "Because the driver looked away at the last moment.",
-            "Because the driver really did not perceive it, and we cannot notice the gaps in our own seeing."
+            "The driver may honestly fail to see it."
           ],
           "answer": 3,
           "explanation": "The passage says we are blind to our own gaps, so the honest report of an empty road can still be sincere."
@@ -17847,7 +17847,7 @@
           "stem": "In this passage, unrecorded describes something that:",
           "choices": [
             "was filmed but later deleted",
-            "passed through the visual field without being noticed or kept in mind",
+            "entered the visual field but was not noticed or remembered",
             "was too dark to appear on camera",
             "happened before the experiment began"
           ],
@@ -17857,7 +17857,7 @@
       ],
       "wordCount": 175,
       "lesson": {
-        "strategy": "The passage describes one experiment, names the effect, then explains it with a comparison. The lamp and beam image carries the whole argument, so slow down there. The last paragraph moves from the lab to the road, and the final sentence is the point rather than an extra example.",
+        "strategy": "Follow the experiment, the name of the effect, and the lamp comparison used to explain it. The last paragraph applies the finding to driving.",
         "signals": [
           {
             "phrase": "The finding is called inattentional blindness",
@@ -18128,10 +18128,10 @@
             "Prizes always destroy a child's interest in art.",
             "Children draw more when adults watch them closely.",
             "Certificates are a poor way to record achievement.",
-            "An expected reward can replace a person's own reason for doing something they already enjoy, and interest drops when the reward stops."
+            "Expected rewards can weaken existing interest after the rewards stop."
           ],
           "answer": 3,
-          "explanation": "The study, the explanation, and the limits all describe a reward replacing the internal reason for an already enjoyed activity."
+          "explanation": "The children who expected a reward later drew less during free time. The passage limits this effect to activities people already enjoy."
         },
         {
           "id": "q2",
@@ -18232,7 +18232,7 @@
           "stem": "Which statement best expresses the main idea?",
           "choices": [
             "Drivers are more selfish than other people.",
-            "We explain others by their character and ourselves by our situation, and that asymmetry shapes larger judgments.",
+            "We blame others' character but explain ourselves by circumstances.",
             "Traffic is the best setting for studying human behavior.",
             "Character does not exist; only situations matter."
           ],
@@ -18259,7 +18259,7 @@
           "choices": [
             "Because we know we are better people than strangers are.",
             "Because our own actions are protected by law.",
-            "Because we hold a long record of our own behavior, so a single act looks like an exception.",
+            "We know our past behavior, so one act looks like an exception.",
             "Because we forget our own mistakes very quickly."
           ],
           "answer": 2,
@@ -18339,18 +18339,18 @@
           "choices": [
             "Psychology was found to rest mainly on deliberate fraud.",
             "Repeating old studies is a waste of research money.",
-            "Many published findings failed to repeat, largely because of incentives and flexible analysis, and the field answered with structural reform.",
+            "Research incentives helped produce results that did not repeat, and reforms began to address them.",
             "Larger samples reliably produce larger effects."
           ],
           "answer": 2,
-          "explanation": "The passage rejects fraud as the main cause, names incentives instead, and devotes the last paragraph to structural fixes."
+          "explanation": "The passage rejects fraud as the main cause and points to research incentives. The final paragraph describes reforms."
         },
         {
           "id": "q2",
           "skill": "detail",
           "stem": "What happened to the effects that did survive the repeat attempts?",
           "choices": [
-            "They were on average about half the size first reported.",
+            "They averaged about half their first reported size.",
             "They doubled in size.",
             "They disappeared completely.",
             "They appeared only in the original journals."
@@ -18387,7 +18387,7 @@
       ],
       "wordCount": 208,
       "lesson": {
-        "strategy": "Follow the argument from finding, to rejected explanation, to structural explanation, and finally to irony. The fraud-versus-incentives pivot is central. In the last paragraph, connect each reform to the incentive or source of bias it addresses.",
+        "strategy": "Follow the failed replications, the rejected fraud explanation, the role of research incentives, and the reforms that followed. Match each reform to the source of bias it addresses.",
         "signals": [
           {
             "phrase": "the audit did not go well",
@@ -18486,7 +18486,7 @@
             "shouts at her",
             "opens the window",
             "asks her for money",
-            "moves his head down and up to mean yes"
+            "moves his head to mean yes"
           ],
           "answer": 3,
           "explanation": "Mira says thank you and Bo answers without words. To nod is to move the head down and up to show yes or agreement."
@@ -18778,7 +18778,7 @@
             "He read a name tag on the handle.",
             "The airport called her for him.",
             "He found her address in the hotel.",
-            "He guessed the last digit of a pencilled phone number and called until she answered."
+            "He tried possible last digits until she answered."
           ],
           "answer": 3,
           "explanation": "The second paragraph says the number was half rubbed away, so he guessed the last digit and tried nine numbers before she answered."
@@ -18801,7 +18801,7 @@
           "skill": "vocabulary",
           "stem": "In \"they met at the train station the next morning and traded bags,\" traded means:",
           "choices": [
-            "gave each other the bag that belonged to the other person",
+            "exchanged the suitcases",
             "sold the bags to a shop",
             "carried the bags together",
             "left the bags at the station"
@@ -18976,7 +18976,7 @@
           "choices": [
             "Ilse destroys bowls because she cannot sell enough of them.",
             "Handmade bowls are stronger than factory bowls.",
-            "Because Ilse can never ask her future buyers what they want, she must hold to one unbending standard of her own.",
+            "Because Ilse cannot ask future buyers what they want, she follows her own strict standard.",
             "Ilse is training to become a better potter than her teachers."
           ],
           "answer": 2,
@@ -19035,7 +19035,7 @@
           },
           {
             "phrase": "So the only standard available to her is her own",
-            "means": "'So' marks the conclusion of the argument; this is the load-bearing sentence."
+            "means": "'So' introduces the conclusion based on Ilse's reasoning."
           },
           {
             "phrase": "There is one exception",
@@ -19081,7 +19081,7 @@
           "stem": "Which sentence best states what the passage is about?",
           "choices": [
             "Sanne's equipment is not good enough for large buildings.",
-            "Sanne records empty rooms, and one job shows her that a room without its people is missing the thing that mattered.",
+            "An empty factory recording cannot capture the people and work it once held.",
             "Factories are much noisier places than kitchens or schools.",
             "An archive is paying Sanne to document buildings before they are demolished."
           ],
@@ -19106,7 +19106,7 @@
           "skill": "inference",
           "stem": "Why did the recording sound \"thin\" to the welder?",
           "choices": [
-            "It held only the empty building, without the machines and people that gave the place its real sound.",
+            "It lacked the machines and people that gave the factory its sound.",
             "The microphone was placed too far from the wall.",
             "The factory had already removed most of its equipment.",
             "He had never listened to a recording before."
@@ -19129,7 +19129,7 @@
         }
       ],
       "lesson": {
-        "strategy": "The passage explains an unusual job, then tests it with one hard case. Read paragraphs one and two for what she does and why it is not really silence, then read the factory story as the moment her method meets its limit. The final exchange of dialogue carries the meaning.",
+        "strategy": "Read the first two paragraphs for what Sanne records and why the rooms are not truly silent. The factory recording then shows a limit of her method. Use the final dialogue to explain that limit.",
         "signals": [
           {
             "phrase": "Not conversations, not music: rooms.",
@@ -19341,7 +19341,7 @@
         }
       ],
       "lesson": {
-        "strategy": "The passage is an argument dressed as a story: a situation, a comparison that explains why the situation harms her, an event that proves it, and a quiet ending. The comparison in paragraph two (performing actor against understudy) is the engine of the piece, so read it slowly and hold both sides in mind.",
+        "strategy": "Follow the understudy's situation, the comparison with a performing actor, and the event that proves the cost of waiting. Keep both sides of the comparison in mind at the ending.",
         "signals": [
           {
             "phrase": "The condition is stranger than it sounds.",
@@ -19353,7 +19353,7 @@
           },
           {
             "phrase": "a plant kept from light grows tall and pale",
-            "means": "A comparison that carries the whole idea: growth in one direction, loss in another."
+            "means": "The comparison shows that practice can improve accuracy while isolation can weaken feeling."
           },
           {
             "phrase": "which Neve understood, correctly, as a complaint",
@@ -19400,11 +19400,11 @@
           "choices": [
             "Translators should never alter a poet's original wording.",
             "Sunde's publisher and his readers wanted incompatible things from the same books.",
-            "Sunde came to believe that being true to a poem's effect is not the same as being true to its words, and he was finally honoured for the approach he had abandoned.",
+            "Sunde changed his idea of faithful translation, then was praised for the method he had rejected.",
             "The reputation of a translator depends mostly on the poet he chooses."
           ],
           "answer": 2,
-          "explanation": "The closing sentences name both halves: two different kinds of faithfulness, and a tribute that belonged to the man he had stopped being."
+          "explanation": "Sunde first valued exact wording and later valued a poem's effect. After his death, a scholar praised the early method he had rejected."
         },
         {
           "id": "q2",
@@ -19447,7 +19447,7 @@
         }
       ],
       "lesson": {
-        "strategy": "This is a two-period portrait built for a final reversal: early method, late method, then a judgement that lands on the wrong one. Track the pair of opposed values (exactness against effect) and hold both until the last sentence, where the irony depends on remembering which method Sunde himself rejected.",
+        "strategy": "Compare Sunde's early and late translation methods. He first values exact wording, then values the poem's effect. The final judgment is ironic because it praises the method he rejected.",
         "signals": [
           {
             "phrase": "people who had not compared the two halves of his work.",
@@ -19459,7 +19459,7 @@
           },
           {
             "phrase": "The later volumes were another matter.",
-            "means": "The pivot into period two, with the opposite method."
+            "means": "This begins the second period, when Sunde adopts the opposite method."
           },
           {
             "phrase": "The irony arrived posthumously.",
@@ -19611,7 +19611,7 @@
           "choices": [
             "Thunder is more dangerous than lightning.",
             "Counting seconds is the only safe thing to do in a storm.",
-            "The gap between the flash and the crash has a simple cause, and it can be used to measure distance.",
+            "The delay after lightning reveals the storm's distance.",
             "Sound and light leave a lightning strike at different moments."
           ],
           "answer": 2,
@@ -20201,7 +20201,7 @@
           },
           {
             "phrase": "At sunset the geometry changes.",
-            "means": "A pivot. The rule stays the same; only the path of the light is different."
+            "means": "The scattering rule stays the same, but the light now travels through more air."
           },
           {
             "phrase": "it is what is left after the blue has been taken out",
@@ -20277,7 +20277,7 @@
             "About 11,500 years"
           ],
           "answer": 3,
-          "explanation": "Half is lost in about 5,730 years and half of the rest in the next 5,730, so a quarter left means about two such steps, near 11,460 years."
+        "explanation": "Carbon halves every 5,730 years. One quarter remains after two halvings, or about 11,460 years."
         },
         {
           "id": "q4",
@@ -20295,11 +20295,11 @@
       ],
       "wordCount": 197,
       "lesson": {
-        "strategy": "Read this as method, then limit, then correction. The second paragraph carries the numbers you will need, so read it slowly and note that the halving repeats. The final short sentence is the writer's summary of the whole argument.",
+        "strategy": "Follow the dating method, its limit, and its correction. The second paragraph explains repeated halving. The final sentence says the carbon clock must be set using samples of known age.",
         "signals": [
           {
             "phrase": "Death closes that account.",
-            "means": "A pivot from the living exchange to the decay clock. The metaphor marks the start of the method."
+            "means": "The passage shifts from carbon exchange in living things to radioactive decay after death."
           },
           {
             "phrase": "half of it is gone in about 5,730 years",
@@ -20605,7 +20605,7 @@
           "choices": [
             "grows brighter",
             "spreads wider",
-            "slowly becomes weaker until it is gone",
+            "slowly becomes weaker and disappears",
             "turns into red"
           ],
           "answer": 2,
@@ -20709,7 +20709,7 @@
           "skill": "vocabulary",
           "stem": "In \"energy they cannot spare\", the word \"spare\" means",
           "choices": [
-            "have extra of, and so can afford to give up",
+            "have extra and can afford to lose",
             "store safely for the winter",
             "share with other birds",
             "measure with care"
@@ -20805,7 +20805,7 @@
             "They keep the tall plant from falling over in strong wind.",
             "They allow it to reach underground rivers.",
             "They stay cooler than deep roots during the day.",
-            "The rain comes in short storms, so the water is near the surface and must be taken quickly."
+            "Short storms leave surface water that must be taken quickly."
           ],
           "answer": 3,
           "explanation": "The passage says storms are short and the roots sit where the first rain lands. Shallow roots reach that water before it is lost. Wind, rivers and temperature are never mentioned."
@@ -20939,7 +20939,7 @@
           },
           {
             "phrase": "That simple rule changes whole valleys.",
-            "means": "A jump in scale. The passage now moves from one animal to a landscape."
+            "means": "The passage shifts from one beaver's action to its effects across a landscape."
           },
           {
             "phrase": "so the valley floor rises and turns soft",
@@ -20989,12 +20989,12 @@
           "stem": "Which statement best captures the passage as a whole?",
           "choices": [
             "Fungi live on trees as pests and slowly drain their sugar.",
-            "Trees and fungi trade what each cannot make, and while the underground link is proven, the idea that trees share out of kindness is not.",
+            "Trees and fungi trade resources, but evidence does not show that trees share from kindness.",
             "Scientists have shown that strong trees deliberately feed weaker ones.",
             "Forest soil holds far more minerals than most people expect."
           ],
           "answer": 1,
-          "explanation": "The first half explains the trade and the proven link. The last paragraph pulls back from the warm interpretation. Both halves belong in the main idea."
+          "explanation": "The first half explains the exchange and the measured link. The last paragraph says the evidence does not prove kindness or intention."
         },
         {
           "id": "q2",
@@ -21014,7 +21014,7 @@
           "skill": "inference",
           "stem": "The writer would most likely agree that",
           "choices": [
-            "a headline saying \"trees feed their weak neighbours out of care\" claims more than the evidence supports",
+            "the evidence does not show that trees act from care",
             "the carbon experiments were poorly designed",
             "tree roots and fungal threads never actually touch",
             "forests would grow better if the fungi were removed"
@@ -21037,7 +21037,7 @@
         }
       ],
       "lesson": {
-        "strategy": "This passage builds a claim and then limits it. Paragraphs two and three explain a real exchange and a real measurement; the last paragraph separates what was measured from what people like to believe about it. Read for the hinge sentence where the writer stops describing and starts judging.",
+        "strategy": "Paragraphs two and three describe an exchange between trees and fungi and the evidence used to measure it. The last paragraph separates those measurements from claims about kindness or intention.",
         "signals": [
           {
             "phrase": "the tree hands over sugar it has made from sunlight.",
@@ -21045,7 +21045,7 @@
           },
           {
             "phrase": "What the link means is less settled.",
-            "means": "The hinge. Facts stop here and interpretation begins."
+            "means": "The author begins separating measured facts from claims about intention."
           },
           {
             "phrase": "But a fungus is not a charity.",
@@ -21201,12 +21201,12 @@
           "stem": "Which statement best sums up the passage?",
           "choices": [
             "Lichens grow much faster than most people believe.",
-            "A lichen is a partnership of more than one kind of life; it grows very slowly, it makes soil, and it fails where the air is dirty.",
+            "A lichen is a slow-growing partnership that makes soil and is sensitive to dirty air.",
             "Lichens are small plants that prefer to live on stone walls.",
             "The yeast is the most important member of every lichen."
           ],
           "answer": 1,
-          "explanation": "The four paragraphs cover the partnership, the correction to it, the slow growth and rock work, and the weakness. Only one choice holds those together, and the others contradict the text."
+          "explanation": "The passage describes the partnership inside a lichen, its slow growth, its role in making soil, and its sensitivity to dirty air."
         },
         {
           "id": "q2",
@@ -21333,7 +21333,7 @@
           "stem": "Why did fighting every fire fail to make the forests safer?",
           "choices": [
             "The firefighters were poorly trained and equipped.",
-            "The fuel that small fires would have removed built up until the fires that came were far hotter.",
+            "Prevented small fires left fuel for hotter fires.",
             "Trees stopped producing seed once fires were prevented.",
             "The regional climate grew drier in every single year of the century."
           ],
@@ -21367,7 +21367,7 @@
           },
           {
             "phrase": "This explains an uncomfortable result of good intentions.",
-            "means": "The pivot from nature to policy, and a warning that the result will be unwelcome."
+            "means": "The passage shifts from the role of natural fires to the effects of fire-suppression policy."
           },
           {
             "phrase": "The forests did not become safer.",
@@ -21516,15 +21516,15 @@
         {
           "id": "q1",
           "skill": "main-idea",
-          "stem": "What does the passage as a whole set out to show?",
+          "stem": "What is the main idea of the passage?",
           "choices": [
             "Birds are unable to tell any two insects apart.",
             "Warning colours have become useless because so many insects copy them.",
             "Wasps and hoverflies are close relatives that share an ancestor.",
-            "There are two kinds of look-alike: one that free-rides on a true warning and is limited by its own success, and one in which genuinely dangerous species share the cost of teaching predators."
+            "Harmless mimics weaken a true warning when common, while dangerous look-alikes reinforce it."
           ],
           "answer": 3,
-          "explanation": "Paragraphs two and three describe the cheat and its built-in limit; the last paragraph presents the honest alternative. The passage is a comparison of the two."
+          "explanation": "Paragraphs two and three explain how harmless mimics weaken a warning. The last paragraph explains how dangerous look-alikes reinforce one."
         },
         {
           "id": "q2",
@@ -21579,7 +21579,7 @@
           },
           {
             "phrase": "The other strategy is stranger.",
-            "means": "A structural pivot to the second case, and a hint that it will overturn expectations."
+            "means": "This introduces the second type of mimicry, which works differently from the first."
           },
           {
             "phrase": "Nobody is lying",
@@ -21991,11 +21991,11 @@
       ],
       "wordCount": 192,
       "lesson": {
-        "strategy": "Trace the causal chain: an early writing job develops a skill, that skill meets new evidence, and careful limits strengthen the resulting book. In paragraph three, note what the book did not claim before reading what it did claim.",
+        "strategy": "The early writing job built Carson's skill for explaining science. She later used that skill to present new evidence. Paragraph three explains how careful limits strengthened her book.",
         "signals": [
           {
             "phrase": "The work paid poorly, but it taught her something valuable",
-            "means": "A 'but' reversal: a bad-sounding fact is about to be reframed as an advantage."
+            "means": "The poorly paid writing job taught Carson to explain science to general readers."
           },
           {
             "phrase": "It did not demand that all pesticides be banned.",
@@ -22049,7 +22049,7 @@
           "choices": [
             "Lamarr left Europe in order to become a film star.",
             "The Navy improved its torpedoes with Lamarr's help.",
-            "A famous actress used what she had overheard about weapons to invent a signal that was hard to jam.",
+            "An actress used weapons knowledge to invent a hard-to-jam signal.",
             "Music and radio depend on exactly the same machines."
           ],
           "answer": 2,
@@ -22260,7 +22260,7 @@
           "stem": "Which statement best expresses the main idea of the passage?",
           "choices": [
             "Hurston invented the folktales that she published as research.",
-            "Trained to see her own community as culture, Hurston recorded it on its own terms and paid for that choice in her lifetime.",
+            "Hurston recorded her community on its own terms, despite the cost.",
             "Hurston left Florida because there was nothing there worth writing about.",
             "Critics of the 1930s agreed that Hurston's work mattered."
           ],
@@ -22300,7 +22300,7 @@
           "choices": [
             "hard to translate accurately",
             "recently invented",
-            "charming in an old-fashioned way, and so not taken seriously",
+            "old-fashioned and charming, but dismissed as unserious",
             "recorded by an outsider"
           ],
           "answer": 2,
@@ -22309,11 +22309,11 @@
       ],
       "wordCount": 206,
       "lesson": {
-        "strategy": "This passage argues, it does not just report. Paragraph one gives the idea that reframes everything (culture is not primitive, only unfamiliar), paragraph two shows the method that follows from it, and paragraph three counts the cost. Watch for sentences built as 'not X but Y'; they carry the argument.",
+        "strategy": "Paragraph one explains Hurston's view that an unfamiliar culture is not primitive. Paragraph two shows how that view shaped her research. Paragraph three describes the professional cost of her approach.",
         "signals": [
           {
             "phrase": "That training changed how she heard her own hometown.",
-            "means": "A hinge sentence. An idea learned in school is about to be applied to her own life."
+            "means": "Hurston begins applying an idea from her training to her own community."
           },
           {
             "phrase": "were not quaint local color",
@@ -22419,7 +22419,7 @@
         "signals": [
           {
             "phrase": "never the work of one observer",
-            "means": "Rejects the empty-landscape and lone-traveler frame."
+            "means": "This rejects the idea that Humboldt explored alone or entered places without existing knowledge."
           },
           {
             "phrase": "essential to navigation",
@@ -22500,7 +22500,7 @@
             "Because her music was written only for private homes.",
             "Because her brother's fame was always greater than hers.",
             "Because nobody performs her works even today.",
-            "Because most of her music was never published, so it was never widely known and then forgotten."
+            "Most of her music was never published or widely known."
           ],
           "answer": 3,
           "explanation": "To rediscover something, the public must have known it first. Her manuscripts sat unheard in archives, so today's audience is hearing the music for the first time, not again."
@@ -22558,7 +22558,7 @@
           "main-idea": "Ask what single thing the passage keeps returning to. Here it is publication, not talent, and that is the main idea.",
           "inference": "A 'not X but Y' ending tells you the writer expects the reader to reach for X. The reason Y is truer is usually stated just before.",
           "vocabulary": "Contrasted pairs define each other. 'Profession' for him and 'ornament' for her fixes the meaning of both.",
-          "detail": "Dates that sit one year apart matter. Publishing in 1846 and dying in 1847 is the whole point of the paragraph."
+          "detail": "Compare the dates directly: Fanny began publishing in 1846 and died in 1847."
         }
       }
     },
@@ -22580,7 +22580,7 @@
             "A nanny in Chicago sold her photographs at a storage auction.",
             "Twin-lens cameras take better street photographs than other cameras.",
             "A man researching a neighborhood became a famous photographer.",
-            "Maier's huge hidden body of work made her famous after death, and the writer questions the cheerful way that story is usually told."
+            "Maier's hidden work made her famous after death, but the writer questions whether she wanted that fame."
           ],
           "answer": 3,
           "explanation": "Paragraphs one and two supply the discovery and the scale of the work; paragraph three turns and challenges the standard telling. She did not sell the work, and the buyer is not the photographer."
@@ -22627,7 +22627,7 @@
       ],
       "wordCount": 217,
       "lesson": {
-        "strategy": "Treat the first two paragraphs as report and the third as argument. The invitation to pause is the hinge. After it, locked rooms and a false name support a counter-reading, while the final judgment deliberately leaves luck beside an unanswered question.",
+        "strategy": "Use the first two paragraphs for the discovery and scale of Maier's work. The third asks whether she wanted public attention. Locked rooms and a false name support the idea that she valued privacy.",
         "signals": [
           {
             "phrase": "work of a woman who had shown it to almost no one.",
@@ -22726,7 +22726,7 @@
             "of poor quality",
             "not polite",
             "difficult to arrange",
-            "costing almost nothing and easy to use"
+            "costing little and easy to use"
           ],
           "answer": 3,
           "explanation": "Nothing in the essay says the walk works badly. The point is that it takes ten minutes and no money, so 'cheap' means it costs almost nothing."
@@ -22902,7 +22902,7 @@
             "Shops give bad advice on purpose."
           ],
           "answer": 1,
-          "explanation": "The last two paragraphs move past money: a thing you cannot open is a thing you must buy twice, and repair keeps you from being a stranger in your own house."
+        "explanation": "The last two paragraphs give reasons to repair besides saving money. Opening and fixing an object gives people knowledge and control over what they own."
         },
         {
           "id": "q2",
@@ -23031,7 +23031,7 @@
             "It should be handed to someone else.",
             "More attention will always speed it up.",
             "It is usually a sign of a bad plan.",
-            "Part of it needs a minimum time, so the useful question is what to do meanwhile."
+            "Some work needs time, so decide what to do while waiting."
           ],
           "answer": 3,
           "explanation": "The last paragraph says no amount of attention will shorten a minimum time, and asks what to do while the process finishes."
@@ -23134,7 +23134,7 @@
           "skill": "inference",
           "stem": "What does the essay suggest about some of the people it describes?",
           "choices": [
-            "They come for the chair and the warmth more than for the books.",
+            "They seek warmth and a seat more than books.",
             "They are all university students.",
             "They dislike reading.",
             "They pay a small fee to enter."
@@ -23150,7 +23150,7 @@
             "the state of the building",
             "an illness",
             "a change in the weather",
-            "a rule you must meet to be allowed in"
+            "a rule for entering"
           ],
           "answer": 3,
           "explanation": "The paragraph lists things other places demand of you. The library demands only one thing, so 'condition' is a requirement."
@@ -23243,7 +23243,7 @@
             "It teaches the mind to search faster.",
             "It makes old memories sharper.",
             "It causes physical tiredness.",
-            "It closes the uncomfortable gap before the mind can produce anything."
+            "It fills the gap before the mind can create."
           ],
           "answer": 3,
           "explanation": "The discomfort is called 'the engine'. The phone closes the gap at once, so the engine never runs."
@@ -23453,7 +23453,7 @@
           "stem": "According to the essay, why is pronunciation the hard part for adults?",
           "choices": [
             "Adults study too little.",
-            "Their ear has spent years sorting sounds by the rules of the first language.",
+            "Their ears sort sounds through rules learned from the first language.",
             "Adults are shy in front of native speakers.",
             "Adults have weaker hearing than children."
           ],
@@ -23687,7 +23687,7 @@
         }
       ],
       "lesson": {
-        "strategy": "The essay rejects a familiar idea, supports the rejection with an ordered list of two difficulties, and closes with a practical consequence for readers. Follow the ordering words ('first', 'the second') to keep the two examples apart, then read the last paragraph as the payoff.",
+        "strategy": "The essay rejects the idea that translation is simple replacement. Follow 'first' and 'the second' to separate the two difficulties. The final paragraph explains what readers should remember about a translation.",
         "signals": [
           {
             "phrase": "That description is flattering and mostly false.",
@@ -23784,7 +23784,7 @@
           "stem": "In this passage, \"rinse\" means",
           "choices": [
             "to scrub something very hard",
-            "to wash something with clean water so what is loose runs off",
+            "to wash something away with clean water",
             "to dry something with a cloth",
             "to soak something for a long time"
           ],
@@ -23983,7 +23983,7 @@
           "stem": "In this passage, \"fixed\" stars are stars that",
           "choices": [
             "are very bright",
-            "stay in the same place relative to each other",
+            "keep the same position relative to each other",
             "were repaired by astronomers",
             "can only be seen in winter"
           ],
@@ -24111,7 +24111,7 @@
         }
       ],
       "lesson": {
-        "strategy": "This is a life story told in order, but the point is not the order. Watch what the writer chooses to end on. The last two sentences turn a story about bones into a story about credit.",
+        "strategy": "Follow Mary Anning’s discoveries in time order. Her fossils are famous. People still argue about who deserves credit.",
         "signals": [
           {
             "phrase": "Her family was poor.",
@@ -24300,7 +24300,7 @@
           "skill": "inference",
           "stem": "The passage suggests that if the speed of light were instant, this method would",
           "choices": [
-            "no longer work, because there would be no time gap to measure",
+            "fail because there would be no time gap to measure",
             "work much faster than it does now",
             "need more satellites than four",
             "still work, but only outdoors"
@@ -24514,7 +24514,7 @@
           "choices": [
             "Rice is cheaper than most other foods.",
             "Shops hide the real price of their products.",
-            "Large boxes cost less per unit because fixed costs are shared, but only if you use it all.",
+            "Large boxes lower unit costs only when fully used.",
             "You should always buy the largest box available."
           ],
           "answer": 2,
@@ -24526,7 +24526,7 @@
           "stem": "In this passage, a \"fixed cost\" is a cost that",
           "choices": [
             "is set by the government",
-            "stays about the same no matter how much is in the box",
+            "changes little with the box's size",
             "is the largest cost a shop pays",
             "rises as the box gets bigger"
           ],
@@ -24893,7 +24893,7 @@
           "main-idea": "Three paragraphs give three uses of one idea. State the idea to yourself, height makes pressure, before you judge any answer choice.",
           "inference": "The final line adds no new fact. It reuses one. Ask what pressure does to a weak joint, given everything the passage already said pressure does.",
           "vocabulary": "\"Pressure\" is defined by its effects: it fills a glass in seconds and pushes on joints. Read the verbs around a word to fix its meaning.",
-          "detail": "The night-and-morning sentence carries the pump answer. When a question asks what a tower avoids, look for the phrase \"never have to be.\""
+          "detail": "Use the night-and-morning sentence for the pump question. Look for the phrase \"never have to be.\""
         }
       }
     },
@@ -25237,7 +25237,7 @@
           "choices": [
             "Why zippers are better than buttons.",
             "How a slider is made in a factory.",
-            "How the teeth of a zipper lock into each other as the slider passes.",
+            "How a zipper's teeth lock together.",
             "Why zippers sometimes break and stick."
           ],
           "answer": 2,
@@ -25449,7 +25449,7 @@
           "skill": "main-idea",
           "stem": "What is the passage mainly about?",
           "choices": [
-            "How city streets went from carried lanterns to gas lamps and then to electric light.",
+            "The change from lanterns to gas and electric streetlights.",
             "Why gas lamps were dangerous in cold weather.",
             "How London grew larger after 1807.",
             "Why people stopped going out after dark."
@@ -25597,7 +25597,7 @@
           "choices": [
             "photographs last longer than snow does",
             "he became famous while he was still alive",
-            "what his village thought of him mattered less in the end than his work",
+            "In the end, his work mattered more than the village's opinion",
             "he changed his neighbors' minds about him"
           ],
           "answer": 2,
@@ -25926,7 +25926,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A story about evidence. Track three things: what she was refused, what she built out of second-hand data, and what finally settled the argument. The turn comes when an independent map lands on top of hers and agrees with it.",
+        "strategy": "Follow Tharp’s map from its first disputed line to the earthquake data that later supported it. Earthquake locations followed the valley shown on her map and supplied independent evidence.",
         "signals": [
           {
             "phrase": "She was not allowed on the research ships",
@@ -26091,7 +26091,7 @@
           "skill": "main-idea",
           "stem": "What lesson does this fable teach?",
           "choices": [
-            "A supply you can find when you need it is worth more than a bigger one you cannot.",
+            "A small pile you can find is better than a large pile you cannot.",
             "Squirrels should bury their acorns near streams.",
             "Working hard in autumn is a waste of time.",
             "Laughing at a neighbor always brings bad luck."
@@ -26199,7 +26199,7 @@
           "stem": "What is the lesson of this fable?",
           "choices": [
             "Foxes should never trust what geese tell them.",
-            "A shortcut can cost more than the long way if you do not check that it is still safe.",
+            "An unsafe shortcut can take longer than the safe path.",
             "Ponds are dangerous in every season of the year.",
             "Walking all morning makes a young animal stronger."
           ],
@@ -26413,7 +26413,7 @@
           "stem": "What is the main point of the passage?",
           "choices": [
             "Ducks spend most of their day swimming on cold ponds.",
-            "A duck keeps itself dry through its own work: oil from a gland, spread over feathers that overlap like a roof.",
+            "Ducks spread oil over overlapping feathers to stay dry.",
             "Rain is dangerous for most water birds.",
             "A duck's down feathers are warmer than any coat."
           ],
@@ -27190,7 +27190,7 @@
         }
       ],
       "lesson": {
-        "strategy": "An invention story in three moves: notice, understand, copy. The turn is the microscope, where everyone else pulls burrs off and he looks closer. Then track the ten years of copying: what failed, what worked, and why nylon made the difference.",
+        "strategy": "Follow three stages of the invention: noticing burrs, studying them under a microscope, and copying their hooks. Track what failed during ten years of testing and why nylon worked better.",
         "signals": [
           {
             "phrase": "De Mestral put one under his microscope.",
@@ -27225,7 +27225,7 @@
         ],
         "skillTips": {
           "main-idea": "The burr, the microscope, and the nylon tape are one arc. The main idea links what he saw in nature to what he built from it.",
-          "inference": "Compare cotton and nylon using only what the passage says each one did. The gap between wearing out and keeping shape is the engine of the answer.",
+          "inference": "Compare what the passage says about cotton and nylon. Cotton wore out, while nylon kept its shape.",
           "vocabulary": "\"Fastener\" arrives after thousands of openings and closings. Those two words are its definition in action.",
           "detail": "The story runs in order: the 1941 hunt, the microscope, ten years of failed hooks, the 1955 patent. Pin each detail to its stage before you answer."
         }
@@ -27610,7 +27610,7 @@
           "choices": [
             "It had a cracked rung.",
             "It came back a week late.",
-            "It had a loose wheel, and he said nothing about it.",
+            "Its wheel was loose, and he said nothing.",
             "It came back dull."
           ],
           "answer": 2,
@@ -27741,7 +27741,7 @@
           },
           {
             "phrase": "They are the first part of it.",
-            "means": "Ruth's answer reframes sharpening: not a delay before the work, but the work's first step."
+            "means": "Ruth treats sharpening as the first step of the work."
           }
         ],
         "vocab": [
@@ -27919,7 +27919,7 @@
             "saving money for the household",
             "putting a fire out completely",
             "stacking wood beside the hearth",
-            "covering coals in ash so they burn low and slow"
+            "covering coals in ash to keep them burning slowly"
           ],
           "answer": 3,
           "explanation": "The sentence explains itself: coals are banked in ash \"so a spark would live until morning.\" The goal is to keep the fire barely alive, not to end it, and money is not involved."
@@ -28153,7 +28153,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A technology passage with one load-bearing sentence: \"A barcode holds no price.\" Everything before it is scene; everything after is consequence. Track the two gains separately, the visible one at the checkout and the invisible one in the store's records, and notice which the ending treats as larger.",
+        "strategy": "Use the sentence 'A barcode holds no price.' The following paragraphs explain faster checkout and easier price changes. The final paragraph explains how scans also created sales and inventory records.",
         "signals": [
           {
             "phrase": "what those stripes did not contain",
@@ -28217,7 +28217,7 @@
             "that customers always choose the shortest line available"
           ],
           "answer": 2,
-          "explanation": "The first paragraph states the claim (the snake 'is usually the faster and fairer design') and the middle paragraphs prove it: the single line pools uneven service times and preserves first come, first served."
+        "explanation": "The first paragraph says one line is faster and fairer. Later paragraphs explain that one line spreads uneven service times and keeps first-come order."
         },
         {
           "id": "q2",
@@ -28347,7 +28347,7 @@
             "secretly larger than every listed dimension",
             "made without using any mathematical idea",
             "available only in North America",
-            "by its stated standard or name, though a physical measurement may vary slightly"
+            "by name or standard, though measurements may vary"
           ],
           "answer": 3,
           "explanation": "The text contrasts the nominal one-square-meter standard with a physical object and tolerances."
@@ -28425,13 +28425,13 @@
           "skill": "main-idea",
           "stem": "The passage mainly explains",
           "choices": [
-            "that how long a wait feels depends on the mind as much as the clock, and design can work on the felt side",
+            "why equal waits can feel different and how design can help",
             "that airports should deliver baggage faster",
             "that countdown clocks make buses arrive sooner",
             "that walking is healthier than standing"
           ],
           "answer": 0,
-          "explanation": "The airport story sets up the split between clock time and felt time; the rest shows designers working on the felt side (filling time, making it measurable) without changing the clock."
+        "explanation": "The airport story separates clock time from felt time. The designers fill and measure waits to change how they feel, not how long they last."
         },
         {
           "id": "q2",
@@ -28535,10 +28535,10 @@
             "British screws were poorly made until 1948",
             "Joseph Whitworth invented the screw thread",
             "wartime repairs require larger stocks of spare parts",
-            "a standard's value lies in shared agreement, not in the particular choice it fixes"
+            "a standard matters because people share it"
           ],
           "answer": 3,
-          "explanation": "The thread story carries the general claim, stated near the end: 'The value was not in the number but in the agreement'. Both 55 and 60 degrees work; only agreement makes parts interchangeable."
+          "explanation": "The passage states, 'The value was not in the number but in the agreement.' Both 55 and 60 degrees can work, but shared standards make parts interchangeable."
         },
         {
           "id": "q2",
@@ -28546,7 +28546,7 @@
           "stem": "Why did the thread problem surface during the war rather than earlier?",
           "choices": [
             "Screw factories closed during the war",
-            "The two national standards only collided when one country's mechanics had to repair the other's equipment",
+            "They conflicted only when mechanics repaired the other country's equipment",
             "Wartime screws were cut less carefully than peacetime ones",
             "Whitworth's standard expired in the 1940s"
           ],
@@ -28560,7 +28560,7 @@
           "choices": [
             "are cheaper than hand-made parts",
             "can be exchanged for money",
-            "fit in place of one another, whichever factory made them",
+            "can replace one another",
             "must be modified before use"
           ],
           "answer": 2,
@@ -28571,7 +28571,7 @@
           "skill": "detail",
           "stem": "According to the passage, what did Whitworth do in 1841?",
           "choices": [
-            "He collected sample screws from workshops across England and proposed one thread for the whole country",
+            "He proposed one thread after collecting samples across England",
             "He unified British and American threads",
             "He invented a 60-degree thread for American factories",
             "He shipped fasteners across the ocean to stalled machines"
@@ -28589,7 +28589,7 @@
           },
           {
             "phrase": "Notice what the standard never claimed",
-            "means": "The author redirects you: the point is not which thread angle is best."
+            "means": "The author says agreement on one thread angle matters more than choosing the best angle."
           },
           {
             "phrase": "an agreement stops at the border of those who joined it",
@@ -28640,7 +28640,7 @@
           "stem": "Which statement best captures the passage's central point?",
           "choices": [
             "Routers should have no buffers at all",
-            "Oversized buffers slow networks by creating long queues and by delaying the congestion signal senders rely on",
+            "Oversized buffers create long queues and delay congestion signals",
             "Video calls use more data than file uploads",
             "Cheap memory made the internet faster for everyone"
           ],
@@ -28654,7 +28654,7 @@
           "choices": [
             "Senders are designed to ignore all network conditions",
             "The router asks the sender for more traffic",
-            "The signal to slow down is a dropped packet, and the deep buffer keeps storing packets instead of dropping them",
+            "The deep buffer delays the packet drop that tells it to slow down",
             "Full buffers transmit data faster than empty ones"
           ],
           "answer": 2,
@@ -28665,7 +28665,7 @@
           "skill": "vocabulary",
           "stem": "In this passage, 'absorbs' a burst means the buffer",
           "choices": [
-            "takes the sudden extra packets in and holds them instead of losing them",
+            "holds a sudden packet surge instead of losing it",
             "deletes the burst immediately",
             "splits the burst between two routers",
             "slows the burst down permanently"
@@ -28688,7 +28688,7 @@
         }
       ],
       "lesson": {
-        "strategy": "An explainer with two layers of cause. First take the surface story (big buffer, long queue, long wait), then reread the third paragraph for the deeper one: the queue silences the drop signal. The closing rule about feedback only lands if you hold both layers together.",
+        "strategy": "Track two causes of delay. A large buffer creates a long queue, and it also delays the dropped-packet signal that tells senders to slow down. The final rule depends on both causes.",
         "signals": [
           {
             "phrase": "if some buffer was good, more was safer",
@@ -28752,7 +28752,7 @@
             "why reinsurance has replaced ordinary insurance"
           ],
           "answer": 2,
-          "explanation": "The structure is a contrast: independent losses make pools predictable; correlated losses (floods, earthquakes, pandemics) make every member claim at once, which is the failure the rest of the passage traces."
+        "explanation": "Independent losses make pools predictable. Correlated losses make many members claim at once and can break the pool."
         },
         {
           "id": "q2",
@@ -28762,7 +28762,7 @@
             "Foreign insurers charge lower premiums",
             "Laws forbid holding flood risk in one country",
             "Continents have more money than valleys",
-            "Distance makes disasters less likely to strike the same year, restoring the independence pooling needs"
+            "Distance makes disasters less likely to happen in the same year"
           ],
           "answer": 3,
           "explanation": "The passage says the spread rests 'on the bet that distant disasters will not share a year'. Reinsurance works by rebuilding independence, the same property that made fire pools predictable."
@@ -28849,7 +28849,7 @@
           "skill": "main-idea",
           "stem": "The passage mainly argues that",
           "choices": [
-            "a city's layout emerges from competing bids for nearness, with each land use settling where its bid wins",
+            "Competing bids for central land shape a city's layout",
             "zoning laws decide where every business in a city must go",
             "furniture showrooms earn more money than jewelers",
             "skyscrapers exist because architects prefer tall buildings"
@@ -28898,7 +28898,7 @@
         }
       ],
       "lesson": {
-        "strategy": "An argument from a mechanism: the 'silent auction' explains the map. For each land use (jeweler, showroom, office, farm), note two things: how much it earns from nearness and how much space it needs. The whole gradient follows from that pair.",
+        "strategy": "Use the 'silent auction' to explain the city map. For each business, compare the value of a central location with the amount of space it needs. Those two factors help determine where it can afford to operate.",
         "signals": [
           {
             "phrase": "The mechanism is a silent auction.",
@@ -28933,7 +28933,7 @@
         ],
         "skillTips": {
           "main-idea": "Keep the mechanism, not the shops, at the center of your summary. Jewelers and showrooms are bids; the main idea is what the auction does to the whole map.",
-          "inference": "To predict where a new business lands, weigh its two traits the way the passage does: value per square foot against space needed. The examples give you the scale's two ends.",
+          "inference": "To predict a business's location, compare its value per square foot with the amount of space it needs.",
           "vocabulary": "Older money-words appear here: land 'grows dear', a bid 'still wins'. Read them inside the auction picture: everything in this passage is priced, even nearness.",
           "detail": "The paragraphs of examples never mention limits. The exception to the mechanism arrives only in the final paragraph; look there when asked what constrains the auction."
         }
@@ -28962,7 +28962,7 @@
             "Willpower grows stronger every time a temptation is successfully resisted."
           ],
           "answer": 2,
-          "explanation": "The battle picture in paragraph one is set up to be knocked down: high scorers report fewer battles, and the essay concludes that apparent strength of character is 'mostly quiet arrangement'."
+        "explanation": "High scorers report fewer battles with temptation. The essay concludes that arranging the environment can look like strength of character."
         },
         {
           "id": "q2",
@@ -28985,7 +28985,7 @@
             "quietly and secretly",
             "at the last possible moment",
             "without any clear reason",
-            "as if it took great strength or courage"
+            "as if it required courage"
           ],
           "answer": 3,
           "explanation": "The word is lightly ironic: the 'because' clause explains that no strength was needed at all, since the phone was never within reach."
@@ -29112,7 +29112,7 @@
         }
       ],
       "lesson": {
-        "strategy": "The essay tests a social rule like an experiment. First the rule ('a treaty'), then the test (predictions versus actual conversations), then the reframe ('a shared guess'). Keep the predictions and the results in separate columns; the argument lives in their mismatch.",
+        "strategy": "Follow the social rule, the predictions people make from it, and what happens in real conversations. Compare the predictions with the results. Their mismatch supports the author's conclusion that silence can be a shared guess.",
         "signals": [
           {
             "phrase": "We treat the silence as a treaty",
@@ -29283,7 +29283,7 @@
             "A misread announcement released pressure that no correction could take back, because the border ran on belief."
           ],
           "answer": 3,
-          "explanation": "The story is the press conference and the crowds, but the passage's point is the last paragraph: a border 'works only as long as people believe it is closed', and the belief could not be restored."
+        "explanation": "The last paragraph gives the main point: a border works only while people believe it is closed. The press conference broke that belief."
         },
         {
           "id": "q2",
@@ -29334,7 +29334,7 @@
           },
           {
             "phrase": "guessed: immediately, without delay",
-            "means": "The mistake at the hinge: an unbriefed official inventing the answer."
+            "means": "An official who lacked clear instructions gave an incorrect answer."
           },
           {
             "phrase": "no orders and no way to hold back a crowd",
@@ -29403,7 +29403,7 @@
             "The argument proves that donations never reach distant children."
           ],
           "answer": 0,
-          "explanation": "The objection is not that the logic fails but that it succeeds too well: it 'keeps demanding' until it 'would swallow a comfortable life whole', a conclusion critics take as a sign something is wrong."
+        "explanation": "Critics accept the logic but reject how far it extends. It keeps demanding sacrifices until it could consume a comfortable life."
         },
         {
           "id": "q3",
@@ -29548,7 +29548,7 @@
           },
           {
             "phrase": "The account has a hard edge that is easy to miss",
-            "means": "Pivot from explaining the view to facing the problem it creates."
+            "means": "The author stops explaining the view and begins examining the problem it creates."
           },
           {
             "phrase": "the throw is his, because it lay in his power not to throw",
@@ -29711,7 +29711,7 @@
             "Cabinetmakers care less about precision than machinists do."
           ],
           "answer": 1,
-          "explanation": "The essay states its thesis twice, once as 'the placement of exactness' and once in the closing line: the master is known by where the error was put, not by having none."
+        "explanation": "The thesis appears in 'the placement of exactness' and in the closing line. Mastery means deciding where error is acceptable."
         },
         {
           "id": "q2",
@@ -29721,10 +29721,10 @@
             "Because tight dimensions are impossible to measure.",
             "Because looser parts always work better in practice.",
             "Because the shop floor will ignore the drawing anyway.",
-            "Because uniform tightness skips the real judgment of which dimensions matter, and pushes the cost of that skipped judgment onto the shop."
+            "It avoids deciding which dimensions need precision and makes the shop pay for excess work."
           ],
           "answer": 3,
-          "explanation": "In the essay's terms, care means placing exactness where the part's duties demand it. Marking everything tight avoids that decision, so it looks rigorous while actually declining the work."
+          "explanation": "Care requires deciding which dimensions need precision. Marking every dimension tight avoids that decision and creates unnecessary work."
         },
         {
           "id": "q3",
@@ -29746,7 +29746,7 @@
           "choices": [
             "The parts stop working together.",
             "The drawing becomes easier to read.",
-            "Costs climb: better machines, slower cuts, more careful measurement, more rejected parts.",
+            "Better machines, slower cuts, and rejected parts raise costs.",
             "The bearing surfaces wear out sooner."
           ],
           "answer": 2,
@@ -29754,7 +29754,7 @@
         }
       ],
       "lesson": {
-        "strategy": "The essay opens inside one trade, extracts a rule, then tests it on a second trade. Track the two failure directions (too tight, too loose) and notice that the last two sentences restate the whole argument in miniature. Every general claim here has a machinist's detail behind it; find the pair.",
+        "strategy": "The essay draws a rule from machining and applies it to cabinetmaking and other crafts. Track what happens when a tolerance is too tight or too loose. Match each general claim with the machining detail that supports it.",
         "signals": [
           {
             "phrase": "tolerance is not a virtue but a number",
@@ -29814,24 +29814,24 @@
           "choices": [
             "Painters should always keep a mirror beside the easel.",
             "Most errors in creative work come from working too quickly.",
-            "Because makers cannot see their own work freshly, every craft invents ways to make it unfamiliar again.",
+            "Makers use unfamiliar views to notice faults that habit has hidden.",
             "Writers and programmers borrowed their revision methods from painting."
           ],
           "answer": 2,
-          "explanation": "The mirror, reading aloud, inverted proofs, and explaining code are presented as one category, named in the closing rule: finishing requires arranged estrangement, not sharper attention."
+          "explanation": "A mirror, reading aloud, inverted proofs, and explaining code all make familiar work seem unfamiliar enough to inspect again."
         },
         {
           "id": "q2",
           "skill": "inference",
           "stem": "The essay stresses that the mirror 'adds no information.' What does this imply about where the problem lies?",
           "choices": [
-            "The obstacle is in the maker's perception, not in the work: the faults were there all along for anyone but their maker to see.",
+            "The faults were already present, but the maker's practiced view hid them.",
             "Mirrors distort paintings too subtly to be useful.",
             "The faults exist only when the painting is reversed.",
             "A painting's faults cannot be described in words."
           ],
           "answer": 0,
-          "explanation": "If nothing new is shown yet faults surface, what changed must be the viewer. The mirror defeats the practiced eye, not the canvas."
+          "explanation": "The mirror adds no new details. It changes the maker's view so existing faults become easier to notice."
         },
         {
           "id": "q3",
@@ -29919,13 +29919,13 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the passage?",
           "choices": [
-            "Because an object-based kilogram made drift undetectable in principle, mass was redefined through a constant of nature.",
+            "An object-based kilogram hid changes in the standard, so a constant of nature replaced it.",
             "The kilogram copies were carelessly handled and gained mass over a century.",
             "The Kibble balance weighs objects more accurately than any earlier machine.",
             "France controlled the world's system of measurement until 2019."
           ],
           "answer": 0,
-          "explanation": "The passage is built as problem and escape: a standard that cannot be checked against anything outside itself, resolved by moving the definition from the cylinder to the Planck constant."
+          "explanation": "The cylinder could not be checked against an outside standard because it defined the kilogram. The Planck constant now defines the unit."
         },
         {
           "id": "q2",
@@ -29934,11 +29934,11 @@
           "choices": [
             "The copies were kept too far away to compare precisely.",
             "Fifty micrograms is below what any balance can detect.",
-            "Every comparison used the prototype as the standard, so the standard's own drift had nothing outside itself to be measured against.",
+            "The prototype defined the kilogram, so no outside standard could reveal a change in it.",
             "The nested bell jars prevented direct comparison."
           ],
           "answer": 2,
-          "explanation": "Comparisons only show relative disagreement. Since the prototype defined the unit, a change in it changed every kilogram at once, which is exactly why every scale stayed 'officially' correct."
+          "explanation": "Every comparison used the prototype as the standard. A change in the prototype therefore changed the official kilogram itself."
         },
         {
           "id": "q3",
@@ -29968,7 +29968,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A history shaped as problem, trap, escape. The pivot is one logical sentence ('being right was its only job'), so slow down there until the trap makes sense: a definition cannot fail, and that is its flaw. The last paragraph resolves it by changing what defines the kilogram, not by weighing better.",
+        "strategy": "Follow the problem with the metal kilogram standard. Because the cylinder defined the unit, comparisons could not reveal whether the cylinder itself had changed. The final paragraph explains how a constant of nature solved this problem.",
         "signals": [
           {
             "phrase": "Until 2019, the kilogram was an object.",
@@ -30027,12 +30027,12 @@
           "stem": "Which statement best expresses the passage's main idea?",
           "choices": [
             "Millikan's error proved that early instruments could not measure small charges.",
-            "Because expectation steers honest judgment calls, physicists now hide the answer from themselves until the analysis is fixed.",
+            "Physicists hide their results until they have fixed their analysis methods.",
             "Blind analysis has eliminated every form of bias from modern physics.",
             "Physical constants change slowly over time, so old measurements go stale."
           ],
           "answer": 1,
-          "explanation": "The electron story shows how bias works through legitimate choices; blind analysis is the engineered response. The main idea must join the disease to the cure."
+          "explanation": "Expectations can bias honest choices. Blind analysis hides whether a result matches the expected value until the team fixes its procedure."
         },
         {
           "id": "q2",
@@ -30042,10 +30042,10 @@
             "Instruments improved only gradually over those twenty years.",
             "The true value itself was drifting during that period.",
             "Journals refused to publish values far from Millikan's.",
-            "Results near the famous number escaped the extra error-hunting that distant results received, dragging each new value only partway."
+            "Results near the expected value received less scrutiny, so measurements changed only gradually."
           ],
           "answer": 3,
-          "explanation": "The passage names asymmetric checking: a straying result was rechecked 'until it behaved,' while one that agreed was published as it stood. Gradual instrument improvement is the tempting cause the text never offers."
+          "explanation": "Researchers repeatedly checked results far from the expected value but accepted close results more easily. This pulled published measurements toward the true value in small steps."
         },
         {
           "id": "q3",
@@ -30135,11 +30135,11 @@
           "choices": [
             "The four-color problem remains unsolved because no human can read its proof.",
             "Computers proved the four-color theorem faster than mathematicians expected.",
-            "The computer proof forced mathematics to re-examine what gives a proof authority, and machine checking later turned the doubt back on human readers.",
+            "Computer-assisted proofs made mathematicians reconsider how a proof earns trust.",
             "Proof assistants have replaced human referees at mathematics journals."
           ],
           "answer": 2,
-          "explanation": "The theorem itself is never in doubt after 1976. The passage tracks a worry about proof: born with Appel and Haken, named as surveyability, reversed by the 2005 verification."
+          "explanation": "The 1976 proof raised doubts because no person could check every step. The 2005 machine-checked proof raised a related question about trust in human review."
         },
         {
           "id": "q2",
@@ -30246,7 +30246,7 @@
             "A tuner reads a player's history in the piano's wear and quietly chooses to preserve it rather than erase it."
           ],
           "answer": 3,
-          "explanation": "The center of the story is Vasil's refusal: filing the felt would make the piano 'less like itself,' so he tunes it and leaves the grooves (the record of the player) untouched."
+        "explanation": "Vasil refuses to file the felt because that would make the piano 'less like itself.' He tunes it but keeps the grooves left by its player."
         },
         {
           "id": "q2",
