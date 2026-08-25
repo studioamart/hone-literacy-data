@@ -32357,7 +32357,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate visibility from information. The suit is easy to observe, but the passage tests whether its cost is linked to reliability, whether different applicants can copy it, and whether the workplace reads it the same way.",
+        "strategy": "Separate visibility from information. The suit is easy to see. Ask whether its cost relates to reliability. Check whether different applicants can copy the signal with equal ease. Consider how each workplace interprets it.",
         "signals": [
           {
             "phrase": "while reliability is hidden",
@@ -32722,11 +32722,11 @@
           "choices": [
             "The final moment always erases every earlier part of an experience.",
             "People accurately calculate the average pleasure of every museum visit.",
-            "People may remember an experience through its peak and ending more than a minute-by-minute average, though other factors also matter.",
+            "People may give extra weight to an experience’s peak and ending, though other factors also shape memory.",
             "Only negative endings remain available in long-term memory."
           ],
           "answer": 2,
-          "explanation": "The passage explains the peak-end tendency, applies it, and limits it rather than presenting an absolute rule."
+          "explanation": "The passage explains the peak-end tendency, applies it, and notes that other factors affect memory."
         },
         {
           "id": "q2",
@@ -32769,7 +32769,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate lived duration from remembered evaluation. Mark the peak and ending in the museum examples, then use the third paragraph's limits to keep the rule probabilistic rather than absolute.",
+        "strategy": "Separate the full experience from the later memory of it. Mark the peak and ending in the museum examples. Use the third paragraph to identify other factors that shape memory.",
         "signals": [
           {
             "phrase": "the same amount of time",
@@ -32799,7 +32799,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Include both the unequal weighting of moments and the caution that memory has other influences.",
+          "main-idea": "Include the peak and ending. Note that other factors also affect memory.",
           "inference": "Use the sentence after the frame metaphor to explain how an ending structures later recall.",
           "vocabulary": "Contrast “full duration” with the peak and ending to identify it as the complete timespan.",
           "detail": "Keep the two museum visits separate; the crowded exit belongs to the first one."
@@ -33352,7 +33352,7 @@
           "stem": "Why are auroras especially common near high latitudes?",
           "choices": [
             "Those regions receive direct sunlight throughout every night.",
-            "Earth's magnetic field guides many incoming charged particles toward regions near the magnetic poles.",
+            "Earth's magnetic field guides charged particles toward areas near the magnetic poles.",
             "Only polar air contains oxygen and nitrogen.",
             "High-latitude cities produce more electrical light."
           ],
@@ -33387,7 +33387,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Build the mechanism from source to sight: solar particles reach Earth's magnetic environment, are guided toward high latitudes, transfer energy to gases, and produce emissions viewed in perspective.",
+        "strategy": "Follow the steps that create an aurora. Solar particles reach Earth. The magnetic field guides them toward the poles. Gases emit light after gaining energy from the particles.",
         "signals": [
           {
             "phrase": "do not fall in a straight line",
@@ -35218,13 +35218,13 @@
           "skill": "vocabulary",
           "stem": "What does “closure” mean here?",
           "choices": [
-            "a sense that something has been settled or given an endpoint",
+            "the feeling that something is finished",
             "a locked restaurant door",
             "a method of testing memory",
             "an unexpected new order"
           ],
           "answer": 0,
-          "explanation": "An incomplete task lacks an ending; a recorded next step may reduce that unresolved feeling."
+          "explanation": "An incomplete task lacks an ending. Recording the next step can reduce that unresolved feeling."
         },
         {
           "id": "q4",
@@ -35241,7 +35241,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow the passage's cautious modal language: unfinished work “can” remain active and “may” return. Pair the server example with the final limits so a tendency does not become a universal memory law.",
+        "strategy": "Notice the words “can” and “may.” They show that this is a tendency, not a rule. Compare the server example with the limits in the final paragraph.",
         "signals": [
           {
             "phrase": "until it is delivered",
@@ -35273,7 +35273,7 @@
         "skillTips": {
           "main-idea": "Retain the possibility and its limits rather than making every incomplete task unforgettable.",
           "inference": "A specific next step lowers uncertainty about resuming, even though the larger task remains unfinished.",
-          "vocabulary": "The contrast between unfinished and completed provides the clue that “closure” means an endpoint.",
+          "vocabulary": "The passage contrasts unfinished and completed tasks, so “closure” means an ending.",
           "detail": "The historical paragraph identifies the psychologist whose surname labels the effect."
         }
       }
@@ -35412,7 +35412,7 @@
           "stem": "Why is the delivery label important?",
           "choices": [
             "It proves Mr. Cho bought the umbrella for Paula.",
-            "It provides a traceable clue that moves the search from a color-based guess toward the actual delivery error.",
+            "It gives Mina a traceable clue that leads to the delivery error.",
             "It lists every person who carried the umbrella.",
             "It shows that Mina ordered groceries for apartment 2A."
           ],
@@ -35478,7 +35478,7 @@
         ],
         "skillTips": {
           "main-idea": "Connect the corrected assumption with the network of favors; the story is more than an ownership puzzle.",
-          "inference": "The label is stronger than the color guess because it carries data from the umbrella's delivery history.",
+          "inference": "Unlike the color guess, the label records part of the umbrella's delivery history.",
           "vocabulary": "The courier can still use the number, so “partial” means incomplete rather than unreadable.",
           "detail": "The final ownership is established by the order check, not by who temporarily carries the umbrella."
         }
@@ -36236,12 +36236,12 @@
           "stem": "Why does the crab dislike the oyster's answer?",
           "choices": [
             "The oyster erased every water-level mark.",
-            "It has invested effort in the line and does not want to admit the line lacks control.",
+            "The crab spent all morning making a line that cannot control the sea.",
             "The crab cannot understand what a measurement records.",
             "The sea has promised to follow the oyster instead."
           ],
           "answer": 1,
-          "explanation": "The story links the crab's resistance to the entire morning spent making the line."
+          "explanation": "The crab resists because it spent the entire morning making the line."
         },
         {
           "id": "q3",
@@ -36271,7 +36271,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare the crab's two uses of a line. First it treats one mark as authority over the sea; later it treats several marks as evidence for a plan that can tolerate changing water.",
+        "strategy": "Compare the crab's two uses of a line. At first, it thinks one mark can control the sea. Later, it uses several marks to plan for changing water.",
         "signals": [
           {
             "phrase": "looked official",
@@ -36340,11 +36340,11 @@
           "choices": [
             "A copied memory must be completely false.",
             "Two bodies cannot exist in the same room.",
-            "The same psychological history could point to more than one future claimant, while identity is usually treated as one-to-one.",
+            "Copied memories and traits could make two future people claim the same earlier identity.",
             "Physical continuity disappears whenever information is stored."
           ],
           "answer": 2,
-          "explanation": "The final paragraph explicitly contrasts duplicable information with the expectation of one continuing person."
+          "explanation": "The final paragraph says copied information could make two later people claim one earlier identity."
         },
         {
           "id": "q3",
@@ -36374,7 +36374,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Make a continuity map with separate rows for body, memory, personality, and relationships. The swap sends those rows in different directions, revealing which one each answer treats as identity-bearing.",
+        "strategy": "List what happens to the body, memories, personality, and relationships. Then see which feature each answer treats as the basis of identity.",
         "signals": [
           {
             "phrase": "only one person",
@@ -36405,7 +36405,7 @@
         ],
         "skillTips": {
           "main-idea": "Name the rival kinds of continuity rather than choosing an answer the passage leaves open.",
-          "inference": "Copying allows two later people to share one earlier history, challenging a one-person continuation rule.",
+          "inference": "A copy could make two later people claim the same earlier identity.",
           "vocabulary": "Every theory seeks a connection linking the person before and after, defining continuity.",
           "detail": "The first sentence gives both names before describing what wakes in each body."
         }
@@ -36544,13 +36544,13 @@
           "skill": "inference",
           "stem": "How can a lower-frequency processor sometimes finish sooner?",
           "choices": [
-            "It may accomplish more work per cycle or benefit from better cores, memory, cache, software, or design.",
+            "It may do more work per cycle or have better cores, memory, cache, software, or design.",
             "A lower frequency always creates more cycles each second.",
             "Its clock completes every instruction without using memory.",
             "Cooling converts each clock cycle into three instructions."
           ],
           "answer": 0,
-          "explanation": "The third paragraph explicitly places frequency among several factors and notes that architecture can overcome a lower rate."
+          "explanation": "The third paragraph lists several factors that can let a lower-frequency processor finish sooner."
         },
         {
           "id": "q3",
@@ -36580,7 +36580,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate timing opportunities from completed work. The clock provides cycles; architecture and workload decide what fits into them; heat, power, and memory can prevent a high advertised rate from becoming equal performance.",
+        "strategy": "Separate clock cycles from completed work. Architecture and workload determine how much work occurs in each cycle. Heat, power, and memory can also limit performance.",
         "signals": [
           {
             "phrase": "reference moments",
@@ -36648,12 +36648,12 @@
           "stem": "Why do Sora and Mr. Imani laugh on the stairs?",
           "choices": [
             "They learn that neither person likes soup.",
-            "They discover that both were shy even though their bowl exchange had already connected them.",
+            "They learn that both were shy even though their quiet exchange had connected them.",
             "The paper flowers have blown into the stairwell.",
             "The night guard has hidden the bowl."
           ],
           "answer": 1,
-          "explanation": "Their matching apologies reveal a shared worry that the quiet exchange had already overcome."
+          "explanation": "Their matching apologies show that they shared the same worry, even though the quiet exchange had worked."
         },
         {
           "id": "q3",
@@ -36683,7 +36683,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow what the bowl carries in both directions. Each small response answers the previous gift, so the object becomes a low-pressure conversation before the neighbors exchange spoken words.",
+        "strategy": "Track each gift placed in the bowl. Every response answers the previous gift. The exchange lets the neighbors connect before they speak.",
         "signals": [
           {
             "phrase": "worried that the gesture",
@@ -36714,7 +36714,7 @@
         ],
         "skillTips": {
           "main-idea": "Trace the exchange from Sora's uncertainty through mutual gifts to kindness shared with the guard.",
-          "inference": "Their laughter follows the realization that both felt the same shyness despite an already successful connection.",
+          "inference": "Their laughter shows that both were shy despite their successful exchange.",
           "vocabulary": "Sora's fear that a gift crossed a neighbor's boundary explains “intrusive.”",
           "detail": "The first returned object contains basil; paper flowers arrive during a later exchange."
         }
@@ -37178,10 +37178,10 @@
             "made from written words",
             "painted very quickly",
             "displayed outside",
-            "showing a subject just as it appears"
+            "showing a subject as it appears"
           ],
           "answer": 3,
-          "explanation": "The passage contrasts a direct picture with Thomas's new abstract visual language."
+          "explanation": "The passage contrasts a lifelike picture with Thomas's abstract style."
         },
         {
           "id": "q4",
@@ -37198,7 +37198,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track the sources and the transformation separately. Gardens and space imagery provide observations; short bright strokes, spaces, and rhythm show how Thomas turned them into an abstract language.",
+        "strategy": "Track what inspired Thomas and how she transformed it. Gardens and space images inspired her. Short bright strokes, gaps, and rhythm created an abstract style.",
         "signals": [
           {
             "phrase": "After retiring",
@@ -37230,7 +37230,7 @@
         "skillTips": {
           "main-idea": "Link Thomas's long preparation with the colorful abstract form that grew from observation.",
           "inference": "Short strokes and spaces preserve the energy of garden sights without making a literal garden picture.",
-          "vocabulary": "The contrast with a “new visual language” shows that literal means directly representational.",
+          "vocabulary": "The contrast with her abstract style shows that literal means showing the subject as it appears.",
           "detail": "The object outside the window is named in the first paragraph among her sources of study."
         }
       }
@@ -37576,11 +37576,11 @@
           "choices": [
             "It shows that geometric drawings are heavier than stones.",
             "It proves every phrase containing two shapes is meaningless.",
-            "It suggests that a contradictory description fails to name a possible task rather than naming a limit on power.",
+            "It suggests that a contradiction describes no possible task, not a limit on power.",
             "It establishes that omnipotence means only artistic skill."
           ],
           "answer": 2,
-          "explanation": "The example illustrates the view that inability to perform a logical contradiction is not a genuine inability."
+          "explanation": "The example supports the view that a logical contradiction describes no possible action."
         },
         {
           "id": "q3",
@@ -37610,7 +37610,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Map the dilemma first, then inspect its terms. The passage shifts attention from which answer wins to whether the description names a logically possible action, so definitions do the philosophical work.",
+        "strategy": "Identify the two answers to the dilemma. Then ask whether the description names a logically possible action. The answer depends on how the key terms are defined.",
         "signals": [
           {
             "phrase": "appears to force",
@@ -37641,7 +37641,7 @@
         ],
         "skillTips": {
           "main-idea": "Describe the definitional test rather than pretending the passage settles the debate about omnipotence.",
-          "inference": "If contradictory words name no possible action, failure to perform that description would not reveal weak power.",
+          "inference": "If the words describe no possible action, failing to do it does not show weak power.",
           "vocabulary": "The question whether both alternatives are genuine possibilities defines “coherent” as logically consistent.",
           "detail": "The first paragraph builds the dilemma from creation on one side and lifting on the other."
         }
@@ -37690,13 +37690,13 @@
           "skill": "vocabulary",
           "stem": "What does “cue” mean in the second paragraph?",
           "choices": [
-            "serve as a signal that helps bring something to mind",
+            "help bring something to mind",
             "erase a memory",
             "decorate a page",
             "change a sequence"
           ],
           "answer": 0,
-          "explanation": "Each form can prompt recall of the matching meaning stored with the other."
+          "explanation": "Each form can help the learner remember the same idea."
         },
         {
           "id": "q4",
@@ -37713,7 +37713,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare what each form contributes. The words name the parts, while the arrows display their relationship in space; the final paragraph tests whether an image supports that same idea or merely decorates it.",
+        "strategy": "Compare what the words and picture each provide. The words name the parts. The arrows show how the parts relate in space. Decide whether an image supports the idea or only decorates the page.",
         "signals": [
           {
             "phrase": "Beside the sentence",
@@ -39532,12 +39532,12 @@
           "stem": "Why does upside-down flight challenge the equal-time story?",
           "choices": [
             "Gravity reverses whenever an aircraft rolls upside down.",
-            "A suitable wing angle can still redirect air and create lift without requiring the proposed top-path rule.",
+            "A suitable wing angle can redirect air and create lift without the proposed top-path rule.",
             "Upside-down wings no longer interact with surrounding air.",
             "Air density becomes zero above an inverted aircraft."
           ],
           "answer": 1,
-          "explanation": "The fourth paragraph uses inverted flight to show that angle and redirection, not an invented equal-arrival requirement, are central."
+          "explanation": "The fourth paragraph says inverted flight depends on wing angle and redirected air, not the equal-time claim."
         },
         {
           "id": "q3",
@@ -39567,7 +39567,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Tie each description to the same force exchange. The wing shapes pressure and turns air downward; the air's response pushes the wing. Then use the stall and inverted-flight cases to test simplistic rules.",
+        "strategy": "Follow how a wing creates lift. Its shape changes pressure and directs air downward. The air pushes back on the wing. Use stalls and inverted flight to test simple explanations.",
         "signals": [
           {
             "phrase": "not rival tricks",
@@ -39830,10 +39830,10 @@
             "Every historical keepsake should be used until it breaks.",
             "Objects remain perfectly preserved whenever they stay inside a cupboard.",
             "Only guests deserve to use cups, notebooks, and fine soap.",
-            "Protecting valued objects can defeat their purpose, so ordinary useful things should sometimes be enjoyed before a perfect occasion arrives."
+            "Useful objects should often be enjoyed now, while meaningful keepsakes may still deserve protection."
           ],
           "answer": 3,
-          "explanation": "The essay contrasts intended use with endless postponement while keeping an exception for meaningful conservation."
+          "explanation": "Endless saving can prevent ordinary objects from serving their purpose. The essay also allows protection for meaningful keepsakes."
         },
         {
           "id": "q2",
@@ -39876,7 +39876,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track the essay's distinction between care and postponement. The everyday examples show purpose lost through waiting, while the keepsake paragraph preserves a reasoned exception for conservation.",
+        "strategy": "Compare ordinary objects with meaningful keepsakes. Endless saving can prevent ordinary objects from serving their purpose. A keepsake's history can justify preserving it.",
         "signals": [
           {
             "phrase": "remains wrapped",
@@ -40252,7 +40252,7 @@
           "skill": "inference",
           "stem": "Why is short range useful?",
           "choices": [
-            "It helps identify which nearby card or phone is intended to interact with the reader.",
+            "It helps the reader identify the intended nearby card or phone.",
             "It lets the card avoid all structured messages.",
             "It sends the request to every shop at once.",
             "It makes approval unnecessary."
@@ -40288,7 +40288,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow the transaction outward: nearby device to reader, then reader through a larger network. Keep proximity, user verification, message security, and final approval as distinct parts.",
+        "strategy": "Track the transaction from the device to the reader, then from the reader to the network. Treat proximity, user verification, message security, and final approval as separate parts.",
         "signals": [
           {
             "phrase": "very close",
@@ -40498,7 +40498,7 @@
         "signals": [
           {
             "phrase": "not travel by intuition alone",
-            "means": "The passage frames wayfinding as learned observation rather than unexplained instinct."
+            "means": "Wayfinding relies on learned observation and training."
           },
           {
             "phrase": "no single sign guaranteed",
@@ -41284,7 +41284,7 @@
           "choices": [
             "The sentence changes its written words each time.",
             "Truth values are physical objects moving around it.",
-            "Calling the sentence true implies falsehood, while calling it false seems to make its claim true.",
+            "Calling it true makes it false, and calling it false seems to make it true.",
             "The sentence refers to a different statement."
           ],
           "answer": 2,
@@ -41318,7 +41318,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Substitute each label and follow the consequence. True leads to false and false leads back toward true; then identify self-reference as the feature producing this loop.",
+        "strategy": "Test both labels. Calling the sentence true leads to false. Calling it false leads back to true. Then identify self-reference as the cause.",
         "signals": [
           {
             "phrase": "If it is true",
@@ -41488,13 +41488,13 @@
           "skill": "inference",
           "stem": "Why might a cached image differ from the source?",
           "choices": [
-            "The source changed after the local copy was stored and the cache has not refreshed it yet.",
+            "The source changed, but the cache still holds the old copy.",
             "A cache converts every image into text.",
             "The original server has forgotten its own file.",
             "Network capacity always changes image colors."
           ],
           "answer": 0,
-          "explanation": "The second paragraph directly describes the old-copy period after an origin update."
+          "explanation": "The second paragraph describes this delay after the source changes."
         },
         {
           "id": "q3",
@@ -41524,7 +41524,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track copy location and copy age separately. Nearness explains speed; validation and expiration address whether the nearby copy still matches the source. Multiple layers explain stubborn stale results.",
+        "strategy": "Track where each copy is stored and when it was updated. Nearby storage improves speed. Validation and expiration help the cache stay current. Several cache layers can explain persistent old results.",
         "signals": [
           {
             "phrase": "temporary local copy",
@@ -41786,7 +41786,7 @@
           "choices": [
             "Every owl flies in perfect silence at any speed.",
             "Owl wings remove all air from the path ahead.",
-            "Specialized feather edges, soft surfaces, and broad wings reduce flight noise so many owls can listen while approaching prey.",
+            "Special feather edges, soft surfaces, and broad wings help many owls fly quietly and hear prey.",
             "Narrow rigid wings make slow flight quieter for hunting."
           ],
           "answer": 2,
@@ -42198,11 +42198,11 @@
           "choices": [
             "Choosing any immediate reward proves that a person lacks long-term goals.",
             "A future reward becomes physically smaller whenever someone waits for it.",
-            "Future rewards are discounted for practical and psychological reasons, and present bias can create conflicts that commitment devices sometimes help manage.",
+            "Practical concerns and present bias can reduce the appeal of future rewards, and commitment devices may help.",
             "Commitment devices always improve choices without reducing flexibility."
           ],
           "answer": 2,
-          "explanation": "The passage explains discounting, present bias, planning conflict, tools, and the surrounding circumstances."
+          "explanation": "The passage explains why future rewards feel smaller, how present bias creates conflict, and how commitment devices can help."
         },
         {
           "id": "q2",
@@ -42220,7 +42220,7 @@
         {
           "id": "q3",
           "skill": "vocabulary",
-          "stem": "What does “vivid” mean in the third paragraph?",
+          "stem": "What does “vivid” mean in the second paragraph?",
           "choices": [
             "strongly present and easy to imagine",
             "financially impossible to measure",
@@ -42241,11 +42241,11 @@
             "ignoring a genuine change in circumstances"
           ],
           "answer": 1,
-          "explanation": "The fourth paragraph names automatic transfers as a way to make an earlier plan harder to reverse."
+          "explanation": "The third paragraph names automatic transfers as a way to make an earlier plan harder to reverse."
         }
       ],
       "lesson": {
-        "strategy": "Compare choices across time positions. Separate ordinary reasons to value the present from the extra pull created when one option becomes immediate, then weigh how commitment tools alter later options.",
+        "strategy": "Compare choices before and after one reward becomes immediate. Separate practical reasons for valuing the present from present bias. Then consider how commitment devices change later options.",
         "signals": [
           {
             "phrase": "has a price",
@@ -42506,12 +42506,12 @@
           "stem": "What is the main idea of the passage?",
           "choices": [
             "A stopped clock can never display the actual time.",
-            "A Gettier-style case suggests that a justified true belief may still fail to be knowledge when its truth depends on luck.",
+            "A justified true belief may still fail to be knowledge when it matches the truth only by luck.",
             "Any belief supported by a familiar clock must count as knowledge.",
             "Philosophers agree that reasons play no role in knowledge."
           ],
           "answer": 1,
-          "explanation": "Mara has belief, truth, and an ordinary reason, yet the accidental match creates doubt about knowledge."
+          "explanation": "Mara believes a true claim for a normal reason, but only luck makes the stopped clock correct."
         },
         {
           "id": "q2",
@@ -42520,7 +42520,7 @@
           "choices": [
             "Mara does not form any belief after viewing it.",
             "The actual time is different from the displayed time.",
-            "The stopped clock matches the real time only by coincidence, not because it tracks the time.",
+            "The stopped clock shows the right time only by coincidence.",
             "Library clocks are never reasonable sources."
           ],
           "answer": 2,
@@ -42554,7 +42554,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Test the three traditional parts separately: Mara believes 8:15, it is true, and the clock seems to justify her. Then locate the luck that keeps the evidence from tracking the fact.",
+        "strategy": "Check belief, truth, and justification separately. Mara believes it is 8:15, it is true, and the clock seems reliable. Then ask why the stopped clock makes her success lucky.",
         "signals": [
           {
             "phrase": "Unknown to her",
@@ -42610,7 +42610,7 @@
           "choices": [
             "Any two sentences with different wording must describe different numerical outcomes.",
             "Framing always reverses every person's decision in the same way.",
-            "Equivalent outcomes can feel different when framed around gains or losses, so readers should translate presentations and inspect missing context.",
+            "Equivalent outcomes can feel different when presented as gains or losses. Readers should compare results and check missing context.",
             "Careful readers can remove all perspective from language permanently."
           ],
           "answer": 2,
@@ -42657,7 +42657,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Translate each description into its complement and compare totals. Then separate a merely equivalent frame from wording that actually adds new information, such as time saved versus total time used.",
+        "strategy": "Rewrite each description in terms of its complement and compare totals. Then check whether the wording adds new information, such as time saved versus total time used.",
         "signals": [
           {
             "phrase": "same result",
@@ -42687,7 +42687,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Combine framing's influence with its limits and the practical translation check.",
+          "main-idea": "State how framing can influence people and how to compare equivalent results.",
           "inference": "Stating the complement directs attention to the portion omitted by the first emphasis.",
           "vocabulary": "The outcome stays the same beneath two different statements, defining underlying.",
           "detail": "The passage says a loss frame highlights failure or cost."
@@ -44693,7 +44693,7 @@
           "skill": "vocabulary",
           "stem": "What does “private value” mean in this passage?",
           "choices": [
-            "The value a bidder personally places on the item rather than a value secretly fixed by the auctioneer",
+            "The amount the item is worth to one bidder",
             "A price that every bidder must pay before submitting an offer",
             "The second-highest offer after all bidders coordinate",
             "A resale price guaranteed to be identical for everyone"
@@ -49707,7 +49707,7 @@
       "releasedAt": "2026-08-12",
       "genre": "essay",
       "level": 3,
-      "text": "I once thought a diagram belonged at the end of an explanation. First I would understand a machine, then I would draw a neat picture to show what I knew. My sketches refused that order. The moment I drew two gears, I had to ask where their teeth met and which way each one turned.\n\nA sentence can glide over a gap with a broad word like “connects.” A drawing demands a location. If I cannot place a hinge, label a flow, or show the path of a force, my uncertainty becomes visible. The page does not solve the problem, but it tells me where the problem is.\n\nThis is why rough diagrams matter more to me than polished ones during inquiry. Their crossed-out arrows preserve failed guesses. Their empty spaces invite precise questions. A final illustration may communicate an answer, but a working sketch helps produce one. I draw not only to show what I know, but also to discover what I have not yet asked.",
+      "text": "I once thought a diagram belonged at the end of an explanation. First I would understand a machine, then I would draw a neat picture to show what I knew. My sketches refused that order. The moment I drew two gears, I had to ask where their teeth met and which way each one turned.\n\nA sentence can glide over a gap with a broad word like “connects.” A drawing demands a location. If I cannot place a hinge, label a flow, or show the path of a force, my uncertainty becomes visible. The page does not solve the problem, but it tells me where the problem is.\n\nThis is why rough diagrams matter more to me than polished ones during inquiry. Their crossed-out arrows preserve failed guesses. Their empty spaces invite precise questions. A final illustration may communicate an answer, but a working sketch helps produce one. I draw to show what I know and to discover the questions that I have not thought to ask.",
       "wordCount": 167,
       "questions": [
         {
@@ -50050,13 +50050,13 @@
           "skill": "vocabulary",
           "stem": "What does “prompt” mean in the final paragraph?",
           "choices": [
-            "A clue or question that invites the learner to produce an answer",
+            "A clue or question that asks the learner to answer",
             "A complete answer kept visible during study",
             "A mistake repeated without correction",
             "A memory that cannot be recalled"
           ],
           "answer": 0,
-          "explanation": "The prompt guides a search while hiding enough information to require an answer, so it is the clue or question that starts retrieval."
+          "explanation": "A prompt guides the learner toward an answer without showing the answer."
         },
         {
           "id": "q4",
@@ -50105,7 +50105,7 @@
         "skillTips": {
           "main-idea": "Include both the memory benefit and its supports; the passage recommends guided production, not guessing alone.",
           "inference": "Combine the exposed gap with later correction to explain how an unsuccessful attempt can still guide learning.",
-          "vocabulary": "The prompt both guides and withholds, showing that it is a clue or question rather than the complete answer.",
+          "vocabulary": "A prompt guides the learner but does not show the full answer.",
           "detail": "Look in the final paragraph for the stated support that may be needed before practice with unfamiliar material."
         }
       }
@@ -51172,11 +51172,11 @@
           "choices": [
             "The stranger cannot see bright colors.",
             "Niko painted the mark too close to noon.",
-            "The stranger has not learned the rule connecting the mark with the meeting plan.",
+            "The stranger has not learned what the mark means.",
             "Blue circles cannot be used as reminders."
           ],
           "answer": 2,
-          "explanation": "Niko's private decision supplies no public route to the meaning; the stranger needs explanation, repeated use, or context."
+          "explanation": "Niko chose the meaning privately. A stranger needs an explanation, repeated use, or context to learn it."
         },
         {
           "id": "q3",
@@ -51206,7 +51206,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Test the blue circle from two viewpoints: Niko has a private reminder, but strangers gain a public sign only when the mark-to-action connection becomes learnable.",
+        "strategy": "Compare what Niko and a stranger know. Niko chose the circle as a reminder. It becomes a public sign only when others can learn the connection.",
         "signals": [
           {
             "phrase": "For himself, perhaps",
@@ -51238,7 +51238,7 @@
         "skillTips": {
           "main-idea": "Distinguish a private reminder from a public sign whose rule other people can learn.",
           "inference": "Ask what knowledge Niko possesses that the stranger initially lacks.",
-          "vocabulary": "The mark's location provides clues, which makes work out the fitting meaning of infer.",
+          "vocabulary": "The mark’s location provides clues, so infer means to use clues to work out the meaning.",
           "detail": "The three learning routes appear together before the rule becomes shared."
         }
       }
@@ -53313,7 +53313,7 @@
       "level": 3,
       "wordCount": 179,
       "releasedAt": "2026-08-12",
-      "text": "A string quartet owns four fine instruments and has been invited to play at a neighborhood celebration. No new equipment is needed. Yet the hardest resource to obtain is a two-hour block when all four musicians are free. One player can offer Monday, two can meet Tuesday, and three can attend Friday; none of those hours produces a rehearsal.\n\nEconomists call time scarce because using it for one purpose prevents its use elsewhere. In a quartet, the musicians' hours are also complements: each person's time becomes more useful when it joins the other three. Four separate free hours do not equal one shared hour. The organizer therefore asks everyone to mark several possible times, then chooses the overlap before reserving the room.\n\nThis coordination has a cost, even when no money changes hands. Messages must be answered, plans may be moved, and the chosen hour may be inconvenient for someone. A reliable calendar and a prompt reply reduce that cost. The performance depends not only on individual skill, but also on arranging scarce pieces of time so they meet.",
+      "text": "A string quartet owns four fine instruments and has been invited to play at a neighborhood celebration. No new equipment is needed. Yet the hardest resource to obtain is a two-hour block when all four musicians are free. One player can offer Monday, two can meet Tuesday, and three can attend Friday; none of those hours produces a rehearsal.\n\nEconomists call time scarce because using it for one purpose prevents its use elsewhere. In a quartet, the musicians' hours are also complements: each person's time becomes more useful when it joins the other three. Four separate free hours do not equal one shared hour. The organizer therefore asks everyone to mark several possible times, then chooses the overlap before reserving the room.\n\nThis coordination has a cost, even when no money changes hands. Messages must be answered, plans may be moved, and the chosen hour may be inconvenient for someone. A reliable calendar and a prompt reply reduce that cost. The performance depends on individual skill and on finding a two-hour rehearsal period when all four musicians are free.",
       "questions": [
         {
           "id": "q1",
@@ -54446,7 +54446,7 @@
       "genre": "biography",
       "level": 4,
       "wordCount": 204,
-      "text": "When construction of the Brooklyn Bridge began in 1870, Emily Warren Roebling did not hold an engineering title. Her husband, Washington Roebling, served as chief engineer after his father, John, who had designed the bridge, died before the work began. Washington later became seriously ill after working in the pressurized caissons beneath the river.\n\nAs his health limited visits to the site, Emily became the vital link between his room and the project. She carried instructions to engineers and contractors, returned with questions, kept records, and handled correspondence. To do that work accurately, she studied mathematics, cable construction, the strength of materials, and the curves formed by suspension cables. Her growing technical knowledge allowed her to discuss problems instead of merely delivering notes.\n\nThe arrangement did not turn a vast project into one person’s achievement. Washington remained chief engineer, and many assistants and workers supplied essential skill. Yet Emily’s coordination preserved a working channel when illness could have isolated the project’s leader. She also defended Washington’s position when some officials considered replacing him.\n\nThe bridge opened in 1883. Emily’s role showed that engineering depends not only on calculations and materials, but also on reliable exchange among people who hold different pieces of a plan.",
+      "text": "When construction of the Brooklyn Bridge began in 1870, Emily Warren Roebling did not hold an engineering title. Her husband, Washington Roebling, served as chief engineer after his father, John, who had designed the bridge, died before the work began. Washington later became seriously ill after working in the pressurized caissons beneath the river.\n\nAs his health limited visits to the site, Emily became the vital link between his room and the project. She carried instructions to engineers and contractors, returned with questions, kept records, and handled correspondence. To do that work accurately, she studied mathematics, cable construction, the strength of materials, and the curves formed by suspension cables. Her growing technical knowledge allowed her to discuss problems instead of merely delivering notes.\n\nThe arrangement did not turn a vast project into one person’s achievement. Washington remained chief engineer, and many assistants and workers supplied essential skill. Yet Emily’s coordination preserved a working channel when illness could have isolated the project’s leader. She also defended Washington’s position when some officials considered replacing him.\n\nThe bridge opened in 1883. Emily’s role showed that engineering requires accurate calculations and suitable materials. It also requires clear communication among people who understand different parts of a complex project.",
       "questions": [
         {
           "id": "q1",
@@ -54535,7 +54535,7 @@
           "main-idea": "Keep Washington’s formal role and the whole team in view while identifying Emily’s essential work as the biography’s focus.",
           "inference": "Connect Emily’s technical studies to her ability to carry questions, answers, and decisions accurately between locations.",
           "vocabulary": "Use the nearby actions “kept records” and “handled” to identify correspondence as written communication.",
-          "detail": "The opening and completion years serve different roles; retrieve 1883 from the final paragraph for the bridge’s opening."
+          "detail": "Keep 1870, when construction began, separate from 1883, when the bridge opened."
         }
       }
     },
@@ -56632,7 +56632,7 @@
             "It gave the removed sea stars a new place to eat.",
             "It prevented mussels from attaching to any rocks.",
             "It proved seasons never affect coastal food webs.",
-            "It helped show what changed when sea stars were removed rather than when the shore was left alone."
+            "It helped identify changes caused by removing the sea stars."
           ],
           "answer": 3,
           "explanation": "A comparison makes the intervention easier to distinguish from ordinary changes on the shore."
@@ -56665,7 +56665,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Trace the experiment as cause and effect: removal changes predation, mussels gain space, and diversity falls. Then use the arch comparison to understand why abundance and influence are not the same measure.",
+        "strategy": "Follow the experiment's results. Removing sea stars reduces predation, mussels take more space, and diversity falls. Then compare abundance with influence in the arch example.",
         "signals": [
           {
             "phrase": "Without the predator",
@@ -57366,7 +57366,7 @@
             "cancel one another completely",
             "belong only to nearby people",
             "move farther away",
-            "exist and be met at the same time"
+            "exist at the same time"
           ],
           "answer": 3,
           "explanation": "The next sentence shows a promise to a friend and support for strangers being carried together."
@@ -57386,7 +57386,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Map the argument as claim, challenge, and synthesis. The final paragraph keeps the insight about special promises while widening concern beyond a local circle.",
+        "strategy": "Follow the argument's three parts. It starts with special promises, considers duties to distant strangers, and concludes that both duties can coexist.",
         "signals": [
           {
             "phrase": "But distance does not erase",
@@ -58370,23 +58370,23 @@
             "The most generous gifts must be useless and surprising.",
             "A cookbook is the correct gift for every person.",
             "Practical gifts matter only when they create dramatic photographs.",
-            "A practical gift can show deep care when usefulness grows from attention to the recipient rather than correction."
+            "A useful gift shows care when it reflects the recipient's real needs and interests."
           ],
           "answer": 3,
-          "explanation": "The essay values usefulness while setting respect and listening as its conditions."
+          "explanation": "The essay says useful gifts show care when the giver listens and respects the recipient."
         },
         {
           "id": "q2",
           "skill": "inference",
           "stem": "Why can a practical gift become a poor gift?",
           "choices": [
-            "It may express the giver’s preferred version of someone instead of the person’s real interests.",
+            "It can reflect the giver’s wishes instead of the recipient’s interests.",
             "It always removes too many daily burdens.",
             "It cannot be wrapped or photographed.",
             "It reminds the recipient of careful listening."
           ],
           "answer": 0,
-          "explanation": "The cookbook example shows usefulness being imposed without regard for the recipient."
+          "explanation": "The cookbook reflects what the giver wants the recipient to become."
         },
         {
           "id": "q3",
@@ -58416,7 +58416,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow the essay’s distinction between usefulness based on observation and usefulness imposed as correction. The conclusion joins practicality with respect.",
+        "strategy": "Ask what the giver learned about the recipient. A thoughtful practical gift reflects the recipient's interests and respects their choices.",
         "signals": [
           {
             "phrase": "Yet usefulness",
@@ -58447,7 +58447,7 @@
         ],
         "skillTips": {
           "main-idea": "Include both the value of practical attention and the need to respect the recipient.",
-          "inference": "Infer what goes wrong in the cookbook example by comparing listening with an imagined life.",
+          "inference": "Compare the recipient's real interests with the life the giver imagines.",
           "vocabulary": "Use the verbs “remove,” “replace,” and “return” to understand burden as a recurring difficulty.",
           "detail": "For the example detail, locate the three practical items named in the opening."
         }
@@ -59644,15 +59644,15 @@
           "choices": [
             "illness and a clean notebook",
             "applause and a first run",
-            "a genuine change in value and the discomfort of restarting",
+            "changed values and discomfort with restarting",
             "one scale and one page"
           ],
           "answer": 2,
-          "explanation": "The fourth paragraph poses that exact evaluation between changed values and ordinary restart discomfort."
+          "explanation": "The fourth paragraph asks whether values changed or restarting simply feels uncomfortable."
         }
       ],
       "lesson": {
-        "strategy": "Notice how the essay redefines discipline twice: first as return rather than perfection, then as evaluation rather than endless repetition. The small-step examples connect these ideas to action.",
+        "strategy": "The essay defines discipline twice. It first emphasizes returning after interruptions. It later asks whether continued effort still serves a valued goal. Small steps make returning easier.",
         "signals": [
           {
             "phrase": "Yet most practices",
@@ -59685,7 +59685,7 @@
           "main-idea": "Include manageable return and honest reevaluation in the main idea; either alone misses the balance.",
           "inference": "Infer the value of tiny actions from how they lower restart drama and preserve identity.",
           "vocabulary": "Use the practice’s “way back” after disruption to define durable as able to continue.",
-          "detail": "For the final comparison, locate the two explanations for resistance posed in paragraph four."
+          "detail": "In paragraph four, find the two reasons someone may resist returning."
         }
       }
     },
@@ -60440,7 +60440,7 @@
           "skill": "inference",
           "stem": "Why can’t the manager rely only on a stopwatch?",
           "choices": [
-            "Live actions and pauses may take different amounts of time each performance.",
+            "Live actions and pauses vary between performances.",
             "The marked script contains no information.",
             "Lighting operators cannot hear headsets.",
             "Every scene always ends early."
@@ -60488,7 +60488,7 @@
           },
           {
             "phrase": "yet it helps",
-            "means": "This contrast highlights the importance of work the audience may not hear."
+            "means": "This shows why unheard work matters to a performance."
           }
         ],
         "vocab": [
@@ -61084,17 +61084,17 @@
           "skill": "detail",
           "stem": "What two values does the final paragraph say respect includes?",
           "choices": [
-            "feelings and the ability to make informed choices",
+            "feelings and informed choice",
             "perfection and public praise",
             "silence and embarrassment",
             "speed and total agreement"
           ],
           "answer": 0,
-          "explanation": "The final paragraph names concern for feelings and for informed choice."
+          "explanation": "The final paragraph says respect includes care for feelings and informed choice."
         }
       ],
       "lesson": {
-        "strategy": "Track the false either-or and the alternatives the author builds through wording, timing, purpose, and permission. The conclusion treats respect as care for both feeling and agency.",
+        "strategy": "Identify the two values the author refuses to separate. Wording, timing, purpose, and permission can protect both feelings and informed choice.",
         "signals": [
           {
             "phrase": "not simply",
@@ -61167,7 +61167,7 @@
             "Its layout may resemble an earlier place whose specific context is not consciously retrieved."
           ],
           "answer": 3,
-          "explanation": "The fourth paragraph offers partial similarity without accessible source details as one possible mechanism."
+          "explanation": "The third paragraph suggests that a new layout may resemble an earlier place whose details are not consciously recalled."
         },
         {
           "id": "q3",
@@ -61188,7 +61188,7 @@
           "stem": "When does the passage recommend medical attention?",
           "choices": [
             "after every brief ordinary episode",
-            "when déjà vu is frequent and comes with confusion or other symptoms",
+            "when it happens often with confusion or other symptoms",
             "only when a café looks unfamiliar",
             "whenever a person remembers a real source"
           ],
@@ -61197,7 +61197,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate the feeling of knowing from the retrieval of a source. The possible mechanisms are hypotheses, while the final paragraph distinguishes an ordinary episode from a symptom pattern needing attention.",
+        "strategy": "Separate the feeling of familiarity from remembering its source. Treat the possible causes as hypotheses. The final paragraph explains when frequent episodes need medical attention.",
         "signals": [
           {
             "phrase": "yet no earlier visit emerges",
@@ -61264,13 +61264,13 @@
           "skill": "inference",
           "stem": "Why should an unusual warm patch be checked in the field?",
           "choices": [
-            "Several conditions can affect the signal, so warmth alone does not identify one cause.",
+            "A field check can test other possible causes of the signal.",
             "Field visits increase the satellite’s orbital speed.",
             "Every warm pixel proves that crops were never planted.",
             "Near-infrared reflection prevents water stress."
           ],
           "answer": 0,
-          "explanation": "The third paragraph says the remote pattern is not a diagnosis and lists possible influences."
+          "explanation": "The second paragraph says the remote pattern is not a diagnosis and lists possible influences."
         },
         {
           "id": "q3",
@@ -61300,7 +61300,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Trace the evidence chain from wavelength measurement to pattern, comparison, investigation, and action. Treat every image as a clue at a particular scale rather than an automatic diagnosis.",
+        "strategy": "Follow the evidence from wavelength measurement to pattern, comparison, field check, and action. A field check can help identify causes of the image pattern.",
         "signals": [
           {
             "phrase": "not a diagnosis",
@@ -62068,7 +62068,7 @@
       "level": 3,
       "wordCount": 193,
       "releasedAt": "2026-08-12",
-      "text": "Speed narrows attention toward what is next. On an express train, a town becomes a station name and a blur of roofs. Walking the same route reveals the slope of a street, bread cooling near a bakery, and a path worn through grass where the official sidewalk makes an inconvenient turn.\n\nMoving slowly can expose relationships that efficiency hides. A repairer notices why a hinge fails repeatedly. A listener hears the hesitation after an easy answer. A scientist watches a process long enough to see a rare change. Slowness gives small evidence time to become visible.\n\nYet slow is not automatically wise. An ambulance must not admire the scenery. A delayed decision can leave another person carrying uncertainty. Repetition without attention is merely delay. The value lies in choosing a pace suited to the purpose.\n\nModern life often treats speed as proof of importance or skill. Sometimes it is. Quick action can protect people and preserve opportunity. But a slow lane remains a useful instrument when the question requires texture, maintenance, or trust. It changes not only how long a journey takes, but what the traveler is able to notice along the way.",
+      "text": "Speed narrows attention toward what is next. On an express train, a town becomes a station name and a blur of roofs. Walking the same route reveals the slope of a street, bread cooling near a bakery, and a path worn through grass where the official sidewalk makes an inconvenient turn.\n\nMoving slowly can expose relationships that efficiency hides. A repairer notices why a hinge fails repeatedly. A listener hears the hesitation after an easy answer. A scientist watches a process long enough to see a rare change. Slowness gives small evidence time to become visible.\n\nYet slow is not automatically wise. An ambulance must not admire the scenery. A delayed decision can leave another person carrying uncertainty. Repetition without attention is merely delay. The value lies in choosing a pace suited to the purpose.\n\nModern life often treats speed as proof of importance or skill. Sometimes it is. Quick action can protect people and preserve opportunity. But a slow lane remains a useful instrument when the question requires texture, maintenance, or trust. The chosen pace changes travel time and affects which details a person can notice while moving through the same place.",
       "questions": [
         {
           "id": "q1",
@@ -62171,7 +62171,7 @@
       "level": 4,
       "wordCount": 223,
       "releasedAt": "2026-08-12",
-      "text": "A porcupine lived beside a bridge whose third plank had begun to split. He warned every traveler. “Only a fool would step there,” he told the deer. The deer bristled and crossed without looking down. “Your eyes must be made of mud,” he told the mole, who turned away before hearing which plank was weak. When the porcupine shouted at a flock of quail, they scattered at the insult and landed on the bridge. The porcupine complained. A frog listened. “Perhaps they hear the thorns before the warning,” she said. “A true fact stays true,” answered the porcupine.\n\n“Yes,” said the frog. “But advice must arrive.” She hopped to the road and called, “Please use the left edge. The third plank is splitting.” Travelers slowed, thanked her, and crossed safely. The porcupine felt the familiar sharp reply rise in his throat. He let it pass. Together they blocked the bridge and fetched beavers. By sunset, the plank was sound.\n\nThe next morning, the porcupine saw a young hare racing toward wet stones. “Only a…” he began. Then he tried again. “The stones are slick. Take the grass.” The hare changed course.\n\nThe porcupine had not made the danger less true. He had learned that a warning is measured not only by its accuracy, but by whether another creature can receive and use it.",
+      "text": "A porcupine lived beside a bridge whose third plank had begun to split. He warned every traveler. “Only a fool would step there,” he told the deer. The deer bristled and crossed without looking down. “Your eyes must be made of mud,” he told the mole, who turned away before hearing which plank was weak. When the porcupine shouted at a flock of quail, they scattered at the insult and landed on the bridge. The porcupine complained. A frog listened. “Perhaps they hear the thorns before the warning,” she said. “A true fact stays true,” answered the porcupine.\n\n“Yes,” said the frog. “But advice must arrive.” She hopped to the road and called, “Please use the left edge. The third plank is splitting.” Travelers slowed, thanked her, and crossed safely. The porcupine felt the familiar sharp reply rise in his throat. He let it pass. Together they blocked the bridge and fetched beavers. By sunset, the plank was sound.\n\nThe next morning, the porcupine saw a young hare racing toward wet stones. “Only a…” he began. Then he tried again. “The stones are slick. Take the grass.” The hare changed course.\n\nThe porcupine had not made the danger less true. He had learned that a warning needs accuracy and clear language so another creature can receive, understand, and use it to stay safe.",
       "questions": [
         {
           "id": "q1",
@@ -62386,7 +62386,7 @@
           "choices": [
             "Every impulse disappears after exactly one breath.",
             "Checking a phone is always an unwise decision.",
-            "A brief pause can add useful cues before an impulse becomes a choice, though it does not guarantee control.",
+            "A brief pause can add useful information before a choice. It cannot guarantee control.",
             "Reflection works only when a tempting object stays nearby."
           ],
           "answer": 2,
@@ -62433,7 +62433,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track the cues available before and after Maya pauses. The passage presents delay as a way to widen information, not as a guaranteed cure or rule.",
+        "strategy": "Compare the information Maya has before and after she pauses. The delay gives her more information. She still decides what to do.",
         "signals": [
           {
             "phrase": "before she decides",
@@ -62463,7 +62463,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "State the main idea with both the benefit of pausing and its lack of a guarantee.",
+          "main-idea": "State how pausing helps. Also state its limit.",
           "inference": "Infer the question’s purpose from the study-related objects Maya notices immediately afterward.",
           "vocabulary": "Compare the phone buzz and open book to define a cue as an action prompt.",
           "detail": "For a setting change, locate the three concrete examples in the final paragraph."
@@ -63098,7 +63098,7 @@
       "level": 3,
       "wordCount": 197,
       "releasedAt": "2026-08-12",
-      "text": "Lillian Moller Gilbreth studied how people moved while doing work. Trained in psychology and engineering, she and her husband, Frank, analyzed tasks into smaller motions. After his death, she continued their consulting work while supporting a large family.\n\nFactories did not always welcome a woman engineer, so Gilbreth also applied her methods to household labor. She observed cooks walking repeatedly between sink, stove, table, and shelves. A kitchen could require extra steps not because cooking demanded them, but because tools and work surfaces had been placed without attention to sequence.\n\nGilbreth helped develop kitchen designs organized around common tasks. She promoted useful heights, accessible storage, movable work surfaces, and a practical flow among major stations. The aim was not to make one rigid room for every body. It was to let observation replace habit when arranging work.\n\nShe also designed adaptations for people with disabilities and worked on products used in homes. Her research treated ordinary movement as worthy of engineering. A wasted reach repeated fifty times was no longer invisible once someone counted it. Gilbreth's legacy lies not only in efficiency, but in asking whose effort a design assumes and how that effort might be reduced.",
+      "text": "Lillian Moller Gilbreth studied how people moved while doing work. Trained in psychology and engineering, she and her husband, Frank, analyzed tasks into smaller motions. After his death, she continued their consulting work while supporting a large family.\n\nFactories did not always welcome a woman engineer, so Gilbreth also applied her methods to household labor. She observed cooks walking repeatedly between sink, stove, table, and shelves. A kitchen could require extra steps not because cooking demanded them, but because tools and work surfaces had been placed without attention to sequence.\n\nGilbreth helped develop kitchen designs organized around common tasks. She promoted useful heights, accessible storage, movable work surfaces, and a practical flow among major stations. The aim was not to make one rigid room for every body. It was to let observation replace habit when arranging work.\n\nShe also designed adaptations for people with disabilities and worked on products used in homes. Her research treated ordinary movement as worthy of engineering. A wasted reach repeated fifty times was no longer invisible once someone counted it. Gilbreth's legacy includes greater efficiency and a question for designers: who uses a design, and how can it reduce their daily effort?",
       "questions": [
         {
           "id": "q1",
@@ -63314,10 +63314,10 @@
             "A speaker is responsible for controlling every possible interpretation of every sentence.",
             "Accurate words remove any need to consider context, audience, or shared knowledge.",
             "Listeners alone must repair confusing government forms and safety warnings.",
-            "Understanding is shared work, while speakers with greater knowledge or power have a stronger duty to make messages reasonably accessible and repair confusion."
+            "Understanding requires shared effort. Speakers with more knowledge or power must do more to make messages understandable."
           ],
           "answer": 3,
-          "explanation": "The essay balances realistic limits with specific speaker choices and a greater burden under unequal power."
+          "explanation": "The essay explains what speakers can control, what they cannot, and why power creates a greater duty."
         },
         {
           "id": "q2",
@@ -63335,7 +63335,7 @@
         {
           "id": "q3",
           "skill": "vocabulary",
-          "stem": "What does “stakes” mean in the fourth paragraph?",
+          "stem": "What does “stakes” mean in the second paragraph?",
           "choices": [
             "wooden posts holding up a sign",
             "the possible consequences or importance of the exchange",
@@ -63356,11 +63356,11 @@
             "removing units from a chart"
           ],
           "answer": 2,
-          "explanation": "The fourth paragraph explicitly recommends a new example or format when repetition fails."
+          "explanation": "The second paragraph recommends a new example or format when repetition fails."
         }
       ],
       "lesson": {
-        "strategy": "Trace the argument from available speaker choices, through limits on control, to greater duties under power. The conclusion defines responsibility as reasonable enablement, not guaranteed success.",
+        "strategy": "Identify the speaker's choices and limits. Then explain why greater power brings greater responsibility. The conclusion requires reasonable support for understanding. No speaker can guarantee success.",
         "signals": [
           {
             "phrase": "Responsibility is not unlimited",
@@ -63390,10 +63390,10 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Include shared effort, limited control, and the greater duty of knowledgeable or powerful speakers.",
+          "main-idea": "Include shared effort, limits on control, and greater duties for powerful speakers.",
           "inference": "Infer the institutional burden from recipients’ limited ability to challenge, clarify, or avoid the message.",
           "vocabulary": "Use the high-consequence setting around revision to define stakes.",
-          "detail": "For the alternative to repetition, locate the paired options at the end of paragraph four."
+          "detail": "For an alternative to repetition, look at the end of paragraph two."
         }
       }
     },
@@ -63736,7 +63736,7 @@
           "skill": "inference",
           "stem": "Why might replacing one component require recalibration?",
           "choices": [
-            "A different part can change how the sensor turns a physical condition into a measurement.",
+            "A new part may change how the sensor measures a physical condition.",
             "The open license disappears whenever a part changes.",
             "Every replacement makes assembly labels unreadable.",
             "Calibration applies only to sealed devices."
@@ -63755,7 +63755,7 @@
             "a rule preventing public inspection"
           ],
           "answer": 1,
-          "explanation": "The fourth paragraph lists diagrams, units, history, and procedures as needed records."
+          "explanation": "The third paragraph lists units, version history, and test procedures as needed documentation."
         },
         {
           "id": "q4",
@@ -63772,7 +63772,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Distinguish permission to inspect and modify from evidence that a particular build works safely. Track how documentation and returned test results turn files into collaboration.",
+        "strategy": "Separate permission to modify a design from proof that the new build works safely. Documentation and test results help people improve the design together.",
         "signals": [
           {
             "phrase": "not the same as a tested product",
@@ -63854,7 +63854,7 @@
           "choices": [
             "given points by theater judges",
             "painted to resemble iron",
-            "cut or marked partway through to control where it tears",
+            "partly cut or marked to guide a tear",
             "made thicker with solid oak"
           ],
           "answer": 2,
@@ -63875,7 +63875,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Trace the difference between strength everywhere and strength arranged around a purpose. Then apply the door metaphor cautiously to the siblings’ separable needs.",
+        "strategy": "Compare uniform strength with strength designed for a specific purpose. Then apply that idea carefully to the siblings’ separate needs.",
         "signals": [
           {
             "phrase": "too well",
@@ -64356,11 +64356,11 @@
           "choices": [
             "The formulas were written only as musical notes.",
             "Proof would have prevented any later application.",
-            "They could not readily check why a claim followed or whether it held in all intended cases.",
+            "They could not easily verify the claims or know whether they always applied.",
             "Hardy required every known claim to be wrong."
           ],
           "answer": 2,
-          "explanation": "The conclusion distinguishes an inspired claim from a verified path others can examine and reuse."
+          "explanation": "The conclusion says a proof lets others check and reuse a mathematical claim."
         },
         {
           "id": "q3",
@@ -64390,7 +64390,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Keep discovery, proof, and later verification as distinct contributions. Read the cross-cultural partnership without turning either mathematician into the sole source of Ramanujan’s achievement.",
+        "strategy": "Separate Ramanujan's discoveries from the proofs and later verification. Give each mathematician accurate credit for the cross-cultural partnership.",
         "signals": [
           {
             "phrase": "Yet unusual notation",
@@ -64446,7 +64446,7 @@
           "choices": [
             "Every market must keep all goods and buyers inside one physical hall.",
             "A market exists only after fish have spoiled.",
-            "A market can form without one building when buyers and sellers share offers, rules, and enough trust to exchange.",
+            "A market can exist without one building when buyers and sellers share offers, rules, and trust.",
             "Shared price information prevents sellers from comparing offers."
           ],
           "answer": 2,
@@ -64470,7 +64470,7 @@
           "skill": "vocabulary",
           "stem": "What does “exchange” mean here?",
           "choices": [
-            "giving goods or services in return for payment or value",
+            "trading goods or services for payment or value",
             "building walls around a product",
             "announcing weather without prices",
             "weighing only one kilogram"
@@ -64493,7 +64493,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Identify the essential connections among offers, comparison, payment, delivery, and trust. The physical location is useful but not part of the definition.",
+        "strategy": "Identify what makes exchange possible: offers, comparisons, payment, delivery, and trust. A shared building is optional.",
         "signals": [
           {
             "phrase": "because offers can meet",
@@ -64523,7 +64523,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "State the main idea through information, rules, trust, and exchange rather than location.",
+          "main-idea": "Include information, rules, trust, and exchange. Location is not essential.",
           "inference": "Infer comparison value from the different offers fishers can consider.",
           "vocabulary": "Use payment and delivery between buyer and seller to define exchange.",
           "detail": "For the shared unit, return to the examples of rules in the final paragraph."
@@ -64560,13 +64560,13 @@
           "skill": "inference",
           "stem": "Why should another newcomer test the map?",
           "choices": [
-            "The test can reveal whether revisions actually help someone without prior route knowledge.",
+            "It shows whether the revised map helps someone new to the route.",
             "The newcomer can remove every secure door.",
             "Testing makes expert knowledge unnecessary.",
             "One new user knows all winter conditions."
           ],
           "answer": 0,
-          "explanation": "A second fresh user checks whether the combined map bridges the same knowledge gap in practice."
+          "explanation": "A second new user tests whether the added directions are clear enough to follow."
         },
         {
           "id": "q3",
@@ -64596,7 +64596,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare the blind spots of familiarity with the blind spots of one-time observation. The proposed workflow combines and tests both forms of knowledge.",
+        "strategy": "Compare the expert's blind spots with the newcomer's missed details. Combine both kinds of knowledge, revise the map, and test it again.",
         "signals": [
           {
             "phrase": "forgetting the three unmarked doors",
@@ -64768,7 +64768,7 @@
           "choices": [
             "Its individual footprints are always physically larger.",
             "The hiker controls all park signs and barriers.",
-            "It directs many visits and has greater knowledge and capacity to change the pattern.",
+            "It directs many visits and may have more ability to change the pattern.",
             "Companies cannot contribute money to repair."
           ],
           "answer": 2,
@@ -64802,7 +64802,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare the two rejected extremes, then map responsibility across roles and capacities. The solution shifts attention from isolated blame to the system that repeats the outcome.",
+        "strategy": "Compare individual responsibility with institutional responsibility. The tour company directs repeated visits and can change the system that causes harm.",
         "signals": [
           {
             "phrase": "Both answers miss",
@@ -65062,13 +65062,13 @@
           "skill": "main-idea",
           "stem": "What is the main idea of the story?",
           "choices": [
-            "A lost paper crane gathers small messages from bus riders and helps Mei feel connected in a new city.",
+            "Messages added to Mei’s lost paper crane help her feel less alone in the city.",
             "Mei’s crane is thrown away before anyone can find it.",
             "Every rider writes the same advice about school.",
             "The messages make every difficult part of Mei’s day disappear."
           ],
           "answer": 0,
-          "explanation": "The story follows the object’s community journey and Mei’s realistic change in belonging."
+          "explanation": "The crane collects messages from several riders. When it returns, Mei feels more connected and adds her own message."
         },
         {
           "id": "q2",
@@ -65111,7 +65111,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow how each rider changes the same object, then compare the blank and crowded crane. The ending turns Mei from recipient into participant.",
+        "strategy": "Track how each rider changes the crane. Compare it before and after the messages. At the end, Mei adds her own message and joins the exchange.",
         "signals": [
           {
             "phrase": "All day",
@@ -65696,7 +65696,7 @@
             "It produces the highest harvest in every possible season.",
             "It makes forecasts and soil irrelevant.",
             "It guarantees that floods never occur.",
-            "Its drought survival may protect the household from a result it cannot afford to bear."
+            "Its drought survival may protect the family from a loss it cannot afford."
           ],
           "answer": 3,
           "explanation": "The conclusion connects resilience with a family’s limited capacity to absorb disaster."
@@ -65729,7 +65729,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Separate maximum outcome, average expectation, and ability to survive a bad outcome. Then evaluate each risk tool by both what it reduces and what uncertainty remains.",
+        "strategy": "Separate highest possible yield, average yield, and survival in a bad season. For each risk tool, identify what it reduces and what uncertainty remains.",
         "signals": [
           {
             "phrase": "ignores risk",
@@ -65762,7 +65762,7 @@
           "main-idea": "Include return, risk, household capacity, coping tools, and uncertainty in the main idea.",
           "inference": "Infer the lower-yield choice from the severe consequence of one drought for a vulnerable household.",
           "vocabulary": "Use saved cash or grain after a poor harvest to define buffer.",
-          "detail": "For diversification, locate the first strategy in paragraph three."
+          "detail": "For the strategy that spreads weather risk, find the first option in paragraph two."
         }
       }
     },
@@ -66108,7 +66108,7 @@
             "It removes every remaining book from the pile.",
             "It proves the task has no larger purpose.",
             "It makes sorting quality unimportant.",
-            "It provides evidence that their method works and shows a reachable unit of completion."
+            "It shows their method works and gives them a reachable next goal."
           ],
           "answer": 3,
           "explanation": "The finished shelf supplies both a concrete result and a model for the next step."
@@ -66141,7 +66141,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track what a small win contributes: evidence, a visible endpoint, and a next step. The cautions prevent progress signals from replacing purpose or resources.",
+        "strategy": "Identify what a small win provides: evidence, a clear endpoint, and a next step. Progress still needs purpose and resources.",
         "signals": [
           {
             "phrase": "however",
@@ -67444,7 +67444,7 @@
           "skill": "inference",
           "stem": "Why can feedback reduce reliance on vision?",
           "choices": [
-            "A learned sensation pattern can indicate contact and grip force while the user acts.",
+            "A learned sensation pattern can show contact and grip force during use.",
             "Sensors make every object transparent to the eye.",
             "Motors no longer need any control signal.",
             "The prosthesis stops touching fragile objects."
@@ -67476,11 +67476,11 @@
             "the user’s goal"
           ],
           "answer": 2,
-          "explanation": "The second paragraph says sensors turn force into electrical measurements."
+          "explanation": "The first paragraph says the sensors turn force into electrical measurements."
         }
       ],
       "lesson": {
-        "strategy": "Trace the closed loop from contact to sensor, processor, feedback, learning, and grip adjustment. Then evaluate the loop in daily life from the user’s priorities.",
+        "strategy": "Follow the process: contact, sensor, processor, feedback, learning, and grip adjustment. Then judge the design using the user's daily needs.",
         "signals": [
           {
             "phrase": "Sensation is another",
@@ -67960,17 +67960,17 @@
           "stem": "Why do satellite systems require corrections from both theories?",
           "choices": [
             "Satellites travel without motion or gravity.",
-            "Orbital motion and weaker gravity affect satellite clock rates in different ways relative to ground clocks.",
+            "Orbital motion and weaker gravity change satellite clock rates differently from ground clocks.",
             "Position systems work without precise timing signals.",
             "Special and general relativity predict identical effects for the same reason."
           ],
           "answer": 1,
-          "explanation": "The fifth paragraph assigns one rate effect to rapid motion and another to gravitational difference."
+          "explanation": "The third paragraph says orbital motion and weaker gravity affect satellite clocks in opposing ways."
         },
         {
           "id": "q3",
           "skill": "vocabulary",
-          "stem": "What does “reference frame” mean in context?",
+          "stem": "What does “frame” mean in context?",
           "choices": [
             "the metal case surrounding a clock",
             "a photograph of one satellite path",
@@ -67991,7 +67991,7 @@
             "satellite navigation"
           ],
           "answer": 3,
-          "explanation": "The fifth paragraph identifies satellite navigation as a system applying relativistic corrections."
+          "explanation": "The third paragraph identifies satellite navigation as a system that applies relativistic corrections."
         }
       ],
       "lesson": {
