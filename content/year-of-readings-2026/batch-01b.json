@@ -214,9 +214,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "nonfiction",
       "level": 4,
-      "wordCount": 204,
+      "wordCount": 205,
       "releasedAt": "2026-08-12",
-      "text": "If time zones followed geometry alone, the world could be divided into neat bands based on longitude. Since Earth turns once each day, neighboring bands would differ by regular amounts. Real time-zone maps are far less tidy. Borders bend around countries, regions, islands, and trading partners.\n\nClock time is a social tool as well as an astronomical measurement. A region may choose to share a time with the city where residents work, shop, or catch trains, even if a straight longitude line suggests another zone. Governments may keep one time across a broad territory to simplify administration. Neighboring areas can choose differently because their daily connections point in different directions.\n\nDaylight creates another tradeoff. Moving clocks shifts how much sunlight falls before or after common work and school hours; it does not create more daylight. A choice that makes winter mornings later may make summer evenings feel longer. Seasonal clock changes add another policy layer in some places.\n\nThese decisions can change, so a time-zone database needs updates rather than relying forever on a drawn map. The crooked borders are not failures of geography. They record attempts to coordinate sunlight, travel, government, commerce, and ordinary routines—needs that rarely line up along one clean meridian.",
+      "text": "If time zones followed geometry alone, the world could be divided into neat bands based on longitude. Since Earth turns once each day, neighboring bands would differ by regular amounts. Real time-zone maps are far less tidy. Borders bend around countries, regions, islands, and trading partners.\n\nClock time is a social tool as well as an astronomical measurement. A region may choose to share a time with the city where residents work, shop, or catch trains, even if a straight longitude line suggests another zone. Governments may keep one time across a broad territory to simplify administration. Neighboring areas can choose differently because their daily connections point in different directions.\n\nDaylight creates another tradeoff. Moving clocks shifts how much sunlight falls before or after common work and school hours; it does not create more daylight. A choice that makes winter mornings later may make summer evenings feel longer. Seasonal clock changes add another policy layer in some places.\n\nThese decisions can change, so a time-zone database needs updates rather than relying forever on a drawn map. The crooked borders are not failures of geography. They record attempts to coordinate sunlight, travel, government, commerce, and ordinary routines, needs that rarely line up along one clean meridian.",
       "questions": [
         {
           "id": "q1",
@@ -791,7 +791,7 @@
         "signals": [
           {
             "phrase": "helped everyone enter",
-            "means": "The drum begins with a genuinely useful coordinating role."
+            "means": "The drum begins with a useful coordinating role."
           },
           {
             "phrase": "almost nothing else",
@@ -1656,9 +1656,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "biography",
       "level": 3,
-      "wordCount": 196,
+      "wordCount": 197,
       "releasedAt": "2026-08-12",
-      "text": "Granville T. Woods worked with electrical and mechanical systems during the rapid expansion of railways in the late nineteenth century. He gained practical experience in machine shops, on ships, and around trains, then developed and patented improvements involving railway communication and control.\n\nRail lines created a difficult information problem. Dispatchers and train crews needed to know where trains were and whether track ahead was clear, yet moving vehicles could not rely on a fixed office wire in the ordinary way. Woods designed systems that used electrical induction to exchange signals between moving trains and equipment beside the track.\n\nHis patents covered more than one device, and later summaries sometimes compress them into a single invention with a simple nickname. The details changed across designs. Their shared aim was dependable communication in motion—helping railway workers coordinate vehicles across a network where distance and delay could become dangerous.\n\nWoods also worked on electrical distribution, braking, and transit equipment. Like many inventors, he built within a field shaped by other engineers, manufacturers, patent disputes, and earlier components. His achievement was not creating rail communication from nothing. It was identifying practical weaknesses and repeatedly developing electrical arrangements to address them.",
+      "text": "Granville T. Woods worked with electrical and mechanical systems during the rapid expansion of railways in the late nineteenth century. He gained practical experience in machine shops, on ships, and around trains, then developed and patented improvements involving railway communication and control.\n\nRail lines created a difficult information problem. Dispatchers and train crews needed to know where trains were and whether track ahead was clear, yet moving vehicles could not rely on a fixed office wire in the ordinary way. Woods designed systems that used electrical induction to exchange signals between moving trains and equipment beside the track.\n\nHis patents covered more than one device, and later summaries sometimes compress them into a single invention with a simple nickname. The details changed across designs. Their shared aim was dependable communication in motion: helping railway workers coordinate vehicles across a network where distance and delay could become dangerous.\n\nWoods also worked on electrical distribution, braking, and transit equipment. Like many inventors, he built within a field shaped by other engineers, manufacturers, patent disputes, and earlier components. His achievement was not creating rail communication from nothing. It was identifying practical weaknesses and repeatedly developing electrical arrangements to address them.",
       "questions": [
         {
           "id": "q1",
@@ -2068,9 +2068,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "philosophy",
       "level": 2,
-      "wordCount": 144,
+      "wordCount": 146,
       "releasedAt": "2026-08-12",
-      "text": "Imagine someone inside a closed room who does not understand Chinese. Written Chinese symbols arrive through a slot. The person follows a detailed rulebook for matching symbols and sends back responses. To an outside reader, the answers may appear fluent.\n\nPhilosopher John Searle used this Chinese-room thought experiment to question whether correct symbol processing is enough for understanding. The person follows rules but does not know what any symbol means. A computer program, the argument suggests, might likewise produce appropriate output without understanding a story as a person does.\n\nCritics answer that the whole system—not the person alone—may understand: room, rules, memory, and symbol work operate together. Others argue that interaction with the world, learning, or a body could change the case.\n\nThe puzzle does not test an existing room. It separates successful performance from felt understanding and asks whether one proves the other.",
+      "text": "Imagine someone inside a closed room who does not understand Chinese. Written Chinese symbols arrive through a slot. The person follows a detailed rulebook for matching symbols and sends back responses. To an outside reader, the answers may appear fluent.\n\nPhilosopher John Searle used this Chinese-room thought experiment to question whether correct symbol processing is enough for understanding. The person follows rules but does not know what any symbol means. A computer program, the argument suggests, might likewise produce appropriate output without understanding a story as a person does.\n\nCritics answer that the whole system, not the person alone, may understand: room, rules, memory, and symbol work operate together. Others argue that interaction with the world, learning, or a body could change the case.\n\nThe puzzle does not test an existing room. It separates successful performance from felt understanding and asks whether one proves the other.",
       "questions": [
         {
           "id": "q1",
@@ -2212,7 +2212,7 @@
             "a favorite selected from habit"
           ],
           "answer": 0,
-          "explanation": "The surrounding effects—effort, delay, and uncertainty—show a decision process burdened by too much comparison."
+          "explanation": "The surrounding effects (effort, delay, and uncertainty) show a decision process burdened by too much comparison."
         },
         {
           "id": "q4",
@@ -2274,9 +2274,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "technology",
       "level": 4,
-      "wordCount": 217,
+      "wordCount": 219,
       "releasedAt": "2026-08-12",
-      "text": "Suppose a library of digital documents contains millions of pages. To answer a search for “harbor,” a computer could reopen every page and scan every word. That method works in principle but wastes time by repeating the same reading for each query.\n\nA search system instead prepares an inverted index. For every selected term, the index stores a list of documents—or positions within documents—where that term occurs. The ordinary document leads to its words; the inverted structure leads from a word back to documents.\n\nBuilding the index requires choices. Text is divided into tokens, common words may receive special treatment, and related forms such as “walk” and “walking” may or may not be grouped. The system must also update entries when documents change. Those decisions affect what a query can find.\n\nFinding documents that contain a word is only one stage. A search engine may rank results using term frequency, location, links, freshness, authority, or other signals. The index supplies candidates quickly; ranking tries to order them usefully. An index therefore exchanges work now for speed later. It consumes storage and preparation time so repeated searches need not reread the entire collection. Like a book index, it points toward likely locations, though a digital version can record far more relationships and be rebuilt when the collection changes.",
+      "text": "Suppose a library of digital documents contains millions of pages. To answer a search for “harbor,” a computer could reopen every page and scan every word. That method works in principle but wastes time by repeating the same reading for each query.\n\nA search system instead prepares an inverted index. For every selected term, the index stores a list of documents, or positions within documents, where that term occurs. The ordinary document leads to its words; the inverted structure leads from a word back to documents.\n\nBuilding the index requires choices. Text is divided into tokens, common words may receive special treatment, and related forms such as “walk” and “walking” may or may not be grouped. The system must also update entries when documents change. Those decisions affect what a query can find.\n\nFinding documents that contain a word is only one stage. A search engine may rank results using term frequency, location, links, freshness, authority, or other signals. The index supplies candidates quickly; ranking tries to order them usefully. An index therefore exchanges work now for speed later. It consumes storage and preparation time so repeated searches need not reread the entire collection. Like a book index, it points toward likely locations, though a digital version can record far more relationships and be rebuilt when the collection changes.",
       "questions": [
         {
           "id": "q1",
@@ -2789,9 +2789,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "science",
       "level": 4,
-      "wordCount": 225,
+      "wordCount": 227,
       "releasedAt": "2026-08-12",
-      "text": "A wing moving through air produces lift through shape, angle, speed, and airflow. No slogan captures it. Pressure differences around the wing and downward change in the air's momentum describe the same interaction, not rival tricks.\n\nThe wing's curved and angled surfaces guide airflow. Air moves faster over some regions and pressure varies around the surface. The wing also turns a mass of air downward. By Newton's laws, the air exerts an opposing force on the wing. Total pressure across the surface produces a force with an upward component.\n\nAngle of attack—the angle between a wing and the oncoming airflow—matters. Increasing it can raise lift up to a point. If the angle becomes too large, smooth flow separates extensively from the surface and lift can drop; this condition is a stall. A stall concerns airflow and angle, not simply an engine stopping.\n\nSpeed and air density also matter, while wing area and shape determine how forces are distributed. Aircraft can fly upside down when their wings and angle redirect air appropriately, which shows why “air on top must travel an equal-time longer path” is not a reliable universal explanation. Lift is therefore a linked result: the wing organizes pressure and redirects air, while the air pushes back. Different mathematical approaches highlight different parts, but a complete account must agree on the same forces and motion.",
+      "text": "A wing moving through air produces lift through shape, angle, speed, and airflow. No slogan captures it. Pressure differences around the wing and downward change in the air's momentum describe the same interaction, not rival tricks.\n\nThe wing's curved and angled surfaces guide airflow. Air moves faster over some regions and pressure varies around the surface. The wing also turns a mass of air downward. By Newton's laws, the air exerts an opposing force on the wing. Total pressure across the surface produces a force with an upward component.\n\nAngle of attack, the angle between a wing and the oncoming airflow, matters. Increasing it can raise lift up to a point. If the angle becomes too large, smooth flow separates extensively from the surface and lift can drop; this condition is a stall. A stall concerns airflow and angle, not simply an engine stopping.\n\nSpeed and air density also matter, while wing area and shape determine how forces are distributed. Aircraft can fly upside down when their wings and angle redirect air appropriately, which shows why “air on top must travel an equal-time longer path” is not a reliable universal explanation. Lift is therefore a linked result: the wing organizes pressure and redirects air, while the air pushes back. Different mathematical approaches highlight different parts, but a complete account must agree on the same forces and motion.",
       "questions": [
         {
           "id": "q1",
@@ -3186,7 +3186,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Include both the critique of endless waiting and the exception for genuinely significant objects.",
+          "main-idea": "Include both the critique of endless waiting and the exception for significant objects.",
           "inference": "Yellowing demonstrates that nonuse has costs and cannot freeze an object permanently.",
           "vocabulary": "The care and protection surrounding the objects show that cherished means deeply valued.",
           "detail": "The first paragraph pairs the notebook specifically with an idea that never feels important enough."

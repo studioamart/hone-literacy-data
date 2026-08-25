@@ -45,8 +45,8 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Test distractor review gates
-        run: python3 -m unittest scripts/test_distractor_evidence.py
+      - name: Test data tooling
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
 
       - name: Validate optional distractor review parity
         run: |
@@ -62,9 +62,13 @@ jobs:
         run: |
           if compgen -G 'content/year-of-readings-2026/batch-*.json' > /dev/null; then
             python3 scripts/validate-year-pack.py
+            python3 scripts/year_pack_parity.py
           else
             echo 'No year-pack batches present; skipping year-pack validation.'
           fi
+
+      - name: Report readability review candidates
+        run: python3 scripts/audit-readability.py
 
       # ubuntu-24.04's documented runner image includes Swift. This checks the
       # same Codable shape consumed by the app without requiring Xcode.

@@ -37,7 +37,7 @@ Two source types, both clean of third-party IP:
 | `sourceType`     | What it is | Rule |
 |------------------|------------|------|
 | `public-domain`  | Excerpts of works in the U.S. public domain (pre-1929 or verified). | Fill `source` + `attribution` precisely (author, work, year). |
-| `original`       | Passages written for Fluency (human or AI-assisted, human-reviewed). | No copying; use the Studio AM / Fluency attribution. |
+| `original`       | Passages written for Fluency, sometimes with AI assistance. | No copying; run the automated checks and an independent editorial review before release. Use the Studio AM / Fluency attribution. |
 
 We do **not** scrape paywalled or in-copyright articles. Multiple-choice
 questions are generated/edited for these passages and reviewed for a single
@@ -107,9 +107,10 @@ minimum. Tags come only from the closed vocabulary in
 reviewed question skill.
 
 This evidence is a future editorial enhancement, not a corpus-release
-requirement. Zero, partial, and complete coverage are all valid. CI validates
-the shape and provenance of any tags that do exist, but it does not require an
-editor to add tags or convert uncertain `null` slots into labels.
+requirement or release floor. Zero, partial, and complete coverage are all
+valid. CI validates the shape and provenance of any tags that do exist, but it
+does not require an editor to add tags or convert uncertain `null` slots into
+labels.
 
 The authoritative authoring record is `content/distractor-reviews-v1.json`.
 Every non-null option review must include a specific editorial rationale. Its
@@ -191,6 +192,29 @@ snapshot nor the current OTA v15 corpus materializes optional tag arrays. That
 zero-coverage state is valid and does not block a release. Future reviews can
 be added incrementally; the tooling does not invent labels from question skill
 or option position, and an uncertain choice remains `null`.
+
+## Readability review
+
+Run the conservative readability scan before editing user-facing prose:
+
+```bash
+python3 scripts/audit-readability.py
+python3 scripts/audit-readability.py --json > /tmp/fluency-readability.json
+python3 scripts/audit-readability.py --id-prefix og-y26- --json \
+  > /tmp/fluency-year-pack-readability.json
+```
+
+The JSON report has stable ordering and no timestamp, so separate editorial
+passes can compare it. It lists direct-language candidates, long sentences in
+app-written teaching copy, correct-answer length ratios, exact repeated
+explanations, and public-domain source-text exemptions. Findings are review
+prompts, not automatic errors. The structural corpus audit remains the release
+check.
+
+Verbatim public-domain passage text is exempt from direct-language findings.
+Questions, explanations, and lessons written for those passages are not exempt.
+The report also records that optional distractor tags have no release coverage
+minimum.
 
 ## New tags (`releasedAt`)
 

@@ -1,8 +1,8 @@
 # A Year of Readings (2026)
 
-This pack adds **365 original English readings** to Fluency's over-the-air
-corpus. It is an authoring source; `data/passages.json` remains the single file
-downloaded by the app.
+This pack contains the **365 original English readings** first published in
+corpus v12. The batch records mirror those same records in the current OTA
+corpus. `data/passages.json` remains the single file downloaded by the app.
 
 ## Fixed distribution
 
@@ -34,6 +34,11 @@ downloaded by the app.
 
 Each text uses two to four short paragraphs. Difficulty should come from the
 reasoning and language, not obscurity for its own sake.
+
+Five published v15 records sit one or two whitespace tokens above these
+authoring targets after a punctuation-only normalization. The validator names
+those exact IDs and counts as narrow exceptions. New or differently sized
+records must stay inside the table.
 
 ## App-facing fields
 
@@ -77,20 +82,20 @@ must occur verbatim in `text`.
 - Titles, premises, sentences, and lesson language must not duplicate the v11
   corpus or another item in this pack.
 
-## Files and release flow
+## Files and current release flow
 
 Batch files are JSON objects with a `passages` array and are named
 `batch-01.json` or, when parallel authoring splits a batch, `batch-01a.json`,
-`batch-01b.json`, and so on. Before merging:
+`batch-01b.json`, and so on. A change to a year-pack passage must update its
+batch record and its matching object in `data/passages.json`. CI compares the
+complete objects and rejects any difference.
+
+For a current corpus release, run:
 
 ```bash
 python3 scripts/validate-year-pack.py
-node scripts/merge-year-pack.mjs
-node scripts/normalize-legacy-corpus.mjs
-node scripts/repair-legacy-lessons.mjs
-node scripts/repair-legacy-paragraphs.mjs
-node scripts/repair-legacy-facts.mjs
-node scripts/repair-legacy-history.mjs
+python3 scripts/year_pack_parity.py
+python3 scripts/audit-readability.py
 python3 scripts/materialize-distractor-reviews.py --write-target data/passages.json
 python3 scripts/materialize-distractor-reviews.py
 python3 scripts/audit-corpus.py --strict
@@ -98,9 +103,16 @@ swift scripts/validate-swift-decode.swift data/passages.json
 node scripts/build-manifest.mjs
 ```
 
-The merge is deterministic and sets the corpus to version 12. The expected OTA
-result is 651 total readings and 2,616 questions. The app then obtains the new
-corpus from GitHub Pages after the version-12 manifest and matching SHA-256 are
-published on `main`. Run any additional checked-in, reviewed legacy repair
-scripts before the final audit. See [OTA-RELEASE.md](OTA-RELEASE.md) for update,
-publication, rollback, and cadence behavior.
+The readability scan produces review candidates and does not fail a release
+because a phrase or long sentence needs judgment. Use `--json` for a complete,
+stable report. Verbatim public-domain source text is exempt, but the questions
+and lessons written for the app are still scanned. Optional `distractorTags`
+have no coverage minimum and are not a release floor.
+
+`merge-year-pack.mjs`, `normalize-legacy-corpus.mjs`, and the
+`repair-legacy-*.mjs` scripts are historical v12 assembly tools. Their narrow
+version and hash checks are intentional. They are not part of a current v16
+release and must not be used to rewrite the live corpus.
+
+See [OTA-RELEASE.md](OTA-RELEASE.md) for the historical v12 release record and
+the root [README](../../README.md) for current publication behavior.

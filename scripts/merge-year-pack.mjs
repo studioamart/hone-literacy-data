@@ -1,5 +1,11 @@
 #!/usr/bin/env node
-/** Merge the reviewed 365-reading authoring pack into the schema-1 OTA file. */
+/**
+ * Historical v12 assembler for the reviewed 365-reading authoring pack.
+ *
+ * Current releases must edit the live corpus and matching batch records
+ * together, then run scripts/year_pack_parity.py. The narrow v11/v12 version
+ * guard below is intentional and must not be widened to update a current file.
+ */
 
 import { execFileSync } from 'node:child_process';
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';

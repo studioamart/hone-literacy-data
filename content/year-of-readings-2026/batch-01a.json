@@ -375,7 +375,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Organize the passage by challenge and response. Each section pairs an ideal goal—counting everyone—with tools and limits such as visits, record comparisons, sampling uncertainty, and privacy protections.",
+        "strategy": "Organize the passage by challenge and response. Each section pairs an ideal goal (counting everyone) with tools and limits such as visits, record comparisons, sampling uncertainty, and privacy protections.",
         "signals": [
           {
             "phrase": "In practice",
@@ -1127,7 +1127,7 @@
         ],
         "skillTips": {
           "main-idea": "Keep the cautious words “can” and “sometimes,” along with the final limits, in the summary.",
-          "inference": "Identify what changes in Lina's example—repetition—while noting that no conversation occurs.",
+          "inference": "Identify what changes in Lina's example (repetition) while noting that no conversation occurs.",
           "vocabulary": "Use the contrast among pleasant, threatening, and neutral contact to place “neutral” between them.",
           "detail": "The second paragraph shifts from faces to sound and names a tune as its example."
         }
@@ -1437,7 +1437,7 @@
         "skillTips": {
           "main-idea": "Combine the scholarly importance of the texts with the distributed human work that preserved them.",
           "inference": "Distinguish a page's survival from the contextual history that can be lost when collections move.",
-          "vocabulary": "Use the family's actions—wrapping, repairing, copying, and controlling access—to define “custodians.”",
+          "vocabulary": "Use the family's actions (wrapping, repairing, copying, and controlling access) to define “custodians.”",
           "detail": "The hazards appear as a four-item list in the paragraph about family collections."
         }
       }
@@ -1745,7 +1745,7 @@
         ],
         "skillTips": {
           "main-idea": "Name the two molecular attractions and the towel structure that lets them move water.",
-          "inference": "Remove cohesion from the described chain and identify the step—pulling more water—that becomes weaker.",
+          "inference": "Remove cohesion from the described chain and identify the step (pulling more water) that becomes weaker.",
           "vocabulary": "Keep the pairings straight: adhesion is water-to-fiber, while cohesion is water-to-water.",
           "detail": "The fiber material is stated at the opening of the second paragraph."
         }
@@ -2980,7 +2980,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Follow all three interacting systems—solar source, magnetic route, and atmospheric light production.",
+          "main-idea": "Follow all three interacting systems: solar source, magnetic route, and atmospheric light production.",
           "inference": "The geographic pattern follows the magnetic field's guidance, not the presence of unique polar gases.",
           "vocabulary": "Because the paragraph discusses visible colors, “emits light” means gives light off.",
           "detail": "Keep the gas-color pairings distinct: oxygen is linked to green and red."
@@ -2995,9 +2995,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "biography",
       "level": 5,
-      "wordCount": 255,
+      "wordCount": 256,
       "releasedAt": "2026-08-12",
-      "text": "As a student in Karnal, India, Kalpana Chawla watched aircraft and became interested in how machines move through air. Spaceflight was not a nearby or guaranteed path. She first built a foundation through study, earning an engineering degree in aeronautics in India, then continuing her education in the United States in aerospace engineering.\n\nChawla's work combined theory with exacting computation. She studied how air flows around aircraft and worked with methods for modeling complex moving surfaces. After joining the United States space program, she trained across many systems rather than preparing for one dramatic moment. Astronaut work included simulations, technical assignments, physical practice, teamwork, and repeated responses to possible failures.\n\nShe first flew in space aboard the shuttle Columbia in 1997. Her responsibilities included operating a robotic arm and supporting scientific work. The mission also required the crew to respond to a satellite deployment problem, showing that preparation mattered precisely when a plan changed.\n\nChawla returned to Columbia for a research mission in 2003. The shuttle was lost during reentry, and all seven crew members died. That ending is an essential part of her biography, but it should not flatten the years before it into a prediction. Her career was built through accumulated choices: crossing fields of study, learning unfamiliar systems, and contributing within teams. Remembering Chawla only as someone who “dreamed of space” makes persistence sound magical. Her route shows something more concrete. A distant ambition became work through education, technical depth, patient training, and collaboration—none sufficient alone, but each opening the next stage.",
+      "text": "As a student in Karnal, India, Kalpana Chawla watched aircraft and became interested in how machines move through air. Spaceflight was not a nearby or guaranteed path. She first built a foundation through study, earning an engineering degree in aeronautics in India, then continuing her education in the United States in aerospace engineering.\n\nChawla's work combined theory with exacting computation. She studied how air flows around aircraft and worked with methods for modeling complex moving surfaces. After joining the United States space program, she trained across many systems rather than preparing for one dramatic moment. Astronaut work included simulations, technical assignments, physical practice, teamwork, and repeated responses to possible failures.\n\nShe first flew in space aboard the shuttle Columbia in 1997. Her responsibilities included operating a robotic arm and supporting scientific work. The mission also required the crew to respond to a satellite deployment problem, showing that preparation mattered precisely when a plan changed.\n\nChawla returned to Columbia for a research mission in 2003. The shuttle was lost during reentry, and all seven crew members died. That ending is an essential part of her biography, but it should not flatten the years before it into a prediction. Her career was built through accumulated choices: crossing fields of study, learning unfamiliar systems, and contributing within teams. Remembering Chawla only as someone who “dreamed of space” makes persistence sound magical. Her route shows something more concrete. A distant ambition became work through education, technical depth, patient training, and collaboration, none sufficient alone, but each opening the next stage.",
       "questions": [
         {
           "id": "q1",
@@ -3053,7 +3053,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Read the biography as a route made of stages, not as destiny followed by tragedy. Track how each stage—education, modeling, systems training, and crew work—creates the capacity for the next.",
+        "strategy": "Read the biography as a route made of stages, not as destiny followed by tragedy. Track how each stage (education, modeling, systems training, and crew work) creates the capacity for the next.",
         "signals": [
           {
             "phrase": "not a nearby or guaranteed path",
@@ -4422,7 +4422,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Define the location of the burden—outside the transaction—rather than focusing only on pollution.",
+          "main-idea": "Define the location of the burden (outside the transaction) rather than focusing only on pollution.",
           "inference": "Compare the company's listed costs with the residents' omitted sleep loss to explain overuse.",
           "vocabulary": "The nearby phrase “on people” shows that a cost “lands” where it is experienced.",
           "detail": "The opening truck example names sleep disruption before introducing the economics term."
@@ -4907,7 +4907,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Follow packet identity rather than imagining a continuous stream. Routes may diverge and arrival order may change, so headers and protocol rules—not shared geography—let the destination rebuild meaning.",
+        "strategy": "Follow packet identity rather than imagining a continuous stream. Routes may diverge and arrival order may change, so headers and protocol rules, not shared geography, let the destination rebuild meaning.",
         "signals": [
           {
             "phrase": "do not need to travel",
@@ -5113,7 +5113,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Treat the belt, spoken explanation, keeper, and renewal gathering as one recording system. Removing any element—especially community authority—can make a preserved object look more self-explanatory than it is.",
+        "strategy": "Treat the belt, spoken explanation, keeper, and renewal gathering as one recording system. Removing any element, especially community authority, can make a preserved object look more self-explanatory than it is.",
         "signals": [
           {
             "phrase": "misses its political work",
@@ -5467,9 +5467,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "biography",
       "level": 4,
-      "wordCount": 208,
+      "wordCount": 210,
       "releasedAt": "2026-08-12",
-      "text": "In a search for treatments against malaria, Chinese pharmaceutical researcher Tu Youyou and her team examined both modern screening results and historical medical writings. One plant, sweet wormwood, appeared in old preparations, but early laboratory extracts gave inconsistent results.\n\nTu reread a historical instruction that described soaking the plant and wringing out its liquid rather than boiling it. She inferred that high heat might damage the active substance. Her team developed a lower-temperature extraction using solvents, separated portions of the extract, and tested them systematically. This process produced a preparation with much more reliable activity in experimental models.\n\nThe work did not consist of simply copying an ancient recipe. A historical clue suggested a variable—temperature—that could be examined through controlled comparison. Nor was it a solitary discovery. Researchers gathered texts, identified plants, performed extractions, ran tests, and refined purification across a larger program.\n\nThe active compound, later known as artemisinin, became an important basis for malaria treatment. Its history shows two kinds of respect for evidence. Old knowledge was taken seriously enough to revisit, while each interpretation still had to survive laboratory testing. The productive move was neither to accept tradition automatically nor to dismiss it as unscientific, but to turn a textual detail into a testable question.",
+      "text": "In a search for treatments against malaria, Chinese pharmaceutical researcher Tu Youyou and her team examined both modern screening results and historical medical writings. One plant, sweet wormwood, appeared in old preparations, but early laboratory extracts gave inconsistent results.\n\nTu reread a historical instruction that described soaking the plant and wringing out its liquid rather than boiling it. She inferred that high heat might damage the active substance. Her team developed a lower-temperature extraction using solvents, separated portions of the extract, and tested them systematically. This process produced a preparation with much more reliable activity in experimental models.\n\nThe work did not consist of simply copying an ancient recipe. A historical clue suggested a variable (temperature) that could be examined through controlled comparison. Nor was it a solitary discovery. Researchers gathered texts, identified plants, performed extractions, ran tests, and refined purification across a larger program.\n\nThe active compound, later known as artemisinin, became an important basis for malaria treatment. Its history shows two kinds of respect for evidence. Old knowledge was taken seriously enough to revisit, while each interpretation still had to survive laboratory testing. The productive move was neither to accept tradition automatically nor to dismiss it as unscientific, but to turn a textual detail into a testable question.",
       "questions": [
         {
           "id": "q1",
@@ -5920,7 +5920,7 @@
             "an unbroken connection across time"
           ],
           "answer": 3,
-          "explanation": "The views ask what persistent connection—from organism, memory, or psychology—links past and future person."
+          "explanation": "The views ask what persistent connection (from organism, memory, or psychology) links past and future person."
         },
         {
           "id": "q4",

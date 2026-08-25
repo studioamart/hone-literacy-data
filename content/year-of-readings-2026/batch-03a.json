@@ -272,7 +272,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Track what remains the same—the soup—and what changes—the effort needed to reach the lower price. The final paragraph adds an important qualification: different choices can both be reasonable.",
+        "strategy": "Track what remains the same (the soup) and what changes: the effort needed to reach the lower price. The final paragraph adds an important qualification: different choices can both be reasonable.",
         "signals": [
           {
             "phrase": "Those small tasks take time",
@@ -993,7 +993,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Read the map as a historical process, not a puzzle detached from its century. Follow the verbs describing source work—used, combining, selected, fitted—and keep skill separate from perfect accuracy.",
+        "strategy": "Read the map as a historical process, not a puzzle detached from its century. Follow the verbs describing source work (used, combining, selected, fitted) and keep skill separate from perfect accuracy.",
         "signals": [
           {
             "phrase": "Only part of it survives",
@@ -2583,9 +2583,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "biography",
       "level": 5,
-      "wordCount": 254,
+      "wordCount": 256,
       "releasedAt": "2026-08-12",
-      "text": "In 1921, Indian physicist Chandrasekhara Venkata Raman sailed across the Mediterranean Sea. Its intense blue color held his attention. A common explanation emphasized reflected sky light, but Raman suspected that the water itself scattered sunlight in important ways. He returned to India with a question that could be tested.\n\nRaman and his collaborators directed light through transparent materials and examined the scattered light with spectroscopes. Most scattered light kept its original wavelength. A very small portion changed wavelength after exchanging energy with molecules in the material. The shifted lines were faint, so the experiments required filtered light, careful observation, and repeated checks.\n\nIn 1928, Raman and K. S. Krishnan reported clear evidence of this effect. It provided a new way to study molecular structure: the pattern of shifted light could act like a material signature. Laboratories soon confirmed the finding. Raman received the 1930 Nobel Prize in Physics for work on the scattering of light and the effect named for him. The sea voyage makes an appealing beginning, but discovery did not arrive from wonder alone. Raman had already studied sound and light, organized a research community, and designed practical instruments under limited conditions. Curiosity supplied direction; disciplined measurement turned it into public evidence.\n\nModern Raman spectroscopy is used to identify substances in fields from chemistry to art conservation. Its usefulness rests on a minute difference in scattered light. Raman's achievement shows how a broad question—why does this look blue?—can be narrowed into measurements precise enough to reveal how light and matter exchange energy.",
+      "text": "In 1921, Indian physicist Chandrasekhara Venkata Raman sailed across the Mediterranean Sea. Its intense blue color held his attention. A common explanation emphasized reflected sky light, but Raman suspected that the water itself scattered sunlight in important ways. He returned to India with a question that could be tested.\n\nRaman and his collaborators directed light through transparent materials and examined the scattered light with spectroscopes. Most scattered light kept its original wavelength. A very small portion changed wavelength after exchanging energy with molecules in the material. The shifted lines were faint, so the experiments required filtered light, careful observation, and repeated checks.\n\nIn 1928, Raman and K. S. Krishnan reported clear evidence of this effect. It provided a new way to study molecular structure: the pattern of shifted light could act like a material signature. Laboratories soon confirmed the finding. Raman received the 1930 Nobel Prize in Physics for work on the scattering of light and the effect named for him. The sea voyage makes an appealing beginning, but discovery did not arrive from wonder alone. Raman had already studied sound and light, organized a research community, and designed practical instruments under limited conditions. Curiosity supplied direction; disciplined measurement turned it into public evidence.\n\nModern Raman spectroscopy is used to identify substances in fields from chemistry to art conservation. Its usefulness rests on a minute difference in scattered light. Raman's achievement shows how a broad question (why does this look blue?) can be narrowed into measurements precise enough to reveal how light and matter exchange energy.",
       "questions": [
         {
           "id": "q1",

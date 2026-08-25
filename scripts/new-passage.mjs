@@ -24,7 +24,7 @@
  *   - source-type "public-domain": only pre-1929 / verified public-domain text.
  *     Fill `source` and `attribution` precisely.
  *   - source-type "original": written for Fluency (human or AI-assisted,
- *     human-reviewed). attribution defaults to a Studio AM line.
+ *     independently reviewed). attribution defaults to a Studio AM line.
  * Questions: skills are one of main-idea | inference | vocabulary | detail.
  */
 

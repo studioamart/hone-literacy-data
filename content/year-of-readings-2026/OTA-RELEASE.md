@@ -1,4 +1,8 @@
-# OTA release notes — corpus v12
+# Historical OTA release notes — corpus v12
+
+This file records the v12 publication. It is not the current release checklist.
+Use the [year-pack README](README.md) and the repository [README](../../README.md)
+for current validation and publication commands.
 
 This release appends the complete 365-reading pack to the 286-reading v11
 corpus. The wire artifact is still one complete `ReadingData` document; the app
@@ -20,33 +24,16 @@ If Studio AM wants a daily or weekly drip, it must publish complete higher-
 version corpora on that cadence; future-dating items inside one corpus will not
 hide them.
 
-## Local release gate
+## Historical assembly
 
-Run from the repository root:
+The v12 release used `merge-year-pack.mjs`, `normalize-legacy-corpus.mjs`, and
+the `repair-legacy-*.mjs` scripts. Those scripts accept only the source states
+and reviewed hashes used for that release. They remain for provenance and are
+retired from the current release process.
 
-```bash
-python3 scripts/validate-year-pack.py
-node scripts/merge-year-pack.mjs
-node scripts/normalize-legacy-corpus.mjs
-node scripts/repair-legacy-lessons.mjs
-node scripts/repair-legacy-paragraphs.mjs
-node scripts/repair-legacy-facts.mjs
-node scripts/repair-legacy-history.mjs
-python3 scripts/materialize-distractor-reviews.py --write-target data/passages.json
-python3 scripts/materialize-distractor-reviews.py
-python3 scripts/audit-corpus.py
-swift scripts/validate-swift-decode.swift data/passages.json
-node scripts/build-manifest.mjs
-git diff --exit-code -- data/manifest.json # after the generated manifest is committed
-```
-
-Any additional reviewed legacy repair scripts listed in the repository must run
-before distractor-review materialization, the final audit, and manifest build.
-The materializer requires a fingerprinted option-level rationale and never
-infers a misconception from skill; an uncertain distractor stays null. Do not use
-`normalize-legacy-corpus.mjs --balance-answers` without a question-by-question
-editorial review; the v12 content release intentionally preserves legacy choice
-order.
+Optional distractor reviews were not required for v12 and are not a release
+floor now. The materializer still requires a fingerprinted option-level
+rationale for any tag that is added. An uncertain distractor stays null.
 
 ## Publication behavior
 
@@ -62,6 +49,6 @@ workflow rejects a stale manifest and never bot-commits a second deployment.
 After merge, verify both live files and their SHA-256 after the Pages/CDN cache
 settles.
 
-Version numbers are monotonic. If v12 needs correction after publication, ship
-the corrected full corpus as v13; lowering the version or reusing v12 will not
-replace an installed v12 cache.
+Version numbers are monotonic. Correct a published corpus by shipping the full
+corpus under a higher version. Lowering or reusing a version will not replace an
+installed cache.

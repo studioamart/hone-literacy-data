@@ -1611,7 +1611,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Treat the price tag as information infrastructure, then separate its real benefit—lower search and negotiation effort—from claims it cannot establish about fairness or quality.",
+        "strategy": "Treat the price tag as information infrastructure, then separate its real benefit (lower search and negotiation effort) from claims it cannot establish about fairness or quality.",
         "signals": [
           {
             "phrase": "That flexibility can be useful",
@@ -1657,8 +1657,8 @@
       "releasedAt": "2026-08-12",
       "genre": "essay",
       "level": 5,
-      "text": "I used to hear repetition as a small failure of conversation. If a clerk repeated my booking code, or a dispatcher read an address back, I wondered why the first saying had not been enough. Efficient speech, I assumed, moved forward.\n\nAt a ferry office, I once gave a dock number over a poor connection. The clerk answered with the number I meant, or so I thought. Only when she read it back digit by digit did I hear the reversal: forty-two had become twenty-four. No one had been careless. Two short sounds had crossed static and expectation.\n\nRead-back changes communication from delivery into a loop. One person sends; the other returns a compact version; the first confirms or repairs it. The repeated message is not redundant in the useless sense. It tests whether two minds now hold the same actionable detail. The method matters most when a tiny difference—a time, platform, quantity, or name—can redirect everything that follows.\n\nThere is a cost. Repeating every sentence would bury conversation under its own echo, and a ritual response can become empty if nobody listens. Good confirmation is selective. It returns the detail whose error would matter and leaves room for correction without blame. I no longer hear the second saying as proof that the first speaker failed. I hear a bridge being inspected before weight crosses it. A few repeated words can save two strangers from building careful plans on different versions of the same fact.",
-      "wordCount": 245,
+      "text": "I used to hear repetition as a small failure of conversation. If a clerk repeated my booking code, or a dispatcher read an address back, I wondered why the first saying had not been enough. Efficient speech, I assumed, moved forward.\n\nAt a ferry office, I once gave a dock number over a poor connection. The clerk answered with the number I meant, or so I thought. Only when she read it back digit by digit did I hear the reversal: forty-two had become twenty-four. No one had been careless. Two short sounds had crossed static and expectation.\n\nRead-back changes communication from delivery into a loop. One person sends; the other returns a compact version; the first confirms or repairs it. The repeated message is not redundant in the useless sense. It tests whether two minds now hold the same actionable detail. The method matters most when a tiny difference (a time, platform, quantity, or name) can redirect everything that follows.\n\nThere is a cost. Repeating every sentence would bury conversation under its own echo, and a ritual response can become empty if nobody listens. Good confirmation is selective. It returns the detail whose error would matter and leaves room for correction without blame. I no longer hear the second saying as proof that the first speaker failed. I hear a bridge being inspected before weight crosses it. A few repeated words can save two strangers from building careful plans on different versions of the same fact.",
+      "wordCount": 247,
       "questions": [
         {
           "id": "q1",
@@ -3083,7 +3083,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "Use both outcomes—the bent bell and repaired hinge—to express the fable's lesson about appropriate force.",
+          "main-idea": "Use both outcomes (the bent bell and repaired hinge) to express the fable's lesson about appropriate force.",
           "inference": "Connect the changed sound after the folded rim with the diners' failure to recognize the call.",
           "vocabulary": "The contrast between “hardest” and “fitted” defines the final word through the story's two tools.",
           "detail": "After the tinker works, separate what was restored from the small mark that could not be removed."
@@ -3259,7 +3259,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Compare buyer and owner viewpoints before reading the qualifications. Then sort the explanations—loss, attention, and context—so the effect is not mistaken for an automatic rule.",
+        "strategy": "Compare buyer and owner viewpoints before reading the qualifications. Then sort the explanations (loss, attention, and context) so the effect is not mistaken for an automatic rule.",
         "signals": [
           {
             "phrase": "One explanation begins",
@@ -3525,7 +3525,7 @@
             "Icehouses created cold by burning straw and sawdust beneath their floors."
           ],
           "answer": 1,
-          "explanation": "Each paragraph covers one part of the system—harvesting, insulated storage, and distribution—before the conclusion joins them."
+          "explanation": "Each paragraph covers one part of the system (harvesting, insulated storage, and distribution) before the conclusion joins them."
         },
         {
           "id": "q2",
@@ -4392,7 +4392,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Use the four named parts to test the two extreme answers—one maker or no maker—then identify the passage’s shared-action view.",
+        "strategy": "Use the four named parts to test the two extreme answers (one maker or no maker), then identify the passage’s shared-action view.",
         "signals": [
           {
             "phrase": "When the pattern is finished",
@@ -5557,7 +5557,7 @@
         "skillTips": {
           "main-idea": "State what changes between the failed and successful crossings: separate tasks replace a contest for attention.",
           "inference": "Infer the snail’s confusion from “light everywhere” and the loss of each signal’s clear location.",
-          "vocabulary": "Use the ordered places—entrance, stone, and far bank—to determine the contextual meaning of “sequence.”",
+          "vocabulary": "Use the ordered places (entrance, stone, and far bank) to determine the contextual meaning of “sequence.”",
           "detail": "Match each firefly to one location during the second attempt before choosing the third firefly’s task."
         }
       }
@@ -6229,7 +6229,7 @@
             "made from temporary arrows that contradict permanent signs"
           ],
           "answer": 1,
-          "explanation": "The passage defines redundant cues as multiple features—such as a name, number, color, or shape—carrying the needed information."
+          "explanation": "The passage defines redundant cues as multiple features, such as a name, number, color, or shape, carrying the needed information."
         },
         {
           "id": "q4",
@@ -6246,7 +6246,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Map the route as three moments—before, at, and after a choice—then test every cue for redundancy and agreement. Use the wrong-turn example to add recovery to the system.",
+        "strategy": "Map the route as three moments (before, at, and after a choice), then test every cue for redundancy and agreement. Use the wrong-turn example to add recovery to the system.",
         "signals": [
           {
             "phrase": "therefore use a sequence",
