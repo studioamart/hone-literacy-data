@@ -163,6 +163,92 @@ class DistractorReviewMaterializerTests(unittest.TestCase):
             )
             self.assertIn("authored content changed", changed.stderr)
 
+    def test_reviews_survive_version_bumps_that_leave_content_unchanged(self) -> None:
+        # Regression from the 2026-08 audit: version-keyed resolution orphaned
+        # every review on the next corpus bump even when no evidence-bearing
+        # content changed, so a routine version cut turned CI red with one
+        # error per review. Reviews bind to the question fingerprint instead;
+        # corpusVersion only records the corpus that first materialized them,
+        # so an older untagged snapshot stays valid too.
+        with tempfile.TemporaryDirectory() as temp:
+            temp_path = Path(temp)
+            corpus_path = temp_path / "passages.json"
+            snapshot_path = temp_path / "bundled-v1-snapshot.json"
+            reviews_path = temp_path / "reviews.json"
+            corpus = {
+                "schema": 1,
+                "version": 1,
+                "passages": [{
+                    "id": "p",
+                    "text": "A stable passage whose wording never changes across bumps.",
+                    "questions": [{
+                        "id": "q1",
+                        "skill": "inference",
+                        "stem": "What follows from the passage?",
+                        "choices": ["supported", "literal"],
+                        "answer": 0,
+                        "explanation": "Only the first option follows.",
+                    }],
+                }],
+            }
+            # The v1 snapshot mirrors a shipped, untagged bundle of the same text.
+            corpus_path.write_text(json.dumps(corpus), encoding="utf-8")
+            snapshot, errors = build_snapshot(
+                corpus_path,
+                corpus,
+                source_commit="b" * 40,
+                source_path="app/Resources/passages.json",
+            )
+            self.assertEqual(errors, [])
+            snapshot_path.write_text(json.dumps(snapshot), encoding="utf-8")
+
+            corpus["version"] = 2
+            corpus_path.write_text(json.dumps(corpus), encoding="utf-8")
+            scaffold = json.loads(self.run_script(
+                "--corpus", str(corpus_path),
+                "--reviews", str(reviews_path),
+                "--scaffold", "2:p:q1",
+            ).stdout)
+            scaffold["options"][1] = {
+                "tag": "literal-detail-for-inference",
+                "rationale": "The option restates a stated detail without the inference.",
+            }
+            reviews_path.write_text(json.dumps({
+                "schema": 1, "taxonomyVersion": 1, "reviews": [scaffold]
+            }), encoding="utf-8")
+            self.run_script(
+                "--corpus", str(corpus_path),
+                "--snapshot", str(snapshot_path),
+                "--reviews", str(reviews_path),
+                "--write-target", str(corpus_path),
+            )
+
+            # Bump the version with zero content edits; the v2-keyed review
+            # must keep validating, and the untagged v1 snapshot predates the
+            # review so it must not demand back-propagation.
+            materialized = json.loads(corpus_path.read_text(encoding="utf-8"))
+            materialized["version"] = 3
+            corpus_path.write_text(json.dumps(materialized), encoding="utf-8")
+            self.run_script(
+                "--corpus", str(corpus_path),
+                "--snapshot", str(snapshot_path),
+                "--reviews", str(reviews_path),
+            )
+
+            # A review keyed newer than every artifact that carries its exact
+            # variant is a keying mistake and still fails closed.
+            scaffold["corpusVersion"] = 99
+            reviews_path.write_text(json.dumps({
+                "schema": 1, "taxonomyVersion": 1, "reviews": [scaffold]
+            }), encoding="utf-8")
+            mistyped = self.run_script(
+                "--corpus", str(corpus_path),
+                "--snapshot", str(snapshot_path),
+                "--reviews", str(reviews_path),
+                expect=1,
+            )
+            self.assertIn("newer than every supplied artifact", mistyped.stderr)
+
     def test_non_null_review_without_specific_rationale_is_rejected(self) -> None:
         with tempfile.TemporaryDirectory() as temp:
             temp_path = Path(temp)

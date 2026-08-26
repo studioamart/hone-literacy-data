@@ -118,10 +118,16 @@ fingerprint includes the passage text, stem, choices, answer, explanation, and
 skill, so changing any evidence-bearing content forces a fresh review instead
 of silently moving an old label.
 
-Reviews are versioned by `(corpusVersion, passageId, questionId)`. The current
-OTA corpus and the immutable compact v11 snapshot are both indexed by the
-default command, so two released variants with the same IDs cannot be
-conflated. The snapshot pins the original app-repository commit, path, file
+Reviews resolve by question fingerprint, so a corpus version bump that leaves
+a question untouched carries its reviews forward automatically; only changing
+evidence-bearing content forces a fresh review. A review's `corpusVersion`
+records the corpus that first materialized it: artifacts at or above that
+version must carry the reviewed tags, while an older pinned artifact, such as
+the compact v11 snapshot, legitimately predates the review and may stay
+untagged. The current OTA corpus and that snapshot are both indexed by the
+default command, and two released variants with the same IDs still cannot be
+conflated because a review only matches artifacts whose fingerprint is
+identical. The snapshot pins the original app-repository commit, path, file
 SHA-256, every compound question ID, and an aggregate semantic SHA-256. It is
 not a runtime corpus and never a materialization target. It also mirrors
 absent-versus-present aligned tag state, allowing CI to reject a v11 review
@@ -132,9 +138,10 @@ full-state SHA-256 binds those mirror fields so a partial/manual edit fails.
 ```bash
 # Print an all-null review record; paste it into the sidecar and fill only
 # categories an editorial reviewer can support from this exact passage and option.
-# Replace 16 when the OTA corpus version advances.
+# Replace 17 when the OTA corpus version advances; existing reviews keep their
+# authored corpusVersion and carry forward while the question is unchanged.
 python3 scripts/materialize-distractor-reviews.py \
-  --scaffold 16:PASSAGE_ID:QUESTION_ID
+  --scaffold 17:PASSAGE_ID:QUESTION_ID
 
 # Apply sidecar reviews after every prose/question repair, then verify parity.
 # The target is explicit even though bundled v11 and current OTA variants are read.

@@ -345,20 +345,43 @@ def validate_reviews(
     registry: dict[str, ReviewedTag],
     questions: dict[tuple[int, str, str], QuestionLocation],
     errors: list[str],
-) -> dict[tuple[int, str, str], list[str | None]]:
+) -> tuple[dict[tuple[int, str, str], list[str | None]], set[tuple[int, str, str]], int, int]:
+    """Resolve reviews against every supplied artifact by question fingerprint.
+
+    A review binds to the exact semantics the reviewer saw, so a corpus version
+    bump that leaves a question untouched carries the review forward instead of
+    orphaning it. ``corpusVersion`` records the corpus that first materialized
+    the review: artifacts at or above it must carry the tags (returned in the
+    enforced set), while an older pinned artifact, such as a bundled snapshot,
+    legitimately predates the review and may stay untagged.
+
+    Returns (expected tags by artifact question key, enforced keys,
+    validated review count, tagged slot count).
+    """
+
     raw = load_json(path, "review source", errors)
     if not isinstance(raw, dict):
         if raw is not None:
             errors.append("review source root must be an object")
-        return {}
+        return {}, set(), 0, 0
     if raw.get("schema") != 1 or raw.get("taxonomyVersion") != 1:
         errors.append("review source schema and taxonomyVersion must both be integer 1")
     reviews = raw.get("reviews")
     if not isinstance(reviews, list):
         errors.append("review source reviews must be an array")
-        return {}
+        return {}, set(), 0, 0
+
+    by_compound_id: dict[tuple[str, str], list[QuestionLocation]] = {}
+    for location in questions.values():
+        by_compound_id.setdefault(
+            (location.passage_id, location.question_id), []
+        ).append(location)
 
     result: dict[tuple[int, str, str], list[str | None]] = {}
+    enforced: set[tuple[int, str, str]] = set()
+    seen_variants: set[tuple[str, str, str]] = set()
+    reviewed_variants = 0
+    reviewed_slots = 0
     for index, review in enumerate(reviews):
         where = f"review {index}"
         if not isinstance(review, dict):
@@ -386,27 +409,46 @@ def validate_reviews(
         if not isinstance(question_id, str) or not question_id.strip():
             errors.append(f"{where}: questionId must be a nonblank stable id")
             continue
-        key = (version, passage_id, question_id)
-        if key in result:
-            errors.append(
-                f"{where}: duplicate compound review key v{version}/{passage_id}/{question_id}"
-            )
-            continue
-        location = questions.get(key)
-        if location is None:
-            errors.append(
-                f"{where}: no supplied corpus contains v{version}/{passage_id}/{question_id}"
-            )
-            continue
         if not isinstance(fingerprint, str) or not SHA256_RE.fullmatch(fingerprint):
             errors.append(f"{where}: questionFingerprint must be a lowercase SHA-256")
             continue
-        if fingerprint != location.fingerprint:
+        variant = (passage_id, question_id, fingerprint)
+        if variant in seen_variants:
             errors.append(
-                f"{where}: authored content changed; expected current fingerprint "
-                f"{location.fingerprint}, found {fingerprint}. Re-review this exact variant."
+                f"{where}: duplicate review for {passage_id}/{question_id} "
+                f"variant {fingerprint}"
             )
             continue
+        seen_variants.add(variant)
+        candidates = by_compound_id.get((passage_id, question_id), [])
+        if not candidates:
+            errors.append(
+                f"{where}: no supplied artifact contains {passage_id}/{question_id}; "
+                "restore that content or delete the stale review"
+            )
+            continue
+        matches = [
+            candidate for candidate in candidates
+            if candidate.fingerprint == fingerprint
+        ]
+        if not matches:
+            errors.append(
+                f"{where}: authored content changed; no supplied artifact still "
+                f"carries the reviewed variant of {passage_id}/{question_id}. "
+                "Re-review this exact variant."
+            )
+            continue
+        if all(match.corpus_version < version for match in matches):
+            newest = max(match.corpus_version for match in matches)
+            errors.append(
+                f"{where}: corpusVersion {version} is newer than every supplied "
+                f"artifact carrying this exact variant (newest is v{newest}); "
+                "correct the review's corpusVersion or re-review the changed question"
+            )
+            continue
+        # The fingerprint pins skill, choices, and answer, so every match
+        # shares the option geometry the reviewer saw.
+        location = matches[0]
 
         options = review.get("options")
         if not isinstance(options, list) or len(options) != location.choice_count:
@@ -456,8 +498,14 @@ def validate_reviews(
                 option_failed = True
             tags.append(tag_id if reviewed is not None else None)
         if not option_failed:
-            result[key] = tags
-    return result
+            reviewed_variants += 1
+            reviewed_slots += sum(tag is not None for tag in tags)
+            for match in matches:
+                match_key = (match.corpus_version, match.passage_id, match.question_id)
+                result[match_key] = tags
+                if match.corpus_version >= version:
+                    enforced.add(match_key)
+    return result, enforced, reviewed_variants, reviewed_slots
 
 
 def scaffold(
@@ -549,16 +597,15 @@ def main() -> int:
             return 1
         return scaffold(args.scaffold, questions)
 
-    expected = validate_reviews(reviews_path, registry, questions, errors)
+    expected, enforced, reviewed_variants, reviewed_slots = validate_reviews(
+        reviews_path, registry, questions, errors
+    )
     if write_target is not None and write_target not in documents:
         errors.append(
             "--write-target must exactly identify one runtime corpus supplied with --corpus"
         )
 
     changed_questions = 0
-    tagged_slots = sum(
-        tag is not None for tags in expected.values() for tag in tags
-    )
     for key, location in questions.items():
         expected_tags = expected.get(key)
         if expected_tags is None:
@@ -567,6 +614,10 @@ def main() -> int:
                     f"v{key[0]}/{key[1]}/{key[2]}: distractorTags are not backed by "
                     "a fingerprinted editorial review; refusing to erase or trust them"
                 )
+            continue
+        if not location.has_tags and key not in enforced:
+            # The review first materialized at a later corpus version; this
+            # older pinned artifact legitimately predates it and stays untagged.
             continue
         if location.current_tags != expected_tags or not location.has_tags:
             if location.is_runtime and write_target == location.artifact_path:
@@ -597,8 +648,8 @@ def main() -> int:
             encoding="utf-8",
         )
     print(
-        f"Distractor reviews OK — {len(expected)} reviewed question variants, "
-        f"{tagged_slots} tagged slots, {changed_questions} materialized changes."
+        f"Distractor reviews OK: {reviewed_variants} reviewed question variants, "
+        f"{reviewed_slots} tagged slots, {changed_questions} materialized changes."
     )
     return 0
 
