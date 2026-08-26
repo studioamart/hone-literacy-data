@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 17,
+  "version": 18,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -819,7 +819,7 @@
           "distractorTags": [
             "unsupported-inference",
             null,
-            "unsupported-inference",
+            null,
             null
           ]
         },
@@ -963,7 +963,7 @@
           "distractorTags": [
             null,
             "unsupported-inference",
-            "literal-detail-for-inference",
+            null,
             null
           ]
         }

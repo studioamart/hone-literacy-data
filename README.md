@@ -138,10 +138,10 @@ full-state SHA-256 binds those mirror fields so a partial/manual edit fails.
 ```bash
 # Print an all-null review record; paste it into the sidecar and fill only
 # categories an editorial reviewer can support from this exact passage and option.
-# Replace 17 when the OTA corpus version advances; existing reviews keep their
+# Replace 18 when the OTA corpus version advances; existing reviews keep their
 # authored corpusVersion and carry forward while the question is unchanged.
 python3 scripts/materialize-distractor-reviews.py \
-  --scaffold 17:PASSAGE_ID:QUESTION_ID
+  --scaffold 18:PASSAGE_ID:QUESTION_ID
 
 # Apply sidecar reviews after every prose/question repair, then verify parity.
 # The target is explicit even though bundled v11 and current OTA variants are read.
@@ -196,7 +196,7 @@ tagged correct option, an unknown ID, or a tag used with the wrong skill.
 
 The committed review sidecar holds the first editorial batch: 28 legacy
 inference and main-idea questions reviewed against corpus v17, materializing
-18 tagged distractor slots. Reviewed questions whose wrong options are
+16 tagged distractor slots. Reviewed questions whose wrong options are
 fabricated or contradicted carry an all-`null` array on purpose; that records
 the review without inventing a label. Partial coverage is valid and does not
 block a release. Future reviews can be added incrementally; the tooling does

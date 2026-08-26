@@ -70,10 +70,7 @@
           "rationale": "Reads the metaphor literally, assuming the machine itself gains a mind; the line is a figure for what the reader who skips the journey fails to build."
         },
         null,
-        {
-          "tag": "unsupported-inference",
-          "rationale": "Imports an outside fact about reliable storage; the passage contrasts receiving an answer with building understanding and says nothing about how machines keep text."
-        },
+        null,
         null
       ]
     },
@@ -100,10 +97,7 @@
           "tag": "unsupported-inference",
           "rationale": "Assumes more hours awake automatically store more material; the passage argues consolidation happens during sleep, so the extra time replaces the step that locks learning in."
         },
-        {
-          "tag": "literal-detail-for-inference",
-          "rationale": "Repeats the stated hippocampus replay mechanism but drops its stated condition: the replay happens during deep sleep, which the all-night session removes."
-        },
+        null,
         null
       ]
     },
