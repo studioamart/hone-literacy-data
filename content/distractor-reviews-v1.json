@@ -1,5 +1,396 @@
 {
   "schema": 1,
   "taxonomyVersion": 1,
-  "reviews": []
+  "reviews": [
+    {
+      "corpusVersion": 17,
+      "passageId": "og-attention-economy",
+      "questionId": "q1",
+      "questionFingerprint": "d1b1d79ec9578bcc9cfdcc2b2ea56d3ea1c40a3a0ff14a42661571aabbeed732",
+      "options": [
+        {
+          "tag": "main-idea-too-broad",
+          "rationale": "Expands the passage's diagnosis that feeds train skim-and-react habits into a ban the text never proposes; the argument stops at retraining attention, not policy."
+        },
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-attention-economy",
+      "questionId": "q2",
+      "questionFingerprint": "b68cc76f4d08b11506b937ad5924027a2162964754093ba37f2336cf293ace82",
+      "options": [
+        null,
+        null,
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Assumes the workout comparison is about exercise feeling unpleasant; the passage grounds it in training and atrophy of a skill, never in how the effort feels."
+        },
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-ai-and-the-reader",
+      "questionId": "q1",
+      "questionFingerprint": "34acfd9d52377cea2aa9a568ae76610c2e74d02b0ffc1127550c497d2026b435",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-ai-and-the-reader",
+      "questionId": "q2",
+      "questionFingerprint": "9a9b31fd14a1125ddb0c24082f153a9dc42695f3d74a3386243e73c224c76c64",
+      "options": [
+        null,
+        null,
+        null,
+        {
+          "tag": "literal-detail-for-inference",
+          "rationale": "Anchors on the opening concession that machine summaries are often accurate and enough for some purposes; the closing advice instead assigns machines fetching, translating, and defining while the reader keeps judgment."
+        }
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-ai-and-the-reader",
+      "questionId": "q3",
+      "questionFingerprint": "f4798afa02e5252ac6aaa91f8d7066542933d6e942cdaaa69702cbb211974f6b",
+      "options": [
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Reads the metaphor literally, assuming the machine itself gains a mind; the line is a figure for what the reader who skips the journey fails to build."
+        },
+        null,
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Imports an outside fact about reliable storage; the passage contrasts receiving an answer with building understanding and says nothing about how machines keep text."
+        },
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-how-memory-consolidates",
+      "questionId": "q2",
+      "questionFingerprint": "f6355d437b359802e255d35c85c08355ef0da0f9f5dd22d557538ffa29a95a43",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-how-memory-consolidates",
+      "questionId": "q4",
+      "questionFingerprint": "51cb9c4de3c820dd775f114b171863c961188cc1e7a4fd3bd7807e9cea0b62c5",
+      "options": [
+        null,
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Assumes more hours awake automatically store more material; the passage argues consolidation happens during sleep, so the extra time replaces the step that locks learning in."
+        },
+        {
+          "tag": "literal-detail-for-inference",
+          "rationale": "Repeats the stated hippocampus replay mechanism but drops its stated condition: the replay happens during deep sleep, which the all-night session removes."
+        },
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-deep-vs-shallow-reading",
+      "questionId": "q1",
+      "questionFingerprint": "ce8142d37739b6d264ea3caf454c5149b41c7994abac035f3d4cc27798d6ef7f",
+      "options": [
+        null,
+        null,
+        {
+          "tag": "main-idea-too-broad",
+          "rationale": "Stretches the concession that both kinds of reading matter into full equivalence, erasing the stated asymmetry that only deep reading grows with practice."
+        },
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-deep-vs-shallow-reading",
+      "questionId": "q3",
+      "questionFingerprint": "6b1dc92318065ec8c4c86cd8893b1063cfff6852177993bb83363ea2f6266bfe",
+      "options": [
+        {
+          "tag": "literal-detail-for-inference",
+          "rationale": "Lifts the phrase about an hour of skimming straight from the closing sentence; a reader who misses that 'beats' ranks the two habits picks the losing side of the comparison."
+        },
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-fic-the-spare-key",
+      "questionId": "q1",
+      "questionFingerprint": "8ad3f51d718eb8498ecaca9647f36e8ef8c8cb239da8aa043a1fa814417b8cfd",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-fic-the-spare-key",
+      "questionId": "q2",
+      "questionFingerprint": "0f93ebc511130b1d0432abd071e2c6b3437b411a7fa2f218388521a8a54cb436",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-fic-the-spare-key",
+      "questionId": "q4",
+      "questionFingerprint": "7fefb06f461621632949b465a8fc280356c850e90e68838019edf741ac30eeef",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-fic-the-lighthouse-keeper",
+      "questionId": "q1",
+      "questionFingerprint": "99860f326b0d62cd96dada0ccb23381c5a7eac8d1e56e5c56d3c2000456143fd",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-fic-the-lighthouse-keeper",
+      "questionId": "q2",
+      "questionFingerprint": "c53870f566b67b87b44be9b4319e1b9b465bdbeb585dba26f1f617b4c9ca59db",
+      "options": [
+        null,
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Explains his silence with a shyness the story never shows; the stated ground is contentment, since he asks nothing and sleeps well knowing the light's worth."
+        },
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-fic-the-lighthouse-keeper",
+      "questionId": "q3",
+      "questionFingerprint": "6c8d64b8addf4c8a2f09cd4661921d14600a7cc3fcd75aac332247aed3e1aadb",
+      "options": [
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Treats the flood wall as a fact about the town; it is a figure for protective work that goes unthanked until it fails, mirroring the unnoticed light."
+        },
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-phi-the-weight-of-attention",
+      "questionId": "q1",
+      "questionFingerprint": "cb86697e0d214eade854fda63f530bdccd4c6f280278950a799de526df892c02",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-phi-the-weight-of-attention",
+      "questionId": "q2",
+      "questionFingerprint": "7e33f23e31abe046d3915ffcefc2f6c5e7df5f9b2dc3f4715a7e841254b64a4a",
+      "options": [
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Explains the comparison through love feeling pleasant, an idea the passage never offers; the stated ground is that attending means turning toward one thing over all others."
+        },
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-phi-the-weight-of-attention",
+      "questionId": "q3",
+      "questionFingerprint": "65604ce4b4de57b9eceaa0cc13f6b227dfa0a0c08b4ced2509b58cb9b0fce10c",
+      "options": [
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Turns the rarest-currency metaphor into literal wealth; the stated payoff of deliberate attention is freedom to decide what is worth seeing, not money."
+        },
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-his-printing-press",
+      "questionId": "q1",
+      "questionFingerprint": "4e9bd2b909581e5bf78d60f61ae9f768fcf083220e183e2ef3ff98f4e51cfea8",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-his-printing-press",
+      "questionId": "q3",
+      "questionFingerprint": "47c096baf227026f8c8f227431c43fbd7132a145292f47ed513e524776a390ab",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-his-silk-road",
+      "questionId": "q1",
+      "questionFingerprint": "b0ad3f2e4283e278179ab9cc46bb310f6e6258712eb90392fc1c3bce6e2c0eaf",
+      "options": [
+        null,
+        null,
+        null,
+        {
+          "tag": "detail-instead-of-main-idea",
+          "rationale": "Camels appear only as a supporting detail about crossing deserts; the option promotes that memorable detail over the network of goods and ideas the whole passage describes."
+        }
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-his-silk-road",
+      "questionId": "q4",
+      "questionFingerprint": "57c35a1e1297ab026ce738523d509627a7e8296bd9f0f54536e4f9bf665d4d7a",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-bio-ada-lovelace",
+      "questionId": "q1",
+      "questionFingerprint": "27812e6335d3214bdb3450e936a1614c8cb4e7aa3f69f957907d2b4f178119a0",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-bio-ada-lovelace",
+      "questionId": "q4",
+      "questionFingerprint": "7296f67f24e867452d916983e27c3767715ff586fbece5311b79f3c287b38e77",
+      "options": [
+        null,
+        null,
+        {
+          "tag": "detail-instead-of-main-idea",
+          "rationale": "The French translation is the stated occasion for Ada's notes; the option mistakes that supporting episode for the subject, which is what her own notes and imagination added."
+        },
+        {
+          "tag": "detail-instead-of-main-idea",
+          "rationale": "Her mother's lessons are genuine stated background in the opening paragraph; the option raises that early detail over the notes and foresight the passage centers on."
+        }
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-bio-marie-curie",
+      "questionId": "q1",
+      "questionFingerprint": "64263b4258467d89ee76aa30ff88d2aa243f5931d4ea81492609d2fe5f09653b",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-bio-marie-curie",
+      "questionId": "q3",
+      "questionFingerprint": "8fadb2d7342f6106cdc0c411a3f9ed735aa50df401b22b06a6876562ecd41bc4",
+      "options": [
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Her casual handling of glowing tubes shows she did not fear the rays; concluding she knew they were safe converts that era's ignorance into positive knowledge the passage never grants."
+        },
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-non-compound-interest",
+      "questionId": "q1",
+      "questionFingerprint": "66527fb69be929eb2962e2b30d908d8bac9f109a9a473300e89ea2a4f37993ca",
+      "options": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    {
+      "corpusVersion": 17,
+      "passageId": "og-non-compound-interest",
+      "questionId": "q2",
+      "questionFingerprint": "6a97be66ecda77860358cecd0078441ee2a252359abcff367207e62c13dffd41",
+      "options": [
+        {
+          "tag": "unsupported-inference",
+          "rationale": "Attributes the early saver's edge to a better rate, an assumption the passage never makes; the stated advantage is only more time for gains to fold upon gains."
+        },
+        null,
+        null,
+        null
+      ]
+    }
+  ]
 }

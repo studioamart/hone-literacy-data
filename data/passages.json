@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 16,
+  "version": 17,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -380,7 +380,7 @@
             "The Time Traveller admits his theory has no reasonable ground"
           ],
           "answer": 1,
-        "explanation": "He says he will challenge accepted ideas, starting with school geometry. He also promises evidence for each step."
+          "explanation": "He says he will challenge accepted ideas, starting with school geometry. He also promises evidence for each step."
         }
       ],
       "lesson": {
@@ -659,7 +659,13 @@
             "Deep understanding requires no effort."
           ],
           "answer": 1,
-          "explanation": "The passage contrasts the skim-and-react habit feeds create with the sustained focus reading builds, and ends on the hopeful note that the \"muscle responds.\""
+          "explanation": "The passage contrasts the skim-and-react habit feeds create with the sustained focus reading builds, and ends on the hopeful note that the \"muscle responds.\"",
+          "distractorTags": [
+            "main-idea-too-broad",
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -672,7 +678,13 @@
             "Because both should be done at a gym"
           ],
           "answer": 1,
-        "explanation": "The comparison shows that sustained attention weakens without practice and improves with training."
+          "explanation": "The comparison shows that sustained attention weakens without practice and improves with training.",
+          "distractorTags": [
+            null,
+            null,
+            "unsupported-inference",
+            null
+          ]
         },
         {
           "id": "q3",
@@ -765,7 +777,13 @@
             "Summaries are only useful for fiction."
           ],
           "answer": 1,
-          "explanation": "The author calls a summary \"a destination handed to you without the journey\": you get the verdict but not the reasoning ability that full reading develops."
+          "explanation": "The author calls a summary \"a destination handed to you without the journey\": you get the verdict but not the reasoning ability that full reading develops.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -778,7 +796,13 @@
             "Use them only for summaries"
           ],
           "answer": 2,
-          "explanation": "The closing line says to \"let the machine fetch and translate and define, while you keep, for yourself, the slow work of judgment.\""
+          "explanation": "The closing line says to \"let the machine fetch and translate and define, while you keep, for yourself, the slow work of judgment.\"",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            "literal-detail-for-inference"
+          ]
         },
         {
           "id": "q3",
@@ -791,7 +815,13 @@
             "Understanding is impossible without machines."
           ],
           "answer": 1,
-          "explanation": "It is a pointed way of saying the reader who skips the reading is left without the understanding that the effort would have produced."
+          "explanation": "It is a pointed way of saying the reader who skips the reading is left without the understanding that the effort would have produced.",
+          "distractorTags": [
+            "unsupported-inference",
+            null,
+            "unsupported-inference",
+            null
+          ]
         },
         {
           "id": "q4",
@@ -858,7 +888,7 @@
           "main-idea": "Use the final sentence. The author says tools should sharpen a person's reading instead of replacing it.",
           "inference": "The author never calls summaries bad. What 'keeps the understanding for the machine' implies: the loss is hidden because the answer is still correct. The cost is what you didn't build.",
           "vocabulary": "'Journey' and 'destination' aren't about travel. Destination = the summary handed to you; journey = reading it yourself. Decode each abstract word by its paired opposite.",
-        "detail": "The passage lists what full reading adds: judging strong evidence, spotting assumptions, and noticing what makes you pause."
+          "detail": "The passage lists what full reading adds: judging strong evidence, spotting assumptions, and noticing what makes you pause."
         }
       },
       "wordCount": 156
@@ -897,7 +927,13 @@
             "Reading does not benefit from rest"
           ],
           "answer": 1,
-          "explanation": "Because consolidation happens during sleep, spaced daily reading \"lets each night's consolidation lock in\" the prior day's effort."
+          "explanation": "Because consolidation happens during sleep, spaced daily reading \"lets each night's consolidation lock in\" the prior day's effort.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q3",
@@ -923,7 +959,13 @@
             "They would only need to review once more in the morning"
           ],
           "answer": 0,
-          "explanation": "Consolidation happens during sleep, when the hippocampus transfers the durable parts to the cortex. An all-night session trades away that step, which is why the passage says \"cramming fights your own biology.\""
+          "explanation": "Consolidation happens during sleep, when the hippocampus transfers the durable parts to the cortex. An all-night session trades away that step, which is why the passage says \"cramming fights your own biology.\"",
+          "distractorTags": [
+            null,
+            "unsupported-inference",
+            "literal-detail-for-inference",
+            null
+          ]
         }
       ],
       "lesson": {
@@ -1228,7 +1270,13 @@
             "Skimming for an hour is the best habit."
           ],
           "answer": 1,
-          "explanation": "The passage contrasts the two and stresses that \"only one of them grows with practice\": deep reading rewards effort."
+          "explanation": "The passage contrasts the two and stresses that \"only one of them grows with practice\": deep reading rewards effort.",
+          "distractorTags": [
+            null,
+            null,
+            "main-idea-too-broad",
+            null
+          ]
         },
         {
           "id": "q2",
@@ -1254,7 +1302,13 @@
             "Avoiding difficult texts"
           ],
           "answer": 1,
-          "explanation": "The closing advice: \"one short passage read with full attention beats an hour of skimming.\""
+          "explanation": "The closing advice: \"one short passage read with full attention beats an hour of skimming.\"",
+          "distractorTags": [
+            "literal-detail-for-inference",
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q4",
@@ -1308,7 +1362,7 @@
           "main-idea": "The essay argues one point by comparing. Find 'Both kinds matter, but only one of them grows with practice': the main idea is that conclusion, not a fact about either kind alone.",
           "inference": "'You can scan your whole life and never get better at scanning' states a fact but leaves the 'so what' unsaid. What it implies about which reading is worth practicing is the inference.",
           "vocabulary": "For a hard word like 'demanding,' read what sits next to it. The text pairs it with 'rewards effort' and 'the more easily you finish the next one,' which restate the meaning.",
-        "detail": "The passage lists three parts of deep reading: build a mental model, test it, and connect ideas across paragraphs."
+          "detail": "The passage lists three parts of deep reading: build a mental model, test it, and connect ideas across paragraphs."
         }
       },
       "wordCount": 137
@@ -1771,7 +1825,13 @@
             "He was already on his way home"
           ],
           "answer": 1,
-          "explanation": "Mr. Okafor knows where the spare key is, and the message shows he handled the problem, so Dev stays calm."
+          "explanation": "Mr. Okafor knows where the spare key is, and the message shows he handled the problem, so Dev stays calm.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -1784,7 +1844,13 @@
             "He no longer trusts Mr. Okafor"
           ],
           "answer": 1,
-          "explanation": "He realizes he 'never told' the old man he was grateful and decides to finally say it."
+          "explanation": "He realizes he 'never told' the old man he was grateful and decides to finally say it.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q3",
@@ -1810,7 +1876,13 @@
             "A broken front door that must be fixed"
           ],
           "answer": 2,
-          "explanation": "Mr. Okafor uses the spare key to rescue the cat and lock up, and Dev realizes he has never said thank you for these \"small rescues.\" He decides that tonight he finally will."
+          "explanation": "Mr. Okafor uses the spare key to rescue the cat and lock up, and Dev realizes he has never said thank you for these \"small rescues.\" He decides that tonight he finally will.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q5",
@@ -1971,7 +2043,7 @@
           "main-idea": "The main idea is not the crab. Track why the grandmother stays silent and her thought at the end: 'that was the whole lesson.' A child learns best when nobody explains it to death.",
           "inference": "Her thoughts are told; the boy's are shown. When he whispers 'It's watching me back' with eyes wide, infer what he felt (awe, wonder) from his actions, since the story never names it.",
           "vocabulary": "Use the action around a hard word to unlock it. 'sidled out from under a rock' plus 'lifted one claw' shows a slow sideways crawl, so sidled must mean moved sideways.",
-        "detail": "The crab appears at the start and leaves at the end. 'A minute passed, then two' and the rising waves mark elapsed time."
+          "detail": "The crab appears at the start and leaves at the end. 'A minute passed, then two' and the rising waves mark elapsed time."
         }
       }
     },
@@ -2221,7 +2293,13 @@
             "Calm seas make sailing safe"
           ],
           "answer": 1,
-          "explanation": "The passage argues that 'the absence of disaster is the hardest kind of work to see,' praising unseen prevention."
+          "explanation": "The passage argues that 'the absence of disaster is the hardest kind of work to see,' praising unseen prevention.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -2234,7 +2312,13 @@
             "He plans to leave the town soon"
           ],
           "answer": 2,
-          "explanation": "He 'asks nothing' and 'sleeps well,' content in his private understanding of the light's value."
+          "explanation": "He 'asks nothing' and 'sleeps well,' content in his private understanding of the light's value.",
+          "distractorTags": [
+            null,
+            "unsupported-inference",
+            null,
+            null
+          ]
         },
         {
           "id": "q3",
@@ -2247,7 +2331,13 @@
             "That Halloran fears a flood is coming"
           ],
           "answer": 1,
-          "explanation": "The line says no one thanks the wall 'until the day it falls,' mirroring the unseen value of the light."
+          "explanation": "The line says no one thanks the wall 'until the day it falls,' mirroring the unseen value of the light.",
+          "distractorTags": [
+            "unsupported-inference",
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q4",
@@ -2446,7 +2536,13 @@
             "Love requires constant attention to everything"
           ],
           "answer": 1,
-        "explanation": "The passage says attention is limited and chosen. Repeated choices shape a person's life."
+          "explanation": "The passage says attention is limited and chosen. Repeated choices shape a person's life.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -2459,7 +2555,13 @@
             "Because friends demand it"
           ],
           "answer": 1,
-          "explanation": "Attending to someone means 'I am turning toward you' instead of everything else, an act of preference like love."
+          "explanation": "Attending to someone means 'I am turning toward you' instead of everything else, an act of preference like love.",
+          "distractorTags": [
+            "unsupported-inference",
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q3",
@@ -2472,7 +2574,13 @@
             "A faster phone"
           ],
           "answer": 1,
-          "explanation": "Such a person is 'no longer dragged from object to object,' gaining freedom to decide what is worth seeing."
+          "explanation": "Such a person is 'no longer dragged from object to object,' gaining freedom to decide what is worth seeing.",
+          "distractorTags": [
+            "unsupported-inference",
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q4",
@@ -2829,7 +2937,7 @@
             "the roughness of the path"
           ],
           "answer": 2,
-        "explanation": "The walk did not add much time. It changed how the day felt by making room to notice nature and think."
+          "explanation": "The walk did not add much time. It changed how the day felt by making room to notice nature and think."
         },
         {
           "id": "q5",
@@ -3015,7 +3123,13 @@
             "Movable metal type first appeared in Europe and then reached Korea"
           ],
           "answer": 1,
-          "explanation": "The passage places Gutenberg’s European achievement within earlier East Asian printing history."
+          "explanation": "The passage places Gutenberg’s European achievement within earlier East Asian printing history.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -3041,7 +3155,13 @@
             "Workers could arrange, print, and reuse the same pieces"
           ],
           "answer": 3,
-          "explanation": "The second paragraph describes arranging metal letters, printing copies, and using the letters again."
+          "explanation": "The second paragraph describes arranging metal letters, printing copies, and using the letters again.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q4",
@@ -3121,7 +3241,13 @@
             "Camels were the most important invention of the era"
           ],
           "answer": 1,
-          "explanation": "The passage describes a network of routes carrying many goods and ideas, not just silk."
+          "explanation": "The passage describes a network of routes carrying many goods and ideas, not just silk.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            "detail-instead-of-main-idea"
+          ]
         },
         {
           "id": "q2",
@@ -3160,7 +3286,13 @@
             "Traders from many distant lands stopped there to rest and trade"
           ],
           "answer": 3,
-          "explanation": "The routes linked China, India, Persia, and the Mediterranean, and goods changed hands at each stop. Since travelers from all these lands rested and traded in the oasis cities, the cities naturally filled with a blend of people and customs."
+          "explanation": "The routes linked China, India, Persia, and the Mediterranean, and goods changed hands at each stop. Since travelers from all these lands rested and traded in the oasis cities, the cities naturally filled with a blend of people and customs.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         }
       ],
       "wordCount": 155,
@@ -3227,7 +3359,13 @@
             "She refused to work with Babbage"
           ],
           "answer": 1,
-          "explanation": "The text says she suggested the machine might work with music and ideas, not just numbers, showing vision beyond her time."
+          "explanation": "The text says she suggested the machine might work with music and ideas, not just numbers, showing vision beyond her time.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -3266,7 +3404,13 @@
             "How Ada's mother taught her mathematics"
           ],
           "answer": 1,
-        "explanation": "Ada's notes gave the machine step-by-step instructions and proposed uses beyond numbers. Those ideas made her a computing pioneer. The engine was never fully built."
+          "explanation": "Ada's notes gave the machine step-by-step instructions and proposed uses beyond numbers. Those ideas made her a computing pioneer. The engine was never fully built.",
+          "distractorTags": [
+            null,
+            null,
+            "detail-instead-of-main-idea",
+            "detail-instead-of-main-idea"
+          ]
         }
       ],
       "wordCount": 245,
@@ -3757,7 +3901,13 @@
             "Marie Curie studied only one element"
           ],
           "answer": 1,
-          "explanation": "The passage centers on her determination, her discoveries, and the obstacles and risks she faced."
+          "explanation": "The passage centers on her determination, her discoveries, and the obstacles and risks she faced.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -3783,7 +3933,13 @@
             "She avoided handling the glowing materials"
           ],
           "answer": 1,
-          "explanation": "The passage says the rays slowly harmed her and that no one then understood how dangerous exposure could be."
+          "explanation": "The passage says the rays slowly harmed her and that no one then understood how dangerous exposure could be.",
+          "distractorTags": [
+            "unsupported-inference",
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q4",
@@ -4287,7 +4443,13 @@
             "Interest rates change every year"
           ],
           "answer": 1,
-          "explanation": "The passage explains that interest is earned on both original savings and prior interest, and that time is the key advantage."
+          "explanation": "The passage explains that interest is earned on both original savings and prior interest, and that time is the key advantage.",
+          "distractorTags": [
+            null,
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q2",
@@ -4300,7 +4462,13 @@
             "Banks favor younger customers"
           ],
           "answer": 1,
-          "explanation": "The text says beginning early gives 'the process more time to fold gains upon gains.'"
+          "explanation": "The text says beginning early gives 'the process more time to fold gains upon gains.'",
+          "distractorTags": [
+            "unsupported-inference",
+            null,
+            null,
+            null
+          ]
         },
         {
           "id": "q3",
@@ -4326,7 +4494,7 @@
             "Nothing until the third year"
           ],
           "answer": 2,
-        "explanation": "In the second year, you earn on both the original savings and the first year's interest. Each round builds on the last."
+          "explanation": "In the second year, you earn on both the original savings and the first year's interest. Each round builds on the last."
         }
       ],
       "wordCount": 130,
@@ -4962,7 +5130,7 @@
             "a network's founder"
           ],
           "answer": 1,
-        "explanation": "A rival is a competing product trying to attract the network's users."
+          "explanation": "A rival is a competing product trying to attract the network's users."
         }
       ],
       "wordCount": 135,
@@ -6366,7 +6534,7 @@
             "It has never touched the ocean"
           ],
           "answer": 1,
-        "explanation": "The cycle makes no new water and loses none. The same water has moved through it many times."
+          "explanation": "The cycle makes no new water and loses none. The same water has moved through it many times."
         }
       ],
       "wordCount": 124,
@@ -7041,7 +7209,7 @@
           }
         ],
         "skillTips": {
-        "main-idea": "Put the tips together: pack light and use a small bag.",
+          "main-idea": "Put the tips together: pack light and use a small bag.",
           "inference": "The passage never says a heavy bag ruins a trip in plain words. Infer it from \"You spend less time waiting and more time seeing.\"",
           "vocabulary": "For \"items,\" look at the examples near it: clothes, shoes, papers, money, phone. \"Items\" is the general word for all these things.",
           "detail": "The steps come in order. To answer a \"what to do\" question, find the matching step: after laying out, you \"take away half of it.\""
@@ -8360,7 +8528,7 @@
         {
           "id": "q3",
           "skill": "inference",
-        "stem": "How does play help young otters?",
+          "stem": "How does play help young otters?",
           "choices": [
             "It keeps them warm in the cold",
             "It helps young otters build strength and skill for hunting",
@@ -8699,7 +8867,7 @@
             "slowly dies"
           ],
           "answer": 1,
-        "explanation": "The cactus \"thrives,\" so it does well in the desert."
+          "explanation": "The cactus \"thrives,\" so it does well in the desert."
         }
       ],
       "lesson": {
@@ -9796,7 +9964,7 @@
           }
         ],
         "skillTips": {
-        "main-idea": "Matching the three texts made hieroglyphs readable. Choose that main idea, not a detail about soldiers or France.",
+          "main-idea": "Matching the three texts made hieroglyphs readable. Choose that main idea, not a detail about soldiers or France.",
           "inference": "The close calls the stone 'ordinary' yet powerful. Infer the passage values the method (a known text unlocking unknown ones) over the object itself.",
           "vocabulary": "'Scripts' is set against 'a language' in the next sentence. Use that contrast: scripts are ways of writing, so three scripts can record one message in different symbol systems.",
           "detail": "The decoding rests on one fact: 'all three said the same thing'. When a question asks how the stone helped, return to that matching, not its size or material."
@@ -20277,7 +20445,7 @@
             "About 11,500 years"
           ],
           "answer": 3,
-        "explanation": "Carbon halves every 5,730 years. One quarter remains after two halvings, or about 11,460 years."
+          "explanation": "Carbon halves every 5,730 years. One quarter remains after two halvings, or about 11,460 years."
         },
         {
           "id": "q4",
@@ -22902,7 +23070,7 @@
             "Shops give bad advice on purpose."
           ],
           "answer": 1,
-        "explanation": "The last two paragraphs give reasons to repair besides saving money. Opening and fixing an object gives people knowledge and control over what they own."
+          "explanation": "The last two paragraphs give reasons to repair besides saving money. Opening and fixing an object gives people knowledge and control over what they own."
         },
         {
           "id": "q2",
@@ -28217,7 +28385,7 @@
             "that customers always choose the shortest line available"
           ],
           "answer": 2,
-        "explanation": "The first paragraph says one line is faster and fairer. Later paragraphs explain that one line spreads uneven service times and keeps first-come order."
+          "explanation": "The first paragraph says one line is faster and fairer. Later paragraphs explain that one line spreads uneven service times and keeps first-come order."
         },
         {
           "id": "q2",
@@ -28431,7 +28599,7 @@
             "that walking is healthier than standing"
           ],
           "answer": 0,
-        "explanation": "The airport story separates clock time from felt time. The designers fill and measure waits to change how they feel, not how long they last."
+          "explanation": "The airport story separates clock time from felt time. The designers fill and measure waits to change how they feel, not how long they last."
         },
         {
           "id": "q2",
@@ -28752,7 +28920,7 @@
             "why reinsurance has replaced ordinary insurance"
           ],
           "answer": 2,
-        "explanation": "Independent losses make pools predictable. Correlated losses make many members claim at once and can break the pool."
+          "explanation": "Independent losses make pools predictable. Correlated losses make many members claim at once and can break the pool."
         },
         {
           "id": "q2",
@@ -28962,7 +29130,7 @@
             "Willpower grows stronger every time a temptation is successfully resisted."
           ],
           "answer": 2,
-        "explanation": "High scorers report fewer battles with temptation. The essay concludes that arranging the environment can look like strength of character."
+          "explanation": "High scorers report fewer battles with temptation. The essay concludes that arranging the environment can look like strength of character."
         },
         {
           "id": "q2",
@@ -29283,7 +29451,7 @@
             "A misread announcement released pressure that no correction could take back, because the border ran on belief."
           ],
           "answer": 3,
-        "explanation": "The last paragraph gives the main point: a border works only while people believe it is closed. The press conference broke that belief."
+          "explanation": "The last paragraph gives the main point: a border works only while people believe it is closed. The press conference broke that belief."
         },
         {
           "id": "q2",
@@ -29403,7 +29571,7 @@
             "The argument proves that donations never reach distant children."
           ],
           "answer": 0,
-        "explanation": "Critics accept the logic but reject how far it extends. It keeps demanding sacrifices until it could consume a comfortable life."
+          "explanation": "Critics accept the logic but reject how far it extends. It keeps demanding sacrifices until it could consume a comfortable life."
         },
         {
           "id": "q3",
@@ -29711,7 +29879,7 @@
             "Cabinetmakers care less about precision than machinists do."
           ],
           "answer": 1,
-        "explanation": "The thesis appears in 'the placement of exactness' and in the closing line. Mastery means deciding where error is acceptable."
+          "explanation": "The thesis appears in 'the placement of exactness' and in the closing line. Mastery means deciding where error is acceptable."
         },
         {
           "id": "q2",
@@ -30246,7 +30414,7 @@
             "A tuner reads a player's history in the piano's wear and quietly chooses to preserve it rather than erase it."
           ],
           "answer": 3,
-        "explanation": "Vasil refuses to file the felt because that would make the piano 'less like itself.' He tunes it but keeps the grooves left by its player."
+          "explanation": "Vasil refuses to file the felt because that would make the piano 'less like itself.' He tunes it but keeps the grooves left by its player."
         },
         {
           "id": "q2",

@@ -187,11 +187,14 @@ that replace whole questions refuse to run after tags exist, so repairs happen
 before materialization. The corpus audit also fails on a wrong-length array, a
 tagged correct option, an unknown ID, or a tag used with the wrong skill.
 
-The committed review sidecar is currently empty, and neither the bundled v11
-snapshot nor the current OTA v16 corpus materializes optional tag arrays. That
-zero-coverage state is valid and does not block a release. Future reviews can
-be added incrementally; the tooling does not invent labels from question skill
-or option position, and an uncertain choice remains `null`.
+The committed review sidecar holds the first editorial batch: 28 legacy
+inference and main-idea questions reviewed against corpus v17, materializing
+18 tagged distractor slots. Reviewed questions whose wrong options are
+fabricated or contradicted carry an all-`null` array on purpose; that records
+the review without inventing a label. Partial coverage is valid and does not
+block a release. Future reviews can be added incrementally; the tooling does
+not invent labels from question skill or option position, and an uncertain
+choice remains `null`.
 
 ## Readability review
 
