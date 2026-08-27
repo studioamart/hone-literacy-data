@@ -99,9 +99,9 @@ authoritative and must be bumped by the author. The script also validates
 
 ## Figurative language and tone (`og-fig-*`)
 
-Thirty passages published in corpus v18, purpose-written so that each one
-carries a live metaphor and a stable authorial stance. Ten essay, ten fiction,
-ten biography; ten each at levels 3, 4 and 5.
+Thirty passages, purpose-written so that each one carries a live metaphor and a
+stable authorial stance. Ten essay, ten fiction, ten biography; ten each at
+levels 3, 4 and 5.
 
 Each of them carries the four mandatory skill questions **plus a fifth**, which
 is one of two shapes:
@@ -122,16 +122,53 @@ additively if it ever matters.
 
 Rules specific to this pack:
 
-- Every figurative target is also seeded into `lesson.vocab`, so a reader who
-  taps the word mid-read gets the same in-context gloss the item tests.
+- Every figurative target phrase is also carried in `lesson.vocab`, so the
+  coaching card shown after the questions glosses the exact phrase the item
+  tested. The gloss is written for that card and is usually a paraphrase of the
+  keyed answer rather than the same string. It is not the reader's tap-a-word
+  card, which is a separate offline dictionary.
 - The prefix is deliberately **not** `og-y26-d###-`, so `year_pack_parity.py`
   (scoped to that pattern at exactly 365 records) imposes no batch-mirror duty
   and there is no batch file to keep in step.
 - Biography passages use durable, well-established facts and no invented
-  quotations, exactly as the year-pack editorial contract requires.
+  quotations, exactly as the year-pack editorial contract requires. Contested
+  etymologies and popular-but-disputed origin stories count as invented.
+- The narrator of a first-person passage and the writer of an essay are unnamed
+  voices. Question stems, choices, explanations and lessons never give them a
+  gender, an age or a relationship the passage itself does not state.
 - The one-time `repair-legacy-*.mjs` tools pin the legacy (non year-pack)
   passage count of their v11/v12 source state. That pin is correct and stays
   put; a corpus carrying this pack is simply not a corpus they may rewrite.
+
+Because there is no batch file, `scripts/validate-fig-pack.py` is the pack's
+authoring source of truth. It re-derives from the published records everything a
+generator would otherwise have guaranteed, so a hand edit that breaks an
+invariant fails a release rather than shipping:
+
+```bash
+python3 scripts/validate-fig-pack.py
+python3 scripts/validate-fig-pack.py --json > /tmp/fluency-fig-pack.json
+```
+
+It checks the 30/10/10/10 distribution, the fifteen-and-fifteen split of fifth
+items, `wordCount` against the actual whitespace count, the year pack's level
+word bands, the `(passage index + question index) % 4` answer rotation and its
+38/38/37/37 spread, every `lesson.signals` phrase and `lesson.vocab` word
+verbatim in the text, every word named by a vocabulary skill tip verbatim in the
+text, each figurative target present in both the text and `lesson.vocab`,
+`audit-readability.py`'s answer-length-cue and 30-word teaching-sentence
+thresholds as hard gates, and the absence of any non-ASCII dash.
+`scripts/test_fig_pack.py` injects each of those defect shapes into a copy of
+the live corpus and requires the checker to name it, so the checker cannot
+quietly stop working.
+
+Two things it deliberately does not enforce. Editorial judgement is out of
+scope: whether a distractor is genuinely unavailable from the text is a review
+question, not a check. And this pack was not authored to the year pack's
+per-level sentence cap (`MAX_SENTENCE_WORDS` in `validate-year-pack.py`); seven
+records carry a longer sentence than that cap allows, the longest being 54 words
+at level 5. That is recorded here rather than buried, and is worth closing the
+next time these passages are edited.
 
 ## Optional distractor evidence: reviewed, never inferred
 
@@ -224,7 +261,7 @@ before materialization. The corpus audit also fails on a wrong-length array, a
 tagged correct option, an unknown ID, or a tag used with the wrong skill.
 
 The committed review sidecar is currently empty, and neither the bundled v11
-snapshot nor the current OTA v16 corpus materializes optional tag arrays. That
+snapshot nor the current OTA corpus materializes optional tag arrays. That
 zero-coverage state is valid and does not block a release. Future reviews can
 be added incrementally; the tooling does not invent labels from question skill
 or option position, and an uncertain choice remains `null`.

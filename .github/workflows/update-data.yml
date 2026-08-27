@@ -67,6 +67,11 @@ jobs:
             echo 'No year-pack batches present; skipping year-pack validation.'
           fi
 
+      # The og-fig-* pack ships no batch file, so this checker is its authoring
+      # source of truth rather than a duplicate of the corpus audit.
+      - name: Validate the figurative-language and tone pack
+        run: python3 scripts/validate-fig-pack.py
+
       - name: Report readability review candidates
         run: python3 scripts/audit-readability.py
 

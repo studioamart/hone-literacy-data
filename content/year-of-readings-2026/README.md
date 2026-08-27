@@ -95,6 +95,7 @@ For a current corpus release, run:
 ```bash
 python3 scripts/validate-year-pack.py
 python3 scripts/year_pack_parity.py
+python3 scripts/validate-fig-pack.py
 python3 scripts/audit-readability.py
 python3 scripts/materialize-distractor-reviews.py --write-target data/passages.json
 python3 scripts/materialize-distractor-reviews.py
@@ -111,7 +112,7 @@ have no coverage minimum and are not a release floor.
 
 `merge-year-pack.mjs`, `normalize-legacy-corpus.mjs`, and the
 `repair-legacy-*.mjs` scripts are historical v12 assembly tools. Their narrow
-version and hash checks are intentional. They are not part of a current v16
+version and hash checks are intentional. They are not part of any current
 release and must not be used to rewrite the live corpus.
 
 See [OTA-RELEASE.md](OTA-RELEASE.md) for the historical v12 release record and

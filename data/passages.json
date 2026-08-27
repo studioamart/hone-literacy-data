@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 18,
+  "version": 19,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -68143,7 +68143,7 @@
         "skillTips": {
           "main-idea": "The last paragraph names the cure, so the point lives there. Ask what the essay wants you to notice before you keep arguing: the growing weight, not the other person.",
           "inference": "The essay refuses to call the speaker a liar. Ask what that refusal is for, and you have the essay's attitude toward people who are wrong.",
-          "vocabulary": "Prop, hold up, and weight belong to buildings. Read each one as a description of an idea under strain, then pick the meaning that fits an argument.",
+          "vocabulary": "Prop, stacked, and weight belong to buildings. Read each one as a description of an idea under strain, then pick the meaning that fits an argument.",
           "detail": "The exact facts are small here: how many minutes pass, which condition is the warning sign. Reread the sentence that carries the number."
         }
       }
@@ -68258,7 +68258,7 @@
         ],
         "skillTips": {
           "main-idea": "Two feelings run side by side, so the gist has to hold both. The final question the writer asks is the essay's real advice.",
-          "inference": "The writer never says maps are bad. Read what he does with them instead: keeps using them, and asks who drew them.",
+          "inference": "The essay never says maps are bad. Read what the writer does with them instead: keeps using them, and asks who drew them.",
           "vocabulary": "Feature, promise, and partial all have everyday senses that do not fit here. Choose the meaning the sentence around them needs.",
           "detail": "The subway paragraph is the factual one. Reread the list of exactly what the map does to curves, stops, and lines."
         }
@@ -68274,7 +68274,7 @@
       "level": 5,
       "wordCount": 230,
       "releasedAt": "2026-08-26",
-      "text": "Every trade borrows its words. Sailors gave us 'aboveboard'. Weavers gave us 'unravel'. Printers gave us 'stereotype', which once meant a solid metal plate that could print the same page forever.\n\nA borrowed word arrives wearing its old coat. That is the useful part. When a manager says a plan has unravelled, everyone can see the thread coming loose, and nobody needs a definition. The old picture does the teaching.\n\nThe trouble starts when the coat comes off and nobody notices. Offices are full of words that were once pictures and are now noise. Leverage was a plank and a stone. Bandwidth was a measurable width. Repeated often enough, a picture word turns into a sound that means roughly whatever the speaker needs it to mean, and a meeting can run an hour on such sounds without producing one sentence anybody could disagree with. The word is still doing a job, but the job has changed from showing to signalling. It now tells the room that the speaker belongs to the room.\n\nI am not asking anyone to give up borrowed words. I am asking for the small courtesy of remembering where they came from. Say unravel when a thread is genuinely coming loose. Say we do not have the people when that is the plain fact, and let bandwidth go back to the engineers who can still measure it.",
+      "text": "Every trade borrows its words. Sailors gave us 'leeway'. Weavers gave us 'unravel'. Printers gave us 'stereotype', which once meant a solid metal plate that could print the same page forever.\n\nA borrowed word arrives wearing its old coat. That is the useful part. When a manager says a plan has unravelled, everyone can see the thread coming loose, and nobody needs a definition. The old picture does the teaching.\n\nThe trouble starts when the coat comes off and nobody notices. Offices are full of words that were once pictures and are now noise. Leverage was a plank and a stone. Bandwidth was a measurable width. Repeated often enough, a picture word turns into a sound that means roughly whatever the speaker needs it to mean, and a meeting can run an hour on such sounds without producing one sentence anybody could disagree with. The word is still doing a job, but the job has changed from showing to signalling. It now tells the room that the speaker belongs to the room.\n\nI am not asking anyone to give up borrowed words. I am asking for the small courtesy of remembering where they came from. Say unravel when a thread is genuinely coming loose. Say we do not have the people when that is the plain fact, and let bandwidth go back to the engineers who can still measure it.",
       "questions": [
         {
           "id": "q1",
@@ -68323,7 +68323,7 @@
             "A plank and a stone used for lifting heavy loads",
             "A solid metal plate that could print the same page forever",
             "A woven pattern repeated along the edge of a cloth",
-            "A rope arrangement used above the deck of a ship"
+            "The sideways drift a ship makes away from its course"
           ],
           "answer": 1,
           "explanation": "The first paragraph credits printers with the word and gives its old sense: a solid metal plate that could print the same page forever."
@@ -68467,7 +68467,7 @@
           },
           {
             "phrase": "I would defend that hour",
-            "means": "The writer steps forward. Everything after this is his case."
+            "means": "The writer steps forward. Everything after this is the defence."
           },
           {
             "phrase": "They hold him up beautifully",
@@ -68489,7 +68489,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The gist is a defence, not a description. Ask what the writer is arguing for and who he is arguing against.",
+          "main-idea": "The gist is a defence, not a description. Ask what the writer is arguing for and what the argument is against.",
           "inference": "The shrug in the first paragraph and the word beautifully in the last both carry feeling. Read them together.",
           "vocabulary": "Productive, wasted, and beginner all get pulled slightly out of their usual jobs. Check each against the sentence that holds it.",
           "detail": "Facts here are tiny: what the bridges are made of, what he has never done with them. Reread the opening three sentences."
@@ -68682,12 +68682,12 @@
           "stem": "Which phrase best describes the writer's attitude in this essay?",
           "choices": [
             "hopeless about ever getting an evening back again",
-            "rueful about his own habit and calm about the fix",
-            "angry at the senders who wrote to him late at night",
+            "rueful about an old habit and calm about the fix",
+            "angry at the senders who wrote late at night",
             "proud of a work rate that never stops for a Sunday"
           ],
           "answer": 1,
-          "explanation": "He says there is no villain, admits 'I gave it away', calls his own rule faintly ridiculous, and then reports that almost nothing breaks."
+          "explanation": "The writer says there is no villain, admits 'I gave it away', calls the new rule faintly ridiculous, and then reports that almost nothing breaks."
         }
       ],
       "lesson": {
@@ -68782,7 +68782,7 @@
         {
           "id": "q4",
           "skill": "detail",
-          "stem": "What instruction does the essay say a recipe gives before going silent?",
+          "stem": "What is the last instruction the essay says a recipe gives before it goes silent?",
           "choices": [
             "Heat the oven in advance",
             "Knead until smooth",
@@ -68824,8 +68824,8 @@
         ],
         "vocab": [
           {
-            "word": "silent",
-            "inContext": "saying nothing useful about a step"
+            "word": "goes silent",
+            "inContext": "says nothing useful about a step"
           },
           {
             "word": "brick",
@@ -69104,15 +69104,15 @@
         {
           "id": "q2",
           "skill": "inference",
-          "stem": "Why does the writer say his failure is not a failure of memory?",
+          "stem": "Why does the writer say the failure is not a failure of memory?",
           "choices": [
-            "Because he can remember the exact phrasing he had prepared.",
+            "Because the exact phrasing that was prepared is still remembered.",
             "Because memory has nothing to do with ordinary conversation.",
-            "Because he never took the other person's difficulty in to begin with.",
-            "Because he wrote the conversation down soon after it happened."
+            "Because the other person's difficulty was never taken in to begin with.",
+            "Because the conversation was written down soon after it happened."
           ],
           "answer": 2,
-          "explanation": "The test asks him to say back what was hard for them. Failing it shows his attention was on his own sentence, so there was nothing to remember."
+          "explanation": "The test is to say back what was hard for them. Failing it shows the attention was on the prepared sentence, so there was nothing to remember."
         },
         {
           "id": "q3",
@@ -69130,15 +69130,15 @@
         {
           "id": "q4",
           "skill": "detail",
-          "stem": "What does the writer's test ask him to do before he answers?",
+          "stem": "What does the writer's test require before answering?",
           "choices": [
             "Say back what was hard for them, in their words",
             "Wait a full ten seconds after they have stopped",
-            "Write down the phrasing he wants to use",
+            "Write down the phrasing planned for the reply",
             "Ask them a question about their childhood"
           ],
           "answer": 0,
-          "explanation": "The third paragraph states the test exactly: can he say back the thing that was hard for them, in their words rather than his."
+          "explanation": "The third paragraph states the test exactly: say back the thing that was hard for them, in their words rather than your own."
         },
         {
           "id": "q5",
@@ -69146,12 +69146,12 @@
           "stem": "Which phrase best describes the writer's tone in this essay?",
           "choices": [
             "despairing that anybody can learn to listen properly",
-            "honest about his own failing and warm toward the reader",
-            "scolding readers for a habit he has never had himself",
+            "honest about a personal failing and warm toward the reader",
+            "scolding readers for a habit the writer has never had",
             "detached and clinical about a common social error"
           ],
           "answer": 1,
-          "explanation": "He uses himself as the example, calls the test slightly humbling, admits that most of the time he fails it, and offers the reader a way through."
+          "explanation": "The writer is the example here, calls the test slightly humbling, admits to failing it most of the time, and offers the reader a way through."
         }
       ],
       "lesson": {
@@ -69186,9 +69186,9 @@
         ],
         "skillTips": {
           "main-idea": "The final paragraph names a price. A gist that leaves out what listening costs has taken only half the essay.",
-          "inference": "The writer distinguishes two failures. Ask which one he is admitting to and why the difference matters.",
+          "inference": "Two failures are distinguished here. Ask which one the writer admits to and why the difference matters.",
           "vocabulary": "Loaded, guarding, and cost all come from elsewhere. Ask what each does inside a conversation.",
-          "detail": "The test is stated once, precisely. Reread the question the writer asks himself before answering."
+          "detail": "The test is stated once, precisely. Reread the question in the third paragraph before answering."
         }
       }
     },
@@ -69326,25 +69326,25 @@
           "stem": "What is this story mostly about?",
           "choices": [
             "A family shop that was lost and the argument that followed its closing.",
-            "A father who refuses to explain himself and a daughter who gives up asking.",
+            "A father who refuses to explain himself and a child who gives up asking.",
             "A childhood theory about coldness that turns out to have been completely correct.",
-            "A daughter revising her judgement of a quiet father after one long unexpected conversation."
+            "A grown child revising an old judgement of a quiet father after one long conversation."
           ],
           "answer": 3,
-          "explanation": "The story moves from a childhood theory, through the night in the kitchen, to the narrator saying she is less certain than she used to be."
+          "explanation": "The story moves from a childhood theory, through the night in the kitchen, to a narrator who is less certain than before."
         },
         {
           "id": "q2",
           "skill": "inference",
-          "stem": "Why did the narrator build a theory about her father's quiet?",
+          "stem": "Why did the narrator build a theory about the father's quiet?",
           "choices": [
             "A child reads silence as feeling, because no other explanation is offered.",
-            "Her mother had told her that her father did not care for her.",
-            "She had read about the lost shop and wanted to test her father.",
-            "Her father had asked her not to speak to him during meals."
+            "Somebody else in the family had said the father did not care.",
+            "The narrator had heard about the lost shop and wanted to test that story.",
+            "The father had asked for no talking at all during meals."
           ],
           "answer": 0,
-          "explanation": "She says she took the quiet for coldness 'the way children do', which makes the theory a child's best reading of an unexplained silence."
+          "explanation": "The narrator took the quiet for coldness 'the way children do', which makes the theory a child's best reading of an unexplained silence."
         },
         {
           "id": "q3",
@@ -69352,12 +69352,12 @@
           "stem": "What does 'return' mean in 'seemed a poor return'?",
           "choices": [
             "the act of giving something to its owner",
-            "what she got back for years of waiting",
-            "a journey back to a place she had left",
+            "what came back after years of waiting",
+            "a journey back to a place once left",
             "a form sent in to a government office"
           ],
           "answer": 1,
-          "explanation": "She is weighing forty minutes against twenty-six years, so return means what those years finally yielded her."
+          "explanation": "The narrator weighs forty minutes against twenty-six years, so return means what those years finally yielded."
         },
         {
           "id": "q4",
@@ -69375,19 +69375,19 @@
         {
           "id": "q5",
           "skill": "inference",
-          "stem": "Which phrase best describes how the narrator now feels about her father?",
+          "stem": "Which phrase best describes how the narrator now feels about the father?",
           "choices": [
             "sharp resentment that has never once softened",
             "cheerful gratitude with no difficulty left in it",
-            "cold distance from a man she has stopped knowing",
+            "cold distance from a man no longer known",
             "settled tenderness that has replaced an older anger"
           ],
           "answer": 3,
-          "explanation": "She says she 'used to be angry' and is 'less certain now', and ends by calling what he left her more than talkative people had given her."
+          "explanation": "The narrator 'used to be angry' and is now 'less certain', and ends by calling what that night left behind more than talkative people ever gave."
         }
       ],
       "lesson": {
-        "strategy": "One picture holds the story: a tide that goes out for years and comes up the beach once. Everything the narrator feels is attached to that picture, so watch what she says the tide owes, and what she decides it left behind.",
+        "strategy": "One picture holds the story: a tide that goes out for years and comes up the beach once. Everything the narrator feels is attached to that picture, so watch what the narrator says a tide owes, and what this one left behind.",
         "signals": [
           {
             "phrase": "came in like a tide",
@@ -69399,7 +69399,7 @@
           },
           {
             "phrase": "I am less certain now",
-            "means": "The turn. Everything after this is a grown woman changing her mind."
+            "means": "The turn. Everything after this is an adult reconsidering a childhood judgement."
           }
         ],
         "vocab": [
@@ -69570,13 +69570,13 @@
           "skill": "inference",
           "stem": "Why does the narrator say the wrong fish is the best part?",
           "choices": [
-            "He wants to prove that his uncle's memory had begun to fail him.",
-            "It is the only detail in the letter that he can still remember himself.",
+            "The mistake proves the uncle's memory had begun to fail.",
+            "It is the only detail in the letter the narrator still remembers.",
             "The mistake shows the letter was written from feeling rather than from a record.",
             "The larger fish had been the subject of a long family disagreement."
           ],
           "answer": 2,
-          "explanation": "He says the letter is not carrying information, so an error is evidence that the uncle was writing to him rather than filing an accurate account."
+          "explanation": "The narrator says the letter is not carrying information, so an error is evidence that the uncle was writing to a person rather than filing an accurate account."
         },
         {
           "id": "q3",
@@ -69607,19 +69607,19 @@
         {
           "id": "q5",
           "skill": "inference",
-          "stem": "Which phrase best describes the narrator's feeling as he reads the letter?",
+          "stem": "Which phrase best describes the narrator's feeling on reading the letter?",
           "choices": [
-            "grief so heavy that the letter gives him no comfort",
+            "grief so heavy that the letter gives no comfort",
             "grateful affection that is untroubled by the errors",
             "irritation with a relative who never checked a fact",
-            "guilt at having forgotten the trip his uncle recalled"
+            "guilt at having forgotten the trip the uncle recalled"
           ],
           "answer": 1,
-          "explanation": "He has read it eleven times, has never once wanted to correct it, and calls the wrong fish the best part of the whole letter."
+          "explanation": "The narrator has read it eleven times, has never once wanted to correct it, and calls the wrong fish the best part of the letter."
         }
       ],
       "lesson": {
-        "strategy": "A story told backwards from an object. The letter is late, soft at the corners, and wrong about two things, and the narrator wants every one of those faults kept. Ask what he thinks the letter is actually carrying, and the ending explains itself.",
+        "strategy": "A story told backwards from an object. The letter is late, soft at the corners, and wrong about two things, and the narrator wants every one of those faults kept. Ask what the narrator thinks the letter is actually carrying, and the ending explains itself.",
         "signals": [
           {
             "phrase": "without ever remembering it",
@@ -69627,7 +69627,7 @@
           },
           {
             "phrase": "I said yes before she had finished the question",
-            "means": "Shows how much he wanted it, without any word for feeling."
+            "means": "Shows how much the narrator wanted it, without any word for feeling."
           },
           {
             "phrase": "The wrong fish is the best part",
@@ -69802,13 +69802,13 @@
           "skill": "inference",
           "stem": "Why does the narrator mention who has never opened the guitar case?",
           "choices": [
-            "To show how much he has noticed while never speaking to anyone.",
+            "To show how much the narrator has noticed while never speaking to anyone.",
             "To suggest that the man is carrying something other than a guitar.",
             "To explain why the passengers on the bus stay silent at night.",
             "To prove that the man boards the bus only to keep warm."
           ],
           "answer": 0,
-          "explanation": "The detail is part of a list of things he knows about people he has never spoken to, which is exactly the kind of company he is describing."
+          "explanation": "The detail belongs to a list of what the narrator knows about people never once spoken to, which is exactly the kind of company being described."
         },
         {
           "id": "q3",
@@ -69821,7 +69821,7 @@
             "succeed in arranging"
           ],
           "answer": 1,
-          "explanation": "He is describing what he has the energy for late at night, so manage means what he can bear or cope with."
+          "explanation": "The sentence is about what the narrator has energy for late at night, so manage means what can be borne or coped with."
         },
         {
           "id": "q4",
@@ -69842,16 +69842,16 @@
           "stem": "Which phrase best describes how the narrator feels about the eleven-forty?",
           "choices": [
             "sadness at a bus full of lonely and beaten people",
-            "impatience with strangers who never speak to him",
+            "impatience with strangers who never speak at all",
             "pride at being tougher than the other passengers",
-            "quiet fondness for a company that asks nothing of him"
+            "quiet fondness for a company that asks nothing at all"
           ],
           "answer": 3,
-          "explanation": "He refuses the word lonely, calls the bus a kind of company that asks nothing, and says plainly that he would not trade it."
+          "explanation": "The narrator refuses the word lonely, calls the bus a kind of company that asks nothing, and would not trade it."
         }
       ],
       "lesson": {
-        "strategy": "The narrator argues with an opinion nobody has said out loud. Watch the sentence where he names the easy reading and then rejects it. After that, every detail he chooses is evidence for his own view of the bus.",
+        "strategy": "The narrator argues with an opinion nobody has said out loud. Watch the sentence where that easy reading is named and then rejected. After that, every detail chosen is evidence for the narrator's own view of the bus.",
         "signals": [
           {
             "phrase": "a waiting room on wheels",
@@ -69859,11 +69859,11 @@
           },
           {
             "phrase": "It would be easy to make this sad",
-            "means": "Names the reading he is about to refuse."
+            "means": "Names the reading the narrator is about to refuse."
           },
           {
             "phrase": "a kind of company that asks nothing of you",
-            "means": "His own definition, and the heart of the story."
+            "means": "The narrator's own definition, and the heart of the story."
           }
         ],
         "vocab": [
@@ -69881,7 +69881,7 @@
           }
         ],
         "skillTips": {
-          "main-idea": "The narrator states an opposing view before his own. A gist that says the bus is lonely has taken the view he rejects.",
+          "main-idea": "The narrator states an opposing view first. A gist that says the bus is lonely has taken the view the story rejects.",
           "inference": "The list in paragraph two is evidence. Ask what it proves about six years of not speaking.",
           "vocabulary": "Company, manage, and waiting room all carry a special sense here. Check each against the sentence around it.",
           "detail": "The blanket is the one event in the story. Reread what happened to it and when."
@@ -70139,7 +70139,7 @@
           "choices": [
             "A family argument about whether to spend money on concrete flood defences.",
             "A river that changes course in 1998 and never floods the same field again.",
-            "A son reconsidering his father's long fight with a river and what the ending of it meant.",
+            "A child reconsidering a father's long fight with a river and what the ending of it meant.",
             "A farm that is destroyed by flooding and finally sold off to a stranger."
           ],
           "answer": 2,
@@ -70148,15 +70148,15 @@
         {
           "id": "q2",
           "skill": "inference",
-          "stem": "Why does the narrator say he wants to be careful?",
+          "stem": "Why does the narrator want to be careful here?",
           "choices": [
-            "Because he cannot remember the exact order the banks were built in.",
-            "Because his mother has asked him not to discuss the field at all.",
-            "Because he is not sure whether the herons arrived before 2007.",
-            "Because the easy version of the story would make his father ridiculous."
+            "Because the exact order in which the banks were built is unclear.",
+            "Because the mother has asked for the field never to be discussed.",
+            "Because it is not certain whether the herons arrived before 2007.",
+            "Because the easy version of the story would make the father ridiculous."
           ],
           "answer": 3,
-          "explanation": "He says it is easy to tell this as a story about a stubborn man and get a laugh, so the care is about protecting his father from that reading."
+          "explanation": "The narrator says it is easy to tell this as a story about a stubborn man and get a laugh, so the care protects the father from that reading."
         },
         {
           "id": "q3",
@@ -70187,7 +70187,7 @@
         {
           "id": "q5",
           "skill": "inference",
-          "stem": "Which phrase best describes how the narrator regards his father?",
+          "stem": "Which phrase best describes how the narrator regards the father?",
           "choices": [
             "cold judgement of a farmer who ignored advice",
             "unmixed pride in a long fight that was finally won",
@@ -70195,7 +70195,7 @@
             "amused scorn for a man who wasted nine years"
           ],
           "answer": 2,
-          "explanation": "He says the laugh is available and will not take it, grants that his father was stubborn, and reads the willow as an agreement rather than a defeat."
+          "explanation": "The narrator says the laugh is available and will not take it, grants that the father was stubborn, and reads the willow as an agreement rather than a defeat."
         }
       ],
       "lesson": {
@@ -70230,7 +70230,7 @@
         ],
         "skillTips": {
           "main-idea": "The story is a reassessment. A gist about flooding alone leaves out the person doing the retelling.",
-          "inference": "The narrator warns you about a wrong reading. Ask what reading he is protecting his father from.",
+          "inference": "The narrator warns you about a wrong reading. Ask what reading the father is being protected from.",
           "vocabulary": "Arguing, sensible, and share are all used about a river and a field. Fit each to what actually happened.",
           "detail": "The final paragraph lists three actions from 2007. Reread them in order."
         }
@@ -70443,7 +70443,7 @@
           },
           {
             "phrase": "The licence is the fact that gets repeated",
-            "means": "Sets the famous version aside so the writer can name what he values."
+            "means": "Sets the famous version aside so the writer can name what matters more."
           }
         ],
         "vocab": [
@@ -70580,7 +70580,7 @@
           "main-idea": "The last paragraph contrasts the famous story with the important one. Build the gist from the important one.",
           "inference": "Ask what changes for a payroll clerk when instructions can be written in words.",
           "vocabulary": "Clerk and accepted both have everyday senses that do not fit here. Let the sentences decide.",
-          "detail": "Four years appear: 1952, 1959, 1986, and the logbook story. Match each to its event."
+          "detail": "Three years appear: 1952, 1959, and 1986. Match each to its event."
         }
       }
     },
@@ -70779,7 +70779,7 @@
         }
       ],
       "lesson": {
-        "strategy": "Read the third paragraph for its verbs and for one refusal. The writer tells you he is choosing not to be polite, which is a rare thing for an account to admit. That sentence sets the temperature for everything around it.",
+        "strategy": "Read the third paragraph for its verbs and for one refusal. The writer declines to describe this politely and says so, which is a rare thing for an account to admit. That sentence sets the temperature for everything around it.",
         "signals": [
           {
             "phrase": "These are not the skills of an assistant",
@@ -71127,7 +71127,7 @@
         }
       ],
       "lesson": {
-        "strategy": "A very short second paragraph is the most important one here. The writer stops the account to tell you how to read the sentence before it. Notice that he does not soften either fact; he simply refuses to let one settle the other.",
+        "strategy": "A very short second paragraph is the most important one here. The writer stops the account to tell you how to read the sentence before it. Notice that the writer softens neither fact and refuses to let one settle the other.",
         "signals": [
           {
             "phrase": "That sentence should sit awkwardly",
@@ -71288,9 +71288,9 @@
       "attribution": "Original passage © Studio AM, written for Fluency.",
       "genre": "biography",
       "level": 3,
-      "wordCount": 182,
+      "wordCount": 183,
       "releasedAt": "2026-08-26",
-      "text": "At home in Britain, Isabella Bird could not sleep. She had headaches, a spinal complaint her doctors could not settle on, and long stretches when she was confined to a sofa. The recommended treatment in 1854 was a sea voyage, so her family sent her to America.\n\nIllness let go of her at the gangplank. She later rode alone through the Rocky Mountains in winter, crossed Japan by pack horse on roads no European traveller had used, and went on into Persia, Korea, and western China, measuring and describing as she went.\n\nBack in Britain the sofa returned. This is the pattern of her whole life, repeated so often that it stops looking like coincidence and starts looking like a diagnosis nobody in her century had a word for.\n\nShe wrote the journeys up in books that sold well and were trusted, because she dated and named things rather than admiring them. In 1892 she was among the first women elected a Fellow of the Royal Geographical Society, which had spent the previous year arguing about whether that was allowable at all.",
+      "text": "At home in Britain, Isabella Bird could not sleep. She had headaches, a spinal complaint her doctors could not settle on, and long stretches when she was confined to a sofa. The recommended treatment in 1854 was a sea voyage, so her family sent her to America.\n\nIllness let go of her at the gangplank. She later rode alone through the Rocky Mountains in winter, crossed Japan by pack horse on roads no European traveller had used, and went on into Persia, Korea, and western China, measuring and describing as she went.\n\nBack in Britain the sofa returned. This is the pattern of her whole life, repeated so often that it stops looking like coincidence and starts looking like a diagnosis nobody in her century had a word for.\n\nShe wrote the journeys up in books that sold well and were trusted, because she dated and named things rather than admiring them. In 1892 she was among the first women elected a Fellow of the Royal Geographical Society, which spent much of the following year arguing about whether that should have been allowed.",
       "questions": [
         {
           "id": "q1",
@@ -71406,7 +71406,7 @@
       "level": 5,
       "wordCount": 237,
       "releasedAt": "2026-08-26",
-      "text": "In 1935 Percy Julian and Josef Pikl completed a synthesis of physostigmine, a compound used in the treatment of glaucoma. The work also showed that a structure published by one of the most respected chemists in Britain was wrong. Julian was thirty-six, and he had done it in a small laboratory at DePauw University with very little money.\n\nThe university did not make him a professor. No trustee had to write the reason down. He took a job with a paint company in Chicago instead, which is the sort of sentence that hides a decade.\n\nAt that company he worked on the soybean, a crop few chemists had yet looked at closely. He drew a protein from it that went into fire-fighting foam during the war, and then he found sterols in the oil that could be turned into hormones. Before this, a gram of a steroid hormone cost hundreds of dollars and came from animal glands. Julian's route brought the price down far enough to put such medicines within reach of ordinary patients.\n\nHe founded his own laboratory in 1953 and sold it for more than two million dollars. His house in Oak Park was firebombed the year before his family moved in and attacked again the year after. He was elected to the National Academy of Sciences in 1973, fifty-three years after graduating first in his class from the university that would not hire him.",
+      "text": "In 1935 Percy Julian and Josef Pikl completed a synthesis of physostigmine, a compound used in the treatment of glaucoma. The work also showed that a structure published by one of the most respected chemists in Britain was wrong. Julian was thirty-five, and he had done it in a small laboratory at DePauw University with very little money.\n\nThe university did not make him a professor. No trustee had to write the reason down. He took a job with a paint company in Chicago instead, which is the sort of sentence that hides a decade.\n\nAt that company he worked on the soybean, a crop few chemists had yet looked at closely. He drew a protein from it that went into fire-fighting foam during the war, and then he found sterols in the oil that could be turned into hormones. Before this, a gram of a steroid hormone cost hundreds of dollars and came from animal glands. Julian's route brought the price down far enough to put such medicines within reach of ordinary patients.\n\nHe founded his own laboratory in 1953 and sold it for more than two million dollars. His house in Oak Park was firebombed the year before his family moved in and attacked again the year after. He was elected to the National Academy of Sciences in 1973, fifty-three years after graduating first in his class from the university that would not hire him.",
       "questions": [
         {
           "id": "q1",
@@ -71471,7 +71471,7 @@
             "gentle amusement at an old academic quarrel"
           ],
           "answer": 1,
-          "explanation": "The writer never raises his voice and never drops a fact, from the sentence that hides a decade to the fifty-three years between the class prize and the Academy."
+          "explanation": "There is never a raised voice and never a dropped fact, from the sentence that hides a decade to the fifty-three years between the class prize and the Academy."
         }
       ],
       "lesson": {
@@ -71483,7 +71483,7 @@
           },
           {
             "phrase": "the sort of sentence that hides a decade",
-            "means": "The one moment the writer comments on his own telling."
+            "means": "The one moment the writer comments on the telling itself."
           },
           {
             "phrase": "fifty-three years after graduating first in his class",
@@ -71507,7 +71507,7 @@
         "skillTips": {
           "main-idea": "The account keeps pairing achievement with obstruction. A gist needs both halves of that pairing.",
           "inference": "Ask what a short sentence can leave out. The paragraph is short on purpose.",
-          "vocabulary": "Route, synthesis, and recital carry exact senses here. Read the sentence around each one.",
+          "vocabulary": "Route, synthesis, and sterols carry exact senses here. Read the sentence around each one.",
           "detail": "Dates and figures are precise: 1935, 1953, 1973, and the source of the early hormones."
         }
       }
