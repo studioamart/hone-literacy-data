@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import sys
 import tempfile
@@ -23,6 +24,52 @@ SNAPSHOT_BUILDER = ROOT / "scripts" / "build-distractor-snapshot.py"
 NORMALIZER = ROOT / "scripts" / "normalize-legacy-corpus.mjs"
 FACT_REPAIR = ROOT / "scripts" / "repair-legacy-facts.mjs"
 HISTORY_REPAIR = ROOT / "scripts" / "repair-legacy-history.mjs"
+YEAR_PACK_ID = re.compile(r"^og-y26-d\d{3}-")
+# Each one-time repair tool pins the legacy passage count of the v11/v12 corpus
+# it was reviewed against. Read the pin out of the tool rather than restating it
+# here, so the fixture below cannot drift away from the guard it has to satisfy.
+LEGACY_COUNT_PINS = (
+    re.compile(r"legacyPassages\.length !== (\d+)"),
+    re.compile(r"EXPECTED_LEGACY_COUNT = (\d+)"),
+)
+
+
+def pinned_legacy_count(script: Path) -> int:
+    source = script.read_text(encoding="utf-8")
+    for pattern in LEGACY_COUNT_PINS:
+        found = pattern.search(source)
+        if found:
+            return int(found.group(1))
+    raise AssertionError(f"{script.name}: no pinned legacy passage count found")
+
+
+def legacy_source_state(corpus: dict, script: Path, keep_id: str) -> dict:
+    """Reduce the current OTA corpus to the legacy shape a repair tool accepts.
+
+    These tools deliberately refuse any corpus whose legacy (non year-pack)
+    passage count differs from the v11/v12 state they were reviewed against, so
+    every content pack published since then has to come back out of the fixture
+    before the run can reach the distractor-evidence guard under test. Surplus
+    passages are dropped from the tail and the repair target is never dropped.
+    The tools' own pins stay untouched: raising one would let a v12-era rewriter
+    loose on content it was never reviewed for.
+    """
+    legacy = [
+        passage for passage in corpus["passages"] if not YEAR_PACK_ID.match(passage["id"])
+    ]
+    surplus = len(legacy) - pinned_legacy_count(script)
+    if surplus <= 0:
+        return corpus
+    dropped: set[str] = set()
+    for passage in reversed(legacy):
+        if len(dropped) == surplus:
+            break
+        if passage["id"] != keep_id:
+            dropped.add(passage["id"])
+    corpus["passages"] = [
+        passage for passage in corpus["passages"] if passage["id"] not in dropped
+    ]
+    return corpus
 
 
 class DistractorTaxonomyTests(unittest.TestCase):
@@ -586,9 +633,11 @@ class ChoiceReorderTests(unittest.TestCase):
             with self.subTest(script=script.name), tempfile.TemporaryDirectory() as temp:
                 corpus = json.loads(json.dumps(source))
                 # These one-time repair tools intentionally accept only their
-                # v11/v12 source states. Use that supported version so this test
-                # reaches the distractor-evidence guard on the current OTA corpus.
+                # v11/v12 source states. Use that supported version and that
+                # legacy passage count so this test reaches the
+                # distractor-evidence guard on the current OTA corpus.
                 corpus["version"] = 12
+                corpus = legacy_source_state(corpus, script, passage_id)
                 passage = next(item for item in corpus["passages"] if item["id"] == passage_id)
                 question = passage["questions"][0]
                 question["distractorTags"] = [None for _choice in question["choices"]]

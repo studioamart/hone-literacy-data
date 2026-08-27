@@ -97,6 +97,42 @@ unchanged or lower version. The root `version` in `passages.json` is
 authoritative and must be bumped by the author. The script also validates
 `data/free-limits.json` when that legacy file exists.
 
+## Figurative language and tone (`og-fig-*`)
+
+Thirty passages published in corpus v17, purpose-written so that each one
+carries a live metaphor and a stable authorial stance. Ten essay, ten fiction,
+ten biography; ten each at levels 3, 4 and 5.
+
+Each of them carries the four mandatory skill questions **plus a fifth**, which
+is one of two shapes:
+
+| Shape | `skill` | Stem | The four choices |
+|---|---|---|---|
+| Figurative | `vocabulary` | The corpus's usual meaning-in-this-context stem, aimed at a common word used non-literally (`What does 'wore' mean in 'wore its age like a good coat'?`) | the in-context sense, the literal sense, an adjacent literal sense, an over-read |
+| Tone | `inference` | How the writer feels about the subject | four stances, each defensible only against specific diction in the text |
+
+Fifteen of each. A `vocabulary` item is defined by the year-pack editorial
+contract as "the meaning in this exact context", which is exactly what a
+figurative item asks, so neither shape stretches the closed four-skill
+taxonomy. The cost is stated rather than hidden: the app's Progress screen
+credits a figurative item as `vocabulary` accuracy and a tone item as
+`inference` accuracy, so these two shapes are not separately measurable. A
+`subskill` field the app ignores and the analytics scripts read would fix that
+additively if it ever matters.
+
+Rules specific to this pack:
+
+- Every figurative target is also seeded into `lesson.vocab`, so a reader who
+  taps the word mid-read gets the same in-context gloss the item tests.
+- The prefix is deliberately **not** `og-y26-d###-`, so `year_pack_parity.py`
+  (scoped to that pattern at exactly 365 records) imposes no batch-mirror duty
+  and there is no batch file to keep in step.
+- Biography passages use durable, well-established facts and no invented
+  quotations, exactly as the year-pack editorial contract requires.
+- The one-time `repair-legacy-*.mjs` tools pin the legacy (non year-pack)
+  passage count of their v11/v12 source state. That pin is correct and stays
+  put; a corpus carrying this pack is simply not a corpus they may rewrite.
+
 ## Optional distractor evidence: reviewed, never inferred
 
 `distractorTags` is an optional array aligned position-for-position with

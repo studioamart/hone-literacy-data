@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": 16,
+  "version": 17,
   "passages": [
     {
       "id": "pd-aesop-ant-grasshopper",
@@ -68029,6 +68029,3486 @@
           "inference": "Infer the two correction directions by separating orbital speed from weaker gravity.",
           "vocabulary": "Use the need for a chosen rest or motion condition to define reference frame.",
           "detail": "For the application, locate the system whose position depends on corrected timing signals."
+        }
+      }
+    },
+    {
+      "id": "og-fig-when-an-argument-collapses",
+      "title": "When an Argument Collapses",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 4,
+      "wordCount": 203,
+      "releasedAt": "2026-08-26",
+      "text": "Some arguments do not lose a debate. They collapse under their own weight.\n\nYou have watched it happen at a dinner table. A speaker begins with one clean claim, and the claim is fine. A listener asks a small question, so the speaker adds a condition to hold the claim up. Another question, another condition. Twenty minutes later the original point is buried under a pile of repairs, and the table has stopped listening to anything but the sound of the patching.\n\nNothing dishonest has happened. The speaker is not lying. The speaker is doing what most of us do when we would rather win the moment than be right, which is propping. Each prop looks reasonable by itself. Stacked together, they weigh more than the idea they were meant to hold.\n\nThe repair is not to argue harder. It is to feel the weight. When you catch yourself adding a fourth condition, stop and ask whether the claim underneath is still worth carrying. Sometimes it is, and your conditions were honest refinements. Often it is not, and the kindest thing you can do for your own thinking is to let the structure come down and begin again with a smaller, truer claim.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "An argument can fail because the conditions added to defend it grow heavier than the claim itself.",
+            "People who argue at dinner tables are usually being dishonest about what they know.",
+            "A claim grows stronger every time a speaker answers a question with a new condition.",
+            "The best way to win a disagreement is to add conditions faster than a listener can ask."
+          ],
+          "answer": 0,
+          "explanation": "The essay's picture is a structure held up by props: each added condition looks fine alone, and together they outweigh the claim."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the essay insist that nothing dishonest has happened?",
+          "choices": [
+            "To show that the listener asked the small question in bad faith.",
+            "To stop the reader from treating a collapsing argument as a moral failure.",
+            "To prove that the speaker had checked every fact before beginning.",
+            "To argue that honest speakers never need to add a condition."
+          ],
+          "answer": 1,
+          "explanation": "The essay separates the error from the person. The speaker 'is not lying' and is doing what most of us do, so the advice can be practical rather than accusing."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'propping' mean here?",
+          "choices": [
+            "repeating an old claim in a much louder voice",
+            "changing the subject to avoid a hard question",
+            "adding supports so a shaky claim can keep standing",
+            "asking for evidence before agreeing to anything"
+          ],
+          "answer": 2,
+          "explanation": "The speaker 'adds a condition to hold the claim up', and the next sentence calls each one a prop that looks reasonable by itself."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "How long does the essay say it takes for the original point to be buried?",
+          "choices": [
+            "Two hours",
+            "A full week",
+            "A single sentence",
+            "Twenty minutes"
+          ],
+          "answer": 3,
+          "explanation": "The second paragraph is exact: 'Twenty minutes later the original point is buried under a pile of repairs.'"
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'weight' mean in 'It is to feel the weight'?",
+          "choices": [
+            "the strain that the piled-up conditions put on the claim",
+            "the number a scale shows when an object is placed on it",
+            "the loudness of a voice as a speaker grows insistent",
+            "the shame a speaker ought to feel for being wrong"
+          ],
+          "answer": 0,
+          "explanation": "Nothing here is on a scale. The essay has been building a picture of props holding up a structure, so the weight is how much the added conditions are straining the claim underneath."
+        }
+      ],
+      "lesson": {
+        "strategy": "One running picture: an argument as a structure held up by props. Watch the building words, which are collapse, hold up, prop, and weight. None of them is about furniture. Each one describes what is happening to an idea while somebody defends it.",
+        "signals": [
+          {
+            "phrase": "collapse under their own weight",
+            "means": "Sets the picture in the first line. The argument is a structure, not a contest."
+          },
+          {
+            "phrase": "Nothing dishonest has happened",
+            "means": "Turns the essay away from blame. The mistake is ordinary, not a lie."
+          },
+          {
+            "phrase": "The repair is not to argue harder",
+            "means": "Marks the advice. What follows is what the reader should do instead."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "propping",
+            "inContext": "adding supports so a shaky claim can keep standing"
+          },
+          {
+            "word": "refinements",
+            "inContext": "honest improvements that make a claim more exact"
+          },
+          {
+            "word": "weight",
+            "inContext": "the strain that added conditions put on an idea"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The last paragraph names the cure, so the point lives there. Ask what the essay wants you to notice before you keep arguing: the growing weight, not the other person.",
+          "inference": "The essay refuses to call the speaker a liar. Ask what that refusal is for, and you have the essay's attitude toward people who are wrong.",
+          "vocabulary": "Prop, hold up, and weight belong to buildings. Read each one as a description of an idea under strain, then pick the meaning that fits an argument.",
+          "detail": "The exact facts are small here: how many minutes pass, which condition is the warning sign. Reread the sentence that carries the number."
+        }
+      }
+    },
+    {
+      "id": "og-fig-what-a-map-promises",
+      "title": "What a Map Promises",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 5,
+      "wordCount": 221,
+      "releasedAt": "2026-08-26",
+      "text": "Every map makes a promise. It promises that the world can be held still long enough to be drawn, and that whatever the drawing left out did not matter much.\n\nThe first half of that promise is honest work. A map of a subway system straightens curves, spaces the stops evenly, and colours the lines. Nobody is deceived. The rider wants to know which train to board, and a drawing that lied about distance told the truth about order.\n\nThe second half is where I grow careful. A map decides what counts as a feature. Roads are drawn and footpaths are not. A river appears; the fish in it do not. Whole ways of living can go missing from a page without anyone choosing to hide them, simply because the people with the pens had no symbol for them. A blank space on a map has rarely meant that nothing was there. It has usually meant that nobody had gone to look.\n\nSo I keep using maps, and I keep asking the one small question a good map can survive. Who drew this, and what were they trying to find? The answer does not spoil the map. It returns the map to its proper size, which is useful and partial, like every other tool that ever made a difficult day shorter.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "A blank space on a map is good evidence that the land there was empty and unused.",
+            "A map is a useful tool that quietly decides what counts, so a reader should ask who drew it.",
+            "Subway maps are dishonest because they change the real distance between the stops.",
+            "Maps became reliable once their makers agreed to draw footpaths as well as roads."
+          ],
+          "answer": 1,
+          "explanation": "The essay grants that maps are honest and useful, then argues that leaving things out is a choice, and ends with the question a reader should ask."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the writer say a blank space usually meant that nobody had gone to look?",
+          "choices": [
+            "Because rivers and footpaths are too small to draw at any useful scale.",
+            "Because readers of maps prefer pages that are not crowded with symbols.",
+            "Because a gap on a page records the mapmaker's reach rather than the land's emptiness.",
+            "Because early mapmakers ran out of ink before they could finish the edges."
+          ],
+          "answer": 2,
+          "explanation": "The paragraph is about what the makers had symbols for. A gap therefore reports on the surveyors, not on the ground."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'feature' mean in 'A map decides what counts as a feature'?",
+          "choices": [
+            "a long article printed in a newspaper",
+            "a part of a person's face",
+            "an extra tool added to a machine",
+            "a thing on the ground worth giving a symbol"
+          ],
+          "answer": 3,
+          "explanation": "The examples that follow are roads, footpaths, rivers, and fish, so a feature here is something on the ground that the map either records or leaves out."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "According to the essay, what does a subway map do to the curves of the track?",
+          "choices": [
+            "It straightens them.",
+            "It exaggerates them.",
+            "It colours them red.",
+            "It removes the stops along them."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph lists what the map does: it 'straightens curves, spaces the stops evenly, and colours the lines'."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes how the writer feels about maps?",
+          "choices": [
+            "suspicious of every mapmaker as a deliberate deceiver",
+            "respectful of their use and watchful about their gaps",
+            "delighted by their beauty and untroubled by their gaps",
+            "impatient with them and ready to stop using them"
+          ],
+          "answer": 1,
+          "explanation": "The writer calls the straightening 'honest work' and keeps using maps, yet grows 'careful' about what a page has no symbol for. Both feelings stay on the page."
+        }
+      ],
+      "lesson": {
+        "strategy": "The voice is steady and doubled. The writer likes maps and distrusts what they leave out, and holds both at once. Read for the words that carry attitude: honest work, I grow careful, proper size. Those phrases are where the essay tells you how it feels.",
+        "signals": [
+          {
+            "phrase": "The first half of that promise is honest work",
+            "means": "Grants the map its due before any complaint arrives."
+          },
+          {
+            "phrase": "The second half is where I grow careful",
+            "means": "Marks the turn. The praise stops and the warning starts."
+          },
+          {
+            "phrase": "has rarely meant that nothing was there",
+            "means": "The sharpest claim in the essay, and it is about people, not land."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "promise",
+            "inContext": "what a map guarantees before a reader has checked anything"
+          },
+          {
+            "word": "feature",
+            "inContext": "a thing on the ground the mapmaker chose to give a symbol"
+          },
+          {
+            "word": "partial",
+            "inContext": "covering some of the truth and leaving the rest out"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Two feelings run side by side, so the gist has to hold both. The final question the writer asks is the essay's real advice.",
+          "inference": "The writer never says maps are bad. Read what he does with them instead: keeps using them, and asks who drew them.",
+          "vocabulary": "Feature, promise, and partial all have everyday senses that do not fit here. Choose the meaning the sentence around them needs.",
+          "detail": "The subway paragraph is the factual one. Reread the list of exactly what the map does to curves, stops, and lines."
+        }
+      }
+    },
+    {
+      "id": "og-fig-a-borrowed-word",
+      "title": "A Borrowed Word",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 5,
+      "wordCount": 230,
+      "releasedAt": "2026-08-26",
+      "text": "Every trade borrows its words. Sailors gave us 'aboveboard'. Weavers gave us 'unravel'. Printers gave us 'stereotype', which once meant a solid metal plate that could print the same page forever.\n\nA borrowed word arrives wearing its old coat. That is the useful part. When a manager says a plan has unravelled, everyone can see the thread coming loose, and nobody needs a definition. The old picture does the teaching.\n\nThe trouble starts when the coat comes off and nobody notices. Offices are full of words that were once pictures and are now noise. Leverage was a plank and a stone. Bandwidth was a measurable width. Repeated often enough, a picture word turns into a sound that means roughly whatever the speaker needs it to mean, and a meeting can run an hour on such sounds without producing one sentence anybody could disagree with. The word is still doing a job, but the job has changed from showing to signalling. It now tells the room that the speaker belongs to the room.\n\nI am not asking anyone to give up borrowed words. I am asking for the small courtesy of remembering where they came from. Say unravel when a thread is genuinely coming loose. Say we do not have the people when that is the plain fact, and let bandwidth go back to the engineers who can still measure it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "The word stereotype has been misunderstood ever since printers stopped using metal plates.",
+            "A meeting is more productive when its speakers agree on a shared technical vocabulary.",
+            "Words borrowed from a trade teach well while their picture lasts and go vague once it fades.",
+            "Office workers should stop using any word that began life in another trade."
+          ],
+          "answer": 2,
+          "explanation": "The essay praises the borrowed picture, shows what happens when the picture is forgotten, and asks readers to remember the origin rather than to stop."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the essay suggest a speaker is doing when a picture word has become a sound?",
+          "choices": [
+            "Explaining a technical measurement that the listeners cannot check.",
+            "Deliberately deceiving the listeners about a plan that has failed.",
+            "Teaching the room the original trade meaning of the word.",
+            "Showing membership of the room rather than describing anything."
+          ],
+          "answer": 3,
+          "explanation": "The third paragraph says the job has changed 'from showing to signalling' and that the word now tells the room the speaker belongs to it."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'noise' mean in 'words that were once pictures and are now noise'?",
+          "choices": [
+            "sound that carries no clear meaning",
+            "a loud disturbance in a quiet building",
+            "an argument between two colleagues",
+            "the hum of machines in an office"
+          ],
+          "answer": 0,
+          "explanation": "The paragraph explains it directly: such a word means 'roughly whatever the speaker needs it to mean', so it is sound without a settled sense."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did the word 'stereotype' once mean, according to the essay?",
+          "choices": [
+            "A plank and a stone used for lifting heavy loads",
+            "A solid metal plate that could print the same page forever",
+            "A woven pattern repeated along the edge of a cloth",
+            "A rope arrangement used above the deck of a ship"
+          ],
+          "answer": 1,
+          "explanation": "The first paragraph credits printers with the word and gives its old sense: a solid metal plate that could print the same page forever."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'borrows' mean in 'Every trade borrows its words'?",
+          "choices": [
+            "rents for a fee and returns when the work is done",
+            "steals from people who were never paid for them",
+            "takes into common use from another line of work",
+            "takes with a promise to give the same thing back"
+          ],
+          "answer": 2,
+          "explanation": "Nothing is ever returned here. The essay means the words moved out of one trade into ordinary speech, which is why it can then say a borrowed word arrives wearing its old coat."
+        }
+      ],
+      "lesson": {
+        "strategy": "An essay about words, so read the words as evidence. The running picture is clothing: a borrowed word wears an old coat, and the coat can come off. Ask what the coat stands for, and the rest of the argument follows without effort.",
+        "signals": [
+          {
+            "phrase": "A borrowed word arrives wearing its old coat",
+            "means": "Names the picture. The coat is the old trade meaning still visible."
+          },
+          {
+            "phrase": "The trouble starts when the coat comes off",
+            "means": "The turn from praise to warning, in the same picture."
+          },
+          {
+            "phrase": "from showing to signalling",
+            "means": "The exact charge. The word stopped describing and started advertising."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "borrows",
+            "inContext": "takes a word into common use from another line of work"
+          },
+          {
+            "word": "unravelled",
+            "inContext": "come apart the way a loose thread pulls a cloth open"
+          },
+          {
+            "word": "signalling",
+            "inContext": "showing who you belong with rather than saying anything"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The last paragraph asks for a courtesy, not a ban. Any gist that has the writer forbidding borrowed words is reading the wrong essay.",
+          "inference": "Ask why a room tolerates an hour of sound. The answer is in what the sound does for the speaker.",
+          "vocabulary": "Borrow, coat, and noise all have plain physical senses that do not fit. Ask what each one is doing to a word.",
+          "detail": "Three trades give three words in the first paragraph. Match each word to its trade and its old meaning before answering."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-hobby-that-pays-nothing",
+      "title": "The Hobby That Pays Nothing",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 3,
+      "wordCount": 200,
+      "releasedAt": "2026-08-26",
+      "text": "My neighbour builds model bridges out of matchsticks. He has never sold one. He has never entered a competition. Ask him why and he shrugs, because it is not really a question he has.\n\nWe are used to asking what a thing is for. It is a fair question about a kettle. It is a strange question about a Tuesday evening. Somewhere in the last century the word productive escaped the factory and got into the rest of life, and now a person can feel faintly guilty about an hour that produced nothing except a small wooden arch.\n\nI would defend that hour. A hobby that pays nothing keeps a part of you that nobody is buying. It is the one room in the house where you are still allowed to be a beginner.\n\nAnd the hour is not wasted in the way that word usually means. He is learning patience with glue, judgement about weight, and the plain pleasure of finishing a thing. None of it will ever appear on a form. All of it shows up in how he talks about his work on a Monday. His bridges hold up nothing at all. They hold him up beautifully.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "Building model bridges is a good way to prepare for paid work in engineering.",
+            "People should enter their hobbies in competitions so the effort is not wasted.",
+            "The word productive has always belonged in factories and nowhere else at all.",
+            "An hour spent on a hobby that earns nothing is worth defending for what it does to the person."
+          ],
+          "answer": 3,
+          "explanation": "The essay answers the question 'what is it for' by refusing it, then lists what the useless hour actually gives the neighbour."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the writer say the neighbour shrugs when asked why he builds bridges?",
+          "choices": [
+            "Because the question of usefulness has never occurred to him at all.",
+            "Because he is embarrassed to admit that he hopes to sell one.",
+            "Because he has explained his reasons too many times before.",
+            "Because he does not know how to describe the work he does."
+          ],
+          "answer": 0,
+          "explanation": "The essay says the shrug is not evasion: it is 'not really a question he has', which is the point the rest of the essay defends."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'productive' mean as the essay uses it?",
+          "choices": [
+            "good at persuading other people to agree",
+            "measured by what an hour visibly produces",
+            "able to grow crops in poor soil",
+            "willing to work long hours without rest"
+          ],
+          "answer": 1,
+          "explanation": "The essay tracks the word out of the factory and into private life, where it makes a person feel guilty about an hour that produced nothing."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What does the neighbour build his model bridges from?",
+          "choices": [
+            "Folded paper",
+            "Modelling clay",
+            "Matchsticks",
+            "Wire"
+          ],
+          "answer": 2,
+          "explanation": "The first sentence says it: he 'builds model bridges out of matchsticks'."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes how the writer feels about the neighbour's hobby?",
+          "choices": [
+            "polite puzzlement at a waste of good evenings",
+            "mild envy of a man with too much free time",
+            "open disapproval of a thoroughly unproductive habit",
+            "protective admiration for something that earns nothing"
+          ],
+          "answer": 3,
+          "explanation": "The writer says 'I would defend that hour' and closes with the bridges holding the neighbour up beautifully, so the feeling is admiring and on his side."
+        }
+      ],
+      "lesson": {
+        "strategy": "Short and warm, with one joke saved for the end. The bridges hold up nothing and hold the man up beautifully. Read the last two sentences slowly: they turn a hobby into the essay's whole argument without ever stating it plainly.",
+        "signals": [
+          {
+            "phrase": "it is not really a question he has",
+            "means": "Tells you the shrug is not evasion. He has no use for the question."
+          },
+          {
+            "phrase": "I would defend that hour",
+            "means": "The writer steps forward. Everything after this is his case."
+          },
+          {
+            "phrase": "They hold him up beautifully",
+            "means": "The closing turn. The same verb changes from wood to a person."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "productive",
+            "inContext": "judged by what an hour visibly produces"
+          },
+          {
+            "word": "guilty",
+            "inContext": "uneasy as though an ordinary evening were an offence"
+          },
+          {
+            "word": "beginner",
+            "inContext": "someone still allowed to be bad at a thing"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The gist is a defence, not a description. Ask what the writer is arguing for and who he is arguing against.",
+          "inference": "The shrug in the first paragraph and the word beautifully in the last both carry feeling. Read them together.",
+          "vocabulary": "Productive, wasted, and beginner all get pulled slightly out of their usual jobs. Check each against the sentence that holds it.",
+          "detail": "Facts here are tiny: what the bridges are made of, what he has never done with them. Reread the opening three sentences."
+        }
+      }
+    },
+    {
+      "id": "og-fig-good-bones",
+      "title": "Good Bones",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 4,
+      "wordCount": 198,
+      "releasedAt": "2026-08-26",
+      "text": "Builders say a house has good bones. They do not mean that anything is buried in the walls. They mean the frame is square, the beams are sound, and the parts that would be expensive to fix are already right.\n\nIt is a generous way to look at a wreck. The wallpaper is peeling, the kitchen is orange, and a surveyor with good bones in mind will walk past all of it to knock on a joist. Surfaces are cheap and loud. Structure is quiet and dear. Anyone can see the wallpaper; it takes training to hear the joist.\n\nThe phrase has escaped the building trade, and I think it escaped for a reason. We use it now about a rough first draft, a struggling shop, a friendship after a bad year. In every case it says the same steady thing: the visible mess is not the load-bearing part.\n\nIt is worth knowing which is which before you start work. Repaint a wall and you have changed a room for a weekend. Straighten a frame and you have changed what the room can hold for fifty years. The order matters more than the effort. Bones first, then paint.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "Judging what carries the weight matters more than judging what is easy to see.",
+            "Old houses are usually a better purchase than newly built ones.",
+            "Peeling wallpaper and orange kitchens should be repaired before anything else.",
+            "A surveyor is the only person qualified to say whether a house is sound."
+          ],
+          "answer": 0,
+          "explanation": "The essay moves from houses to drafts and friendships, and each time the claim is the same: the visible mess is not the load-bearing part."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the essay say it takes training to hear the joist?",
+          "choices": [
+            "Because a joist can only be judged after the wallpaper is removed.",
+            "Because the parts that carry weight are hidden and give no obvious signal.",
+            "Because joists are made of a timber that most builders never use.",
+            "Because surveyors are trained to ignore any damage they can see."
+          ],
+          "answer": 1,
+          "explanation": "The contrast is between surfaces that are 'cheap and loud' and structure that is 'quiet and dear', so noticing the quiet part is a learned skill."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'dear' mean in 'Structure is quiet and dear'?",
+          "choices": [
+            "close to somebody's heart",
+            "rare and hard to find",
+            "costly to put right",
+            "much loved by its owner"
+          ],
+          "answer": 2,
+          "explanation": "It is paired against 'cheap' in the previous sentence, and the first paragraph says the structural parts 'would be expensive to fix'."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What does the essay say a surveyor will walk past the wallpaper in order to do?",
+          "choices": [
+            "Measure the kitchen",
+            "Test the window frames",
+            "Photograph the peeling paint",
+            "Knock on a joist"
+          ],
+          "answer": 3,
+          "explanation": "The second paragraph says a surveyor with good bones in mind 'will walk past all of it to knock on a joist'."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'bones' mean in 'a house has good bones'?",
+          "choices": [
+            "the frame and beams that carry the building's weight",
+            "the skeleton of an animal found beneath the floor",
+            "the hard parts inside the body of a living thing",
+            "the age of a house counted in centuries of use"
+          ],
+          "answer": 0,
+          "explanation": "The essay says outright that nothing is buried in the walls. Good bones means the frame is square and the beams are sound."
+        }
+      ],
+      "lesson": {
+        "strategy": "One builder's phrase, then three uses of it. The essay never defines a metaphor twice, so the first paragraph is the key to everything after it. Hold on to what bones was said to mean, and the draft, the shop, and the friendship all open at once.",
+        "signals": [
+          {
+            "phrase": "do not mean that anything is buried in the walls",
+            "means": "The essay clears the literal reading away before it builds on the phrase."
+          },
+          {
+            "phrase": "Surfaces are cheap and loud",
+            "means": "A compressed contrast. Loud here means easy to notice, not noisy."
+          },
+          {
+            "phrase": "Bones first, then paint",
+            "means": "The whole argument as an instruction, four words long."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "bones",
+            "inContext": "the frame and beams that carry a building's weight"
+          },
+          {
+            "word": "joist",
+            "inContext": "a beam under a floor that holds the weight up"
+          },
+          {
+            "word": "dear",
+            "inContext": "costly, the opposite of cheap in this sentence"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Three examples share one claim. Say the claim in your own words before you look at the options.",
+          "inference": "Ask why training is needed for one thing and not the other, and the quiet-and-loud contrast answers you.",
+          "vocabulary": "Bones and dear both have common senses that are wrong here. Let the sentence beside each word decide.",
+          "detail": "The surveyor sentence carries the facts: what is walked past, and what is knocked on."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-inbox-that-never-sleeps",
+      "title": "The Inbox That Never Sleeps",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 4,
+      "wordCount": 197,
+      "releasedAt": "2026-08-26",
+      "text": "My inbox never sleeps, and for a long time I took that as a compliment to the inbox.\n\nThe machine is not the problem. A mail server has no opinion about a Sunday. The problem is that a tool with no bedtime slowly lends its schedule to whoever holds it. I answered a message at eleven at night because it was there, and the following week the same sender wrote at eleven again, having learned something about me that I had not meant to teach.\n\nThere is no villain in this story, which is the tiring part. Nobody demanded my evening. I gave it away in four-minute pieces, each one too small to notice and too easy to justify. Habits are built out of exactly that size of decision. The word for it is neither laziness nor overwork. It is drift, which is what happens to anything that is never actually steered.\n\nSo I have started closing the lid, which is a small and faintly ridiculous act of policy. The messages wait. Almost nothing breaks. The few things that would truly break have a phone number, and in nine months not one of them has used it.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "Answering messages quickly is the surest way to be trusted at work.",
+            "A tool that never stops will quietly set your schedule unless you decide to stop it.",
+            "Colleagues who send messages late at night should be asked politely to stop.",
+            "Mail servers were badly designed and ought to shut down every evening."
+          ],
+          "answer": 1,
+          "explanation": "The essay clears the machine and the senders of blame, names the process as drift, and ends with the writer's own small rule."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What had the sender learned that the writer had not meant to teach?",
+          "choices": [
+            "That the writer disliked being asked for anything urgent.",
+            "That the mail server would deliver nothing until morning.",
+            "That a message sent at eleven at night would get an answer.",
+            "That the writer preferred to be contacted by telephone."
+          ],
+          "answer": 2,
+          "explanation": "The reply at eleven was the lesson. The sender wrote at eleven again the next week, having drawn the obvious conclusion from a single answered message."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'drift' mean as the essay uses it?",
+          "choices": [
+            "a pile of snow pushed up against a wall",
+            "the general sense of what a speaker means",
+            "a sudden decision taken without any thought",
+            "a slow change nobody chose and nobody steered"
+          ],
+          "answer": 3,
+          "explanation": "The essay defines it in the same sentence: it is neither laziness nor overwork, and it is 'what happens to anything that is never actually steered'."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "How long does the writer say it has been since anyone used the phone number?",
+          "choices": [
+            "Nine months",
+            "Nine weeks",
+            "Four minutes",
+            "A single Sunday"
+          ],
+          "answer": 0,
+          "explanation": "The closing sentence is exact: the few urgent things have a phone number, and 'in nine months not one of them has used it'."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the writer's attitude in this essay?",
+          "choices": [
+            "hopeless about ever getting an evening back again",
+            "rueful about his own habit and calm about the fix",
+            "angry at the senders who wrote to him late at night",
+            "proud of a work rate that never stops for a Sunday"
+          ],
+          "answer": 1,
+          "explanation": "He says there is no villain, admits 'I gave it away', calls his own rule faintly ridiculous, and then reports that almost nothing breaks."
+        }
+      ],
+      "lesson": {
+        "strategy": "The writer takes the blame off the machine in the second sentence, which tells you the essay is about a habit and not about technology. Watch the pronouns. Every time the sentence turns to I, the essay is confessing rather than complaining.",
+        "signals": [
+          {
+            "phrase": "The machine is not the problem",
+            "means": "Clears the obvious suspect early so the real argument can start."
+          },
+          {
+            "phrase": "There is no villain in this story",
+            "means": "Removes the second suspect. Now only the writer is left."
+          },
+          {
+            "phrase": "I gave it away in four-minute pieces",
+            "means": "Names the mechanism: small, deniable decisions that add up."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "drift",
+            "inContext": "slow change that nobody chose and nobody steered"
+          },
+          {
+            "word": "justify",
+            "inContext": "explain away so a small choice feels reasonable"
+          },
+          {
+            "word": "policy",
+            "inContext": "a rule you follow instead of deciding each time"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The essay refuses two easy targets before naming its own. The gist has to include what the writer did, not only what happened.",
+          "inference": "The sender is evidence, not a character. Ask what a single answered message taught them.",
+          "vocabulary": "Drift and policy are both defined nearby. Read the sentence that follows each one before choosing.",
+          "detail": "Numbers carry the ending: four minutes, nine months. Reread the final paragraph for the exact one."
+        }
+      }
+    },
+    {
+      "id": "og-fig-what-a-recipe-keeps-quiet",
+      "title": "What a Recipe Keeps Quiet",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 3,
+      "wordCount": 174,
+      "releasedAt": "2026-08-26",
+      "text": "A recipe tells you two hundred grams of flour and it tells you the oven temperature. Then it says knead until smooth, and goes silent on the only part you actually needed.\n\nSmooth is not a number. It is a thing your hands learn by getting it wrong. The first loaf is a brick, and the page did not warn you, because the person who wrote it stopped noticing years ago that anybody could fail at this step.\n\nThis is not carelessness. It is what happens to knowledge once it settles into the body. Ask a good driver how they judge a gap in traffic and they will say you just see it. The instruction is honest and useless at the same time.\n\nSo I have made peace with the gaps. A recipe is a set of directions from a cook who has left the room. Read it for the numbers, and be ready to learn the rest from a brick or two. The bricks are part of the recipe. Nobody writes them down.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "Beginners should avoid baking bread until somebody teaches them in person.",
+            "Experienced cooks deliberately withhold their best methods from print.",
+            "A recipe records what can be measured and leaves out the skill your hands have to learn.",
+            "Most published recipes contain errors in their flour weights and oven temperatures."
+          ],
+          "answer": 2,
+          "explanation": "The essay contrasts the numbers a page can carry with the judgement it cannot, and explains why the writer of the page no longer notices the gap."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the essay bring in the driver judging a gap in traffic?",
+          "choices": [
+            "To argue that driving is more dangerous than baking bread.",
+            "To prove that most instructions are written by careless people.",
+            "To suggest that beginners should practise in quieter conditions.",
+            "To show that skill settled into the body becomes hard to explain."
+          ],
+          "answer": 3,
+          "explanation": "The driver says you just see it, which is the same failure the recipe has: honest and useless, because the knowledge no longer has words."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'brick' mean in 'The first loaf is a brick'?",
+          "choices": [
+            "a heavy loaf that did not rise",
+            "a block of clay used for building",
+            "a reliable and steady friend",
+            "a parcel wrapped tightly in paper"
+          ],
+          "answer": 0,
+          "explanation": "The sentence is about a first attempt at bread, so the brick is what the loaf turned out like: dense and hard rather than risen."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What instruction does the essay say a recipe gives before going silent?",
+          "choices": [
+            "Heat the oven in advance",
+            "Knead until smooth",
+            "Rest the dough for an hour",
+            "Weigh two hundred grams of flour"
+          ],
+          "answer": 1,
+          "explanation": "The first paragraph is exact: after the flour and the temperature, the recipe 'says knead until smooth' and then says nothing useful."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'goes silent' mean in 'goes silent on the only part you actually needed'?",
+          "choices": [
+            "is printed in letters too faint to read",
+            "hides the step on purpose to keep a secret",
+            "gives no guidance at all about that step",
+            "stops making any sound in a quiet kitchen"
+          ],
+          "answer": 2,
+          "explanation": "A page cannot make a sound. The essay means the recipe says nothing useful about kneading, and the next paragraph explains why its writer stopped noticing."
+        }
+      ],
+      "lesson": {
+        "strategy": "A friendly essay with a sting in it. Two kinds of knowing sit side by side: what a page can carry and what only hands can. The word silent is doing quiet work, so ask what a page could possibly be silent about.",
+        "signals": [
+          {
+            "phrase": "goes silent on the only part you actually needed",
+            "means": "The complaint and the picture in one phrase."
+          },
+          {
+            "phrase": "This is not carelessness",
+            "means": "Stops you blaming the writer of the recipe and opens the real explanation."
+          },
+          {
+            "phrase": "honest and useless at the same time",
+            "means": "The essay's fairest sentence. Both halves are meant."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "silent",
+            "inContext": "saying nothing useful about a step"
+          },
+          {
+            "word": "brick",
+            "inContext": "a loaf so dense it never rose"
+          },
+          {
+            "word": "gaps",
+            "inContext": "the parts of a skill that no page ever records"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The point is about two kinds of knowledge, not about bad writing. Any gist that blames the cook is missing paragraph three.",
+          "inference": "The driver is there for a reason. Ask what the driver and the recipe writer have in common.",
+          "vocabulary": "Silent, brick, and smooth are all doing non-literal work. Ask what each could mean about bread or a page.",
+          "detail": "The exact instruction matters. Reread the first paragraph and note the three things the recipe does say."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-shortcut-charges-interest",
+      "title": "The Shortcut Charges Interest",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 3,
+      "wordCount": 175,
+      "releasedAt": "2026-08-26",
+      "text": "Every shortcut charges interest. You take the saving now and you pay it back later, usually at a worse rate than the one you avoided.\n\nThe plumber who does not shut off the water saves four minutes. Nine times out of ten he is right, and the tenth time he spends an afternoon on a floor. Anybody who has done the job long enough can tell you this, and most of them still skip the valve, because four minutes is real and the flood is only likely.\n\nThat is the whole difficulty. A saving is certain and a cost is a probability, and the mind is poor at holding those two side by side. So we do not choose badly on purpose. We choose the number we can see.\n\nThe fix is not more willpower. It is to make the cost visible before the choice. Write down the one time the flood happened. Keep the photograph. A rule you follow without arguing with yourself is cheaper than a rule you have to win every morning.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "Plumbers are the least careful of all the skilled building trades.",
+            "Anybody with enough willpower can stop taking shortcuts at work.",
+            "A flood is the most expensive accident that can happen in a house.",
+            "We take shortcuts because the saving is certain while the cost is only probable."
+          ],
+          "answer": 3,
+          "explanation": "The essay names the imbalance between a certain saving and a probable cost, and then proposes making the cost visible instead of demanding willpower."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the essay say the plumber is right nine times out of ten?",
+          "choices": [
+            "To show that the shortcut usually works, which is what keeps it alive.",
+            "To argue that shutting off the water is rarely worth doing at all.",
+            "To suggest that the plumber has been unlucky with one bad floor.",
+            "To prove that experience makes a worker safer over many years."
+          ],
+          "answer": 0,
+          "explanation": "If the shortcut failed often, nobody would take it. The essay needs it to usually work in order to explain why it survives."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'rate' mean in 'at a worse rate than the one you avoided'?",
+          "choices": [
+            "a fixed charge for a night's lodging",
+            "the price charged for putting something off",
+            "the speed at which a task is completed",
+            "an official grade given to a worker"
+          ],
+          "answer": 1,
+          "explanation": "The sentence continues the money picture from 'charges interest', so the rate is what the delay ends up costing you."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "How much time does the essay say the plumber saves by not shutting off the water?",
+          "choices": [
+            "An afternoon",
+            "Nine hours",
+            "Four minutes",
+            "Ten minutes"
+          ],
+          "answer": 2,
+          "explanation": "The second paragraph gives the figure: the plumber 'saves four minutes', which is why it is set against an afternoon on a floor."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the writer's attitude toward the plumber?",
+          "choices": [
+            "contemptuous of a careless and lazy tradesman",
+            "amused by a mistake that costs almost nobody anything",
+            "indifferent to whether the valve is ever shut at all",
+            "understanding about the choice and firm about the fix"
+          ],
+          "answer": 3,
+          "explanation": "The essay grants that the plumber is right nine times in ten and says 'we do not choose badly on purpose', then still insists the cost be made visible."
+        }
+      ],
+      "lesson": {
+        "strategy": "One money picture carried the whole way through: charges interest, pay it back, a worse rate, cheaper. Nobody is borrowing money here. Read each of those words as a way of describing time and risk, and the argument gets simple.",
+        "signals": [
+          {
+            "phrase": "Every shortcut charges interest",
+            "means": "The picture in four words. Everything after it extends the same idea."
+          },
+          {
+            "phrase": "four minutes is real and the flood is only likely",
+            "means": "The essay's core contrast, stated without any jargon."
+          },
+          {
+            "phrase": "The fix is not more willpower",
+            "means": "Turns the essay from diagnosis to advice."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "interest",
+            "inContext": "the extra cost of taking a saving now"
+          },
+          {
+            "word": "probability",
+            "inContext": "how likely a thing is, rather than certain"
+          },
+          {
+            "word": "willpower",
+            "inContext": "forcing yourself to decide well each time"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The essay explains a behaviour before it corrects it. A gist that only says shortcuts are bad has stopped at paragraph one.",
+          "inference": "Nine times out of ten is doing real work. Ask what would change if the number were the other way round.",
+          "vocabulary": "Interest, rate, and cheaper come from money and are used here about time. Read them that way.",
+          "detail": "Two numbers hold the example together: four minutes, and one time in ten. Reread the plumber paragraph."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-weather-of-a-workplace",
+      "title": "The Weather of a Workplace",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 5,
+      "wordCount": 228,
+      "releasedAt": "2026-08-26",
+      "text": "Ask people what a workplace is like and they will answer in weather. It is chilly in there. Things blew up on Thursday. The new manager brought some warmth with her.\n\nThe comparison is not lazy. It is exact. Weather is what you meet when you walk in, not what anyone announced. Nobody circulated a memo saying the room would be cold. It simply was, and everyone adjusted their coat before they adjusted their opinion.\n\nTwo things follow from taking the picture seriously. The first is that weather is made, even when it feels as though it merely happens. A silence after a bad idea, a name left off an email, a laugh that lands on the same person twice: none of these is a policy, and together they are the climate. The second is that weather is measured by whoever is standing in it. A manager who reports that the room is fine is reporting from indoors, beside the heater.\n\nSo I distrust the survey that asks whether the culture is healthy, and I trust the question that asks what happened on Thursday. One collects opinions about a climate. The other collects the weather that made it. Neither question is comfortable. The second one at least produces a fact you can do something about, and a fact is what a cold room has always been short of.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "The mood of a workplace is built from small unannounced acts, so it is best studied through events.",
+            "Managers should install better heating before asking their staff about culture.",
+            "Surveys about workplace culture are the most reliable way to measure a team.",
+            "A workplace becomes cold whenever a new manager is appointed to run it."
+          ],
+          "answer": 0,
+          "explanation": "The essay treats the weather comparison as exact, argues that the climate is made from small acts, and prefers asking about a specific Thursday."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the essay say a manager reporting that the room is fine is reporting from indoors?",
+          "choices": [
+            "Because a manager has been trained to give reassuring answers to surveys.",
+            "Because a person with power feels less of the conditions than the people below them.",
+            "Because managers work in separate offices that are heated differently.",
+            "Because managers are usually the last people to arrive in the morning."
+          ],
+          "answer": 1,
+          "explanation": "The paragraph says weather is measured by whoever is standing in it, so the beside-the-heater line means the manager is not standing where the cold is."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'climate' mean as the essay uses it?",
+          "choices": [
+            "a written policy that staff are asked to follow",
+            "the temperature at which an office is kept",
+            "the settled mood that many small acts add up to",
+            "the average rainfall of a region over many years"
+          ],
+          "answer": 2,
+          "explanation": "The essay lists a silence, a name left off an email, and a laugh, then says that together they are the climate. It is a mood built from acts."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What three small acts does the essay give as examples of how a climate is made?",
+          "choices": [
+            "A late arrival, an unanswered message, and a cancelled meeting",
+            "A memo, a survey, and a formal complaint to a manager",
+            "A cold room, a broken heater, and a closed window in winter",
+            "A silence after a bad idea, a name left off an email, and a repeated laugh"
+          ],
+          "answer": 3,
+          "explanation": "The third paragraph lists exactly those three: a silence after a bad idea, a name left off an email, and a laugh that lands on the same person twice."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'weather' mean in 'they will answer in weather'?",
+          "choices": [
+            "the day-to-day feel of being in that place",
+            "the rain and sunshine outside the building",
+            "the temperature the heating has been set to",
+            "the season in which the company was founded"
+          ],
+          "answer": 0,
+          "explanation": "The examples given are a chilly room and things blowing up on a Thursday, none of them outdoors. Weather here is what a person meets on walking in."
+        }
+      ],
+      "lesson": {
+        "strategy": "The essay takes an everyday comparison and refuses to treat it as decoration. Every weather word is being used about people: chilly, blew up, warmth, climate. Ask each time what human behaviour the word is standing in for.",
+        "signals": [
+          {
+            "phrase": "The comparison is not lazy. It is exact",
+            "means": "Announces that the weather words will be taken seriously, not as decoration."
+          },
+          {
+            "phrase": "weather is made",
+            "means": "The first of the two claims, and the harder one to accept."
+          },
+          {
+            "phrase": "reporting from indoors",
+            "means": "Compresses the second claim: your reading depends on where you stand."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "weather",
+            "inContext": "the day-to-day feel of being in a place"
+          },
+          {
+            "word": "climate",
+            "inContext": "the settled mood that many small acts add up to"
+          },
+          {
+            "word": "memo",
+            "inContext": "a short written notice sent round an office"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Two claims are numbered for you in paragraph three. A good gist carries both, plus what the writer would rather ask.",
+          "inference": "The heater is the clue. Ask what it means about who feels a cold room and who does not.",
+          "vocabulary": "Chilly, blew up, warmth, and climate are all weather words used about people. Translate each one before choosing.",
+          "detail": "The three examples are a list. Reread it and count them before you look at the options."
+        }
+      }
+    },
+    {
+      "id": "og-fig-listening-is-not-waiting",
+      "title": "Listening Is Not Waiting",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "essay",
+      "level": 4,
+      "wordCount": 202,
+      "releasedAt": "2026-08-26",
+      "text": "Most of what passes for listening is waiting. You can watch it happen on any face across a table: the eyes stay put, the head nods on schedule, and behind all of it a sentence is being loaded.\n\nI have done it in the middle of a conversation I cared about. Someone was three sentences into a difficulty and I already had the answer, so I spent the rest of their story guarding it, in case I forgot the good phrasing. What I heard was the shape of their turn ending. What I missed was the difficulty.\n\nThe test I use now is simple and slightly humbling. Before I answer, can I say back the thing that was hard for them, in their words rather than mine? Most of the time I cannot. That is not a failure of memory. It is a report on where my attention actually was.\n\nReal listening costs something, and the cost is the answer you were saving. You have to let it go and take the chance that a worse one is all you will have when your turn comes. In my experience the worse one is usually better, because at least it is about them.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main point of this essay?",
+          "choices": [
+            "A good memory is what separates a real listener from somebody merely waiting.",
+            "Listening properly means giving up the answer you were holding while the other person spoke.",
+            "People who nod during a conversation are usually being deliberately rude.",
+            "The best conversations happen when both speakers prepare their answers in advance."
+          ],
+          "answer": 1,
+          "explanation": "The essay names the habit, gives the writer's own example, offers a test, and ends by naming the price: the answer you were saving."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the writer say his failure is not a failure of memory?",
+          "choices": [
+            "Because he can remember the exact phrasing he had prepared.",
+            "Because memory has nothing to do with ordinary conversation.",
+            "Because he never took the other person's difficulty in to begin with.",
+            "Because he wrote the conversation down soon after it happened."
+          ],
+          "answer": 2,
+          "explanation": "The test asks him to say back what was hard for them. Failing it shows his attention was on his own sentence, so there was nothing to remember."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'loaded' mean in 'a sentence is being loaded'?",
+          "choices": [
+            "filled up with heavy goods for carrying",
+            "written down carefully on a piece of paper",
+            "spoken with an unpleasant hidden meaning",
+            "got ready in advance so it can be fired off"
+          ],
+          "answer": 3,
+          "explanation": "The picture is of something prepared and held ready while the other person is still talking, which is what the rest of the essay describes."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What does the writer's test ask him to do before he answers?",
+          "choices": [
+            "Say back what was hard for them, in their words",
+            "Wait a full ten seconds after they have stopped",
+            "Write down the phrasing he wants to use",
+            "Ask them a question about their childhood"
+          ],
+          "answer": 0,
+          "explanation": "The third paragraph states the test exactly: can he say back the thing that was hard for them, in their words rather than his."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the writer's tone in this essay?",
+          "choices": [
+            "despairing that anybody can learn to listen properly",
+            "honest about his own failing and warm toward the reader",
+            "scolding readers for a habit he has never had himself",
+            "detached and clinical about a common social error"
+          ],
+          "answer": 1,
+          "explanation": "He uses himself as the example, calls the test slightly humbling, admits that most of the time he fails it, and offers the reader a way through."
+        }
+      ],
+      "lesson": {
+        "strategy": "The essay is a confession before it is advice, which is why it never sounds like a lecture. Watch the pronoun move from you in the first paragraph to I in the second. That move is the essay deciding to be honest.",
+        "signals": [
+          {
+            "phrase": "a sentence is being loaded",
+            "means": "The image behind the whole essay: an answer held ready like ammunition."
+          },
+          {
+            "phrase": "What I missed was the difficulty",
+            "means": "The cost, in six words, of a conversation spent guarding an answer."
+          },
+          {
+            "phrase": "slightly humbling",
+            "means": "Sets the tone of the advice: offered by someone who keeps failing it."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "loaded",
+            "inContext": "prepared in advance and held ready to fire"
+          },
+          {
+            "word": "guarding",
+            "inContext": "protecting an answer so it does not get forgotten"
+          },
+          {
+            "word": "humbling",
+            "inContext": "making you think less well of yourself, in a useful way"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The final paragraph names a price. A gist that leaves out what listening costs has taken only half the essay.",
+          "inference": "The writer distinguishes two failures. Ask which one he is admitting to and why the difference matters.",
+          "vocabulary": "Loaded, guarding, and cost all come from elsewhere. Ask what each does inside a conversation.",
+          "detail": "The test is stated once, precisely. Reread the question the writer asks himself before answering."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-shop-that-wore-its-age",
+      "title": "The Shop That Wore Its Age",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 3,
+      "wordCount": 170,
+      "releasedAt": "2026-08-26",
+      "text": "The hardware shop on Bell Street wore its age like a good coat. The floorboards dipped where forty years of customers had turned toward the nail bins. The brass handle was worn pale in one spot, exactly where a hand goes.\n\nNadia had come to buy a hinge. She got the hinge in under a minute, because Mr Iyer did not need to look. He put two fingers into a drawer he never opened all the way and came out with the right one. The shop smelled of oil and sawdust and something faintly sweet that Nadia had never been able to name.\n\n'You'll want the short screws,' he said, and slid them across without charging for them. Then he asked about her father's knee, and she stayed nine minutes longer than a hinge required.\n\nWalking home she thought about the pale spot on the handle. Somebody had put that there. Thousands of somebodies, one hand at a time, and not one of them had meant to leave anything behind.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A shopkeeper who cannot find the part a customer has asked him to look for.",
+            "A woman who is in a hurry and resents being asked about her father's knee.",
+            "A worn old shop whose long use has quietly built a place where a customer wants to stay.",
+            "A customer who is overcharged for a hinge and decides to complain about it."
+          ],
+          "answer": 2,
+          "explanation": "The dipped floor, the pale handle, the free screws, and the nine extra minutes all point the same way: long use has made the shop worth staying in."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does Mr Iyer not need to look in the drawer?",
+          "choices": [
+            "The drawer contains only one kind of hinge and nothing else.",
+            "Nadia had telephoned ahead and asked him to set it aside.",
+            "He keeps a written list taped to the inside of the drawer.",
+            "He has handled the same stock for so long that his hands know it."
+          ],
+          "answer": 3,
+          "explanation": "He puts two fingers into a drawer he never opens all the way and comes out with the right part, which is what long practice looks like."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'dipped' mean in 'The floorboards dipped'?",
+          "choices": [
+            "sank into a shallow hollow",
+            "were dropped into a liquid",
+            "were painted a darker colour",
+            "sloped steeply toward a wall"
+          ],
+          "answer": 0,
+          "explanation": "Forty years of customers turning toward the nail bins have worn the boards down, so the floor has a shallow hollow in that spot."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did Mr Iyer give Nadia without charging for it?",
+          "choices": [
+            "A paper bag",
+            "The short screws",
+            "A second hinge",
+            "A tin of oil"
+          ],
+          "answer": 1,
+          "explanation": "He says she will want the short screws and slides them across without charging for them."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'wore' mean in 'wore its age like a good coat'?",
+          "choices": [
+            "was rubbed thin by many years of use",
+            "was embarrassed by how old it had become",
+            "showed its age openly and without shame",
+            "had clothing hanging on a rail inside"
+          ],
+          "answer": 2,
+          "explanation": "A shop cannot put on clothes. The signs listed next are a dipped floor and a pale handle, and a good coat is worn on purpose, so the shop carries its years comfortably."
+        }
+      ],
+      "lesson": {
+        "strategy": "A short story built almost entirely out of objects. Nothing is explained. The floor, the handle, and the screws do the work a narrator would usually do. Read each detail as evidence about people rather than about wood and brass.",
+        "signals": [
+          {
+            "phrase": "wore its age like a good coat",
+            "means": "The opening picture. Age here is something the shop carries well."
+          },
+          {
+            "phrase": "exactly where a hand goes",
+            "means": "A worn patch made by thousands of ordinary visits."
+          },
+          {
+            "phrase": "nine minutes longer than a hinge required",
+            "means": "Measures a friendship in the only unit the story uses."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "wore",
+            "inContext": "showed its age openly, the way a coat is worn on purpose"
+          },
+          {
+            "word": "dipped",
+            "inContext": "sank into a shallow hollow from long use"
+          },
+          {
+            "word": "hinge",
+            "inContext": "the metal joint that lets a door swing"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Ask what the last paragraph makes of the pale spot. The story is about what long ordinary use leaves behind.",
+          "inference": "The two fingers in the half-open drawer are the clue. Ask what that tells you about how long he has done this.",
+          "vocabulary": "Wore and dipped both describe things that happened over forty years. Choose the sense that fits a building.",
+          "detail": "The middle of the story carries the facts: what she came for, what he added, how long she stayed."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-tide-at-the-dinner-table",
+      "title": "The Tide at the Dinner Table",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 4,
+      "wordCount": 198,
+      "releasedAt": "2026-08-26",
+      "text": "Conversation at my father's table came in like a tide. It went out for years and then, on some ordinary Tuesday, it came all the way up the beach and left things on the sand.\n\nFor most of my childhood he asked about homework and passed the salt. I took the quiet for coldness, the way children do, and built a fairly complete theory around it. The theory survived until I was twenty-six, when I sat in his kitchen at one in the morning and he told me, without being asked, about the year his own father lost the shop.\n\nHe talked for forty minutes. He did not look at me much. The clock over the stove was the loudest thing in the room. When he finished he stood up, rinsed both cups, said we should get some sleep, and we never spoke about the shop again.\n\nI used to be angry about the forty minutes. Forty minutes in twenty-six years seemed a poor return. I am less certain now. A tide does not owe the beach an explanation, and what it left behind was more than I had been given by people who talked all the time.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A family shop that was lost and the argument that followed its closing.",
+            "A father who refuses to explain himself and a daughter who gives up asking.",
+            "A childhood theory about coldness that turns out to have been completely correct.",
+            "A daughter revising her judgement of a quiet father after one long unexpected conversation."
+          ],
+          "answer": 3,
+          "explanation": "The story moves from a childhood theory, through the night in the kitchen, to the narrator saying she is less certain than she used to be."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why did the narrator build a theory about her father's quiet?",
+          "choices": [
+            "A child reads silence as feeling, because no other explanation is offered.",
+            "Her mother had told her that her father did not care for her.",
+            "She had read about the lost shop and wanted to test her father.",
+            "Her father had asked her not to speak to him during meals."
+          ],
+          "answer": 0,
+          "explanation": "She says she took the quiet for coldness 'the way children do', which makes the theory a child's best reading of an unexplained silence."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'return' mean in 'seemed a poor return'?",
+          "choices": [
+            "the act of giving something to its owner",
+            "what she got back for years of waiting",
+            "a journey back to a place she had left",
+            "a form sent in to a government office"
+          ],
+          "answer": 1,
+          "explanation": "She is weighing forty minutes against twenty-six years, so return means what those years finally yielded her."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did the father do immediately after he finished talking?",
+          "choices": [
+            "He asked his daughter about her homework.",
+            "He left the house without saying anything.",
+            "He stood up and rinsed both cups.",
+            "He turned off the clock over the stove."
+          ],
+          "answer": 2,
+          "explanation": "The third paragraph lists it in order: he stood up, rinsed both cups, and said they should get some sleep."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes how the narrator now feels about her father?",
+          "choices": [
+            "sharp resentment that has never once softened",
+            "cheerful gratitude with no difficulty left in it",
+            "cold distance from a man she has stopped knowing",
+            "settled tenderness that has replaced an older anger"
+          ],
+          "answer": 3,
+          "explanation": "She says she 'used to be angry' and is 'less certain now', and ends by calling what he left her more than talkative people had given her."
+        }
+      ],
+      "lesson": {
+        "strategy": "One picture holds the story: a tide that goes out for years and comes up the beach once. Everything the narrator feels is attached to that picture, so watch what she says the tide owes, and what she decides it left behind.",
+        "signals": [
+          {
+            "phrase": "came in like a tide",
+            "means": "Sets the shape of the whole story in the first sentence."
+          },
+          {
+            "phrase": "I took the quiet for coldness",
+            "means": "The childhood theory, named plainly so it can be revised later."
+          },
+          {
+            "phrase": "I am less certain now",
+            "means": "The turn. Everything after this is a grown woman changing her mind."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "tide",
+            "inContext": "a movement that goes out for years and comes back once"
+          },
+          {
+            "word": "theory",
+            "inContext": "an explanation a child builds to make a silence make sense"
+          },
+          {
+            "word": "return",
+            "inContext": "what somebody gets back for a long wait"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The narrator states a judgement and then withdraws it. A good gist carries both the old view and the new one.",
+          "inference": "Look at the phrase the way children do. It explains the theory without excusing or blaming anyone.",
+          "vocabulary": "Tide, return, and poor are all being used about a relationship. Fit each to the sentence around it.",
+          "detail": "The kitchen paragraph is the factual one. Reread the order of what he did when he finished."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-house-held-its-breath",
+      "title": "The House Held Its Breath",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 4,
+      "wordCount": 200,
+      "releasedAt": "2026-08-26",
+      "text": "For three days before the results came, the house held its breath. Nobody said so. The radio stayed off, the good plates stayed in the cupboard, my mother did the ironing twice, and the ironing board stayed up in the corner like a witness.\n\nTomas was fifteen and had never seen the family like this. His sister had sat the exam in June and had walked out of it saying nothing at all, which in that family was the loudest thing she could have done. He knew the shape of a normal week in that kitchen and this was not it. Even the dog had taken to lying in the hall.\n\nOn the third evening the envelope came. His mother put it on the table and did not open it. Nobody reached for it. His father came in from the yard, washed his hands longer than washing takes, and sat down. Somebody's chair creaked.\n\n'Open it,' his sister said, and pushed it across to Tomas, because she could not. He read the first line twice before he understood it, and then the house let go all at once: the radio, the plates, his father shouting into the yard at nobody.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A family holding itself still through three days of waiting until the news finally releases them.",
+            "A boy who resents being asked to open an envelope that was not addressed to him.",
+            "A sister who fails an important exam and hides the result from her parents.",
+            "A father who spends three days working in the yard to avoid his family."
+          ],
+          "answer": 0,
+          "explanation": "The story is built from the signs of waiting, then ends with the release: the radio, the plates, and the father shouting into the yard."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why was the sister saying nothing after the exam the loudest thing she could do?",
+          "choices": [
+            "Her parents had asked her not to discuss the exam with anyone.",
+            "In that family silence carried more meaning than any complaint would.",
+            "She had shouted at her family the last time she took an exam.",
+            "The exam hall had a rule that forbade speaking on the way out."
+          ],
+          "answer": 1,
+          "explanation": "The story calls her silence the loudest thing she could have done 'in that family', so quiet is how bad news is signalled there."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'witness' mean in 'the ironing board stayed up in the corner like a witness'?",
+          "choices": [
+            "a signature added to prove a document is real",
+            "somebody who saw an accident happen in the street",
+            "something standing by that seems to be watching",
+            "a person who gives evidence in a courtroom"
+          ],
+          "answer": 2,
+          "explanation": "An ironing board cannot testify. Left standing in the corner it is present and upright through the waiting, as though it were watching the room."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "Who pushes the envelope across the table to Tomas?",
+          "choices": [
+            "His mother",
+            "His father",
+            "Nobody, he takes it",
+            "His sister"
+          ],
+          "answer": 3,
+          "explanation": "The last paragraph is exact: his sister says 'Open it' and pushes it across to Tomas, because she could not."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'held its breath' mean in 'the house held its breath'?",
+          "choices": [
+            "everyone in it waited in a tense stillness",
+            "the rooms had no air moving through them",
+            "somebody inside was holding a deep breath",
+            "the family had decided to stop speaking for good"
+          ],
+          "answer": 0,
+          "explanation": "A house does not breathe. The details that follow are what the waiting looked like: the radio off, the good plates left in the cupboard, the ironing done twice."
+        }
+      ],
+      "lesson": {
+        "strategy": "The story never tells you anyone is nervous. It shows a radio that stays off and plates that stay in a cupboard. Read the objects as the family's feelings, and notice that the breathing picture from the first line returns at the very end.",
+        "signals": [
+          {
+            "phrase": "the house held its breath",
+            "means": "The controlling picture. A building standing in for the people inside it."
+          },
+          {
+            "phrase": "the loudest thing she could have done",
+            "means": "A silence described as noise. It tells you how this family communicates."
+          },
+          {
+            "phrase": "the house let go all at once",
+            "means": "Closes the picture. The held breath is finally released."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "held its breath",
+            "inContext": "waited in a tense stillness, without anybody saying so"
+          },
+          {
+            "word": "witness",
+            "inContext": "something standing by that seems to be watching"
+          },
+          {
+            "word": "creaked",
+            "inContext": "made a small strained noise under a weight"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Three days of stillness, then one release. Say what changes between the first line and the last before choosing.",
+          "inference": "The word loudest is doing the work. Ask what it means that a silence could be loud in this house.",
+          "vocabulary": "Held its breath, witness, and loudest are all figures. Ask what each looks like in an actual kitchen.",
+          "detail": "The final paragraph carries the facts: who speaks, who pushes, and who reads."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-letter-that-walked",
+      "title": "The Letter That Walked",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 5,
+      "wordCount": 229,
+      "releasedAt": "2026-08-26",
+      "text": "The letter took fourteen months to reach me, which is not a complaint about the post. It had been written, sealed, put in a coat pocket, and forgotten there through a whole winter, and my uncle died in the spring without ever remembering it.\n\nHis daughter found it when she finally cleared the coats. She rang first, which I have always been grateful for, and asked whether I wanted it at all. I said yes before she had finished the question. The envelope had gone soft at the corners and smelled faintly of the coat.\n\nIt was four paragraphs about a fishing trip in 1994 that I barely remembered and he apparently did. He had two of the details wrong. He thought I had caught the larger fish. He thought it had rained on the second day, and it had rained on the first. His handwriting got smaller toward the end, the way it always had.\n\nI have read it eleven times and I have never once wanted to correct him. A letter that walks fourteen months to find you is not carrying information. It is carrying the fact that on some evening in a cold house, a man who was not good at saying things sat down and tried anyway. The wrong fish is the best part. He was not writing a record. He was writing to me.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A daughter who delays passing on a letter she found in her father's coat.",
+            "A late letter whose value lies in the effort behind it rather than in its accuracy.",
+            "A family argument about who was entitled to open a dead man's post.",
+            "A fishing trip in 1994 that the narrator has been trying to remember properly."
+          ],
+          "answer": 1,
+          "explanation": "The narrator lists the errors and then sets them aside. What the letter carries is the effort: a man who found saying things hard sat down and tried."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the narrator say the wrong fish is the best part?",
+          "choices": [
+            "He wants to prove that his uncle's memory had begun to fail him.",
+            "It is the only detail in the letter that he can still remember himself.",
+            "The mistake shows the letter was written from feeling rather than from a record.",
+            "The larger fish had been the subject of a long family disagreement."
+          ],
+          "answer": 2,
+          "explanation": "He says the letter is not carrying information, so an error is evidence that the uncle was writing to him rather than filing an accurate account."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'cleared' mean in 'when she finally cleared the coats'?",
+          "choices": [
+            "made brighter by removing a stain",
+            "gave official permission for",
+            "jumped over without touching",
+            "sorted through and emptied out"
+          ],
+          "answer": 3,
+          "explanation": "She is going through a dead man's coats and finding what is in the pockets, so cleared means sorting and emptying them."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did the uncle get wrong about the weather on the trip?",
+          "choices": [
+            "He thought it had rained on the second day rather than the first.",
+            "He thought the whole week had been dry and unusually warm.",
+            "He thought a storm had ended the trip a day early.",
+            "He thought it had rained every day of the fishing trip."
+          ],
+          "answer": 0,
+          "explanation": "The third paragraph is exact: he thought it had rained on the second day, and it had rained on the first."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the narrator's feeling as he reads the letter?",
+          "choices": [
+            "grief so heavy that the letter gives him no comfort",
+            "grateful affection that is untroubled by the errors",
+            "irritation with a relative who never checked a fact",
+            "guilt at having forgotten the trip his uncle recalled"
+          ],
+          "answer": 1,
+          "explanation": "He has read it eleven times, has never once wanted to correct it, and calls the wrong fish the best part of the whole letter."
+        }
+      ],
+      "lesson": {
+        "strategy": "A story told backwards from an object. The letter is late, soft at the corners, and wrong about two things, and the narrator wants every one of those faults kept. Ask what he thinks the letter is actually carrying, and the ending explains itself.",
+        "signals": [
+          {
+            "phrase": "without ever remembering it",
+            "means": "Explains the delay and keeps the uncle sympathetic rather than careless."
+          },
+          {
+            "phrase": "I said yes before she had finished the question",
+            "means": "Shows how much he wanted it, without any word for feeling."
+          },
+          {
+            "phrase": "The wrong fish is the best part",
+            "means": "The story's argument, stated in seven words."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "walks",
+            "inContext": "travels slowly, as if on foot, over a long delay"
+          },
+          {
+            "word": "sealed",
+            "inContext": "closed up so that nobody else could read it"
+          },
+          {
+            "word": "record",
+            "inContext": "an accurate account kept for the facts alone"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The last paragraph tells you what the letter is for. A gist about the fishing trip has taken the surface only.",
+          "inference": "Ask why an error could ever be the best part of a letter, and the narrator answers you directly.",
+          "vocabulary": "Walks, cleared, and record are each slightly out of their usual work. Fit them to the sentences here.",
+          "detail": "Two errors are listed, one about a fish and one about rain. Reread that paragraph carefully."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-dough-remembers",
+      "title": "The Dough Remembers",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 3,
+      "wordCount": 176,
+      "releasedAt": "2026-08-26",
+      "text": "'Dough remembers,' Bea said on the first morning, and Owen wrote it down, because he wrote everything down that week.\n\nHe found out what she meant on Thursday. He had watched her work slowly for three days and had assumed the slowness was a habit rather than a method. So he rushed a batch, folded it hard and fast to save ten minutes, and the loaves came out of the oven tight and mean, with a crumb like a sponge that had been sat on. Nothing had gone wrong in the oven. Everything had gone wrong an hour earlier.\n\n'It keeps what you did to it,' Bea said, not unkindly, and threw one loaf out to the birds. 'You cannot be gentle at the end to make up for being rough at the start.'\n\nOwen learned to slow his hands. It took him three weeks and it cost the shop a fair amount of flour, and Bea never once told him he was getting better, which he decided was her way of saying that he was.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A shop that buys a faulty oven and blames the loaves on the apprentice.",
+            "A teacher who praises her apprentice too often for very small improvements.",
+            "An apprentice learning that damage done early in a process cannot be repaired later.",
+            "A baker who wastes flour and is dismissed from a shop after three weeks."
+          ],
+          "answer": 2,
+          "explanation": "Owen rushes the folding, the loaves fail, and Bea tells him gentleness at the end cannot make up for roughness at the start."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the story say nothing had gone wrong in the oven?",
+          "choices": [
+            "To show that the oven had been repaired earlier that same week.",
+            "To suggest that Bea had set the temperature wrongly on purpose.",
+            "To explain why the loaves could still be sold to customers.",
+            "To point the blame back to the folding Owen rushed an hour before."
+          ],
+          "answer": 3,
+          "explanation": "The next sentence answers it: everything had gone wrong an hour earlier, which is when Owen folded the dough hard and fast."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'crumb' mean in 'with a crumb like a sponge that had been sat on'?",
+          "choices": [
+            "the soft inside texture of a loaf",
+            "a small piece that falls from bread",
+            "a thin crust formed by high heat",
+            "a stale end left over from yesterday"
+          ],
+          "answer": 0,
+          "explanation": "It is being compared to a flattened sponge, so it describes the texture inside the loaf rather than a fallen fragment."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "How long did it take Owen to learn to slow his hands?",
+          "choices": [
+            "One Thursday",
+            "Three weeks",
+            "Three days",
+            "Ten minutes"
+          ],
+          "answer": 1,
+          "explanation": "The last paragraph gives the figure: it took him three weeks and cost the shop a fair amount of flour."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'remembers' mean in 'Dough remembers'?",
+          "choices": [
+            "holds the scent of an earlier batch",
+            "punishes a baker who has been unkind to it",
+            "keeps the effects of how it was handled",
+            "recalls past events the way a person does"
+          ],
+          "answer": 2,
+          "explanation": "Bea explains it herself in the third paragraph: it keeps what you did to it. The rushed folding is still in the loaf an hour later."
+        }
+      ],
+      "lesson": {
+        "strategy": "A teaching story with the lesson in its first line and the proof in the middle. Bea says three things and each one is a different way of saying the same thing, so read her words against what actually happens to the loaves.",
+        "signals": [
+          {
+            "phrase": "Dough remembers",
+            "means": "The claim, made before Owen can possibly understand it."
+          },
+          {
+            "phrase": "Everything had gone wrong an hour earlier",
+            "means": "Places the cause an hour before the effect."
+          },
+          {
+            "phrase": "It keeps what you did to it",
+            "means": "Bea's own translation of her opening line."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "remembers",
+            "inContext": "keeps the effects of how it was handled"
+          },
+          {
+            "word": "crumb",
+            "inContext": "the soft inside texture of a loaf"
+          },
+          {
+            "word": "folded",
+            "inContext": "worked the dough by turning it over on itself"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The story proves one sentence. Say that sentence in ordinary words and you have the main idea.",
+          "inference": "The line about the oven is there to rule something out. Ask what it points to instead.",
+          "vocabulary": "Remembers and crumb both mean something particular in a bakery. Let Bea's own explanation settle the first one.",
+          "detail": "The closing paragraph carries the numbers: how long it took and what it cost."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-eleven-forty",
+      "title": "The Eleven-Forty",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 5,
+      "wordCount": 218,
+      "releasedAt": "2026-08-26",
+      "text": "The eleven-forty is a waiting room on wheels. Nobody on it is going anywhere they are excited about, and everybody has agreed, without a word being said, to leave one another alone.\n\nI have taken it twice a week for six years. I know the seats that rattle and the driver who takes the roundabout too fast, and I know roughly who will be aboard: two cleaners from the hospital, a man with a guitar case who has never once opened it, a woman who reads the same battered paperback and never seems to finish it.\n\nIt would be easy to make this sad, and people do. A bus of tired strangers at midnight is the sort of thing that gets called lonely by somebody who has never ridden one. I would say the opposite. There is a kind of company that asks nothing of you, and at that hour it is the only kind I can manage.\n\nLast winter the heater failed and a stranger passed a blanket up the aisle without a word about it, and it came back three stops later, folded. That is the whole of the relationship and I would not trade it. We are not friends. We are thirty people who have decided, four nights a week, to get each other home.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A commuter who is lonely on a night bus and cannot find anyone to talk to.",
+            "A broken heater that forces a group of strangers to become close friends.",
+            "A driver whose careless speed makes a late journey unpleasant for everyone.",
+            "A regular night bus that offers its riders a real company which demands nothing of them."
+          ],
+          "answer": 3,
+          "explanation": "The narrator rejects the word lonely, describes a company that asks nothing, and ends with thirty people getting each other home."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the narrator mention who has never opened the guitar case?",
+          "choices": [
+            "To show how much he has noticed while never speaking to anyone.",
+            "To suggest that the man is carrying something other than a guitar.",
+            "To explain why the passengers on the bus stay silent at night.",
+            "To prove that the man boards the bus only to keep warm."
+          ],
+          "answer": 0,
+          "explanation": "The detail is part of a list of things he knows about people he has never spoken to, which is exactly the kind of company he is describing."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'manage' mean in 'the only kind I can manage'?",
+          "choices": [
+            "control by giving orders",
+            "cope with at that hour",
+            "be in charge of at work",
+            "succeed in arranging"
+          ],
+          "answer": 1,
+          "explanation": "He is describing what he has the energy for late at night, so manage means what he can bear or cope with."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What happened to the blanket that was passed up the aisle?",
+          "choices": [
+            "The driver collected it at the terminus.",
+            "It was left behind on an empty seat.",
+            "It came back three stops later, folded.",
+            "It stayed with the passenger at the front."
+          ],
+          "answer": 2,
+          "explanation": "The final paragraph is exact: the blanket came back three stops later, folded."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes how the narrator feels about the eleven-forty?",
+          "choices": [
+            "sadness at a bus full of lonely and beaten people",
+            "impatience with strangers who never speak to him",
+            "pride at being tougher than the other passengers",
+            "quiet fondness for a company that asks nothing of him"
+          ],
+          "answer": 3,
+          "explanation": "He refuses the word lonely, calls the bus a kind of company that asks nothing, and says plainly that he would not trade it."
+        }
+      ],
+      "lesson": {
+        "strategy": "The narrator argues with an opinion nobody has said out loud. Watch the sentence where he names the easy reading and then rejects it. After that, every detail he chooses is evidence for his own view of the bus.",
+        "signals": [
+          {
+            "phrase": "a waiting room on wheels",
+            "means": "The opening picture. A place people sit in, going nowhere they chose."
+          },
+          {
+            "phrase": "It would be easy to make this sad",
+            "means": "Names the reading he is about to refuse."
+          },
+          {
+            "phrase": "a kind of company that asks nothing of you",
+            "means": "His own definition, and the heart of the story."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "aisle",
+            "inContext": "the walkway between the rows of seats"
+          },
+          {
+            "word": "manage",
+            "inContext": "cope with, at the end of a long day"
+          },
+          {
+            "word": "company",
+            "inContext": "the presence of other people, without conversation"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The narrator states an opposing view before his own. A gist that says the bus is lonely has taken the view he rejects.",
+          "inference": "The list in paragraph two is evidence. Ask what it proves about six years of not speaking.",
+          "vocabulary": "Company, manage, and waiting room all carry a special sense here. Check each against the sentence around it.",
+          "detail": "The blanket is the one event in the story. Reread what happened to it and when."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-orchard-and-the-ledger",
+      "title": "The Orchard and the Ledger",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 4,
+      "wordCount": 198,
+      "releasedAt": "2026-08-26",
+      "text": "Marta had not looked at her mother's books in eleven years. She opened them at the kitchen table on the day after the funeral, because somebody had to, and found that the figures had been bleeding quietly for four years.\n\nIt was all there in a small steady hand. Fewer trees each spring. A tractor repaired three times instead of replaced. The grocer's order cut in half one autumn and never restored. Her mother had written the numbers down honestly and had told nobody, and Marta could not decide whether that was pride or protection, or whether at that age they are the same thing.\n\nThe orchard itself looked fine. That was the strange part. From the kitchen window the rows were green and even, and a stranger driving past would have said what strangers always said, that it must have been lovely to grow up here. Nothing in a green row tells you what it cost to keep it green.\n\nMarta sat with the book until the light went. Then she made a list of what could be sold, which took four lines, and a list of what could not, which took the rest of the page.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A daughter discovering from her mother's accounts a long decline the orchard never showed.",
+            "A stranger who stops at an orchard and asks whether it is for sale.",
+            "A mother who hid dishonest figures from her family for four years.",
+            "A tractor that breaks down repeatedly and ruins a family's harvest."
+          ],
+          "answer": 0,
+          "explanation": "The books reveal four years of loss, the orchard looks unchanged from the window, and Marta ends by weighing what can be sold against what cannot."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the story suggest about why the mother told nobody?",
+          "choices": [
+            "She had forgotten how to read the figures she was writing down.",
+            "It may have been pride, or an attempt to spare her family, or both at once.",
+            "She had been advised by the grocer to keep the accounts private.",
+            "She expected the orchard to recover before anyone had to know."
+          ],
+          "answer": 1,
+          "explanation": "Marta cannot decide between pride and protection, and wonders whether at that age the two are the same thing. The story offers no other reason."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'restored' mean in 'cut in half one autumn and never restored'?",
+          "choices": [
+            "cleaned so an old colour returns",
+            "given back to its rightful owner",
+            "brought back to its former size",
+            "repaired after being damaged"
+          ],
+          "answer": 2,
+          "explanation": "It is the grocer's order that was halved, so restored means returned to the amount it had been before."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "How many lines did Marta's list of what could be sold take?",
+          "choices": [
+            "Eleven",
+            "Three",
+            "A whole page",
+            "Four"
+          ],
+          "answer": 3,
+          "explanation": "The last paragraph is exact: the list of what could be sold took four lines, and the list of what could not took the rest of the page."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'bleeding' mean in 'the figures had been bleeding quietly for four years'?",
+          "choices": [
+            "losing money steadily and without a break",
+            "losing blood from an open wound",
+            "running as wet ink across a page",
+            "being altered dishonestly by her mother"
+          ],
+          "answer": 0,
+          "explanation": "The next paragraph lists the losses: fewer trees, a tractor repaired instead of replaced, an order halved. The book is called honest, so nothing has been altered."
+        }
+      ],
+      "lesson": {
+        "strategy": "Two pictures of the same farm sit against each other: a page of falling numbers and a window full of green rows. The story never says which is true, because both are. Watch the sentence that explains why the window cannot be trusted.",
+        "signals": [
+          {
+            "phrase": "bleeding quietly for four years",
+            "means": "The picture that opens the story. Money loss described as a wound."
+          },
+          {
+            "phrase": "It was all there in a small steady hand",
+            "means": "Tells you the record is honest, so the trouble is real."
+          },
+          {
+            "phrase": "Nothing in a green row tells you what it cost",
+            "means": "Explains the gap between the ledger and the view."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "bleeding",
+            "inContext": "losing money steadily and without a break"
+          },
+          {
+            "word": "figures",
+            "inContext": "the numbers written down in the account book"
+          },
+          {
+            "word": "restored",
+            "inContext": "brought back to the size it had been before"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Two views of one orchard. A gist has to include both the accounts and the green rows.",
+          "inference": "Marta refuses to settle on one reason. Read her uncertainty as the answer rather than a gap.",
+          "vocabulary": "Bleeding, restored, and steady are all doing quiet work here. Check each against the surrounding sentence.",
+          "detail": "The final paragraph counts things: four lines, and the rest of the page. Reread it."
+        }
+      }
+    },
+    {
+      "id": "og-fig-she-swallowed-the-question",
+      "title": "She Swallowed the Question",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 3,
+      "wordCount": 176,
+      "releasedAt": "2026-08-26",
+      "text": "The interview was going well until the second-last question, and then Priya swallowed the one she had come to ask.\n\nShe had written it on the back of a bus ticket in her pocket: what happened to the person who had this job before me? Four people had told her it was a fair question. It was, and she still did not ask it, because the room was warm and the man across the desk had laughed at her joke about the traffic, and she did not want to be the one who made the room cold.\n\nShe got the job. She found out in her third week what had happened to the person before her, from a colleague at the kettle, and it took under a minute to tell. Nobody had hidden it. Nobody had mentioned it either.\n\nIt is not that the answer would have stopped her. It is that she would have known, and she spent the whole of that third week working out how much she had paid for one warm room.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A colleague at a kettle who spreads gossip about a former member of staff.",
+            "A candidate who trades a fair question for a comfortable moment and later counts the cost.",
+            "An employer who deliberately conceals what happened to a previous employee.",
+            "A woman who asks a difficult question and loses a job because of it."
+          ],
+          "answer": 1,
+          "explanation": "Priya keeps the question back to protect a warm room, gets the answer anyway three weeks later, and spends the week weighing what the silence cost her."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why did Priya keep the question back?",
+          "choices": [
+            "She thought the four people who advised her had been wrong.",
+            "She believed the interviewer would refuse to answer it.",
+            "She did not want to spoil the friendly mood the interview had built.",
+            "She had forgotten that she had written it on the bus ticket."
+          ],
+          "answer": 2,
+          "explanation": "The story gives her reason directly. The room was warm, the man had laughed at her joke, and she did not want to make it cold."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'cold' mean in 'the one who made the room cold'?",
+          "choices": [
+            "low in temperature at last",
+            "empty of people and furniture",
+            "calm and free of any hurry",
+            "awkward and no longer friendly"
+          ],
+          "answer": 3,
+          "explanation": "She is weighing a warm mood against a hard question, so a cold room here means an atmosphere that has turned uncomfortable."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "Where had Priya written her question down?",
+          "choices": [
+            "On the back of a bus ticket",
+            "In a notebook on her desk",
+            "On the last page of her diary",
+            "On the back of her own hand"
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph says she had written it on the back of a bus ticket in her pocket."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'swallowed' mean in 'Priya swallowed the one she had come to ask'?",
+          "choices": [
+            "believed an answer without checking it first",
+            "held the question back and left it unasked",
+            "moved food down her throat with an effort",
+            "spoke the words too quietly to be heard"
+          ],
+          "answer": 1,
+          "explanation": "The rest of the story turns on the question staying unasked: she still did not ask it, and she learns the answer from a colleague three weeks later."
+        }
+      ],
+      "lesson": {
+        "strategy": "Everything in this story is small: a ticket, a joke, a warm room. The words for warmth and cold are not about temperature at all, so read them as descriptions of the mood between two people and the whole choice becomes clear.",
+        "signals": [
+          {
+            "phrase": "swallowed the one she had come to ask",
+            "means": "The story's key word. A question taken back down before it is spoken."
+          },
+          {
+            "phrase": "Four people had told her it was a fair question",
+            "means": "Rules out the idea that the question was rude or unreasonable."
+          },
+          {
+            "phrase": "made the room cold",
+            "means": "Names what she was protecting, and what it cost her."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "swallowed",
+            "inContext": "held a question back instead of asking it"
+          },
+          {
+            "word": "cold",
+            "inContext": "awkward, with the friendliness gone out of a room"
+          },
+          {
+            "word": "colleague",
+            "inContext": "somebody she works with at the same place"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The last paragraph does the accounting. A gist should include both what she avoided and what she lost.",
+          "inference": "Her reason is stated, not hidden. Read the clause that begins with because.",
+          "vocabulary": "Swallowed, warm, and cold all describe a mood rather than a body or a room.",
+          "detail": "Small facts anchor this story: where the question was written, and how long the answer took to tell."
+        }
+      }
+    },
+    {
+      "id": "og-fig-what-the-river-took",
+      "title": "What the River Took",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 5,
+      "wordCount": 229,
+      "releasedAt": "2026-08-26",
+      "text": "The river took the bottom field in 1998, and my father spent the next nine years arguing with it.\n\nHe built a bank. The river went round it. He built the bank higher and longer, and the river, which had been doing this since before there was a farm, waited for a wet March and came in from the other side. Concrete would have been cheaper than the years. My mother stopped commenting somewhere around the fourth attempt.\n\nI want to be careful here, because it is easy to tell this as a story about a stubborn man and get a laugh out of it. He was stubborn. He was also right about something the rest of us were too sensible to say, which is that giving up a field is not an accounting decision. He had walked it as a boy. His father had drained it by hand.\n\nIn 2007 he let it go. He did not announce it. He planted willow along the wet edge and stopped mowing the low corner, and within three summers there were herons in it, and he would stand at the gate and watch them with an expression I could never quite read. I have decided it was not defeat. A man does not plant willow for a field he has lost. He plants it for one he has agreed to share.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A family argument about whether to spend money on concrete flood defences.",
+            "A river that changes course in 1998 and never floods the same field again.",
+            "A son reconsidering his father's long fight with a river and what the ending of it meant.",
+            "A farm that is destroyed by flooding and finally sold off to a stranger."
+          ],
+          "answer": 2,
+          "explanation": "The narrator retells nine years of failed banks, refuses the easy joke, and reads the willow planting as an agreement rather than a defeat."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the narrator say he wants to be careful?",
+          "choices": [
+            "Because he cannot remember the exact order the banks were built in.",
+            "Because his mother has asked him not to discuss the field at all.",
+            "Because he is not sure whether the herons arrived before 2007.",
+            "Because the easy version of the story would make his father ridiculous."
+          ],
+          "answer": 3,
+          "explanation": "He says it is easy to tell this as a story about a stubborn man and get a laugh, so the care is about protecting his father from that reading."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'sensible' mean in 'too sensible to say'?",
+          "choices": [
+            "practical in a way that misses the point",
+            "able to feel small changes quickly",
+            "aware of what other people are thinking",
+            "reasonable and therefore always correct"
+          ],
+          "answer": 0,
+          "explanation": "The rest of the family kept quiet about what the field meant. Here being sensible is what stopped them saying the true thing, so the word carries a criticism."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did the father do to the low corner of the field in 2007?",
+          "choices": [
+            "He sold it to a neighbour.",
+            "He stopped mowing it.",
+            "He drained it by hand.",
+            "He built a bank across it."
+          ],
+          "answer": 1,
+          "explanation": "The last paragraph says he planted willow along the wet edge and stopped mowing the low corner."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes how the narrator regards his father?",
+          "choices": [
+            "cold judgement of a farmer who ignored advice",
+            "unmixed pride in a long fight that was finally won",
+            "affectionate respect that refuses an easy joke",
+            "amused scorn for a man who wasted nine years"
+          ],
+          "answer": 2,
+          "explanation": "He says the laugh is available and will not take it, grants that his father was stubborn, and reads the willow as an agreement rather than a defeat."
+        }
+      ],
+      "lesson": {
+        "strategy": "A story that tells you what it is refusing to be. The narrator names the easy version, sets it aside, and then reads one small act at the end. Watch the last two sentences, where a fact about willow becomes a judgement about a man.",
+        "signals": [
+          {
+            "phrase": "arguing with it",
+            "means": "Treats a river as an opponent, which is the father's whole error and his whole point."
+          },
+          {
+            "phrase": "I want to be careful here",
+            "means": "The narrator steps forward to control how the story is read."
+          },
+          {
+            "phrase": "He plants it for one he has agreed to share",
+            "means": "The closing judgement, offered as an interpretation rather than a fact."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "stubborn",
+            "inContext": "unwilling to give way, for reasons of his own"
+          },
+          {
+            "word": "sensible",
+            "inContext": "practical in a way that leaves the real thing unsaid"
+          },
+          {
+            "word": "defeat",
+            "inContext": "being beaten, which the narrator says this was not"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The story is a reassessment. A gist about flooding alone leaves out the person doing the retelling.",
+          "inference": "The narrator warns you about a wrong reading. Ask what reading he is protecting his father from.",
+          "vocabulary": "Arguing, sensible, and share are all used about a river and a field. Fit each to what actually happened.",
+          "detail": "The final paragraph lists three actions from 2007. Reread them in order."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-friendship-that-ran-aground",
+      "title": "The Friendship That Ran Aground",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "fiction",
+      "level": 3,
+      "wordCount": 168,
+      "releasedAt": "2026-08-26",
+      "text": "Ken and Dessie had shared the boat for twenty years before the friendship ran aground over a gearbox.\n\nIt was not really the gearbox. It was who had said what about the gearbox, in front of whose wife, at the end of a long day when the tide had turned early and neither of them had said a sensible word in six hours. The boat sat on its trailer all that summer with a cover over it.\n\nTheir wives spoke. Their sons spoke. Ken drove past the yard twice a week and did not stop, and Dessie put the boat up for sale in September and took the advertisement down in October without telling anybody he had.\n\nIn March, Ken left a new gearbox on Dessie's step with no note. Dessie fitted it. Neither of them has mentioned any of it since, and they have been out four times this spring, and they take the long way round the point, because that is how they have always gone.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is this story mostly about?",
+          "choices": [
+            "A gearbox that fails at sea and puts two fishermen in serious danger.",
+            "A boat that is sold in September after a disagreement between its owners.",
+            "Two wives who negotiate an apology on behalf of their silent husbands.",
+            "Two old friends who repair a quarrel through actions because neither can discuss it."
+          ],
+          "answer": 3,
+          "explanation": "The quarrel is never discussed. It is ended by a gearbox left on a step and four trips this spring by the usual route."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the story say it was not really the gearbox?",
+          "choices": [
+            "Because the quarrel was about how the two men spoke to each other that day.",
+            "Because the gearbox turned out to be working perfectly well after all.",
+            "Because Ken had bought the gearbox and Dessie had refused to pay.",
+            "Because neither man understood what was wrong with the boat."
+          ],
+          "answer": 0,
+          "explanation": "The next sentence explains it: it was who said what, in front of whose wife, at the end of six hours in which neither had said a sensible word."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'cover' mean in 'with a cover over it'?",
+          "choices": [
+            "a shelter used during heavy fighting",
+            "a sheet put over a boat to protect it",
+            "a false story told to hide the truth",
+            "a payment made against future loss"
+          ],
+          "answer": 1,
+          "explanation": "The boat is sitting unused on its trailer for a summer, so the cover is the sheet that keeps weather off it."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did Ken leave on Dessie's step in March?",
+          "choices": [
+            "The boat cover",
+            "A set of keys",
+            "A new gearbox",
+            "A written note"
+          ],
+          "answer": 2,
+          "explanation": "The last paragraph says Ken left a new gearbox on Dessie's step with no note, and that Dessie fitted it."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the way this story treats the two men?",
+          "choices": [
+            "sharp criticism of two men too proud to apologise",
+            "cool distance from a dispute the writer finds silly",
+            "open sorrow at a friendship that was never repaired",
+            "warm patience with a quarrel neither could speak about"
+          ],
+          "answer": 3,
+          "explanation": "The story blames neither man, notes what neither could say, and ends with the gearbox, the four trips, and the usual long way round the point."
+        }
+      ],
+      "lesson": {
+        "strategy": "Nobody in this story explains anything, so the events have to carry the feeling. Watch for the small acts that stand in for words: driving past the yard, taking down an advertisement, leaving a part on a step. Each one is a sentence nobody said.",
+        "signals": [
+          {
+            "phrase": "ran aground",
+            "means": "A boating word used about a friendship. It means stuck rather than sunk."
+          },
+          {
+            "phrase": "It was not really the gearbox",
+            "means": "Redirects you from the object to what actually happened between them."
+          },
+          {
+            "phrase": "with no note",
+            "means": "The apology, delivered in the only language either man has."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "aground",
+            "inContext": "stuck and unable to move on, like a boat on a sandbank"
+          },
+          {
+            "word": "trailer",
+            "inContext": "the wheeled frame a boat sits on out of the water"
+          },
+          {
+            "word": "cover",
+            "inContext": "a sheet put over a boat to keep the weather off"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "No conversation ever happens. Ask what does the repairing, and the gist follows.",
+          "inference": "The story says outright that the gearbox was not the cause. Read the sentence after that one.",
+          "vocabulary": "Aground, cover, and turned all belong to boats and are used here about people or weather.",
+          "detail": "March holds the turning point. Reread exactly what was left, and what was not."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-language-bessie-coleman-had-to-learn",
+      "title": "The Language Bessie Coleman Had to Learn",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 4,
+      "wordCount": 223,
+      "releasedAt": "2026-08-26",
+      "text": "No flight school in the United States would take Bessie Coleman. She was Black and she was a woman, and in 1920 either fact was enough for a refusal. She did not spend long arguing with the door.\n\nShe spent that year learning French instead. It is worth sitting with how strange that looks from outside. A young woman working as a manicurist in a Chicago barbershop decided that the shortest route into an aeroplane ran through a grammar book, and she was right. She trained in France, qualified in June 1921, and came home holding an international licence no American school had been willing to let her earn.\n\nWhat she did with it was exhibition flying, which was the nearest thing to paid work for a pilot with no military record. She was good at it and she was particular about it. She refused to appear at events where Black and white spectators were admitted through separate gates, and she was saving toward a flying school of her own when she was killed in 1926.\n\nThe licence is the fact that gets repeated. The French is the part worth returning to. Every door she met was held shut by somebody, and she kept finding one left unlocked in another country, in another language, at a cost nobody had asked her to pay.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Refused training at home, Coleman found a route abroad and then set conditions on how she would fly.",
+            "Coleman was the finest exhibition pilot of the 1920s and drew the largest crowds of her time.",
+            "American flight schools changed their admission rules once Coleman had qualified in France.",
+            "Coleman studied French because she planned to spend the rest of her life living in Europe."
+          ],
+          "answer": 0,
+          "explanation": "The account joins the refusal, the year of French, the licence earned abroad, and her insistence on undivided gates into one story about finding a way through."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the account call the decision to learn French strange from outside?",
+          "choices": [
+            "Because barbershop work left almost no time for any kind of study.",
+            "Because a grammar book looks unconnected to any plan for learning to fly.",
+            "Because very few people in Chicago at the time could read French at all.",
+            "Because she already spoke enough French to train without further study."
+          ],
+          "answer": 1,
+          "explanation": "The route from a Chicago barbershop to an aeroplane ran through a language lesson, which is a connection nobody would predict until it worked."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'particular' mean in 'she was particular about it'?",
+          "choices": [
+            "unusually detailed in description",
+            "friendly toward a chosen few",
+            "insisting on her own conditions",
+            "belonging to one specific place"
+          ],
+          "answer": 2,
+          "explanation": "The next sentence gives the evidence: she refused to appear where spectators were admitted through separate gates. Being particular here means holding to conditions."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "In what month and year did Coleman qualify as a pilot?",
+          "choices": [
+            "March 1920",
+            "June 1926",
+            "December 1922",
+            "June 1921"
+          ],
+          "answer": 3,
+          "explanation": "The second paragraph gives the date: she trained in France and qualified in June 1921."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the writer's attitude toward Coleman?",
+          "choices": [
+            "admiration aimed at her patience rather than her daring",
+            "sympathy for a pilot who was defeated by prejudice",
+            "excitement about the danger of exhibition flying",
+            "regret that she did not stay and fight in America"
+          ],
+          "answer": 0,
+          "explanation": "The writer notes that she did not spend long arguing, and calls the French, not the licence, the part worth returning to. The praise is for the long quiet route."
+        }
+      ],
+      "lesson": {
+        "strategy": "A life told through one picture: doors that are held shut, and the one somebody forgot to lock. Notice that the writer refuses the obvious highlight. The licence is called the repeated fact, and the year of French is called the interesting one.",
+        "signals": [
+          {
+            "phrase": "She did not spend long arguing with the door",
+            "means": "Introduces the picture and her method in a single line."
+          },
+          {
+            "phrase": "she was particular about it",
+            "means": "A mild phrase carrying a hard condition, explained in the next sentence."
+          },
+          {
+            "phrase": "The licence is the fact that gets repeated",
+            "means": "Sets the famous version aside so the writer can name what he values."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "refusal",
+            "inContext": "a flat no, given because of who she was"
+          },
+          {
+            "word": "particular",
+            "inContext": "insisting on her own conditions before agreeing"
+          },
+          {
+            "word": "licence",
+            "inContext": "the official document permitting her to fly"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The account has four stages: refusal, French, licence, conditions. A good gist keeps the last one, which is where her character shows.",
+          "inference": "Ask why a grammar book is the surprising object in this story, and the shape of her plan becomes clear.",
+          "vocabulary": "Particular, door, and unlocked are all doing figurative work. Read each against the sentence beside it.",
+          "detail": "Dates carry this account: 1920, June 1921, 1926. Match each to what happened."
+        }
+      }
+    },
+    {
+      "id": "og-fig-grace-hopper-and-the-patient-clerk",
+      "title": "Grace Hopper and the Patient Clerk",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 3,
+      "wordCount": 197,
+      "releasedAt": "2026-08-26",
+      "text": "In 1952 Grace Hopper wrote a program whose only job was to read other programs. Almost nobody wanted it. The accepted view at the time was that a computer could not write its own instructions, and she was told so for years.\n\nHer idea is easier to state than it was to defend. If a machine can follow rules, it can follow the rules for turning a word into a number. Write add, and let the machine do the translating. A compiler, in her hands, was a patient clerk that took plain instructions and rewrote them in the only language the hardware could read.\n\nThe argument underneath was about who gets to program. Numbers keep the work with the few people trained in it. Words let somebody who understands payroll write about payroll. Hopper built the English-like language that fed into COBOL in 1959, and shipping offices programmed for decades in something they could read aloud.\n\nShe stayed in the navy until 1986 and retired as a rear admiral. The moth taped into a Harvard logbook is the story that gets told at parties. The compiler, which changed who was allowed to do the work, does not.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "COBOL was a poorly designed language that shipping offices used for too long.",
+            "Hopper's compiler let people program in words, which widened who could do the work.",
+            "Hopper rose through the navy and became one of its first women rear admirals.",
+            "A moth found in a Harvard logbook gave computing its most famous word."
+          ],
+          "answer": 1,
+          "explanation": "The account moves from the rejected program to the reason it mattered: words let people who understood payroll write about payroll."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why was the argument about numbers and words really an argument about who gets to program?",
+          "choices": [
+            "Only naval officers were permitted to work with numbered instructions.",
+            "Payroll clerks had asked to be given control of the computers.",
+            "Programming in numbers restricts the work to people with special training.",
+            "Words are quicker for a computer to process than numbers ever were."
+          ],
+          "answer": 2,
+          "explanation": "The third paragraph says numbers keep the work with the few people trained in it, while words open it to somebody who already understands the task."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'accepted' mean in 'The accepted view at the time'?",
+          "choices": [
+            "received and put away safely",
+            "agreed to after a long argument",
+            "allowed into a training programme",
+            "believed by nearly everyone then"
+          ],
+          "answer": 3,
+          "explanation": "It describes an opinion that almost everybody held, which is why she was told for years that a machine could not write its own instructions."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "In what year did Hopper retire from the navy?",
+          "choices": [
+            "1986",
+            "1959",
+            "1952",
+            "1943"
+          ],
+          "answer": 0,
+          "explanation": "The last paragraph says she stayed in the navy until 1986 and retired as a rear admiral."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'clerk' mean in 'a compiler was a patient clerk'?",
+          "choices": [
+            "a junior worker Hopper hired to check her programs",
+            "something that does routine translating without complaint",
+            "a person employed to keep records in an office",
+            "an assistant who serves customers at a counter"
+          ],
+          "answer": 1,
+          "explanation": "A compiler is a program, not a person. The sentence describes what it does: it takes plain instructions and rewrites them in the machine's language, every time."
+        }
+      ],
+      "lesson": {
+        "strategy": "One comparison carries the explanation: the compiler as a clerk. Hold on to what a clerk actually does, which is routine translating that never gets bored, and the technical part of this account stops being technical.",
+        "signals": [
+          {
+            "phrase": "a computer could not write its own instructions",
+            "means": "The belief she had to argue against, stated plainly."
+          },
+          {
+            "phrase": "a patient clerk",
+            "means": "The comparison that explains a compiler without any jargon."
+          },
+          {
+            "phrase": "who gets to program",
+            "means": "Names the real stake. The argument was about access, not syntax."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "compiler",
+            "inContext": "a program that turns written words into machine instructions"
+          },
+          {
+            "word": "clerk",
+            "inContext": "something that does routine translating without complaint"
+          },
+          {
+            "word": "accepted",
+            "inContext": "believed by nearly everyone at the time"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The last paragraph contrasts the famous story with the important one. Build the gist from the important one.",
+          "inference": "Ask what changes for a payroll clerk when instructions can be written in words.",
+          "vocabulary": "Clerk and accepted both have everyday senses that do not fit here. Let the sentences decide.",
+          "detail": "Four years appear: 1952, 1959, 1986, and the logbook story. Match each to its event."
+        }
+      }
+    },
+    {
+      "id": "og-fig-anna-atkins-lets-the-light-draw",
+      "title": "Anna Atkins Lets the Light Draw",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 5,
+      "wordCount": 228,
+      "releasedAt": "2026-08-26",
+      "text": "Anna Atkins had a botanist's problem in 1843. British seaweeds are difficult to draw. They are fine, wet, and irregular, and an engraver working from a dried specimen loses exactly the details a botanist needs in order to tell one species from another. Colour goes first, then shape.\n\nHer solution was to stop drawing. John Herschel, a friend of her family, had recently described the cyanotype, a process in which paper treated with iron salts turns deep blue in sunlight and stays pale wherever the light is blocked. Atkins laid the seaweed itself on the treated paper, carried it outside, and let the light do the drawing.\n\nWhat came back was not an illustration of the plant. It was a record of the space the plant had occupied, at its own size, with every branching thread an engraver would have simplified away. She sensitised the sheets herself, wrote the captions by hand, and issued the results in parts from 1843.\n\nThe work is generally held to be the first book illustrated with photographic images, which is a heavy claim to attach to a piece of quiet botany. Atkins does not seem to have been chasing a record. She had a shelf of specimens, a chemistry she trusted, and a standard of accuracy that ordinary drawing could not meet. The blue was the process, not a matter of taste.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Engravers of the 1840s refused to work from dried specimens of British seaweed.",
+            "Atkins set out to publish the first photographic book and succeeded in 1843.",
+            "Atkins solved an accuracy problem in botany with a process that made the plant record itself.",
+            "Atkins invented the cyanotype process and then used it to publish a book of seaweeds."
+          ],
+          "answer": 2,
+          "explanation": "The account begins with a drawing problem, gives her method, and ends by saying she was after accuracy rather than a record."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the account say Atkins does not seem to have been chasing a record?",
+          "choices": [
+            "She published her work anonymously so that nobody would know who made it.",
+            "She refused to let the results be called photographs during her lifetime.",
+            "The book was issued so slowly that no record could have been claimed.",
+            "Her reasons were practical: specimens, a trusted chemistry, and a standard of accuracy."
+          ],
+          "answer": 3,
+          "explanation": "The final sentences list what she actually had and wanted, and the phrase about the blue being the process rules out any wish to impress."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'irregular' mean in 'They are fine, wet, and irregular'?",
+          "choices": [
+            "not following any even or repeating shape",
+            "happening at unpredictable times of year",
+            "against the accepted rules of a subject",
+            "collected without the proper permission"
+          ],
+          "answer": 0,
+          "explanation": "It sits beside fine and wet as a description of seaweed, so it means the shapes are uneven rather than that anything is against a rule."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did Atkins place directly onto the treated paper?",
+          "choices": [
+            "A glass photographic plate",
+            "The seaweed itself",
+            "A drawing by an engraver",
+            "A dried specimen sheet"
+          ],
+          "answer": 1,
+          "explanation": "The second paragraph says she laid the seaweed itself on the treated paper and carried it outside."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'drawing' mean in 'let the light do the drawing'?",
+          "choices": [
+            "attracting a crowd toward an exhibition",
+            "copying a plant onto a metal printing plate",
+            "making the image that appears on the page",
+            "pulling something steadily out of a case"
+          ],
+          "answer": 2,
+          "explanation": "Nobody drew anything. The paper darkened wherever sunlight reached it and stayed pale under the plant, so the image is the plant's own outline at its own size."
+        }
+      ],
+      "lesson": {
+        "strategy": "A short account with one idea at its centre: an image made without a hand. Read the third paragraph slowly, because it explains what a print like this actually is, and that explanation is what makes the last paragraph's modesty believable.",
+        "signals": [
+          {
+            "phrase": "Her solution was to stop drawing",
+            "means": "The turn of the whole account, in five words."
+          },
+          {
+            "phrase": "let the light do the drawing",
+            "means": "The picture that names her method without any chemistry."
+          },
+          {
+            "phrase": "not a matter of taste",
+            "means": "Closes the account by refusing to read the blue as decoration."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "cyanotype",
+            "inContext": "a process that prints deep blue where sunlight falls"
+          },
+          {
+            "word": "irregular",
+            "inContext": "not following any even or repeating shape"
+          },
+          {
+            "word": "drawing",
+            "inContext": "making the image that ends up on the page"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Problem, method, result, motive. A gist that stops at the method has left out why she did it.",
+          "inference": "The last paragraph lists what she had. Ask what that list tells you about what she wanted.",
+          "vocabulary": "Drawing and irregular both have common senses that are wrong here. Check the sentence around each.",
+          "detail": "The method is described step by step. Reread what was laid on what, and where it was carried."
+        }
+      }
+    },
+    {
+      "id": "og-fig-the-long-apprenticeship-of-matthew-henson",
+      "title": "The Long Apprenticeship of Matthew Henson",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 5,
+      "wordCount": 220,
+      "releasedAt": "2026-08-26",
+      "text": "Matthew Henson spent twenty-two years going north with Robert Peary. He learned the language of the Inuit families the expeditions depended on. He learned to drive dogs, build a sledge, and repair one at temperatures that make a bare hand useless in under a minute.\n\nThese are not the skills of an assistant. They are the skills the journey ran on. On the final push in 1909 the party that went forward was Peary, Henson, and four Inuit men: Ootah, Egingwah, Seegloo, and Ooqueah. Every one of them carried knowledge without which nobody was coming back.\n\nThe honours went one way. Peary was received by geographical societies and given medals. Henson took a job as a clerk in the New York customs house and held it for more than twenty years. It is possible to describe this arrangement politely and I would rather not. A man who had spent twenty-two years on the ice is not a porter, and the record was clear at the time to anybody who read it.\n\nThe corrections came slowly and late. The Explorers Club admitted him in 1937. Congress struck a medal in 1944. In 1988 he was reburied at Arlington. None of that is nothing. All of it arrived after the years in the customs house, which is where the story actually happened.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Peary reached the North Pole in 1909 with the help of a large and well-equipped party.",
+            "The Explorers Club and Congress were the first bodies to recognise Arctic explorers.",
+            "Working in a customs house was a common second career for retired explorers.",
+            "Henson's Arctic skills were essential to the expeditions, and the credit for them went elsewhere."
+          ],
+          "answer": 3,
+          "explanation": "The account establishes what Henson could do, names who was on the final push, and then sets the honours against the clerk's job."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the account list what Henson had learned before mentioning the honours?",
+          "choices": [
+            "So the reader judges the unequal credit against what he could actually do.",
+            "Because the skills were the reason the Explorers Club admitted him in 1937.",
+            "To explain why the expedition needed four Inuit men on the final push.",
+            "Because Peary had learned the same skills at the same time as Henson."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph insists these are not the skills of an assistant, which only carries weight because the first paragraph has already listed them."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'struck' mean in 'Congress struck a medal in 1944'?",
+          "choices": [
+            "lit by rubbing a match",
+            "made by stamping metal",
+            "hit with a sudden blow",
+            "cancelled from a record"
+          ],
+          "answer": 1,
+          "explanation": "A medal is produced by stamping metal in a die, so struck here describes how the medal was made rather than any kind of blow."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "How many Inuit men went forward on the final push in 1909?",
+          "choices": [
+            "Six",
+            "Twenty-two",
+            "Four",
+            "Two"
+          ],
+          "answer": 2,
+          "explanation": "The second paragraph names them: Ootah, Egingwah, Seegloo, and Ooqueah."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the writer's tone in the third paragraph?",
+          "choices": [
+            "cheerful pride in a career that ended well",
+            "cool neutrality about how honours were shared",
+            "sorrow that Henson was never a real explorer",
+            "controlled anger that refuses a polite word"
+          ],
+          "answer": 3,
+          "explanation": "The writer says the arrangement could be described politely and would rather not, then states flatly that a man with twenty-two years on the ice is not a porter."
+        }
+      ],
+      "lesson": {
+        "strategy": "Read the third paragraph for its verbs and for one refusal. The writer tells you he is choosing not to be polite, which is a rare thing for an account to admit. That sentence sets the temperature for everything around it.",
+        "signals": [
+          {
+            "phrase": "These are not the skills of an assistant",
+            "means": "Corrects a description before anybody has offered it."
+          },
+          {
+            "phrase": "It is possible to describe this arrangement politely",
+            "means": "The writer names the softer version and then declines it."
+          },
+          {
+            "phrase": "which is where the story actually happened",
+            "means": "Refuses to let the late honours close the account comfortably."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "sledge",
+            "inContext": "a sled pulled by dogs across snow and ice"
+          },
+          {
+            "word": "struck",
+            "inContext": "made by stamping metal into shape"
+          },
+          {
+            "word": "porter",
+            "inContext": "somebody hired only to carry loads"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Two halves sit against each other: what he could do, and what he received. A gist needs both.",
+          "inference": "Ask why the skills come first. The order is the argument.",
+          "vocabulary": "Struck, porter, and push all carry particular senses here. Match each to its sentence.",
+          "detail": "Names and dates are exact: four men in 1909, then 1937, 1944, and 1988."
+        }
+      }
+    },
+    {
+      "id": "og-fig-beatrix-potter-and-the-closed-room",
+      "title": "Beatrix Potter and the Closed Room",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 4,
+      "wordCount": 214,
+      "releasedAt": "2026-08-26",
+      "text": "Before the rabbits there were the fungi. Through the 1890s Beatrix Potter painted mushrooms with a microscope beside her, several hundred studies of gills and spores, done to a standard that mycologists still use to identify what she was looking at.\n\nShe was also thinking. She grew interested in how spores germinate and in the composite nature of lichens, an idea British botanists of the day resisted. In 1897 a paper of hers was submitted to the Linnean Society and read aloud by a man, because women were not admitted to the meetings. Science was a room she could send paper into and could not enter.\n\nThe children's books came afterwards. The Tale of Peter Rabbit was printed at her own expense in 1901 and taken up by a publisher the following year, and it made her something a Victorian daughter was not expected to become, which was independently rich.\n\nShe bought a farm, then more farms, and bred Herdwick sheep at shows where she was often the only woman judging. At her death in 1943 she left more than four thousand acres to the National Trust. The fungus paintings are held in a Lake District collection, catalogued and consulted, and they are read now as a scientific record rather than as a hobby.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Potter did serious scientific work she was barred from presenting, and built an independent life afterwards.",
+            "Potter gave up science because the children's books turned out to be far more profitable.",
+            "The Linnean Society changed its rules in 1897 after reading a paper by Potter.",
+            "Herdwick sheep were saved from extinction by a writer of children's books."
+          ],
+          "answer": 0,
+          "explanation": "The account runs from the fungus studies and the barred meeting through the books to the farms and the bequest, treating the science as real throughout."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the account suggest about why Potter's paper had to be read by a man?",
+          "choices": [
+            "The society required all papers to be read by a member's assistant.",
+            "The rules of the society kept women out of the room entirely.",
+            "She was too nervous to read her own work aloud in public.",
+            "Her handwriting was too difficult for the members to follow."
+          ],
+          "answer": 1,
+          "explanation": "The sentence gives the reason directly: women were not admitted to the meetings, so her work could go in without her."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'composite' mean in 'the composite nature of lichens'?",
+          "choices": [
+            "produced by an artificial chemical process",
+            "arranged in a repeating decorative pattern",
+            "made of more than one kind of living thing",
+            "written up as a combined summary report"
+          ],
+          "answer": 2,
+          "explanation": "It describes what a lichen is, and the idea was resisted because it claims a lichen is made from more than one organism rather than being a single plant."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "In what year was The Tale of Peter Rabbit printed at Potter's own expense?",
+          "choices": [
+            "1897",
+            "1902",
+            "1943",
+            "1901"
+          ],
+          "answer": 3,
+          "explanation": "The third paragraph says it was printed at her own expense in 1901 and taken up by a publisher the following year."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'room' mean in 'Science was a room she could send paper into and could not enter'?",
+          "choices": [
+            "a place with rules about who is allowed inside",
+            "a walled space with a door and a floor",
+            "enough space to move about comfortably",
+            "the study where she kept her microscope"
+          ],
+          "answer": 0,
+          "explanation": "The sentence is about permission rather than walls. Her paper was admitted to the meeting and she was not, because of a rule about who could attend."
+        }
+      ],
+      "lesson": {
+        "strategy": "Two careers in one life, and the account refuses to rank them. Watch the sentence about the room, which is the only figurative line in a factual piece. It is placed exactly where the account wants you to feel the closed door.",
+        "signals": [
+          {
+            "phrase": "Before the rabbits there were the fungi",
+            "means": "Reorders a familiar life so the science comes first."
+          },
+          {
+            "phrase": "read aloud by a man",
+            "means": "The plain fact the figurative sentence after it interprets."
+          },
+          {
+            "phrase": "rather than as a hobby",
+            "means": "The account's final verdict on what those paintings were."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "spores",
+            "inContext": "the tiny cells a fungus uses to reproduce"
+          },
+          {
+            "word": "composite",
+            "inContext": "made of more than one kind of living thing"
+          },
+          {
+            "word": "room",
+            "inContext": "a place with rules about who is allowed inside"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Science, books, farms, bequest. A gist that keeps only the books has dropped the point of the second paragraph.",
+          "inference": "The reason is stated in the same sentence. Read it before choosing anything about her character.",
+          "vocabulary": "Composite and room both have ordinary senses that miss the point. Check each against its sentence.",
+          "detail": "Years anchor this account: the 1890s, 1897, 1901, and 1943."
+        }
+      }
+    },
+    {
+      "id": "og-fig-olmsted-designs-for-a-client-not-yet-born",
+      "title": "Olmsted Designs for a Client Not Yet Born",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 5,
+      "wordCount": 247,
+      "releasedAt": "2026-08-26",
+      "text": "Frederick Law Olmsted did not train as a landscape architect, because in 1857 there was no such training to be had. He had been a farmer, a journalist who travelled the American South and wrote plainly about what slavery was, and later the head of the commission that organised medical relief during the Civil War.\n\nIn 1858 he and Calvert Vaux won the competition to design Central Park. Their plan sank the crossing roads out of sight so that a walker would never meet traffic, and it treated the park as one composition rather than a set of attractions. Both decisions cost money and argument, and both are the reason the park still works at a size its designers never saw it reach.\n\nThe strangest part of the work is its clock. A young tree is a stick. A designed wood is fifty years of waiting, and Olmsted planted plenty of both, knowing the shape he had in mind would arrive for a client who had not been born. He worked as though a park's proper measure were the century after it opened and not the season it was finished.\n\nHe went on to Prospect Park, the Boston park system, the grounds at Biltmore, and dozens of campuses and capitol lawns. The one thing he could not design was the thing he was actually making, which was a public habit: the ordinary expectation that a city owes its people somewhere green to be, free, on a Sunday.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Journalism and wartime medical work were poor preparation for designing public parks.",
+            "Olmsted designed parks on a timescale of generations and helped establish what cities owe their people.",
+            "Olmsted trained as a landscape architect and then won the competition for Central Park.",
+            "Central Park succeeded because its crossing roads were built above the level of the paths."
+          ],
+          "answer": 1,
+          "explanation": "The account joins his unusual training, the two Central Park decisions, the long timescale, and the public habit he was really building."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the account say the crossing roads and the single composition are the reason the park still works?",
+          "choices": [
+            "Both were copied from parks that Olmsted had visited in Europe.",
+            "Both allowed the park to be extended whenever the city grew larger.",
+            "Both were structural choices that a growing city could not easily undo.",
+            "Both were cheaper than the alternatives the competition had proposed."
+          ],
+          "answer": 2,
+          "explanation": "They cost money and argument at the time, and they are credited with the park working at a size its designers never saw, so they were built into its structure."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'composition' mean in 'treated the park as one composition'?",
+          "choices": [
+            "a piece of music written for an orchestra",
+            "a short essay written by a schoolchild",
+            "the mixture of substances in a material",
+            "a single design whose parts belong together"
+          ],
+          "answer": 3,
+          "explanation": "It is set against a set of attractions, so it means a unified design in which the parts were planned to work as one."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "What did the Central Park plan do with the crossing roads?",
+          "choices": [
+            "It sank them out of sight.",
+            "It widened them for carriages.",
+            "It removed them from the park.",
+            "It lined them with young trees."
+          ],
+          "answer": 0,
+          "explanation": "The second paragraph says the plan sank the crossing roads out of sight so that a walker would never meet traffic."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'client' mean in 'a client who had not been born'?",
+          "choices": [
+            "a child he expected to be born into his family",
+            "the people who would use the park long afterwards",
+            "a person who pays a professional for work",
+            "a customer waiting to be served in an office"
+          ],
+          "answer": 1,
+          "explanation": "A city paid for the park. The word is used for whoever the design was actually for, which is the walkers who would arrive fifty years later."
+        }
+      ],
+      "lesson": {
+        "strategy": "The account keeps returning to time. A stick, fifty years, a century, a habit. Read the third paragraph as the key: once you accept that the design was aimed at people not yet alive, the argument in the last paragraph follows on its own.",
+        "signals": [
+          {
+            "phrase": "there was no such training to be had",
+            "means": "Explains an odd career without apologising for it."
+          },
+          {
+            "phrase": "The strangest part of the work is its clock",
+            "means": "Announces the theme: this is a job measured in decades."
+          },
+          {
+            "phrase": "a client who had not been born",
+            "means": "The figurative centre of the account, and its whole argument."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "composition",
+            "inContext": "a single design whose parts belong together"
+          },
+          {
+            "word": "client",
+            "inContext": "the people a design is actually made for"
+          },
+          {
+            "word": "commission",
+            "inContext": "a body appointed to organise a piece of public work"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Four paragraphs, one theme. Ask what the last sentence claims a city owes, and build the gist around it.",
+          "inference": "Cost money and argument is a clue. Ask what kind of choice is worth that at the design stage.",
+          "vocabulary": "Client, composition, and clock are all stretched here. Fit each to what is being described.",
+          "detail": "The Central Park paragraph carries the facts. Reread what happened to the crossing roads."
+        }
+      }
+    },
+    {
+      "id": "og-fig-ruth-asawa-learns-to-draw",
+      "title": "Ruth Asawa Learns to Draw",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 3,
+      "wordCount": 175,
+      "releasedAt": "2026-08-26",
+      "text": "Ruth Asawa learned to draw in a camp. Her family was taken from their California farm in 1942 and held first at a racetrack fitted out with barracks, where some of the other people being held had worked as animators and taught art to the children.\n\nThat sentence should sit awkwardly, and it does. Two things are true in it at once, and the second one does not repay the first.\n\nAfter the war she studied at Black Mountain College under Josef Albers. In Mexico in 1947 she watched villagers loop wire into baskets, and she took the method somewhere it had not been: hanging forms, looped in one continuous line, that hold their shape while letting light straight through. Photographs of them show more shadow than sculpture.\n\nShe spent decades arguing that every child in San Francisco should have an art teacher, and she won more of that argument than most artists win of anything. Her fountains stand in the city she argued with. A public high school for the arts carries her name.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Wire baskets made in Mexico became a popular kind of sculpture in San Francisco.",
+            "Black Mountain College produced most of the important American sculptors of the period.",
+            "Asawa turned a borrowed craft into her own sculpture and spent decades winning art teaching for children.",
+            "Asawa was grateful for the wartime camp because it gave her the art lessons she needed."
+          ],
+          "answer": 2,
+          "explanation": "The account gives the camp, the wire method learned in Mexico and taken further, and the long campaign for art teachers."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the account say the second true thing does not repay the first?",
+          "choices": [
+            "The animators were not qualified to teach children properly.",
+            "Asawa did not enjoy the drawing lessons she was given there.",
+            "The lessons stopped as soon as the family was moved elsewhere.",
+            "Art lessons cannot make up for a family being taken from its home."
+          ],
+          "answer": 3,
+          "explanation": "The two truths are the removal and the teaching. The account refuses to let the smaller good balance the larger wrong."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'continuous' mean in 'looped in one continuous line'?",
+          "choices": [
+            "running on without any break",
+            "happening over and over again",
+            "kept going by constant effort",
+            "following a curved outward path"
+          ],
+          "answer": 0,
+          "explanation": "The whole form is looped from a single unbroken length of wire, so continuous means without a break rather than merely repeated."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "Where did Asawa watch villagers looping wire into baskets?",
+          "choices": [
+            "San Francisco, in the 1960s",
+            "Mexico, in 1947",
+            "California, in 1942",
+            "North Carolina, after the war"
+          ],
+          "answer": 1,
+          "explanation": "The third paragraph says that in Mexico in 1947 she watched villagers loop wire into baskets."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes how the writer handles the fact that Asawa learned art in a camp?",
+          "choices": [
+            "treating the camp as a minor administrative event",
+            "arguing that the lessons made the camp bearable",
+            "refusing to let a good detail soften a wrong",
+            "presenting the camp as a lucky start for her"
+          ],
+          "answer": 2,
+          "explanation": "The second paragraph says the sentence should sit awkwardly and that the second true thing does not repay the first."
+        }
+      ],
+      "lesson": {
+        "strategy": "A very short second paragraph is the most important one here. The writer stops the account to tell you how to read the sentence before it. Notice that he does not soften either fact; he simply refuses to let one settle the other.",
+        "signals": [
+          {
+            "phrase": "That sentence should sit awkwardly",
+            "means": "The writer steps in to control how the previous fact is read."
+          },
+          {
+            "phrase": "does not repay the first",
+            "means": "The exact judgement, made in five words and never taken back."
+          },
+          {
+            "phrase": "more shadow than sculpture",
+            "means": "Describes the wire forms by what they do to light."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "barracks",
+            "inContext": "long plain buildings used to house many people"
+          },
+          {
+            "word": "continuous",
+            "inContext": "running on without any break"
+          },
+          {
+            "word": "repay",
+            "inContext": "make up for, as if settling a debt"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Three stages: the camp, the wire, the campaign. A gist should reach the campaign, which is the longest part of her life here.",
+          "inference": "Paragraph two is an instruction to the reader. Ask what reading it is blocking.",
+          "vocabulary": "Continuous, repay, and camp all matter exactly. Read the sentence around each one.",
+          "detail": "Places and years are precise: a California farm in 1942, Mexico in 1947."
+        }
+      }
+    },
+    {
+      "id": "og-fig-norbert-rillieux-closes-the-kettles",
+      "title": "Norbert Rillieux Closes the Kettles",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 4,
+      "wordCount": 199,
+      "releasedAt": "2026-08-26",
+      "text": "Before Norbert Rillieux, refining sugar meant the Jamaica train: a row of open kettles and enslaved workers ladling boiling syrup from one to the next by hand. It was slow, it wasted fuel, and it burned people.\n\nRillieux was born free in New Orleans in 1806, educated in Paris, and teaching engineering there before he was thirty. His idea was to close the kettles. In a multiple-effect evaporator the steam given off by one pan is used to boil the next, under reduced pressure, so heat that had been thrown away does a second and a third job. He patented the design in the 1840s.\n\nThe machine was adopted because it saved money. That is the honest reason. It also ended a task that had maimed people for a century, and those two facts sit together without either one cancelling the other.\n\nThe state his invention enriched was tightening its laws around free people of colour, and by the 1860s Rillieux had left for Paris, where he spent much of his later life on Egyptian hieroglyphics. The principle he patented is still behind industrial evaporation, in sugar, in paper, and in the plants that take salt out of seawater.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Sugar refining was impossible before a way was found to boil syrup in open kettles.",
+            "Rillieux abandoned engineering for Egyptian hieroglyphics after his patents expired.",
+            "Louisiana law protected free people of colour throughout the nineteenth century.",
+            "Rillieux's evaporator saved fuel and ended a brutal task, and the industry took it up for the money."
+          ],
+          "answer": 3,
+          "explanation": "The account sets the Jamaica train against the closed evaporator, states plainly why it spread, and follows Rillieux to Paris."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the account insist that the money and the ended suffering do not cancel each other?",
+          "choices": [
+            "Both are true, and neither one changes what the other was.",
+            "The savings were too small to matter beside the human cost.",
+            "Refiners claimed to be acting from concern for their workers.",
+            "The evaporator did not actually reduce the number of injuries."
+          ],
+          "answer": 0,
+          "explanation": "The account calls the saving the honest reason and still records what the machine ended, then refuses to let either fact settle the other."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'train' mean in 'the Jamaica train'?",
+          "choices": [
+            "a course of instruction for new workers",
+            "a connected row of kettles worked in order",
+            "a line of carriages pulled along rails",
+            "a long piece of cloth trailing behind"
+          ],
+          "answer": 1,
+          "explanation": "The phrase is explained immediately: a row of open kettles with syrup ladled from one to the next, so a train here is a connected series."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "In the evaporator, what is used to boil the next pan?",
+          "choices": [
+            "Hot water carried by hand between pans",
+            "Sunlight concentrated through glass",
+            "The steam given off by the pan before it",
+            "A separate furnace beneath each pan"
+          ],
+          "answer": 2,
+          "explanation": "The second paragraph says the steam given off by one pan is used to boil the next, under reduced pressure."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the writer's handling of why the machine was adopted?",
+          "choices": [
+            "warm celebration of an industry's good conscience",
+            "bitter refusal to credit the invention at all",
+            "uncertainty about whether the machine ever worked",
+            "plain honesty that will not dress up the reason"
+          ],
+          "answer": 3,
+          "explanation": "The account says outright that the machine spread because it saved money, calls that the honest reason, and declines to claim any better motive for the refiners."
+        }
+      ],
+      "lesson": {
+        "strategy": "A technical account with a moral question inside it. The third paragraph is short because it is the hard one. Read it twice: it states a plain motive and then refuses to let that motive erase what the machine also did.",
+        "signals": [
+          {
+            "phrase": "It was slow, it wasted fuel, and it burned people",
+            "means": "Three costs in one line, and the third is not like the others."
+          },
+          {
+            "phrase": "His idea was to close the kettles",
+            "means": "The whole invention in six words, before any engineering."
+          },
+          {
+            "phrase": "That is the honest reason",
+            "means": "The account chooses accuracy over a more flattering story."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "evaporator",
+            "inContext": "a machine that boils liquid away to leave sugar behind"
+          },
+          {
+            "word": "train",
+            "inContext": "a connected row of kettles worked one after another"
+          },
+          {
+            "word": "maimed",
+            "inContext": "left permanently injured by burns"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The account holds a machine and a moral fact together. A gist that keeps only one of them is incomplete.",
+          "inference": "Ask why the writer bothers to say which reason is honest, and the third paragraph explains itself.",
+          "vocabulary": "Train, effect, and honest all carry particular senses here. Read the sentence beside each.",
+          "detail": "The evaporator is described step by step. Reread what heats what."
+        }
+      }
+    },
+    {
+      "id": "og-fig-isabella-bird-and-the-grip-that-let-go",
+      "title": "Isabella Bird and the Grip That Let Go",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 3,
+      "wordCount": 182,
+      "releasedAt": "2026-08-26",
+      "text": "At home in Britain, Isabella Bird could not sleep. She had headaches, a spinal complaint her doctors could not settle on, and long stretches when she was confined to a sofa. The recommended treatment in 1854 was a sea voyage, so her family sent her to America.\n\nIllness let go of her at the gangplank. She later rode alone through the Rocky Mountains in winter, crossed Japan by pack horse on roads no European traveller had used, and went on into Persia, Korea, and western China, measuring and describing as she went.\n\nBack in Britain the sofa returned. This is the pattern of her whole life, repeated so often that it stops looking like coincidence and starts looking like a diagnosis nobody in her century had a word for.\n\nShe wrote the journeys up in books that sold well and were trusted, because she dated and named things rather than admiring them. In 1892 she was among the first women elected a Fellow of the Royal Geographical Society, which had spent the previous year arguing about whether that was allowable at all.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "Bird was an invalid at home and a capable traveller abroad, and she wrote accounts people trusted.",
+            "Nineteenth-century doctors cured spinal complaints by prescribing long sea voyages.",
+            "The Royal Geographical Society welcomed women members from its earliest years.",
+            "Bird preferred the Rocky Mountains to every other place she ever travelled."
+          ],
+          "answer": 0,
+          "explanation": "The account sets the sofa against the pack horse, notes the pattern, and ends with the books and the fellowship."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "Why does the account say the pattern stops looking like coincidence?",
+          "choices": [
+            "Because her family had arranged each voyage in advance.",
+            "Because it repeated too consistently to be explained by chance.",
+            "Because her doctors eventually agreed on a single diagnosis.",
+            "Because she reported the same symptoms in every country."
+          ],
+          "answer": 1,
+          "explanation": "The illness returned in Britain and lifted abroad every time, and a pattern that regular asks for an explanation rather than luck."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'confined' mean in 'confined to a sofa'?",
+          "choices": [
+            "shut inside a locked building",
+            "limited to a single subject",
+            "kept in one place and unable to leave",
+            "told a secret in strict privacy"
+          ],
+          "answer": 2,
+          "explanation": "It describes long stretches of illness at home, so it means she was kept to the sofa rather than that anything was locked or secret."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "In what year was Bird elected a Fellow of the Royal Geographical Society?",
+          "choices": [
+            "1854",
+            "1891",
+            "1904",
+            "1892"
+          ],
+          "answer": 3,
+          "explanation": "The last paragraph says that in 1892 she was among the first women elected a Fellow."
+        },
+        {
+          "id": "q5",
+          "skill": "vocabulary",
+          "stem": "What does 'let go of' mean in 'Illness let go of her at the gangplank'?",
+          "choices": [
+            "stopped affecting her as she travelled",
+            "released a rope that somebody was holding",
+            "discharged her from a doctor's care",
+            "was ignored by her out of sheer will"
+          ],
+          "answer": 0,
+          "explanation": "An illness has no hands. The account says her symptoms returned in Britain and lifted when she travelled, so the phrase names a change in her health."
+        }
+      ],
+      "lesson": {
+        "strategy": "One life told as a pattern rather than a sequence. Two words carry the pattern: sofa and gangplank. Every time the account mentions Britain, look for the sofa; every time it mentions a journey, look for what her health does.",
+        "signals": [
+          {
+            "phrase": "Illness let go of her at the gangplank",
+            "means": "Treats an illness as something with a grip, which is the account's one figure."
+          },
+          {
+            "phrase": "Back in Britain the sofa returned",
+            "means": "The pattern's other half, in six words."
+          },
+          {
+            "phrase": "rather than admiring them",
+            "means": "Explains why her books were trusted, in a single phrase."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "let go of",
+            "inContext": "stopped gripping, said of an illness that eased"
+          },
+          {
+            "word": "confined",
+            "inContext": "kept in one place and unable to leave"
+          },
+          {
+            "word": "diagnosis",
+            "inContext": "a name for what is actually wrong with someone"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "Home and away swap places twice. A gist should carry both the illness and the work she did anyway.",
+          "inference": "Repetition is the evidence here. Ask what a pattern this regular suggests.",
+          "vocabulary": "Let go, confined, and settle on are each used precisely. Check the sentence around them.",
+          "detail": "Years and places are exact: 1854, the Rockies, Japan, and 1892."
+        }
+      }
+    },
+    {
+      "id": "og-fig-percy-julian-and-the-fifty-three-years",
+      "title": "Percy Julian and the Fifty-Three Years",
+      "sourceType": "original",
+      "source": "Written for Fluency",
+      "attribution": "Original passage © Studio AM, written for Fluency.",
+      "genre": "biography",
+      "level": 5,
+      "wordCount": 237,
+      "releasedAt": "2026-08-26",
+      "text": "In 1935 Percy Julian and Josef Pikl completed a synthesis of physostigmine, a compound used in the treatment of glaucoma. The work also showed that a structure published by one of the most respected chemists in Britain was wrong. Julian was thirty-six, and he had done it in a small laboratory at DePauw University with very little money.\n\nThe university did not make him a professor. No trustee had to write the reason down. He took a job with a paint company in Chicago instead, which is the sort of sentence that hides a decade.\n\nAt that company he worked on the soybean, which nobody had thought of as a chemical supply. He drew a protein from it that went into fire-fighting foam during the war, and then he found sterols in the oil that could be turned into hormones. Before this, a gram of a steroid hormone cost hundreds of dollars and came from animal glands. Julian's route brought the price down far enough to put such medicines within reach of ordinary patients.\n\nHe founded his own laboratory in 1953 and sold it for more than two million dollars. His house in Oak Park was firebombed the year before his family moved in and attacked again the year after. He was elected to the National Academy of Sciences in 1973, fifty-three years after graduating first in his class from the university that would not hire him.",
+      "questions": [
+        {
+          "id": "q1",
+          "skill": "main-idea",
+          "stem": "What is the main idea of this account?",
+          "choices": [
+            "The National Academy of Sciences elected chemists only after they had founded companies.",
+            "Julian did first-rate chemistry against constant obstruction, and recognition arrived decades late.",
+            "Soybeans turned out to be a more useful crop than anybody had expected in the 1930s.",
+            "Julian left research for business because a paint company offered him better pay."
+          ],
+          "answer": 1,
+          "explanation": "The account runs the synthesis, the refused professorship, the soybean work, the attacks on his house, and the fifty-three-year gap into one line."
+        },
+        {
+          "id": "q2",
+          "skill": "inference",
+          "stem": "What does the account mean by 'the sort of sentence that hides a decade'?",
+          "choices": [
+            "He worked at the company for exactly ten years before leaving.",
+            "The reason for the refusal was written down ten years later.",
+            "A single flat sentence covers years of consequence for his career.",
+            "The paint company kept his employment secret for ten years."
+          ],
+          "answer": 2,
+          "explanation": "The refusal is stated in one line, and the decade of work that followed it at a paint company is what that plain sentence passes over."
+        },
+        {
+          "id": "q3",
+          "skill": "vocabulary",
+          "stem": "What does 'route' mean in 'Julian's route brought the price down'?",
+          "choices": [
+            "the road a delivery lorry takes to a factory",
+            "the path a person walks between two places",
+            "the order in which a series of tasks is done",
+            "the method he found for making the substance"
+          ],
+          "answer": 3,
+          "explanation": "He is making hormones from soybean sterols, so route means the chemical method he found rather than any journey."
+        },
+        {
+          "id": "q4",
+          "skill": "detail",
+          "stem": "Where did the steroid hormones come from before Julian's work?",
+          "choices": [
+            "Animal glands",
+            "Soybean oil",
+            "Imported plants",
+            "Coal by-products"
+          ],
+          "answer": 0,
+          "explanation": "The third paragraph says a gram of a steroid hormone cost hundreds of dollars and came from animal glands."
+        },
+        {
+          "id": "q5",
+          "skill": "inference",
+          "stem": "Which phrase best describes the writer's tone across this account?",
+          "choices": [
+            "neutral reporting with no attitude to the events",
+            "steady anger held under a plain recital of facts",
+            "open celebration of a career without obstacles",
+            "gentle amusement at an old academic quarrel"
+          ],
+          "answer": 1,
+          "explanation": "The writer never raises his voice and never drops a fact, from the sentence that hides a decade to the fifty-three years between the class prize and the Academy."
+        }
+      ],
+      "lesson": {
+        "strategy": "The account almost never comments. It puts facts next to each other and lets the distance between them do the arguing. Watch the last sentence, where two dates are placed side by side and the writer says nothing further about them.",
+        "signals": [
+          {
+            "phrase": "No trustee had to write the reason down",
+            "means": "Says what happened without accusing anyone by name."
+          },
+          {
+            "phrase": "the sort of sentence that hides a decade",
+            "means": "The one moment the writer comments on his own telling."
+          },
+          {
+            "phrase": "fifty-three years after graduating first in his class",
+            "means": "Two facts joined, and the arithmetic left to the reader."
+          }
+        ],
+        "vocab": [
+          {
+            "word": "synthesis",
+            "inContext": "making a compound in the laboratory from simpler parts"
+          },
+          {
+            "word": "route",
+            "inContext": "the method found for making a substance"
+          },
+          {
+            "word": "sterols",
+            "inContext": "compounds in the oil that can be turned into hormones"
+          }
+        ],
+        "skillTips": {
+          "main-idea": "The account keeps pairing achievement with obstruction. A gist needs both halves of that pairing.",
+          "inference": "Ask what a short sentence can leave out. The paragraph is short on purpose.",
+          "vocabulary": "Route, synthesis, and recital carry exact senses here. Read the sentence around each one.",
+          "detail": "Dates and figures are precise: 1935, 1953, 1973, and the source of the early hormones."
         }
       }
     }
