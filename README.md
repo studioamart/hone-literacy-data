@@ -99,7 +99,7 @@ authoritative and must be bumped by the author. The script also validates
 
 ## Figurative language and tone (`og-fig-*`)
 
-Thirty passages published in corpus v17, purpose-written so that each one
+Thirty passages published in corpus v18, purpose-written so that each one
 carries a live metaphor and a stable authorial stance. Ten essay, ten fiction,
 ten biography; ten each at levels 3, 4 and 5.
 
